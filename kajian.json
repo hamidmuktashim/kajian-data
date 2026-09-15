@@ -1,0 +1,450 @@
+{
+ "versi": 1,
+ "diperbarui": "2026-09-10T10:21+07:00",
+ "kota": [
+  "Bandung",
+  "Jakarta Selatan"
+ ],
+ "jumlah": 23,
+ "kajian": [
+  {
+   "judul": "AfterWork",
+   "pemateri": "",
+   "lokasi": "Masjid Al-Lathiif",
+   "alamat": "Jl. Saninten No. 2, Bandung",
+   "kota": "Bandung",
+   "hari": 1,
+   "mulai": "18:00",
+   "selesai": "",
+   "kategori": "Tematik",
+   "deskripsi": "Program rutin Senin tentang menjadi muslim yang produktif.",
+   "sumber": [
+    "https://kabarharmoni.com/2025/01/masjid-al-lathiif-miliki-3-program-utama-dengan-dukungan-medsos/"
+   ],
+   "terakhir_terlihat": "2025-01-26",
+   "confidence": "sedang",
+   "id": "kj_6d387f0773",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Kajian Kitab Fawaidul Fawaid",
+   "pemateri": "Ustadz Abu Faqih Abdullah",
+   "lokasi": "Masjid Jami' Al-Islam, Ma'had Al-Islam Cileunyi",
+   "alamat": "Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 2,
+   "mulai": "18:00",
+   "selesai": "19:00",
+   "kategori": "Tazkiyatun Nafs",
+   "deskripsi": "Kajian rutin Selasa malam kitab Fawaidul Fawaid (Ibnul Qayyim).",
+   "sumber": [
+    "https://tarbiyahsunnah.com/event_tag/kajian-rutin/"
+   ],
+   "terakhir_terlihat": "2026-08-25",
+   "confidence": "tinggi",
+   "id": "kj_3126284807",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "NgajiKitab",
+   "pemateri": "",
+   "lokasi": "Masjid Al-Lathiif",
+   "alamat": "Jl. Saninten No. 2, Bandung",
+   "kota": "Bandung",
+   "hari": 4,
+   "mulai": "18:00",
+   "selesai": "",
+   "kategori": "Kitab",
+   "deskripsi": "Program rutin Kamis pengenalan ilmu Islam dari kitab-kitab klasik.",
+   "sumber": [
+    "https://kabarharmoni.com/2025/01/masjid-al-lathiif-miliki-3-program-utama-dengan-dukungan-medsos/"
+   ],
+   "terakhir_terlihat": "2025-01-26",
+   "confidence": "sedang",
+   "id": "kj_72b439b761",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Kajian Kitab Arbain An-Nawawi",
+   "pemateri": "Ustadz Hary Badar bin Marwan",
+   "lokasi": "Studio MIMBA TV",
+   "alamat": "Jl. Kebon Gedang No. 99, Gatot Subroto, Kota Bandung",
+   "kota": "Bandung",
+   "hari": 4,
+   "mulai": "20:00",
+   "selesai": "21:00",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin Kamis malam kitab Arbain An-Nawawi.",
+   "sumber": [
+    "https://tarbiyahsunnah.com/event_tag/kajian-rutin/"
+   ],
+   "terakhir_terlihat": "2026-08-20",
+   "confidence": "sedang",
+   "id": "kj_989a0bea9d",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Kajian Kitab Mukhtashor Shahih Bukhori",
+   "pemateri": "Ustadz Abu Yahya Badru Salam, Lc.",
+   "lokasi": "Masjid Agung Al-Ukhuwah",
+   "alamat": "Jl. Wastukencana No. 27, Bandung",
+   "kota": "Bandung",
+   "hari": 6,
+   "mulai": "18:00",
+   "selesai": "20:00",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin Sabtu malam, terjadwal 22 Agustus 2026 s.d. 22 Desember 2026.",
+   "sumber": [
+    "https://tarbiyahsunnah.com/event_tag/kajian-rutin/",
+    "https://tarbiyahsunnah.com/event/"
+   ],
+   "terakhir_terlihat": "2026-08-22",
+   "confidence": "tinggi",
+   "id": "kj_ba5945e9ee",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Kajian Sabtu Malam Masjid Al-Lathiif",
+   "pemateri": "",
+   "lokasi": "Masjid Al-Lathiif",
+   "alamat": "Jl. Saninten No. 2, Bandung",
+   "kota": "Bandung",
+   "hari": 6,
+   "mulai": "18:00",
+   "selesai": "20:30",
+   "kategori": "Pemuda",
+   "deskripsi": "Kajian Sabtu malam untuk pemuda (Ta'aruf Series).",
+   "sumber": [
+    "https://kabarharmoni.com/2025/01/masjid-al-lathiif-miliki-3-program-utama-dengan-dukungan-medsos/",
+    "https://blog.miftahussalam.com/jadwal-kajian-rutin-kota-bandung/"
+   ],
+   "terakhir_terlihat": "2025-01-26",
+   "confidence": "sedang",
+   "id": "kj_686359330d",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Tafsir Ibnu Katsir",
+   "pemateri": "Ustadz Dr. Elfa Hendri Mukhlis",
+   "lokasi": "Masjid Nurul Iman Blok M Square Lt. 7",
+   "alamat": "Blok M Square, Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 1,
+   "mulai": "08:30",
+   "selesai": "",
+   "kategori": "Tafsir",
+   "deskripsi": "Kajian pekanan Senin pagi.",
+   "sumber": [
+    "https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square"
+   ],
+   "terakhir_terlihat": "2026-09-10",
+   "confidence": "sedang",
+   "id": "kj_1bb1539934",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "MT. Tafsir (Senin)",
+   "pemateri": "",
+   "lokasi": "Masjid Agung Al-Azhar - Aula Buya Hamka",
+   "alamat": "Jl. Sisingamangaraja, Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 1,
+   "mulai": "09:30",
+   "selesai": "11:00",
+   "kategori": "Tafsir",
+   "deskripsi": "Majelis Taklim Tafsir setiap Senin di Aula Buya Hamka, untuk umum dan gratis.",
+   "sumber": [
+    "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
+   ],
+   "terakhir_terlihat": "2026-09-10",
+   "confidence": "tinggi",
+   "id": "kj_6b737c6f40",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Kitabul Ilmi Shahih Bukhari",
+   "pemateri": "Ustadz Abdulbar Kaisinda",
+   "lokasi": "Masjid Nurul Iman Blok M Square Lt. 7",
+   "alamat": "Blok M Square, Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 1,
+   "mulai": "11:15",
+   "selesai": "",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian pekanan Senin siang.",
+   "sumber": [
+    "https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square"
+   ],
+   "terakhir_terlihat": "2026-09-10",
+   "confidence": "sedang",
+   "id": "kj_ca6c051c08",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Kitab At-Tazkirah",
+   "pemateri": "Ustadz Abu Hurairah Rusdi",
+   "lokasi": "Masjid Nurul Iman Blok M Square Lt. 7",
+   "alamat": "Blok M Square, Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 2,
+   "mulai": "08:30",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian pekanan Selasa pagi.",
+   "sumber": [
+    "https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square"
+   ],
+   "terakhir_terlihat": "2026-09-10",
+   "confidence": "sedang",
+   "id": "kj_3dea6de903",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Kajian Kitab (Selasa)",
+   "pemateri": "Ustadz Fatahillah Aly",
+   "lokasi": "Masjid Nurul Iman Blok M Square Lt. 7",
+   "alamat": "Blok M Square, Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 2,
+   "mulai": "11:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian pekanan Selasa siang.",
+   "sumber": [
+    "https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square"
+   ],
+   "terakhir_terlihat": "2026-09-10",
+   "confidence": "sedang",
+   "id": "kj_2f88497b10",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "MT. Rabu Pagi",
+   "pemateri": "",
+   "lokasi": "Masjid Agung Al-Azhar - Ruang Utama Masjid",
+   "alamat": "Jl. Sisingamangaraja, Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 3,
+   "mulai": "10:00",
+   "selesai": "11:30",
+   "kategori": "Majelis Taklim",
+   "deskripsi": "Majelis Taklim Rabu Pagi, untuk umum dan gratis.",
+   "sumber": [
+    "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
+   ],
+   "terakhir_terlihat": "2026-09-10",
+   "confidence": "tinggi",
+   "id": "kj_992b43b53c",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Kitab Ushul Tsalatsah",
+   "pemateri": "Ustadz Yovin Abu Hammam",
+   "lokasi": "Masjid Nurul Iman Blok M Square Lt. 7",
+   "alamat": "Blok M Square, Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 3,
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Aqidah",
+   "deskripsi": "Kajian pekanan Rabu ba'da Dzuhur.",
+   "sumber": [
+    "https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square"
+   ],
+   "terakhir_terlihat": "2026-09-10",
+   "confidence": "sedang",
+   "id": "kj_384e6b1307",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Riyadhush Shalihin",
+   "pemateri": "Ustadz Idrus Yusuf",
+   "lokasi": "Masjid Nurul Iman Blok M Square Lt. 7",
+   "alamat": "Blok M Square, Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 3,
+   "mulai": "15:30",
+   "selesai": "",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian pekanan Rabu ba'da Ashar.",
+   "sumber": [
+    "https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square"
+   ],
+   "terakhir_terlihat": "2026-09-10",
+   "confidence": "sedang",
+   "id": "kj_af5a05559a",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Dosa-Dosa Besar",
+   "pemateri": "Ustadz Khalid Basalamah",
+   "lokasi": "Masjid Nurul Iman Blok M Square Lt. 7",
+   "alamat": "Blok M Square, Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 3,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian pekanan Rabu ba'da Maghrib.",
+   "sumber": [
+    "https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square"
+   ],
+   "terakhir_terlihat": "2026-09-10",
+   "confidence": "sedang",
+   "id": "kj_6e30cade0f",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Fiqih Dzikir dan Do'a",
+   "pemateri": "Ustadz Nurdin Apud Sarbini",
+   "lokasi": "Masjid Nurul Iman Blok M Square Lt. 7",
+   "alamat": "Blok M Square, Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 4,
+   "mulai": "15:30",
+   "selesai": "",
+   "kategori": "Fiqih",
+   "deskripsi": "Kajian pekanan Kamis ba'da Ashar.",
+   "sumber": [
+    "https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square"
+   ],
+   "terakhir_terlihat": "2026-09-10",
+   "confidence": "sedang",
+   "id": "kj_3da43f01f8",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Kajian Kitab (Kamis ba'da Maghrib)",
+   "pemateri": "Ustadz Muflih Safitra",
+   "lokasi": "Masjid Nurul Iman Blok M Square Lt. 7",
+   "alamat": "Blok M Square, Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 4,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian pekanan Kamis ba'da Maghrib.",
+   "sumber": [
+    "https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square"
+   ],
+   "terakhir_terlihat": "2026-09-10",
+   "confidence": "sedang",
+   "id": "kj_93fed50254",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Majelis Ba'da Maghrib - Kitab Al-Bidayah wa An-Nihayah",
+   "pemateri": "Ustadz Mohamad Nursamsul Qamar, Lc.",
+   "lokasi": "Masjid Nurullah Apartemen Kalibata City",
+   "alamat": "Basement Tower Cendana, Apartemen Kalibata City, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 4,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Sirah/Tarikh",
+   "deskripsi": "Kajian rutin Kamis ba'da Maghrib, Kitab Al-Bidayah wa An-Nihayah (Ibnu Katsir).",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-09-10",
+   "confidence": "sedang",
+   "id": "kj_d832dc4658",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "MT. Tafsir (Jumat)",
+   "pemateri": "",
+   "lokasi": "Masjid Agung Al-Azhar - Aula Buya Hamka",
+   "alamat": "Jl. Sisingamangaraja, Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 5,
+   "mulai": "08:30",
+   "selesai": "10:00",
+   "kategori": "Tafsir",
+   "deskripsi": "Majelis Taklim Tafsir setiap Jumat, untuk umum dan gratis.",
+   "sumber": [
+    "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
+   ],
+   "terakhir_terlihat": "2026-09-10",
+   "confidence": "tinggi",
+   "id": "kj_842ad2efb4",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Kitab Syarh As-Sunnah",
+   "pemateri": "Ustadz Mohamad Nursamsul Qamar, Lc.",
+   "lokasi": "Masjid Nurul Iman Blok M Square Lt. 7",
+   "alamat": "Blok M Square, Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 5,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Aqidah",
+   "deskripsi": "Kajian pekanan Jumat ba'da Maghrib.",
+   "sumber": [
+    "https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square"
+   ],
+   "terakhir_terlihat": "2026-09-10",
+   "confidence": "sedang",
+   "id": "kj_6b4528cbb9",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "MT. Sabtu Pagi",
+   "pemateri": "",
+   "lokasi": "Masjid Agung Al-Azhar - Ruang Kelas ABH",
+   "alamat": "Jl. Sisingamangaraja, Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 6,
+   "mulai": "08:00",
+   "selesai": "10:00",
+   "kategori": "Majelis Taklim",
+   "deskripsi": "Majelis Taklim Sabtu Pagi, untuk umum dan gratis.",
+   "sumber": [
+    "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
+   ],
+   "terakhir_terlihat": "2026-09-10",
+   "confidence": "tinggi",
+   "id": "kj_363efaf21c",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "MT. Ahad Dhuha",
+   "pemateri": "",
+   "lokasi": "Masjid Agung Al-Azhar - Ruang Utama Masjid",
+   "alamat": "Jl. Sisingamangaraja, Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 7,
+   "mulai": "07:00",
+   "selesai": "08:30",
+   "kategori": "Majelis Taklim",
+   "deskripsi": "Majelis Taklim Ahad Dhuha, untuk umum dan gratis.",
+   "sumber": [
+    "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
+   ],
+   "terakhir_terlihat": "2026-09-10",
+   "confidence": "tinggi",
+   "id": "kj_3a05c8677f",
+   "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "MT. Ahad Pagi",
+   "pemateri": "",
+   "lokasi": "Masjid Agung Al-Azhar - Ruang Utama Masjid",
+   "alamat": "Jl. Sisingamangaraja, Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 7,
+   "mulai": "10:00",
+   "selesai": "11:30",
+   "kategori": "Majelis Taklim",
+   "deskripsi": "Majelis Taklim Ahad Pagi, untuk umum dan gratis.",
+   "sumber": [
+    "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
+   ],
+   "terakhir_terlihat": "2026-09-10",
+   "confidence": "tinggi",
+   "id": "kj_9a4162391f",
+   "pertama_terlihat": "2026-09-10"
+  }
+ ]
+}
