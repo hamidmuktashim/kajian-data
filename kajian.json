@@ -1,11 +1,13 @@
 {
  "versi": 1,
- "diperbarui": "2026-09-10T10:21+07:00",
+ "diperbarui": "2026-09-16T15:19+07:00",
  "kota": [
   "Bandung",
-  "Jakarta Selatan"
+  "Jakarta Pusat",
+  "Jakarta Selatan",
+  "Jakarta Utara"
  ],
- "jumlah": 23,
+ "jumlah": 35,
  "kajian": [
   {
    "judul": "AfterWork",
@@ -122,6 +124,202 @@
    "confidence": "sedang",
    "id": "kj_686359330d",
    "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Pengajian Tri In One",
+   "pemateri": "",
+   "lokasi": "Masjid Cut Meutia",
+   "alamat": "Jl. Taman Cut Mutiah No.1, Kb. Sirih, Menteng, Jakarta Pusat 10350",
+   "kota": "Jakarta Pusat",
+   "hari": 1,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Program pengajian rutin ba'da Maghrib hingga Isya setiap Senin, terbuka untuk umum.",
+   "sumber": [
+    "https://masjidcutmeutia.com/pengajian-tri-in-one/"
+   ],
+   "terakhir_terlihat": "2026-09-16",
+   "confidence": "tinggi",
+   "id": "kj_25e88ef774",
+   "pertama_terlihat": "2026-09-16"
+  },
+  {
+   "judul": "Kajian Rutin Ba'da Maghrib",
+   "pemateri": "",
+   "lokasi": "Masjid Al-Azhar Cempaka Putih",
+   "alamat": "Jl. Cempaka Putih Barat III No.25, Cempaka Putih, Jakarta Pusat",
+   "kota": "Jakarta Pusat",
+   "hari": 1,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Sunnah",
+   "deskripsi": "Kajian rutin ba'da Maghrib setiap Senin di Masjid Al-Azhar Cempaka Putih.",
+   "sumber": [
+    "https://jakarta.hallo.id/metropolitan/pr-2304759997/kajian-sunah-jakarta-pusat-ada-di-masjid-al-azhar-cempaka-putih",
+    "https://www.genmuslim.id/khazanah/634675509/ada-informasi-kajian-di-masjid-al-azhar-cempaka-putih-masya-allah-kita-bisa-belajar-lagi-jangan-lupa-hadir"
+   ],
+   "terakhir_terlihat": "2026-09-16",
+   "confidence": "tinggi",
+   "id": "kj_e470eef653",
+   "pertama_terlihat": "2026-09-16"
+  },
+  {
+   "judul": "Pengajian Tri In One",
+   "pemateri": "",
+   "lokasi": "Masjid Cut Meutia",
+   "alamat": "Jl. Taman Cut Mutiah No.1, Kb. Sirih, Menteng, Jakarta Pusat 10350",
+   "kota": "Jakarta Pusat",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Program pengajian rutin ba'da Maghrib hingga Isya setiap Selasa, terbuka untuk umum.",
+   "sumber": [
+    "https://masjidcutmeutia.com/pengajian-tri-in-one/"
+   ],
+   "terakhir_terlihat": "2026-09-16",
+   "confidence": "tinggi",
+   "id": "kj_ee5bd6f2d9",
+   "pertama_terlihat": "2026-09-16"
+  },
+  {
+   "judul": "Kajian Rutin Ba'da Maghrib",
+   "pemateri": "",
+   "lokasi": "Masjid Al-Azhar Cempaka Putih",
+   "alamat": "Jl. Cempaka Putih Barat III No.25, Cempaka Putih, Jakarta Pusat",
+   "kota": "Jakarta Pusat",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Sunnah",
+   "deskripsi": "Kajian rutin ba'da Maghrib setiap Selasa di Masjid Al-Azhar Cempaka Putih.",
+   "sumber": [
+    "https://jakarta.hallo.id/metropolitan/pr-2304759997/kajian-sunah-jakarta-pusat-ada-di-masjid-al-azhar-cempaka-putih",
+    "https://www.genmuslim.id/khazanah/634675509/ada-informasi-kajian-di-masjid-al-azhar-cempaka-putih-masya-allah-kita-bisa-belajar-lagi-jangan-lupa-hadir"
+   ],
+   "terakhir_terlihat": "2026-09-16",
+   "confidence": "tinggi",
+   "id": "kj_489f798812",
+   "pertama_terlihat": "2026-09-16"
+  },
+  {
+   "judul": "Pengajian Tri In One",
+   "pemateri": "",
+   "lokasi": "Masjid Cut Meutia",
+   "alamat": "Jl. Taman Cut Mutiah No.1, Kb. Sirih, Menteng, Jakarta Pusat 10350",
+   "kota": "Jakarta Pusat",
+   "hari": 3,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Program pengajian rutin ba'da Maghrib hingga Isya setiap Rabu, terbuka untuk umum.",
+   "sumber": [
+    "https://masjidcutmeutia.com/pengajian-tri-in-one/"
+   ],
+   "terakhir_terlihat": "2026-09-16",
+   "confidence": "tinggi",
+   "id": "kj_e6f9b69079",
+   "pertama_terlihat": "2026-09-16"
+  },
+  {
+   "judul": "Pengajian Tri In One",
+   "pemateri": "",
+   "lokasi": "Masjid Cut Meutia",
+   "alamat": "Jl. Taman Cut Mutiah No.1, Kb. Sirih, Menteng, Jakarta Pusat 10350",
+   "kota": "Jakarta Pusat",
+   "hari": 4,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Program pengajian rutin ba'da Maghrib hingga Isya setiap Kamis, terbuka untuk umum.",
+   "sumber": [
+    "https://masjidcutmeutia.com/pengajian-tri-in-one/"
+   ],
+   "terakhir_terlihat": "2026-09-16",
+   "confidence": "tinggi",
+   "id": "kj_43570d5c78",
+   "pertama_terlihat": "2026-09-16"
+  },
+  {
+   "judul": "Kajian Rutin Ba'da Maghrib",
+   "pemateri": "",
+   "lokasi": "Masjid Al-Azhar Cempaka Putih",
+   "alamat": "Jl. Cempaka Putih Barat III No.25, Cempaka Putih, Jakarta Pusat",
+   "kota": "Jakarta Pusat",
+   "hari": 4,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Sunnah",
+   "deskripsi": "Kajian rutin ba'da Maghrib setiap Kamis di Masjid Al-Azhar Cempaka Putih.",
+   "sumber": [
+    "https://jakarta.hallo.id/metropolitan/pr-2304759997/kajian-sunah-jakarta-pusat-ada-di-masjid-al-azhar-cempaka-putih",
+    "https://www.genmuslim.id/khazanah/634675509/ada-informasi-kajian-di-masjid-al-azhar-cempaka-putih-masya-allah-kita-bisa-belajar-lagi-jangan-lupa-hadir"
+   ],
+   "terakhir_terlihat": "2026-09-16",
+   "confidence": "tinggi",
+   "id": "kj_7a3300afac",
+   "pertama_terlihat": "2026-09-16"
+  },
+  {
+   "judul": "Kajian Rutin Ba'da Maghrib",
+   "pemateri": "",
+   "lokasi": "Masjid Al-Azhar Cempaka Putih",
+   "alamat": "Jl. Cempaka Putih Barat III No.25, Cempaka Putih, Jakarta Pusat",
+   "kota": "Jakarta Pusat",
+   "hari": 5,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Sunnah",
+   "deskripsi": "Kajian rutin ba'da Maghrib setiap Jumat di Masjid Al-Azhar Cempaka Putih.",
+   "sumber": [
+    "https://jakarta.hallo.id/metropolitan/pr-2304759997/kajian-sunah-jakarta-pusat-ada-di-masjid-al-azhar-cempaka-putih",
+    "https://www.genmuslim.id/khazanah/634675509/ada-informasi-kajian-di-masjid-al-azhar-cempaka-putih-masya-allah-kita-bisa-belajar-lagi-jangan-lupa-hadir"
+   ],
+   "terakhir_terlihat": "2026-09-16",
+   "confidence": "tinggi",
+   "id": "kj_a2480d62e2",
+   "pertama_terlihat": "2026-09-16"
+  },
+  {
+   "judul": "Kajian Rutin Ba'da Subuh",
+   "pemateri": "",
+   "lokasi": "Masjid Al-Azhar Cempaka Putih",
+   "alamat": "Jl. Cempaka Putih Barat III No.25, Cempaka Putih, Jakarta Pusat",
+   "kota": "Jakarta Pusat",
+   "hari": 7,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Kajian Sunnah",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Ahad di Masjid Al-Azhar Cempaka Putih.",
+   "sumber": [
+    "https://jakarta.hallo.id/metropolitan/pr-2304759997/kajian-sunah-jakarta-pusat-ada-di-masjid-al-azhar-cempaka-putih",
+    "https://www.genmuslim.id/khazanah/634675509/ada-informasi-kajian-di-masjid-al-azhar-cempaka-putih-masya-allah-kita-bisa-belajar-lagi-jangan-lupa-hadir"
+   ],
+   "terakhir_terlihat": "2026-09-16",
+   "confidence": "tinggi",
+   "id": "kj_1788104957",
+   "pertama_terlihat": "2026-09-16"
+  },
+  {
+   "judul": "Kuliah Dhuha",
+   "pemateri": "",
+   "lokasi": "Masjid Agung Sunda Kelapa",
+   "alamat": "Jl. Taman Sunda Kelapa No.16, Menteng, Jakarta Pusat",
+   "kota": "Jakarta Pusat",
+   "hari": 7,
+   "mulai": "06:00",
+   "selesai": "08:30",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kuliah Dhuha rutin setiap Ahad pagi di Ruang Utama Masjid Agung Sunda Kelapa.",
+   "sumber": [
+    "https://masjid-sundakelapa.id/topik/kuliah-dhuha/",
+    "https://dkm.or.id/dkm/435/masjid-sunda-kelapa-menteng-kota-adm-jakarta-pusat"
+   ],
+   "terakhir_terlihat": "2026-09-16",
+   "confidence": "tinggi",
+   "id": "kj_3f506b2cef",
+   "pertama_terlihat": "2026-09-16"
   },
   {
    "judul": "Tafsir Ibnu Katsir",
@@ -445,6 +643,44 @@
    "confidence": "tinggi",
    "id": "kj_9a4162391f",
    "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Kajian Tafsir Al-Munir",
+   "pemateri": "",
+   "lokasi": "Masjid Ad-Da'wah",
+   "alamat": "Jl. Biru Laut Barat, Kelapa Gading Timur, Jakarta Utara 14240",
+   "kota": "Jakarta Utara",
+   "hari": 3,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Tafsir",
+   "deskripsi": "Kajian rutin ba'da Maghrib setiap Rabu di Masjid Ad-Da'wah Kelapa Gading.",
+   "sumber": [
+    "https://sayahafiz.com/Kajian/8383/Jadwal.html"
+   ],
+   "terakhir_terlihat": "2026-09-16",
+   "confidence": "sedang",
+   "id": "kj_8abbe4cf89",
+   "pertama_terlihat": "2026-09-16"
+  },
+  {
+   "judul": "Kajian Rutin Ba'da Subuh",
+   "pemateri": "",
+   "lokasi": "Masjid Ad-Da'wah",
+   "alamat": "Jl. Biru Laut Barat, Kelapa Gading Timur, Jakarta Utara 14240",
+   "kota": "Jakarta Utara",
+   "hari": 7,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Ahad di Masjid Ad-Da'wah Kelapa Gading.",
+   "sumber": [
+    "https://sayahafiz.com/Kajian/8383/Jadwal.html"
+   ],
+   "terakhir_terlihat": "2026-09-16",
+   "confidence": "sedang",
+   "id": "kj_1de8e85684",
+   "pertama_terlihat": "2026-09-16"
   }
  ]
 }
