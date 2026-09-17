@@ -1,13 +1,15 @@
 {
  "versi": 1,
- "diperbarui": "2026-09-16T15:19+07:00",
+ "diperbarui": "2026-09-17T08:13+07:00",
  "kota": [
   "Bandung",
+  "Bekasi",
+  "Depok",
   "Jakarta Pusat",
   "Jakarta Selatan",
   "Jakarta Utara"
  ],
- "jumlah": 35,
+ "jumlah": 39,
  "kajian": [
   {
    "judul": "AfterWork",
@@ -124,6 +126,82 @@
    "confidence": "sedang",
    "id": "kj_686359330d",
    "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Kajian Rutin Selasa Ba'da Dzuhur",
+   "pemateri": "Ustadz Syafruddin, S.Pd",
+   "lokasi": "Masjid Jami' Al-Furqon Bekasi",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 2,
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Kajian Rutin",
+   "deskripsi": "Kajian rutin Majelis Taklim Al-Furqon setiap Selasa siang, ba'da Dzuhur",
+   "sumber": [
+    "https://alfurqonbekasi.id/jadwal-kajian"
+   ],
+   "terakhir_terlihat": "2026-09-17",
+   "confidence": "sedang",
+   "id": "kj_a84abe2ddc",
+   "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "GEMMA - Kajian Islam Pemuda Masjid",
+   "pemateri": "",
+   "lokasi": "Masjid Jami' Al-Azhar Jakapermai",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 6,
+   "mulai": "18:00",
+   "selesai": "20:30",
+   "kategori": "Kajian Remaja",
+   "deskripsi": "Kajian rutin pemuda masjid (GEMMA) setiap Sabtu malam",
+   "sumber": [
+    "https://alazharjp.or.id/"
+   ],
+   "terakhir_terlihat": "2026-09-17",
+   "confidence": "sedang",
+   "id": "kj_80acbfd63d",
+   "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "Kajian Ahad Pagi Ba'da Subuh",
+   "pemateri": "",
+   "lokasi": "Masjid Jami' Al-Furqon Bekasi",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 7,
+   "mulai": "04:30",
+   "selesai": "05:30",
+   "kategori": "Kajian Rutin",
+   "deskripsi": "Kajian rutin setiap Ahad pagi ba'da Subuh, tema bergantian tiap pekan: tafsir, tauhid, hadits",
+   "sumber": [
+    "https://alfurqonbekasi.id/jadwal-kajian"
+   ],
+   "terakhir_terlihat": "2026-09-17",
+   "confidence": "sedang",
+   "id": "kj_7bfce91612",
+   "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "Kajian Ahad Subuh: Tafsir, Fiqih, Hadits & Tematik",
+   "pemateri": "",
+   "lokasi": "Masjid Al-Ihsan Permata Depok",
+   "alamat": "",
+   "kota": "Depok",
+   "hari": 7,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Kajian Rutin",
+   "deskripsi": "Kajian ba'da Subuh setiap Ahad, tema bergantian tiap pekan: Tafsir, Fiqih, Hadits & Tematik",
+   "sumber": [
+    "https://masjidalihsanpermatadepok.com/kegiatan/kajian.html"
+   ],
+   "terakhir_terlihat": "2026-09-17",
+   "confidence": "sedang",
+   "id": "kj_c72b2dc2f0",
+   "pertama_terlihat": "2026-09-17"
   },
   {
    "judul": "Pengajian Tri In One",
