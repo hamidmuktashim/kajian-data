@@ -1,13 +1,16 @@
 {
- "versi": 1,
- "diperbarui": "2026-09-16T15:19+07:00",
+ "versi": 2,
+ "diperbarui": "2026-09-17T08:30+07:00",
  "kota": [
   "Bandung",
+  "Bekasi",
+  "Depok",
   "Jakarta Pusat",
   "Jakarta Selatan",
   "Jakarta Utara"
  ],
- "jumlah": 35,
+ "jumlah": 48,
+ "jumlah_agenda": 0,
  "kajian": [
   {
    "judul": "AfterWork",
@@ -124,6 +127,253 @@
    "confidence": "sedang",
    "id": "kj_686359330d",
    "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Kajian Rutin Khusus Muslimah",
+   "pemateri": "",
+   "lokasi": "Masjid Raya At-Taqwa Rawalumbu",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 1,
+   "mulai": "08:00",
+   "selesai": "10:00",
+   "kategori": "Muslimah",
+   "deskripsi": "Materi Aqidah, Fiqih, tilawah Qur'an; pemateri bergantian: Ustadz Abu Ja'far Cecep, Hamzah Abbas, Ustadz Musabbih Rusydi.",
+   "sumber": [
+    "https://attaqwarawalumbu.org/kajian-rutin-khusus-muslimah/"
+   ],
+   "terakhir_terlihat": "2026-09-17",
+   "confidence": "tinggi",
+   "id": "kj_594c18161d",
+   "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "Kajian Rutin Ba'da Isya",
+   "pemateri": "",
+   "lokasi": "Masjid Raya At-Taqwa Rawalumbu",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 2,
+   "mulai": "19:30",
+   "selesai": "21:00",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Dimulai sekitar 10 menit setelah shalat Isya berjamaah hingga sekitar pukul 21:00.",
+   "sumber": [
+    "https://attaqwarawalumbu.org/kajian-isya/"
+   ],
+   "terakhir_terlihat": "2026-09-17",
+   "confidence": "sedang",
+   "id": "kj_36713b8817",
+   "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "Kajian Rutin Khusus Muslimah",
+   "pemateri": "",
+   "lokasi": "Masjid Raya At-Taqwa Rawalumbu",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 3,
+   "mulai": "08:00",
+   "selesai": "10:00",
+   "kategori": "Muslimah",
+   "deskripsi": "Materi Aqidah, Fiqih, tilawah Qur'an; pemateri bergantian: Ustadz Abu Ja'far Cecep, Hamzah Abbas, Ustadz Musabbih Rusydi.",
+   "sumber": [
+    "https://attaqwarawalumbu.org/kajian-rutin-khusus-muslimah/"
+   ],
+   "terakhir_terlihat": "2026-09-17",
+   "confidence": "tinggi",
+   "id": "kj_809720c915",
+   "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "Kajian Rutin Khusus Muslimah",
+   "pemateri": "",
+   "lokasi": "Masjid Raya At-Taqwa Rawalumbu",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 4,
+   "mulai": "08:00",
+   "selesai": "10:00",
+   "kategori": "Muslimah",
+   "deskripsi": "Materi Aqidah, Fiqih, tilawah Qur'an; pemateri bergantian: Ustadz Abu Ja'far Cecep, Hamzah Abbas, Ustadz Musabbih Rusydi.",
+   "sumber": [
+    "https://attaqwarawalumbu.org/kajian-rutin-khusus-muslimah/"
+   ],
+   "terakhir_terlihat": "2026-09-17",
+   "confidence": "tinggi",
+   "id": "kj_9422619891",
+   "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "Kajian Rutin Khusus Muslimah",
+   "pemateri": "",
+   "lokasi": "Masjid Raya At-Taqwa Rawalumbu",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 5,
+   "mulai": "08:00",
+   "selesai": "10:00",
+   "kategori": "Muslimah",
+   "deskripsi": "Materi Aqidah, Fiqih, tilawah Qur'an; pemateri bergantian: Ustadz Abu Ja'far Cecep, Hamzah Abbas, Ustadz Musabbih Rusydi.",
+   "sumber": [
+    "https://attaqwarawalumbu.org/kajian-rutin-khusus-muslimah/"
+   ],
+   "terakhir_terlihat": "2026-09-17",
+   "confidence": "tinggi",
+   "id": "kj_282ebaa684",
+   "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "Kajian Islam Pemuda Masjid (GEMMA)",
+   "pemateri": "",
+   "lokasi": "Masjid Jami' Al-Azhar Jakapermai",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 6,
+   "mulai": "18:00",
+   "selesai": "20:30",
+   "kategori": "Kajian Pemuda",
+   "deskripsi": "Kajian rutin pemuda masjid setiap Sabtu malam.",
+   "sumber": [
+    "https://alazharjp.or.id/"
+   ],
+   "terakhir_terlihat": "2026-09-17",
+   "confidence": "tinggi",
+   "id": "kj_898165db36",
+   "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "Kajian Rutin Ba'da Isya",
+   "pemateri": "",
+   "lokasi": "Masjid Raya At-Taqwa Rawalumbu",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 6,
+   "mulai": "19:30",
+   "selesai": "21:00",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Dimulai sekitar 10 menit setelah shalat Isya berjamaah hingga sekitar pukul 21:00.",
+   "sumber": [
+    "https://attaqwarawalumbu.org/kajian-isya/"
+   ],
+   "terakhir_terlihat": "2026-09-17",
+   "confidence": "sedang",
+   "id": "kj_b8839f1183",
+   "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "Kajian Tauhid Ba'da Subuh",
+   "pemateri": "Ustadz Burhanudin Mutaqon",
+   "lokasi": "Masjid Al-Furqon Bekasi",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 7,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Tauhid",
+   "deskripsi": "Kajian Tauhid ba'da Subuh setiap Ahad.",
+   "sumber": [
+    "https://alfurqonbekasi.id/jadwal-kajian"
+   ],
+   "terakhir_terlihat": "2026-09-17",
+   "confidence": "tinggi",
+   "id": "kj_06aae9e421",
+   "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "Kajian Rutin Ba'da Isya",
+   "pemateri": "",
+   "lokasi": "Masjid Raya At-Taqwa Rawalumbu",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 7,
+   "mulai": "19:30",
+   "selesai": "21:00",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Dimulai sekitar 10 menit setelah shalat Isya berjamaah hingga sekitar pukul 21:00.",
+   "sumber": [
+    "https://attaqwarawalumbu.org/kajian-isya/"
+   ],
+   "terakhir_terlihat": "2026-09-17",
+   "confidence": "sedang",
+   "id": "kj_40d731e39e",
+   "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "Kajian Muslimah Kamis",
+   "pemateri": "",
+   "lokasi": "Masjid Ar-Rahim Sawangan Permai",
+   "alamat": "",
+   "kota": "Depok",
+   "hari": 4,
+   "mulai": "09:00",
+   "selesai": "11:00",
+   "kategori": "Muslimah",
+   "deskripsi": "Materi Aqidah, Fiqih, dan tilawah Qur'an, khusus muslimah.",
+   "sumber": [
+    "https://www.masjidarrahim.org/p/jadwal-kegiatan-rutin-masjid-ar-rahim.html"
+   ],
+   "terakhir_terlihat": "2026-09-17",
+   "confidence": "tinggi",
+   "id": "kj_37f36efdb1",
+   "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "Kajian Tafsir Al-Jalalayn Ba'da Subuh",
+   "pemateri": "KH. A. Fatih Ghazaly (Ponpes Al-Karimiyah)",
+   "lokasi": "Masjid Ar-Rahim Sawangan Permai",
+   "alamat": "",
+   "kota": "Depok",
+   "hari": 6,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Tafsir",
+   "deskripsi": "Ba'da Subuh, rutin kecuali pekan pertama tiap bulan.",
+   "sumber": [
+    "https://www.masjidarrahim.org/p/jadwal-kegiatan-rutin-masjid-ar-rahim.html"
+   ],
+   "terakhir_terlihat": "2026-09-17",
+   "confidence": "tinggi",
+   "id": "kj_8a2f3244fe",
+   "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "Kajian Kitab Nashoihul 'Ibad",
+   "pemateri": "Ustadz Jajang Suryana",
+   "lokasi": "Masjid Ar-Rahim Sawangan Permai",
+   "alamat": "",
+   "kota": "Depok",
+   "hari": 7,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kitab",
+   "deskripsi": "Ba'da Maghrib setiap Ahad.",
+   "sumber": [
+    "https://www.masjidarrahim.org/p/jadwal-kegiatan-rutin-masjid-ar-rahim.html"
+   ],
+   "terakhir_terlihat": "2026-09-17",
+   "confidence": "tinggi",
+   "id": "kj_db900c9004",
+   "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "Kajian Kitab Kifayatul Atqiya",
+   "pemateri": "KH. M. Abdul Mudjib (Ponpes As-Sa'adah)",
+   "lokasi": "Masjid Ar-Rahim Sawangan Permai",
+   "alamat": "",
+   "kota": "Depok",
+   "hari": 7,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kitab",
+   "deskripsi": "Ba'da Maghrib setiap Ahad.",
+   "sumber": [
+    "https://www.masjidarrahim.org/p/jadwal-kegiatan-rutin-masjid-ar-rahim.html"
+   ],
+   "terakhir_terlihat": "2026-09-17",
+   "confidence": "tinggi",
+   "id": "kj_30c309d547",
+   "pertama_terlihat": "2026-09-17"
   },
   {
    "judul": "Pengajian Tri In One",
@@ -682,5 +932,6 @@
    "id": "kj_1de8e85684",
    "pertama_terlihat": "2026-09-16"
   }
- ]
+ ],
+ "agenda": []
 }
