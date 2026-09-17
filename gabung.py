@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Gabungkan hasil crawl per wilayah (hasil/*.json) ke kajian.json.
 Aturan: id stabil dari judul|lokasi|hari|mulai; entri lama dipertahankan sampai
-24 bulan tidak terlihat; hasil baru memperbarui jam/pemateri/sumber; konflik → yang terbaru menang."""
+24 bulan tidak terlihat; hasil baru memperbarui jam/pemateri/sumber; konflik → yang terbaru menang.
+Agenda bertanggal (hasil/*.json → "agenda") digabung terpisah: id dari judul|lokasi|tanggal|mulai, dibuang H+1 setelah tanggalnya."""
 import json, glob, os, re, sys, datetime, hashlib
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -28,15 +29,45 @@ def bersih(r, kota_default=""):
     if k["confidence"] not in ("tinggi", "sedang", "rendah"): k["confidence"] = "sedang"
     k["id"] = kid(k); return k
 
+def tgl(v):
+    m = re.search(r"(\d{4})-(\d{2})-(\d{2})", str(v or ""))
+    if not m: return ""
+    try: return datetime.date(int(m.group(1)), int(m.group(2)), int(m.group(3))).isoformat()
+    except ValueError: return ""
+def aid(a):
+    t = "|".join([norm(a["judul"]).lower(), norm(a["lokasi"]).lower(), a["tanggal"], a["mulai"]])
+    return "ag_" + hashlib.sha1(t.encode()).hexdigest()[:10]
+def bersih_agenda(r, kota_default=""):
+    """Acara bertanggal (tabligh akbar, dauroh, kajian tematik). Wajib: judul, lokasi, tanggal, mulai."""
+    a = {"judul": norm(r.get("judul")), "pemateri": norm(r.get("pemateri")), "lokasi": norm(r.get("lokasi")),
+         "alamat": norm(r.get("alamat")), "kota": norm(r.get("kota")) or kota_default, "tanggal": tgl(r.get("tanggal")),
+         "mulai": jam(r.get("mulai")), "selesai": jam(r.get("selesai")), "kategori": norm(r.get("kategori")) or "Agenda",
+         "deskripsi": norm(r.get("deskripsi"))[:240], "online": bool(r.get("online")),
+         "tautan": norm(r.get("tautan")) if str(r.get("tautan") or "").startswith("http") else "",
+         "sumber": [s for s in (r.get("sumber") or []) if isinstance(s, str) and s.startswith("http")][:4],
+         "terakhir_terlihat": norm(r.get("terakhir_terlihat"))[:10], "confidence": norm(r.get("confidence")) or "sedang"}
+    if not (a["judul"] and a["lokasi"] and a["tanggal"] and a["mulai"]): return None
+    if a["confidence"] not in ("tinggi", "sedang", "rendah"): a["confidence"] = "sedang"
+    a["id"] = aid(a); return a
+
 def main():
     today = datetime.date.today()
-    lama = {}
+    lama, lama_ag = {}, {}
     if os.path.exists(OUT):
-        for k in json.load(open(OUT, encoding="utf-8")).get("kajian", []): lama[k["id"]] = k
-    baru = {}
+        _d = json.load(open(OUT, encoding="utf-8"))
+        for k in _d.get("kajian", []): lama[k["id"]] = k
+        for a in _d.get("agenda", []): lama_ag[a["id"]] = a
+    baru, baru_ag = {}, {}
     for f in sorted(glob.glob(os.path.join(ROOT, "hasil", "*.json"))):
         try: d = json.load(open(f, encoding="utf-8"))
         except Exception as e: print("lewati", f, e); continue
+        for r in d.get("agenda", []) or []:
+            a = bersih_agenda(r, d.get("kota", ""))
+            if not a: continue
+            if a["id"] in baru_ag:
+                b = baru_ag[a["id"]]; b["sumber"] = list(dict.fromkeys(b["sumber"] + a["sumber"]))[:4]
+                if len(b["sumber"]) >= 2 and b["confidence"] != "tinggi": b["confidence"] = "tinggi"
+            else: baru_ag[a["id"]] = a
         for r in d.get("kajian", []):
             k = bersih(r, d.get("kota", "")); 
             if not k: continue
@@ -58,9 +89,25 @@ def main():
     batas = (today - datetime.timedelta(days=30 * KADALUARSA_BULAN)).isoformat()
     hasil = [k for k in gabung.values() if not k.get("terakhir_terlihat") or k["terakhir_terlihat"] >= batas]
     hasil.sort(key=lambda k: (k["kota"], k["hari"], k["mulai"]))
-    kota = sorted({k["kota"] for k in hasil})
-    json.dump({"versi": 1, "diperbarui": datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=7))).isoformat(timespec="minutes"),
-               "kota": kota, "jumlah": len(hasil), "kajian": hasil}, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    print(f"kajian.json: {len(hasil)} entri, {len(baru)} dari hasil baru, {len(hasil)-len(lama) if lama else len(hasil)} bertambah; kota: {', '.join(kota)}")
+    # agenda bertanggal: entri lama dipertahankan, entri baru menimpa field yang terisi; buang yang sudah lewat (H+1)
+    ag = dict(lama_ag)
+    for i, a in baru_ag.items():
+        if i in ag:
+            g = ag[i]; g.update({x: a[x] for x in ("pemateri", "selesai", "kategori", "deskripsi", "alamat", "tautan") if a[x]})
+            g["sumber"] = list(dict.fromkeys(a["sumber"] + g.get("sumber", [])))[:4]
+            g["terakhir_terlihat"] = max(g.get("terakhir_terlihat", ""), a["terakhir_terlihat"])
+            g["confidence"] = a["confidence"] if a["confidence"] != "rendah" else g.get("confidence", "rendah")
+            g["online"] = a["online"] or g.get("online", False)
+        else:
+            a["pertama_terlihat"] = today.isoformat(); ag[i] = a
+    kemarin = (today - datetime.timedelta(days=1)).isoformat()
+    agenda = [a for a in ag.values() if a.get("tanggal", "") >= kemarin]
+    agenda.sort(key=lambda a: (a["tanggal"], a["mulai"], a["kota"]))
+    kota = sorted({k["kota"] for k in hasil} | {a["kota"] for a in agenda})
+    json.dump({"versi": 2, "diperbarui": datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=7))).isoformat(timespec="minutes"),
+               "kota": kota, "jumlah": len(hasil), "jumlah_agenda": len(agenda), "kajian": hasil, "agenda": agenda},
+              open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print(f"kajian.json: {len(hasil)} rutin ({len(baru)} dari hasil baru, {len(hasil)-len(lama) if lama else len(hasil)} bertambah); "
+          f"{len(agenda)} agenda bertanggal ({len(baru_ag)} dari hasil baru, {len(ag)-len(agenda)} dibuang karena lewat); kota: {', '.join(kota)}")
 
 if __name__ == "__main__": main()
