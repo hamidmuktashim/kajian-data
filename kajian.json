@@ -1,15 +1,17 @@
 {
  "versi": 2,
- "diperbarui": "2026-09-17T08:30+07:00",
+ "diperbarui": "2026-09-18T08:13+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
   "Depok",
   "Jakarta Pusat",
   "Jakarta Selatan",
-  "Jakarta Utara"
+  "Jakarta Utara",
+  "Makassar",
+  "Yogyakarta"
  ],
- "jumlah": 48,
+ "jumlah": 63,
  "jumlah_agenda": 0,
  "kajian": [
   {
@@ -931,6 +933,291 @@
    "confidence": "sedang",
    "id": "kj_1de8e85684",
    "pertama_terlihat": "2026-09-16"
+  },
+  {
+   "judul": "Pokok-Pokok Aqidah Ahlus Sunnah",
+   "pemateri": "Ustadz Abu Darda Sufyan Al-Kandariy",
+   "lokasi": "Masjid As-Sunnah",
+   "alamat": "Jl. Baji Rupa No. 8, Makassar",
+   "kota": "Makassar",
+   "hari": 1,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Aqidah",
+   "deskripsi": "Kajian rutin Senin ba'da Maghrib.",
+   "sumber": [
+    "https://sites.google.com/view/assunnahmakassar/jadwal-kajian"
+   ],
+   "terakhir_terlihat": "2026-09-18",
+   "confidence": "tinggi",
+   "id": "kj_b21cd25c6c",
+   "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Kajian Rutin Senin - Masjid Nurul Hikmah",
+   "pemateri": "Ustadz Harman Tajang",
+   "lokasi": "Masjid Nurul Hikmah",
+   "alamat": "Jl. RSI Faisal XIV No. 14, Makassar",
+   "kota": "Makassar",
+   "hari": 1,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin Markaz Imam Malik, Senin ba'da Maghrib-Isya.",
+   "sumber": [
+    "https://mim.or.id/makassar-kota-pengajian/"
+   ],
+   "terakhir_terlihat": "2026-09-18",
+   "confidence": "tinggi",
+   "id": "kj_4f129ee277",
+   "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Al-Adabul Mufrad",
+   "pemateri": "Ustadz Mustamin Musaruddin, Lc.",
+   "lokasi": "Masjid As-Sunnah",
+   "alamat": "Jl. Baji Rupa No. 8, Makassar",
+   "kota": "Makassar",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin Selasa ba'da Maghrib.",
+   "sumber": [
+    "https://sites.google.com/view/assunnahmakassar/jadwal-kajian"
+   ],
+   "terakhir_terlihat": "2026-09-18",
+   "confidence": "tinggi",
+   "id": "kj_084bbe40ea",
+   "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Kajian Rutin Selasa - Masjid Al-Ihsan",
+   "pemateri": "Ustadz Harman Tajang",
+   "lokasi": "Masjid Al-Ihsan",
+   "alamat": "Jl. Alauddin 3 No. 2, Makassar",
+   "kota": "Makassar",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin Markaz Imam Malik, Selasa ba'da Maghrib-Isya.",
+   "sumber": [
+    "https://mim.or.id/makassar-kota-pengajian/"
+   ],
+   "terakhir_terlihat": "2026-09-18",
+   "confidence": "tinggi",
+   "id": "kj_93ee7bd039",
+   "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Fikih Asmaul Husna",
+   "pemateri": "Ustadz Khaidir Muhammad Sunusi",
+   "lokasi": "Masjid As-Sunnah",
+   "alamat": "Jl. Baji Rupa No. 8, Makassar",
+   "kota": "Makassar",
+   "hari": 3,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Fiqih",
+   "deskripsi": "Kajian rutin Rabu ba'da Maghrib.",
+   "sumber": [
+    "https://sites.google.com/view/assunnahmakassar/jadwal-kajian"
+   ],
+   "terakhir_terlihat": "2026-09-18",
+   "confidence": "tinggi",
+   "id": "kj_fc17ef893a",
+   "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Kajian Rutin Rabu - Masjid Al-Ikhlas",
+   "pemateri": "Ustadz Harman Tajang",
+   "lokasi": "Masjid Al-Ikhlas",
+   "alamat": "Jl. Teduh Bersinar, Alauddin, Makassar",
+   "kota": "Makassar",
+   "hari": 3,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin Markaz Imam Malik, Rabu ba'da Maghrib-Isya.",
+   "sumber": [
+    "https://mim.or.id/makassar-kota-pengajian/"
+   ],
+   "terakhir_terlihat": "2026-09-18",
+   "confidence": "tinggi",
+   "id": "kj_f74837984f",
+   "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Kajian Rutin Kamis - Masjid Nur Akhlak",
+   "pemateri": "Ustadz Harman Tajang",
+   "lokasi": "Masjid Nur Akhlak",
+   "alamat": "Kompleks Pasar Hartaco, Parangtambung, Makassar",
+   "kota": "Makassar",
+   "hari": 4,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin Markaz Imam Malik, Kamis ba'da Maghrib-Isya.",
+   "sumber": [
+    "https://mim.or.id/makassar-kota-pengajian/"
+   ],
+   "terakhir_terlihat": "2026-09-18",
+   "confidence": "tinggi",
+   "id": "kj_0f3dcad67e",
+   "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Kajian Rutin Jumat - Masjid Nurul Hikmah",
+   "pemateri": "Ustadz Harman Tajang",
+   "lokasi": "Masjid Nurul Hikmah",
+   "alamat": "Jl. RSI Faisal XIV No. 14, Makassar",
+   "kota": "Makassar",
+   "hari": 5,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin Markaz Imam Malik, Jumat ba'da Maghrib-Isya.",
+   "sumber": [
+    "https://mim.or.id/makassar-kota-pengajian/"
+   ],
+   "terakhir_terlihat": "2026-09-18",
+   "confidence": "tinggi",
+   "id": "kj_b31761c26f",
+   "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Kajian Rutin Ahad Subuh - Masjid Nurul Hikmah",
+   "pemateri": "Ustadz Harman Tajang",
+   "lokasi": "Masjid Nurul Hikmah",
+   "alamat": "Jl. RSI Faisal XIV No. 14, Makassar",
+   "kota": "Makassar",
+   "hari": 7,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin Markaz Imam Malik, Ahad ba'da Subuh.",
+   "sumber": [
+    "https://mim.or.id/makassar-kota-pengajian/"
+   ],
+   "terakhir_terlihat": "2026-09-18",
+   "confidence": "tinggi",
+   "id": "kj_313b976861",
+   "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Kitab Al-Kabair (Dosa-Dosa Besar)",
+   "pemateri": "Ustadz Zaid Susanto",
+   "lokasi": "Masjid Al-Hasanah Terban",
+   "alamat": "Jl. C. Simanjuntak No. 76, Terban, Gondokusuman, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 1,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin Senin ba'da Maghrib, Kitab Al-Kabair karya Imam Adz-Dzahabi, disiarkan Radio Muslim Jogja.",
+   "sumber": [
+    "https://radiomuslim.com/hadirilah-kembali-kajian-rutin-pekanan/"
+   ],
+   "terakhir_terlihat": "2026-09-18",
+   "confidence": "sedang",
+   "id": "kj_a67cea70a2",
+   "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Kajian Musholla Teknik UGM (Selasa)",
+   "pemateri": "Ustadz Afifi Abdul Wadud dan Ustadz Noor Akhmad Setiawan, Ph.D",
+   "lokasi": "Musholla Teknologi, Fakultas Teknik UGM",
+   "alamat": "",
+   "kota": "Yogyakarta",
+   "hari": 2,
+   "mulai": "15:45",
+   "selesai": "17:15",
+   "kategori": "Kajian Kampus",
+   "deskripsi": "Kajian pekanan Selasa, bergantian Tafsir Surat Al-Fatihah (pekan 1&3) dan Syarah Hadits Arbain An-Nawawi (pekan 2&4).",
+   "sumber": [
+    "https://muslimah.or.id/jadwal-kajian-rutin"
+   ],
+   "terakhir_terlihat": "2026-09-18",
+   "confidence": "sedang",
+   "id": "kj_4bbb531b20",
+   "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Kajian Rabu Pagi Khusus Muslimah",
+   "pemateri": "Ustadz Dr. M. Abduh Tuasikal, M.Sc.",
+   "lokasi": "Sekar Kedhaton Restaurant",
+   "alamat": "Kotagede, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 3,
+   "mulai": "09:00",
+   "selesai": "10:30",
+   "kategori": "Kajian Muslimah",
+   "deskripsi": "Kajian rutin Rabu pagi khusus muslimah, materi bervariasi setiap bulan.",
+   "sumber": [
+    "https://t.me/s/kajianjogja"
+   ],
+   "terakhir_terlihat": "2026-09-18",
+   "confidence": "sedang",
+   "id": "kj_cff4d3c85d",
+   "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Kajian FKIM Rabu",
+   "pemateri": "",
+   "lokasi": "Musholla Teknologi, Fakultas Teknik UGM",
+   "alamat": "",
+   "kota": "Yogyakarta",
+   "hari": 3,
+   "mulai": "15:45",
+   "selesai": "17:00",
+   "kategori": "Kajian Kampus",
+   "deskripsi": "Kajian pekanan Forum Kajian Islam Mahasiswa (FKIM) setiap Rabu.",
+   "sumber": [
+    "https://muslimah.or.id/jadwal-kajian-rutin"
+   ],
+   "terakhir_terlihat": "2026-09-18",
+   "confidence": "sedang",
+   "id": "kj_1393c56d7b",
+   "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Kajian FKIM Kamis",
+   "pemateri": "",
+   "lokasi": "Mushola Al-Ihsan, Fakultas Kehutanan UGM",
+   "alamat": "",
+   "kota": "Yogyakarta",
+   "hari": 4,
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Kajian Kampus",
+   "deskripsi": "Kajian pekanan FKIM setiap Kamis ba'da Dzuhur.",
+   "sumber": [
+    "https://muslimah.or.id/jadwal-kajian-rutin"
+   ],
+   "terakhir_terlihat": "2026-09-18",
+   "confidence": "sedang",
+   "id": "kj_b751752c6e",
+   "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "KARUMAH (Kajian Rutin Khusus Muslimah)",
+   "pemateri": "Ustadz Zaid Susanto, Lc",
+   "lokasi": "Masjid Pogung Raya",
+   "alamat": "Pogung Dalangan, Sleman",
+   "kota": "Yogyakarta",
+   "hari": 7,
+   "mulai": "16:00",
+   "selesai": "17:15",
+   "kategori": "Kajian Muslimah",
+   "deskripsi": "Kajian rutin khusus muslimah setiap Ahad.",
+   "sumber": [
+    "https://muslimah.or.id/jadwal-kajian-rutin"
+   ],
+   "terakhir_terlihat": "2026-09-18",
+   "confidence": "sedang",
+   "id": "kj_420f116cc6",
+   "pertama_terlihat": "2026-09-18"
   }
  ],
  "agenda": []
