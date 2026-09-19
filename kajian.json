@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-09-18T08:13+07:00",
+ "diperbarui": "2026-09-19T08:13+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -11,7 +11,7 @@
   "Makassar",
   "Yogyakarta"
  ],
- "jumlah": 63,
+ "jumlah": 75,
  "jumlah_agenda": 0,
  "kajian": [
   {
@@ -24,11 +24,11 @@
    "mulai": "18:00",
    "selesai": "",
    "kategori": "Tematik",
-   "deskripsi": "Program rutin Senin tentang menjadi muslim yang produktif.",
+   "deskripsi": "Kajian rutin Senin sore sepulang kerja, program menjadi muslim yang produktif.",
    "sumber": [
     "https://kabarharmoni.com/2025/01/masjid-al-lathiif-miliki-3-program-utama-dengan-dukungan-medsos/"
    ],
-   "terakhir_terlihat": "2025-01-26",
+   "terakhir_terlihat": "2026-09-19",
    "confidence": "sedang",
    "id": "kj_6d387f0773",
    "pertama_terlihat": "2026-09-10"
@@ -53,6 +53,44 @@
    "pertama_terlihat": "2026-09-10"
   },
   {
+   "judul": "Kajian Murabbians (Selasa)",
+   "pemateri": "Ustadz Tengku Hanan Attaki, Lc.",
+   "lokasi": "Masjid Al-Murabbi",
+   "alamat": "Jl. Prof. Dr. Soetami No. 122, Bandung",
+   "kota": "Bandung",
+   "hari": 2,
+   "mulai": "18:30",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin Selasa malam ba'da Maghrib.",
+   "sumber": [
+    "https://blog.miftahussalam.com/jadwal-kajian-rutin-kota-bandung/"
+   ],
+   "terakhir_terlihat": "2026-09-19",
+   "confidence": "sedang",
+   "id": "kj_8f91d87f0a",
+   "pertama_terlihat": "2026-09-19"
+  },
+  {
+   "judul": "Pemuda Hijrah - Transtudio Mall",
+   "pemateri": "Ustadz Tengku Hanan Attaki, Lc.",
+   "lokasi": "Masjid Transtudio Mall",
+   "alamat": "Jl. Jendral Gatot Subroto No. 289, Cibangkong, Bandung",
+   "kota": "Bandung",
+   "hari": 3,
+   "mulai": "18:00",
+   "selesai": "20:30",
+   "kategori": "Pemuda",
+   "deskripsi": "Kajian rutin pemuda setiap Rabu malam.",
+   "sumber": [
+    "https://blog.miftahussalam.com/jadwal-kajian-rutin-kota-bandung/"
+   ],
+   "terakhir_terlihat": "2026-09-19",
+   "confidence": "sedang",
+   "id": "kj_7e6ec0f8c2",
+   "pertama_terlihat": "2026-09-19"
+  },
+  {
    "judul": "NgajiKitab",
    "pemateri": "",
    "lokasi": "Masjid Al-Lathiif",
@@ -66,10 +104,29 @@
    "sumber": [
     "https://kabarharmoni.com/2025/01/masjid-al-lathiif-miliki-3-program-utama-dengan-dukungan-medsos/"
    ],
-   "terakhir_terlihat": "2025-01-26",
+   "terakhir_terlihat": "2026-09-19",
    "confidence": "sedang",
    "id": "kj_72b439b761",
    "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Kajian Murabbians (Kamis)",
+   "pemateri": "Ustadz Guntur Eko",
+   "lokasi": "Masjid Al-Murabbi",
+   "alamat": "Jl. Prof. Dr. Soetami No. 122, Bandung",
+   "kota": "Bandung",
+   "hari": 4,
+   "mulai": "18:30",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin Kamis malam ba'da Maghrib.",
+   "sumber": [
+    "https://blog.miftahussalam.com/jadwal-kajian-rutin-kota-bandung/"
+   ],
+   "terakhir_terlihat": "2026-09-19",
+   "confidence": "sedang",
+   "id": "kj_f61a07db16",
+   "pertama_terlihat": "2026-09-19"
   },
   {
    "judul": "Kajian Kitab Arbain An-Nawawi",
@@ -120,15 +177,34 @@
    "mulai": "18:00",
    "selesai": "20:30",
    "kategori": "Pemuda",
-   "deskripsi": "Kajian Sabtu malam untuk pemuda (Ta'aruf Series).",
+   "deskripsi": "Ta'aruf Series, kajian Sabtu malam untuk pemuda membahas ilmu terkait pernikahan.",
    "sumber": [
     "https://kabarharmoni.com/2025/01/masjid-al-lathiif-miliki-3-program-utama-dengan-dukungan-medsos/",
     "https://blog.miftahussalam.com/jadwal-kajian-rutin-kota-bandung/"
    ],
-   "terakhir_terlihat": "2025-01-26",
-   "confidence": "sedang",
+   "terakhir_terlihat": "2026-09-19",
+   "confidence": "tinggi",
    "id": "kj_686359330d",
    "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Kajian Murabbians (Sabtu)",
+   "pemateri": "Ustadz Rahmat Baequni",
+   "lokasi": "Masjid Al-Murabbi",
+   "alamat": "Jl. Prof. Dr. Soetami No. 122, Bandung",
+   "kota": "Bandung",
+   "hari": 6,
+   "mulai": "18:30",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin Sabtu malam ba'da Maghrib.",
+   "sumber": [
+    "https://blog.miftahussalam.com/jadwal-kajian-rutin-kota-bandung/"
+   ],
+   "terakhir_terlihat": "2026-09-19",
+   "confidence": "sedang",
+   "id": "kj_a15588fca7",
+   "pertama_terlihat": "2026-09-19"
   },
   {
    "judul": "Kajian Rutin Khusus Muslimah",
@@ -606,10 +682,29 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-10",
+   "terakhir_terlihat": "2026-09-19",
    "confidence": "tinggi",
    "id": "kj_6b737c6f40",
    "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Tahsin Al-Quran Ibu-Ibu (Senin)",
+   "pemateri": "",
+   "lokasi": "Masjid Raya Pondok Indah - Ruang Pendidikan",
+   "alamat": "",
+   "kota": "Jakarta Selatan",
+   "hari": 1,
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Tahsin",
+   "deskripsi": "Kajian rutin Senin, tahsin Al-Quran untuk ibu-ibu sampai waktu Zhuhur.",
+   "sumber": [
+    "https://masjidrayapondokindah.com/news/45/Jadwal-Kajian-Rutin-Masjid-Raya-Pondok-Indah"
+   ],
+   "terakhir_terlihat": "2026-09-19",
+   "confidence": "sedang",
+   "id": "kj_754477fd53",
+   "pertama_terlihat": "2026-09-19"
   },
   {
    "judul": "Kitabul Ilmi Shahih Bukhari",
@@ -650,6 +745,25 @@
    "pertama_terlihat": "2026-09-10"
   },
   {
+   "judul": "Tadabbur Al-Quran AQL",
+   "pemateri": "Ustadz Bachtiar Nasir",
+   "lokasi": "Masjid Raya Pondok Indah",
+   "alamat": "",
+   "kota": "Jakarta Selatan",
+   "hari": 2,
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Tafsir",
+   "deskripsi": "Kajian rutin Selasa, Tadabbur Al-Quran AQL sampai waktu Zhuhur.",
+   "sumber": [
+    "https://masjidrayapondokindah.com/news/45/Jadwal-Kajian-Rutin-Masjid-Raya-Pondok-Indah"
+   ],
+   "terakhir_terlihat": "2026-09-19",
+   "confidence": "sedang",
+   "id": "kj_285cd88800",
+   "pertama_terlihat": "2026-09-19"
+  },
+  {
    "judul": "Kajian Kitab (Selasa)",
    "pemateri": "Ustadz Fatahillah Aly",
    "lokasi": "Masjid Nurul Iman Blok M Square Lt. 7",
@@ -669,6 +783,44 @@
    "pertama_terlihat": "2026-09-10"
   },
   {
+   "judul": "Kursus Memahami Al-Quran",
+   "pemateri": "Ustadz Drs. H. Uci Armisi",
+   "lokasi": "Masjid Raya Pondok Indah",
+   "alamat": "",
+   "kota": "Jakarta Selatan",
+   "hari": 2,
+   "mulai": "13:30",
+   "selesai": "15:30",
+   "kategori": "Tafsir",
+   "deskripsi": "Kajian rutin Selasa siang, kursus memahami Al-Quran.",
+   "sumber": [
+    "https://masjidrayapondokindah.com/news/45/Jadwal-Kajian-Rutin-Masjid-Raya-Pondok-Indah"
+   ],
+   "terakhir_terlihat": "2026-09-19",
+   "confidence": "sedang",
+   "id": "kj_3ab66f4de1",
+   "pertama_terlihat": "2026-09-19"
+  },
+  {
+   "judul": "Studi Islam Al-Hilal (Kelas Ibu-Ibu)",
+   "pemateri": "",
+   "lokasi": "Masjid Raya Pondok Indah",
+   "alamat": "",
+   "kota": "Jakarta Selatan",
+   "hari": 3,
+   "mulai": "09:30",
+   "selesai": "11:30",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin Rabu, kelas ibu-ibu Studi Islam Al-Hilal.",
+   "sumber": [
+    "https://masjidrayapondokindah.com/news/45/Jadwal-Kajian-Rutin-Masjid-Raya-Pondok-Indah"
+   ],
+   "terakhir_terlihat": "2026-09-19",
+   "confidence": "sedang",
+   "id": "kj_49f276b58f",
+   "pertama_terlihat": "2026-09-19"
+  },
+  {
    "judul": "MT. Rabu Pagi",
    "pemateri": "",
    "lokasi": "Masjid Agung Al-Azhar - Ruang Utama Masjid",
@@ -682,7 +834,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-10",
+   "terakhir_terlihat": "2026-09-19",
    "confidence": "tinggi",
    "id": "kj_992b43b53c",
    "pertama_terlihat": "2026-09-10"
@@ -743,6 +895,25 @@
    "confidence": "sedang",
    "id": "kj_6e30cade0f",
    "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Tahsin Al-Quran Ibu-Ibu (Kamis)",
+   "pemateri": "",
+   "lokasi": "Masjid Raya Pondok Indah - Ruang Pendidikan",
+   "alamat": "",
+   "kota": "Jakarta Selatan",
+   "hari": 4,
+   "mulai": "09:00",
+   "selesai": "11:00",
+   "kategori": "Tahsin",
+   "deskripsi": "Kajian rutin Kamis, tahsin Al-Quran untuk ibu-ibu.",
+   "sumber": [
+    "https://masjidrayapondokindah.com/news/45/Jadwal-Kajian-Rutin-Masjid-Raya-Pondok-Indah"
+   ],
+   "terakhir_terlihat": "2026-09-19",
+   "confidence": "sedang",
+   "id": "kj_540b22fd74",
+   "pertama_terlihat": "2026-09-19"
   },
   {
    "judul": "Fiqih Dzikir dan Do'a",
@@ -815,7 +986,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-10",
+   "terakhir_terlihat": "2026-09-19",
    "confidence": "tinggi",
    "id": "kj_842ad2efb4",
    "pertama_terlihat": "2026-09-10"
@@ -840,6 +1011,25 @@
    "pertama_terlihat": "2026-09-10"
   },
   {
+   "judul": "Kajian Shubuh & Syuruq",
+   "pemateri": "",
+   "lokasi": "Masjid Raya Pondok Indah",
+   "alamat": "",
+   "kota": "Jakarta Selatan",
+   "hari": 6,
+   "mulai": "07:00",
+   "selesai": "08:30",
+   "kategori": "Kajian Subuh",
+   "deskripsi": "Kajian rutin Sabtu, shalat Subuh dilanjut kajian Subuh sampai Syuruq.",
+   "sumber": [
+    "https://masjidrayapondokindah.com/news/45/Jadwal-Kajian-Rutin-Masjid-Raya-Pondok-Indah"
+   ],
+   "terakhir_terlihat": "2026-09-19",
+   "confidence": "sedang",
+   "id": "kj_0229d62049",
+   "pertama_terlihat": "2026-09-19"
+  },
+  {
    "judul": "MT. Sabtu Pagi",
    "pemateri": "",
    "lokasi": "Masjid Agung Al-Azhar - Ruang Kelas ABH",
@@ -853,7 +1043,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-10",
+   "terakhir_terlihat": "2026-09-19",
    "confidence": "tinggi",
    "id": "kj_363efaf21c",
    "pertama_terlihat": "2026-09-10"
@@ -872,10 +1062,48 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-10",
+   "terakhir_terlihat": "2026-09-19",
    "confidence": "tinggi",
    "id": "kj_3a05c8677f",
    "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Kajian Ahad Pagi",
+   "pemateri": "",
+   "lokasi": "Masjid Raya Pondok Indah",
+   "alamat": "",
+   "kota": "Jakarta Selatan",
+   "hari": 7,
+   "mulai": "07:00",
+   "selesai": "08:30",
+   "kategori": "Kajian Subuh",
+   "deskripsi": "Kajian rutin Ahad pagi dengan ustadz terjadwal.",
+   "sumber": [
+    "https://masjidrayapondokindah.com/news/45/Jadwal-Kajian-Rutin-Masjid-Raya-Pondok-Indah"
+   ],
+   "terakhir_terlihat": "2026-09-19",
+   "confidence": "sedang",
+   "id": "kj_a20e8fb718",
+   "pertama_terlihat": "2026-09-19"
+  },
+  {
+   "judul": "Kajian Tematik Ahad",
+   "pemateri": "",
+   "lokasi": "Masjid Raya Pondok Indah",
+   "alamat": "",
+   "kota": "Jakarta Selatan",
+   "hari": 7,
+   "mulai": "09:00",
+   "selesai": "11:30",
+   "kategori": "Tematik",
+   "deskripsi": "Kajian tematik rutin Ahad pagi.",
+   "sumber": [
+    "https://masjidrayapondokindah.com/news/45/Jadwal-Kajian-Rutin-Masjid-Raya-Pondok-Indah"
+   ],
+   "terakhir_terlihat": "2026-09-19",
+   "confidence": "sedang",
+   "id": "kj_17ef15c6da",
+   "pertama_terlihat": "2026-09-19"
   },
   {
    "judul": "MT. Ahad Pagi",
@@ -891,7 +1119,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-10",
+   "terakhir_terlihat": "2026-09-19",
    "confidence": "tinggi",
    "id": "kj_9a4162391f",
    "pertama_terlihat": "2026-09-10"
