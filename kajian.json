@@ -1,18 +1,21 @@
 {
  "versi": 2,
- "diperbarui": "2026-09-19T08:13+07:00",
+ "diperbarui": "2026-09-20T08:19+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
+  "Bogor",
   "Depok",
+  "Jakarta Barat",
   "Jakarta Pusat",
   "Jakarta Selatan",
+  "Jakarta Timur",
   "Jakarta Utara",
   "Makassar",
   "Yogyakarta"
  ],
- "jumlah": 75,
- "jumlah_agenda": 0,
+ "jumlah": 82,
+ "jumlah_agenda": 1,
  "kajian": [
   {
    "judul": "AfterWork",
@@ -376,6 +379,121 @@
    "confidence": "sedang",
    "id": "kj_40d731e39e",
    "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "Kajian Rutin Muslimah",
+   "pemateri": "Ustadz Abu Yusuf",
+   "lokasi": "Masjid Alumni IPB",
+   "alamat": "",
+   "kota": "Bogor",
+   "hari": 1,
+   "mulai": "08:00",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin muslimah setiap Senin pagi.",
+   "sumber": [
+    "https://majlis.id/events?city=Bogor&sort=date_asc"
+   ],
+   "terakhir_terlihat": "2026-09-20",
+   "confidence": "sedang",
+   "id": "kj_64aa1f9ce3",
+   "pertama_terlihat": "2026-09-20"
+  },
+  {
+   "judul": "Memahami Ad-Dholalah / Kesesatan",
+   "pemateri": "Ustadz Hafizuddin Siddiq, M.Pd",
+   "lokasi": "Masjid Jami' At-Taqwa",
+   "alamat": "",
+   "kota": "Bogor",
+   "hari": 7,
+   "mulai": "04:30",
+   "selesai": "",
+   "kategori": "Aqidah",
+   "deskripsi": "Kajian rutin Ahad ba'da Subuh sampai Syuruq, membahas aqidah Ahlussunnah Wal Jama'ah.",
+   "sumber": [
+    "https://majlis.id/events?city=Bogor&sort=date_asc"
+   ],
+   "terakhir_terlihat": "2026-09-20",
+   "confidence": "sedang",
+   "id": "kj_e2a0637aae",
+   "pertama_terlihat": "2026-09-20"
+  },
+  {
+   "judul": "Kajian Subuh - Kitab Al-Kaba'ir",
+   "pemateri": "Ustadz Muhammad Malik",
+   "lokasi": "Masjid Raya Al Muttaqin",
+   "alamat": "",
+   "kota": "Bogor",
+   "hari": 7,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin Ahad pagi ba'da Subuh, kitab Al-Kaba'ir.",
+   "sumber": [
+    "https://majlis.id/events?city=Bogor&sort=date_asc"
+   ],
+   "terakhir_terlihat": "2026-09-20",
+   "confidence": "sedang",
+   "id": "kj_c2a44d757d",
+   "pertama_terlihat": "2026-09-20"
+  },
+  {
+   "judul": "Kitab Al-Kaba'ir (Lanjutan)",
+   "pemateri": "Ustadz Abu Bakar Al Akhdory, Lc, M.Pd",
+   "lokasi": "Masjid Al-Ikhlas Cikaret",
+   "alamat": "Perumahan Puri Nirwana 2, Harapan Jaya, Kec. Cibinong",
+   "kota": "Bogor",
+   "hari": 7,
+   "mulai": "05:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin Ahad ba'da Subuh, kitab Al-Kaba'ir (pertemuan berseri, terlihat pertemuan ke-22).",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID?before=377752"
+   ],
+   "terakhir_terlihat": "2026-09-20",
+   "confidence": "sedang",
+   "id": "kj_579c3013f3",
+   "pertama_terlihat": "2026-09-20"
+  },
+  {
+   "judul": "Pengajian Rutin (RM15)",
+   "pemateri": "Ustadzah Syarifah Khairiyah Al Habsyi",
+   "lokasi": "Masjid Jamiatul Khair",
+   "alamat": "Perumahan Bojonggede Asri",
+   "kota": "Bogor",
+   "hari": 7,
+   "mulai": "08:00",
+   "selesai": "",
+   "kategori": "Pengajian Muslimah",
+   "deskripsi": "Pengajian rutin muslimah setiap Ahad pagi.",
+   "sumber": [
+    "https://majlis.id/events?city=Bogor&sort=date_asc"
+   ],
+   "terakhir_terlihat": "2026-09-20",
+   "confidence": "rendah",
+   "id": "kj_3d56bcd048",
+   "pertama_terlihat": "2026-09-20"
+  },
+  {
+   "judul": "Riyadush Shalihin & Kitab Tauhid",
+   "pemateri": "Ustadz Fathi Jawas",
+   "lokasi": "Masjid Nurut Tauhid",
+   "alamat": "Perumahan Griya Nuraida, Cimahpar, Bogor Utara",
+   "kota": "Bogor",
+   "hari": 7,
+   "mulai": "09:00",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin ikhwan & akhwat setiap Ahad pagi.",
+   "sumber": [
+    "https://majlis.id/events?city=Bogor&sort=date_asc",
+    "https://t.me/s/jadwalkajianID?before=377752"
+   ],
+   "terakhir_terlihat": "2026-09-20",
+   "confidence": "tinggi",
+   "id": "kj_b6a9edf8dd",
+   "pertama_terlihat": "2026-09-20"
   },
   {
    "judul": "Kajian Muslimah Kamis",
@@ -1125,6 +1243,25 @@
    "pertama_terlihat": "2026-09-10"
   },
   {
+   "judul": "Kajian Rutin Ahad Pagi",
+   "pemateri": "Ustadz Abu Usamah Samsul Hadi",
+   "lokasi": "Masjid Soleh Hawa",
+   "alamat": "Jl. Raya Ceger No.3, RT.005/001, Ceger, Cipayung",
+   "kota": "Jakarta Timur",
+   "hari": 7,
+   "mulai": "09:00",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin terbuka untuk umum (ikhwan & akhwat), kitab Minhaj al-Firqah an-Najiyah.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID?before=377792"
+   ],
+   "terakhir_terlihat": "2026-09-20",
+   "confidence": "sedang",
+   "id": "kj_69156905d5",
+   "pertama_terlihat": "2026-09-20"
+  },
+  {
    "judul": "Kajian Tafsir Al-Munir",
    "pemateri": "",
    "lokasi": "Masjid Ad-Da'wah",
@@ -1448,5 +1585,27 @@
    "pertama_terlihat": "2026-09-18"
   }
  ],
- "agenda": []
+ "agenda": [
+  {
+   "judul": "Kenalilah Perkara yang Dicintai & Dibenci",
+   "pemateri": "Ustadz Adam Badar Bajrey, Lc",
+   "lokasi": "Masjid Al Ikhlas Cengkareng",
+   "alamat": "Jl. Mutiara, Komplek Permata, Daan Mogot, Cengkareng",
+   "kota": "Jakarta Barat",
+   "tanggal": "2026-09-20",
+   "mulai": "13:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian Ahad siang di Masjid Al Ikhlas Cengkareng.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID?before=377772"
+   ],
+   "terakhir_terlihat": "2026-09-20",
+   "confidence": "sedang",
+   "id": "ag_0892c08811",
+   "pertama_terlihat": "2026-09-20"
+  }
+ ]
 }

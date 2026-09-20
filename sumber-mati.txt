@@ -2,3 +2,8 @@ https://jadwalkajian.com/jadwal-kajian/depok/ — 404 (2026-09-17), jangan coba 
 https://jadwalkajian.com/jadwal-kajian/kab-bekasi/ — 404 (2026-09-17), jangan coba lagi sampai 2026-10-17
 https://jadwalkajian.com/jadwal-kajian/jakarta-selatan/ — 404 (2026-09-19), jangan coba lagi sampai 2026-10-19
 https://masjidrayapondokindah.com — DNS tidak resolve, dicoba 2x (root & /news/45/...) (2026-09-19), jangan coba lagi sampai 2026-10-19
+https://jadwalkajian.com/jadwal-kajian/bogor/ — 404 (2026-09-20), jangan coba lagi sampai 2026-10-20
+https://jadwalkajian.com/jadwal-kajian/jakarta-timur/ — 404 (2026-09-20), jangan coba lagi sampai 2026-10-20
+https://jadwalkajian.com/jadwal-kajian/jakarta-barat/ — 404 (2026-09-20), jangan coba lagi sampai 2026-10-20
+https://sebaris.id/events.php — 403 Forbidden (crawler diblokir) (2026-09-20), jangan coba lagi sampai 2026-10-20
+https://alfurqonkalideres.com — domain tidak resolve (2026-09-20), jangan coba lagi sampai 2026-10-20
