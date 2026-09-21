@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-09-20T08:19+07:00",
+ "diperbarui": "2026-09-21T08:14+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -12,9 +12,11 @@
   "Jakarta Timur",
   "Jakarta Utara",
   "Makassar",
+  "Surabaya",
+  "Tangerang",
   "Yogyakarta"
  ],
- "jumlah": 82,
+ "jumlah": 89,
  "jumlah_agenda": 1,
  "kajian": [
   {
@@ -1469,6 +1471,139 @@
    "confidence": "tinggi",
    "id": "kj_313b976861",
    "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Ngaji Kitab Nashoihul Ibad",
+   "pemateri": "Ustadz H. Ahmad Muzakky, S.Th.I, Al Hafidz",
+   "lokasi": "Masjid Nasional Al Akbar Surabaya",
+   "alamat": "Jl. Masjid Al-Akbar Timur No. 1, Surabaya",
+   "kota": "Surabaya",
+   "hari": 1,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin setiap Senin ba'da Maghrib, Kitab Nashoihul Ibad, di Ruang Utama.",
+   "sumber": [
+    "https://kabarmasjid.id/agenda-event/berbagai-kajian-rutin-digelar-di-masjid-al-akbar-surabaya-terbuka-untuk-umum/"
+   ],
+   "terakhir_terlihat": "2026-09-21",
+   "confidence": "tinggi",
+   "id": "kj_2eadb5c01d",
+   "pertama_terlihat": "2026-09-21"
+  },
+  {
+   "judul": "Ngaji Kitab Tafsir Jalalain",
+   "pemateri": "Ustadz H. M. Husni Mubarak, M.Ag, Al Hafidz",
+   "lokasi": "Masjid Nasional Al Akbar Surabaya",
+   "alamat": "Jl. Masjid Al-Akbar Timur No. 1, Surabaya",
+   "kota": "Surabaya",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Tafsir",
+   "deskripsi": "Kajian rutin setiap Selasa ba'da Maghrib, Tafsir Jalalain, di Ruang Utama.",
+   "sumber": [
+    "https://kabarmasjid.id/agenda-event/berbagai-kajian-rutin-digelar-di-masjid-al-akbar-surabaya-terbuka-untuk-umum/"
+   ],
+   "terakhir_terlihat": "2026-09-21",
+   "confidence": "tinggi",
+   "id": "kj_5770cd40e9",
+   "pertama_terlihat": "2026-09-21"
+  },
+  {
+   "judul": "Kajian Fiqih Rutin: Kitab Safinatun Najah",
+   "pemateri": "Ustadz Drs. Muzammil Chanif",
+   "lokasi": "Masjid Sabilul Muttaqin Tembok Dukuh 9",
+   "alamat": "Tembok Dukuh, Surabaya",
+   "kota": "Surabaya",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Fiqih",
+   "deskripsi": "Kajian fiqih rutin setiap pekan pada hari Selasa ba'da Maghrib, membahas Kitab Safinatun Najah (Syarat Sah dan Rukun Sholat).",
+   "sumber": [
+    "https://www.surabayapos.com/2026/07/masjid-sabilul-muttaqin-tembok-dukuh-9.html"
+   ],
+   "terakhir_terlihat": "2026-09-21",
+   "confidence": "sedang",
+   "id": "kj_83df81ea6c",
+   "pertama_terlihat": "2026-09-21"
+  },
+  {
+   "judul": "Kajian Rabu Malam: Kitab Riyadus Sholihin",
+   "pemateri": "Ustadz H. Moh. Sholeh Drehem, Lc., M.Ag",
+   "lokasi": "Masjid Nasional Al Akbar Surabaya",
+   "alamat": "Jl. Masjid Al-Akbar Timur No. 1, Surabaya",
+   "kota": "Surabaya",
+   "hari": 3,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin setiap Rabu ba'da Maghrib, Kitab Riyadus Sholihin, pemateri bergantian dengan Prof. HM Ali Aziz dan KH Ma'ruf Khozin.",
+   "sumber": [
+    "https://kabarmasjid.id/agenda-event/berbagai-kajian-rutin-digelar-di-masjid-al-akbar-surabaya-terbuka-untuk-umum/"
+   ],
+   "terakhir_terlihat": "2026-09-21",
+   "confidence": "tinggi",
+   "id": "kj_b69e3e6793",
+   "pertama_terlihat": "2026-09-21"
+  },
+  {
+   "judul": "Kajian Muslimah MAS",
+   "pemateri": "Ustadzah Evie Silfia Zubaidi",
+   "lokasi": "Masjid Nasional Al Akbar Surabaya",
+   "alamat": "Jl. Masjid Al-Akbar Timur No. 1, Surabaya (Area Air Mancur)",
+   "kota": "Surabaya",
+   "hari": 6,
+   "mulai": "08:00",
+   "selesai": "",
+   "kategori": "Muslimah",
+   "deskripsi": "Kajian rutin muslimah setiap Sabtu pagi di area Air Mancur.",
+   "sumber": [
+    "https://kabarmasjid.id/agenda-event/berbagai-kajian-rutin-digelar-di-masjid-al-akbar-surabaya-terbuka-untuk-umum/"
+   ],
+   "terakhir_terlihat": "2026-09-21",
+   "confidence": "rendah",
+   "id": "kj_6379a3caaf",
+   "pertama_terlihat": "2026-09-21"
+  },
+  {
+   "judul": "Syarah Riyadhush Shalihin (Khusus Akhwat)",
+   "pemateri": "Ustadz Abu Yahya Badrussalam, Lc",
+   "lokasi": "Masjid As Sunnah Bintaro",
+   "alamat": "Belakang Bintaro Plaza, Jl. Nusa Jaya, Bintaro Sektor 3A, Tangerang Selatan",
+   "kota": "Tangerang",
+   "hari": 1,
+   "mulai": "09:00",
+   "selesai": "",
+   "kategori": "Muslimah",
+   "deskripsi": "Kajian rutin setiap Senin pagi khusus akhwat, Syarah Riyadhush Shalihin.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-09-21",
+   "confidence": "sedang",
+   "id": "kj_116bfb142c",
+   "pertama_terlihat": "2026-09-21"
+  },
+  {
+   "judul": "Syarah Kitab Riyadush Shalihin",
+   "pemateri": "Ustadz Dr. Firanda Andirja, MA",
+   "lokasi": "Masjid An-Naba' Graha Raya Bintaro",
+   "alamat": "Jl. Akses Graha Raya Bintaro KM.01, Regency Pinang, Kota Tangerang",
+   "kota": "Tangerang",
+   "hari": 1,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin setiap Senin ba'da Maghrib, Syarah Kitab Riyadush Shalihin.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-09-21",
+   "confidence": "sedang",
+   "id": "kj_7f6b65abe7",
+   "pertama_terlihat": "2026-09-21"
   },
   {
    "judul": "Kitab Al-Kabair (Dosa-Dosa Besar)",

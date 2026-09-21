@@ -7,3 +7,10 @@ https://jadwalkajian.com/jadwal-kajian/jakarta-timur/ — 404 (2026-09-20), jang
 https://jadwalkajian.com/jadwal-kajian/jakarta-barat/ — 404 (2026-09-20), jangan coba lagi sampai 2026-10-20
 https://sebaris.id/events.php — 403 Forbidden (crawler diblokir) (2026-09-20), jangan coba lagi sampai 2026-10-20
 https://alfurqonkalideres.com — domain tidak resolve (2026-09-20), jangan coba lagi sampai 2026-10-20
+https://jadwalkajian.com/jadwal-kajian/tangerang/ — 404, dicoba 2x (2026-09-21), jangan coba lagi sampai 2026-10-21
+https://jadwalkajian.com/tangerang/ — 404 (2026-09-21), jangan coba lagi sampai 2026-10-21
+https://jadwalkajian.com/jadwal-kajian/surabaya/ — 404, dicoba 2x (2026-09-21), jangan coba lagi sampai 2026-10-21
+https://jadwalkajian.com/surabaya/ — 404 (2026-09-21), jangan coba lagi sampai 2026-10-21
+https://masjidrayabintarojaya.org — akun hosting disuspend (2026-09-21), jangan coba lagi sampai 2026-10-21
+http://masjidrayabaniumar.org — halaman kosong/tidak memuat konten (2026-09-21), jangan coba lagi sampai 2026-10-21
+https://masjidalirsyadsurabaya.or.id — domain tidak resolve (2026-09-21), jangan coba lagi sampai 2026-10-21
