@@ -1,12 +1,11 @@
 {
  "versi": 2,
- "diperbarui": "2026-09-21T08:14+07:00",
+ "diperbarui": "2026-09-22T08:13+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
   "Bogor",
   "Depok",
-  "Jakarta Barat",
   "Jakarta Pusat",
   "Jakarta Selatan",
   "Jakarta Timur",
@@ -16,9 +15,28 @@
   "Tangerang",
   "Yogyakarta"
  ],
- "jumlah": 89,
- "jumlah_agenda": 1,
+ "jumlah": 99,
+ "jumlah_agenda": 0,
  "kajian": [
+  {
+   "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 1,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Tafsir",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Senin.",
+   "sumber": [
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
+   ],
+   "terakhir_terlihat": "2026-09-22",
+   "confidence": "sedang",
+   "id": "kj_aead3fa771",
+   "pertama_terlihat": "2026-09-22"
+  },
   {
    "judul": "AfterWork",
    "pemateri": "",
@@ -37,6 +55,25 @@
    "confidence": "sedang",
    "id": "kj_6d387f0773",
    "pertama_terlihat": "2026-09-10"
+  },
+  {
+   "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 2,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Tafsir",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Selasa.",
+   "sumber": [
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
+   ],
+   "terakhir_terlihat": "2026-09-22",
+   "confidence": "sedang",
+   "id": "kj_35428f0373",
+   "pertama_terlihat": "2026-09-22"
   },
   {
    "judul": "Kajian Kitab Fawaidul Fawaid",
@@ -58,6 +95,25 @@
    "pertama_terlihat": "2026-09-10"
   },
   {
+   "judul": "Kajian Kitab Shahih Bukhari",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin ba'da Maghrib setiap Selasa.",
+   "sumber": [
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
+   ],
+   "terakhir_terlihat": "2026-09-22",
+   "confidence": "sedang",
+   "id": "kj_e1a239e30e",
+   "pertama_terlihat": "2026-09-22"
+  },
+  {
    "judul": "Kajian Murabbians (Selasa)",
    "pemateri": "Ustadz Tengku Hanan Attaki, Lc.",
    "lokasi": "Masjid Al-Murabbi",
@@ -77,6 +133,25 @@
    "pertama_terlihat": "2026-09-19"
   },
   {
+   "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 3,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Tafsir",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Rabu.",
+   "sumber": [
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
+   ],
+   "terakhir_terlihat": "2026-09-22",
+   "confidence": "sedang",
+   "id": "kj_6f223b0cdc",
+   "pertama_terlihat": "2026-09-22"
+  },
+  {
    "judul": "Pemuda Hijrah - Transtudio Mall",
    "pemateri": "Ustadz Tengku Hanan Attaki, Lc.",
    "lokasi": "Masjid Transtudio Mall",
@@ -94,6 +169,25 @@
    "confidence": "sedang",
    "id": "kj_7e6ec0f8c2",
    "pertama_terlihat": "2026-09-19"
+  },
+  {
+   "judul": "Kajian Kitab Fiqhul Muyassar",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 4,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Fikih",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Kamis.",
+   "sumber": [
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
+   ],
+   "terakhir_terlihat": "2026-09-22",
+   "confidence": "sedang",
+   "id": "kj_86325e2cc3",
+   "pertama_terlihat": "2026-09-22"
   },
   {
    "judul": "NgajiKitab",
@@ -153,6 +247,25 @@
    "pertama_terlihat": "2026-09-10"
   },
   {
+   "judul": "Kajian Kitab Fiqhul Muyassar",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 6,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Fikih",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Sabtu.",
+   "sumber": [
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
+   ],
+   "terakhir_terlihat": "2026-09-22",
+   "confidence": "sedang",
+   "id": "kj_afe10c8b81",
+   "pertama_terlihat": "2026-09-22"
+  },
+  {
    "judul": "Kajian Kitab Mukhtashor Shahih Bukhori",
    "pemateri": "Ustadz Abu Yahya Badru Salam, Lc.",
    "lokasi": "Masjid Agung Al-Ukhuwah",
@@ -193,6 +306,25 @@
    "pertama_terlihat": "2026-09-10"
   },
   {
+   "judul": "Kajian Kitab Shahih Bukhari",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 6,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin ba'da Maghrib setiap Sabtu.",
+   "sumber": [
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
+   ],
+   "terakhir_terlihat": "2026-09-22",
+   "confidence": "sedang",
+   "id": "kj_c31dc460fd",
+   "pertama_terlihat": "2026-09-22"
+  },
+  {
    "judul": "Kajian Murabbians (Sabtu)",
    "pemateri": "Ustadz Rahmat Baequni",
    "lokasi": "Masjid Al-Murabbi",
@@ -210,6 +342,63 @@
    "confidence": "sedang",
    "id": "kj_a15588fca7",
    "pertama_terlihat": "2026-09-19"
+  },
+  {
+   "judul": "Kajian Kitab Fiqhul Muyassar",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 7,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Fikih",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Ahad.",
+   "sumber": [
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
+   ],
+   "terakhir_terlihat": "2026-09-22",
+   "confidence": "sedang",
+   "id": "kj_7315341d09",
+   "pertama_terlihat": "2026-09-22"
+  },
+  {
+   "judul": "Kajian Khusus Wanita Ba'da Ashar",
+   "pemateri": "Bergantian mingguan: Ust. Zainal Abidin Syamsuddin, Ust. Resa Gunarsa, Ust. Abu Abdul Aziz Muhtarom, dll.",
+   "lokasi": "Masjid Agung Cimahi",
+   "alamat": "Alun-alun Kota Cimahi",
+   "kota": "Bandung",
+   "hari": 7,
+   "mulai": "15:30",
+   "selesai": "",
+   "kategori": "Majelis Taklim",
+   "deskripsi": "Kajian rutin khusus wanita ba'da Ashar hingga menjelang Maghrib setiap Ahad, pemateri dan tema bergantian tiap pekan.",
+   "sumber": [
+    "https://islamdownload.net/125275-kajian-sunnah-salafi-cimahi-bandung-barat.html"
+   ],
+   "terakhir_terlihat": "2026-09-22",
+   "confidence": "sedang",
+   "id": "kj_b8ff65d542",
+   "pertama_terlihat": "2026-09-22"
+  },
+  {
+   "judul": "Kajian Kitab Shahih Bukhari",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 7,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin ba'da Maghrib setiap Ahad.",
+   "sumber": [
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
+   ],
+   "terakhir_terlihat": "2026-09-22",
+   "confidence": "sedang",
+   "id": "kj_8591845048",
+   "pertama_terlihat": "2026-09-22"
   },
   {
    "judul": "Kajian Rutin Khusus Muslimah",
@@ -587,7 +776,7 @@
    "sumber": [
     "https://masjidcutmeutia.com/pengajian-tri-in-one/"
    ],
-   "terakhir_terlihat": "2026-09-16",
+   "terakhir_terlihat": "2026-09-22",
    "confidence": "tinggi",
    "id": "kj_25e88ef774",
    "pertama_terlihat": "2026-09-16"
@@ -626,7 +815,7 @@
    "sumber": [
     "https://masjidcutmeutia.com/pengajian-tri-in-one/"
    ],
-   "terakhir_terlihat": "2026-09-16",
+   "terakhir_terlihat": "2026-09-22",
    "confidence": "tinggi",
    "id": "kj_ee5bd6f2d9",
    "pertama_terlihat": "2026-09-16"
@@ -665,7 +854,7 @@
    "sumber": [
     "https://masjidcutmeutia.com/pengajian-tri-in-one/"
    ],
-   "terakhir_terlihat": "2026-09-16",
+   "terakhir_terlihat": "2026-09-22",
    "confidence": "tinggi",
    "id": "kj_e6f9b69079",
    "pertama_terlihat": "2026-09-16"
@@ -684,7 +873,7 @@
    "sumber": [
     "https://masjidcutmeutia.com/pengajian-tri-in-one/"
    ],
-   "terakhir_terlihat": "2026-09-16",
+   "terakhir_terlihat": "2026-09-22",
    "confidence": "tinggi",
    "id": "kj_43570d5c78",
    "pertama_terlihat": "2026-09-16"
@@ -1720,27 +1909,5 @@
    "pertama_terlihat": "2026-09-18"
   }
  ],
- "agenda": [
-  {
-   "judul": "Kenalilah Perkara yang Dicintai & Dibenci",
-   "pemateri": "Ustadz Adam Badar Bajrey, Lc",
-   "lokasi": "Masjid Al Ikhlas Cengkareng",
-   "alamat": "Jl. Mutiara, Komplek Permata, Daan Mogot, Cengkareng",
-   "kota": "Jakarta Barat",
-   "tanggal": "2026-09-20",
-   "mulai": "13:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian Ahad siang di Masjid Al Ikhlas Cengkareng.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID?before=377772"
-   ],
-   "terakhir_terlihat": "2026-09-20",
-   "confidence": "sedang",
-   "id": "ag_0892c08811",
-   "pertama_terlihat": "2026-09-20"
-  }
- ]
+ "agenda": []
 }

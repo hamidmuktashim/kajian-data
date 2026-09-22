@@ -14,3 +14,8 @@ https://jadwalkajian.com/surabaya/ — 404 (2026-09-21), jangan coba lagi sampai
 https://masjidrayabintarojaya.org — akun hosting disuspend (2026-09-21), jangan coba lagi sampai 2026-10-21
 http://masjidrayabaniumar.org — halaman kosong/tidak memuat konten (2026-09-21), jangan coba lagi sampai 2026-10-21
 https://masjidalirsyadsurabaya.or.id — domain tidak resolve (2026-09-21), jangan coba lagi sampai 2026-10-21
+https://jadwalkajian.com/jadwal-kajian/kab-bandung/ — 404 (2026-09-22), jangan coba lagi sampai 2026-10-22
+https://jadwalkajian.com/jadwal-kajian/jakarta-utara/ — 404 (2026-09-22), jangan coba lagi sampai 2026-10-22
+https://jadwalkajian.com/jadwal-kajian/jakarta-pusat/ — 404 (2026-09-22), jangan coba lagi sampai 2026-10-22
+https://istiqlal.or.id — 403 Forbidden, dicoba 2x (root & /kajian) (2026-09-22), jangan coba lagi sampai 2026-10-22
+https://masjidsundakelapa.or.id — DNS tidak resolve (domain resmi di AGENT.md salah; yang aktif: masjid-sundakelapa.id) (2026-09-22), jangan coba lagi sampai 2026-10-22
