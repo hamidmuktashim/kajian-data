@@ -19,3 +19,7 @@ https://jadwalkajian.com/jadwal-kajian/jakarta-utara/ — 404 (2026-09-22), jang
 https://jadwalkajian.com/jadwal-kajian/jakarta-pusat/ — 404 (2026-09-22), jangan coba lagi sampai 2026-10-22
 https://istiqlal.or.id — 403 Forbidden, dicoba 2x (root & /kajian) (2026-09-22), jangan coba lagi sampai 2026-10-22
 https://masjidsundakelapa.or.id — DNS tidak resolve (domain resmi di AGENT.md salah; yang aktif: masjid-sundakelapa.id) (2026-09-22), jangan coba lagi sampai 2026-10-22
+https://jadwalkajian.com/jadwal-kajian/bekasi/ — 404, dicoba 2x (2026-09-23), jangan coba lagi sampai 2026-10-23
+https://mesjidui.ui.ac.id/category/kajian-rutin/ — 403 Forbidden, dicoba 2x (2026-09-23), jangan coba lagi sampai 2026-10-23
+https://jadwalevent.web.id/informasi-kajian-di-jakarta-dan-sekitarnya-jabodetabek-serta-kendari — 503 Service Unavailable, dicoba 2x (2026-09-23), jangan coba lagi sampai 2026-10-23
+https://alazharjp.or.id — DNS tidak resolve, dicoba 2x (2026-09-23). PERHATIAN: satu-satunya sumber entri "Kajian Islam Pemuda Masjid (GEMMA)" Al-Azhar Jakapermai di kajian.json kini mati; entri lama dibiarkan (belum kadaluarsa) tapi perlu dicek ulang manual. Jangan coba lagi sampai 2026-10-23.
