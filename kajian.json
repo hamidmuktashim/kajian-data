@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-09-23T08:12+07:00",
+ "diperbarui": "2026-09-24T08:13+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -15,7 +15,7 @@
   "Tangerang",
   "Yogyakarta"
  ],
- "jumlah": 120,
+ "jumlah": 141,
  "jumlah_agenda": 4,
  "kajian": [
   {
@@ -1890,6 +1890,63 @@
    "pertama_terlihat": "2026-09-16"
   },
   {
+   "judul": "Taisirul Karimir Rahman",
+   "pemateri": "Ustadz Khaidir Muhammad Sunusi",
+   "lokasi": "Masjid As-Sunnah",
+   "alamat": "Jl. Baji Rupa No. 8, Makassar",
+   "kota": "Makassar",
+   "hari": 1,
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Tafsir",
+   "deskripsi": "Kajian rutin Senin ba'da Zhuhur, Markaz Dakwah untuk Bimbingan dan Taklim.",
+   "sumber": [
+    "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "tinggi",
+   "id": "kj_c5addf2567",
+   "pertama_terlihat": "2026-09-24"
+  },
+  {
+   "judul": "Shahih Al-Bukhari (Senin)",
+   "pemateri": "Ustadz Dzulqarnain M. Sunusi",
+   "lokasi": "Masjid As-Sunnah",
+   "alamat": "Jl. Baji Rupa No. 8, Makassar",
+   "kota": "Makassar",
+   "hari": 1,
+   "mulai": "15:30",
+   "selesai": "",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin Senin ba'da Ashar, kitab Shahih Al-Bukhari.",
+   "sumber": [
+    "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "tinggi",
+   "id": "kj_20c4eb6812",
+   "pertama_terlihat": "2026-09-24"
+  },
+  {
+   "judul": "Kitabut Tauhid (Unhas)",
+   "pemateri": "Ustadz Nashrul Haq",
+   "lokasi": "Mushalla Istiqomah Unhas",
+   "alamat": "Jl. Perintis Kemerdekaan Km. 10, Makassar",
+   "kota": "Makassar",
+   "hari": 1,
+   "mulai": "15:30",
+   "selesai": "",
+   "kategori": "Aqidah",
+   "deskripsi": "Kajian rutin Senin ba'da Ashar, kitab Kitabut Tauhid.",
+   "sumber": [
+    "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "tinggi",
+   "id": "kj_98ab8db3fd",
+   "pertama_terlihat": "2026-09-24"
+  },
+  {
    "judul": "Pokok-Pokok Aqidah Ahlus Sunnah",
    "pemateri": "Ustadz Abu Darda Sufyan Al-Kandariy",
    "lokasi": "Masjid As-Sunnah",
@@ -1899,11 +1956,11 @@
    "mulai": "18:15",
    "selesai": "",
    "kategori": "Aqidah",
-   "deskripsi": "Kajian rutin Senin ba'da Maghrib.",
+   "deskripsi": "Kajian rutin Senin ba'da Maghrib, kitab Tanbihaat As-Saniyyah 'ala Aqidatil Wasithiyyah.",
    "sumber": [
     "https://sites.google.com/view/assunnahmakassar/jadwal-kajian"
    ],
-   "terakhir_terlihat": "2026-09-18",
+   "terakhir_terlihat": "2026-09-24",
    "confidence": "tinggi",
    "id": "kj_b21cd25c6c",
    "pertama_terlihat": "2026-09-18"
@@ -1922,10 +1979,67 @@
    "sumber": [
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
-   "terakhir_terlihat": "2026-09-18",
+   "terakhir_terlihat": "2026-09-24",
    "confidence": "tinggi",
    "id": "kj_4f129ee277",
    "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Riyadhush Shalihin (Rumah Sdr. Iwan, Senin)",
+   "pemateri": "Ustadz Luqman Jamal, Lc.",
+   "lokasi": "Rumah Sdr. Iwan",
+   "alamat": "Jl. Dg. Regge Rappokalling, Makassar",
+   "kota": "Makassar",
+   "hari": 1,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin Senin ba'da Maghrib, kitab Riyadhush Shalihin.",
+   "sumber": [
+    "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "tinggi",
+   "id": "kj_559b593497",
+   "pertama_terlihat": "2026-09-24"
+  },
+  {
+   "judul": "Kajian Tauhid Masjid Raya Makassar",
+   "pemateri": "Prof. Dr. KH Muammar Bakry & Dr. KH Syamsu Alam Usman",
+   "lokasi": "Masjid Raya Makassar",
+   "alamat": "Jl. Masjid Raya, Bontoala, Makassar",
+   "kota": "Makassar",
+   "hari": 1,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Aqidah",
+   "deskripsi": "Kajian rutin Senin ba'da Maghrib, disiarkan langsung di sosmed MUI Sulsel.",
+   "sumber": [
+    "https://muisulsel.or.id/live-di-sosmed-mui-masjid-raya-makassar-kembali-gelar-pengajian-dan-kajian-islam-setiap-hari/"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "sedang",
+   "id": "kj_a94694a33c",
+   "pertama_terlihat": "2026-09-24"
+  },
+  {
+   "judul": "Sifat Shalat Nabi",
+   "pemateri": "Ustadz Abu Abdurrahman Thoriq",
+   "lokasi": "Masjid Ar-Risalah",
+   "alamat": "Jl. Pettarani (Gedung Orange), Makassar",
+   "kota": "Makassar",
+   "hari": 2,
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Fiqih",
+   "deskripsi": "Kajian rutin Selasa ba'da Dzuhur membahas sifat shalat Nabi.",
+   "sumber": [
+    "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "tinggi",
+   "id": "kj_3c9ac163aa",
+   "pertama_terlihat": "2026-09-24"
   },
   {
    "judul": "Al-Adabul Mufrad",
@@ -1937,11 +2051,11 @@
    "mulai": "18:15",
    "selesai": "",
    "kategori": "Hadits",
-   "deskripsi": "Kajian rutin Selasa ba'da Maghrib.",
+   "deskripsi": "Kajian rutin Selasa ba'da Maghrib, kitab karya Muhammad bin Ismail Al-Bukhariy.",
    "sumber": [
     "https://sites.google.com/view/assunnahmakassar/jadwal-kajian"
    ],
-   "terakhir_terlihat": "2026-09-18",
+   "terakhir_terlihat": "2026-09-24",
    "confidence": "tinggi",
    "id": "kj_084bbe40ea",
    "pertama_terlihat": "2026-09-18"
@@ -1960,10 +2074,67 @@
    "sumber": [
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
-   "terakhir_terlihat": "2026-09-18",
+   "terakhir_terlihat": "2026-09-24",
    "confidence": "tinggi",
    "id": "kj_93ee7bd039",
    "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Ad-Da' Wad Dawa'",
+   "pemateri": "Ustadz Khaidir Muhammad Sunusi",
+   "lokasi": "Masjid Nurul Bahri",
+   "alamat": "Jl. Galangan Kapal, Makassar",
+   "kota": "Makassar",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin Selasa ba'da Maghrib.",
+   "sumber": [
+    "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "tinggi",
+   "id": "kj_125822f84f",
+   "pertama_terlihat": "2026-09-24"
+  },
+  {
+   "judul": "Riyadhush Shalihin (Masjid Babul Muttaqin)",
+   "pemateri": "Ustadz Luqman Jamal, Lc.",
+   "lokasi": "Masjid Babul Muttaqin",
+   "alamat": "Dampang Bira (Tritura), Antang, Makassar",
+   "kota": "Makassar",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin Selasa ba'da Maghrib, kitab Riyadhush Shalihin.",
+   "sumber": [
+    "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "tinggi",
+   "id": "kj_1cb1e872ec",
+   "pertama_terlihat": "2026-09-24"
+  },
+  {
+   "judul": "Kajian Tafsir Al-Qur'an Masjid Raya Makassar",
+   "pemateri": "AG. Prof. Dr. KH M. Ghalib & Prof. Dr. KH Muh Yusuf",
+   "lokasi": "Masjid Raya Makassar",
+   "alamat": "Jl. Masjid Raya, Bontoala, Makassar",
+   "kota": "Makassar",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Tafsir",
+   "deskripsi": "Kajian rutin Selasa ba'da Maghrib, disiarkan langsung di sosmed MUI Sulsel.",
+   "sumber": [
+    "https://muisulsel.or.id/live-di-sosmed-mui-masjid-raya-makassar-kembali-gelar-pengajian-dan-kajian-islam-setiap-hari/"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "sedang",
+   "id": "kj_4beb926acf",
+   "pertama_terlihat": "2026-09-24"
   },
   {
    "judul": "Fikih Asmaul Husna",
@@ -1975,11 +2146,11 @@
    "mulai": "18:15",
    "selesai": "",
    "kategori": "Fiqih",
-   "deskripsi": "Kajian rutin Rabu ba'da Maghrib.",
+   "deskripsi": "Kajian rutin Rabu ba'da Maghrib, kitab karya Syaikh Abdurrazzaq bin Abdul Muhsin Al-Badr.",
    "sumber": [
     "https://sites.google.com/view/assunnahmakassar/jadwal-kajian"
    ],
-   "terakhir_terlihat": "2026-09-18",
+   "terakhir_terlihat": "2026-09-24",
    "confidence": "tinggi",
    "id": "kj_fc17ef893a",
    "pertama_terlihat": "2026-09-18"
@@ -1998,10 +2169,67 @@
    "sumber": [
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
-   "terakhir_terlihat": "2026-09-18",
+   "terakhir_terlihat": "2026-09-24",
    "confidence": "tinggi",
    "id": "kj_f74837984f",
    "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Riyadhush Shalihin (Masjid Nurul Hidayah)",
+   "pemateri": "Ustadz Abdul Qodir, Lc.",
+   "lokasi": "Masjid Nurul Hidayah",
+   "alamat": "Jl. Perintis Kemerdekaan 16 Km. 12, Makassar",
+   "kota": "Makassar",
+   "hari": 3,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin Rabu ba'da Maghrib, kitab Riyadhush Shalihin.",
+   "sumber": [
+    "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "tinggi",
+   "id": "kj_80c46ab4a4",
+   "pertama_terlihat": "2026-09-24"
+  },
+  {
+   "judul": "Fathul Majid Syarah Tauhid",
+   "pemateri": "Ustadz Abu Ubaidillah Al-Atsary",
+   "lokasi": "Masjid Baitul Karim",
+   "alamat": "Jl. Lasinrang, Makassar",
+   "kota": "Makassar",
+   "hari": 3,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Aqidah",
+   "deskripsi": "Kajian rutin Rabu ba'da Maghrib, kitab Fathul Majid Syarah Kitab Tauhid.",
+   "sumber": [
+    "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "tinggi",
+   "id": "kj_5f302971d8",
+   "pertama_terlihat": "2026-09-24"
+  },
+  {
+   "judul": "Kajian Sejarah Islam Masjid Raya Makassar",
+   "pemateri": "AG. Prof. Dr. KH Nadjamuddin AS & Dr. KH Andi Abdul Hamzah",
+   "lokasi": "Masjid Raya Makassar",
+   "alamat": "Jl. Masjid Raya, Bontoala, Makassar",
+   "kota": "Makassar",
+   "hari": 3,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Sejarah Islam",
+   "deskripsi": "Kajian rutin Rabu ba'da Maghrib, disiarkan langsung di sosmed MUI Sulsel.",
+   "sumber": [
+    "https://muisulsel.or.id/live-di-sosmed-mui-masjid-raya-makassar-kembali-gelar-pengajian-dan-kajian-islam-setiap-hari/"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "sedang",
+   "id": "kj_c6cb3227d7",
+   "pertama_terlihat": "2026-09-24"
   },
   {
    "judul": "Kajian Rutin Kamis - Masjid Nur Akhlak",
@@ -2017,10 +2245,29 @@
    "sumber": [
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
-   "terakhir_terlihat": "2026-09-18",
+   "terakhir_terlihat": "2026-09-24",
    "confidence": "tinggi",
    "id": "kj_0f3dcad67e",
    "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Pembacaan Yasin Fadhilah Masjid Raya Makassar",
+   "pemateri": "H. Muh Syahril, M.H.I & H. Bustaman Arsyad",
+   "lokasi": "Masjid Raya Makassar",
+   "alamat": "Jl. Masjid Raya, Bontoala, Makassar",
+   "kota": "Makassar",
+   "hari": 4,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin Kamis ba'da Maghrib, disiarkan langsung di sosmed MUI Sulsel.",
+   "sumber": [
+    "https://muisulsel.or.id/live-di-sosmed-mui-masjid-raya-makassar-kembali-gelar-pengajian-dan-kajian-islam-setiap-hari/"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "sedang",
+   "id": "kj_6144e9a248",
+   "pertama_terlihat": "2026-09-24"
   },
   {
    "judul": "Kajian Rutin Jumat - Masjid Nurul Hikmah",
@@ -2036,10 +2283,48 @@
    "sumber": [
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
-   "terakhir_terlihat": "2026-09-18",
+   "terakhir_terlihat": "2026-09-24",
    "confidence": "tinggi",
    "id": "kj_b31761c26f",
    "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Kajian Fiqih Masjid Raya Makassar",
+   "pemateri": "AGH. Prof. Dr. M. Faried Wadjedy",
+   "lokasi": "Masjid Raya Makassar",
+   "alamat": "Jl. Masjid Raya, Bontoala, Makassar",
+   "kota": "Makassar",
+   "hari": 5,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Fiqih",
+   "deskripsi": "Kajian rutin Jumat ba'da Maghrib, disiarkan langsung di sosmed MUI Sulsel.",
+   "sumber": [
+    "https://muisulsel.or.id/live-di-sosmed-mui-masjid-raya-makassar-kembali-gelar-pengajian-dan-kajian-islam-setiap-hari/"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "sedang",
+   "id": "kj_b742fd4e2f",
+   "pertama_terlihat": "2026-09-24"
+  },
+  {
+   "judul": "Kajian Ilmu Hadits Masjid Raya Makassar",
+   "pemateri": "AG. Prof. Dr. KH Kamaluddin Abunawas & AG. Prof. Dr. KH Abustani Ilyas",
+   "lokasi": "Masjid Raya Makassar",
+   "alamat": "Jl. Masjid Raya, Bontoala, Makassar",
+   "kota": "Makassar",
+   "hari": 6,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin Sabtu ba'da Maghrib, disiarkan langsung di sosmed MUI Sulsel.",
+   "sumber": [
+    "https://muisulsel.or.id/live-di-sosmed-mui-masjid-raya-makassar-kembali-gelar-pengajian-dan-kajian-islam-setiap-hari/"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "sedang",
+   "id": "kj_45769bdeb3",
+   "pertama_terlihat": "2026-09-24"
   },
   {
    "judul": "Kajian Rutin Ahad Subuh - Masjid Nurul Hikmah",
@@ -2055,10 +2340,29 @@
    "sumber": [
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
-   "terakhir_terlihat": "2026-09-18",
+   "terakhir_terlihat": "2026-09-24",
    "confidence": "tinggi",
    "id": "kj_313b976861",
    "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Kajian Tasawuf Masjid Raya Makassar",
+   "pemateri": "AG. Dr. KH Baharuddin HS & AG. Prof. Dr. KH Ruslan Wahab",
+   "lokasi": "Masjid Raya Makassar",
+   "alamat": "Jl. Masjid Raya, Bontoala, Makassar",
+   "kota": "Makassar",
+   "hari": 7,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Tasawuf",
+   "deskripsi": "Kajian rutin Ahad ba'da Maghrib, disiarkan langsung di sosmed MUI Sulsel.",
+   "sumber": [
+    "https://muisulsel.or.id/live-di-sosmed-mui-masjid-raya-makassar-kembali-gelar-pengajian-dan-kajian-islam-setiap-hari/"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "sedang",
+   "id": "kj_e096d443e1",
+   "pertama_terlihat": "2026-09-24"
   },
   {
    "judul": "Ngaji Kitab Nashoihul Ibad",
@@ -2207,10 +2511,29 @@
    "sumber": [
     "https://radiomuslim.com/hadirilah-kembali-kajian-rutin-pekanan/"
    ],
-   "terakhir_terlihat": "2026-09-18",
+   "terakhir_terlihat": "2026-09-24",
    "confidence": "sedang",
    "id": "kj_a67cea70a2",
    "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Lubabul Hadits",
+   "pemateri": "Ustadz Ahmad Lutfian Antoni",
+   "lokasi": "Mushola Baitussalam",
+   "alamat": "Desa Wonokromo, Pleret, Bantul",
+   "kota": "Yogyakarta",
+   "hari": 1,
+   "mulai": "20:00",
+   "selesai": "21:00",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin Senin malam membahas kitab hadits Lubabul Hadits.",
+   "sumber": [
+    "https://kajianjogja.blogspot.com/p/kajian-rutin.html"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "sedang",
+   "id": "kj_94a9ab251e",
+   "pertama_terlihat": "2026-09-24"
   },
   {
    "judul": "Kajian Musholla Teknik UGM (Selasa)",
@@ -2226,10 +2549,29 @@
    "sumber": [
     "https://muslimah.or.id/jadwal-kajian-rutin"
    ],
-   "terakhir_terlihat": "2026-09-18",
+   "terakhir_terlihat": "2026-09-24",
    "confidence": "sedang",
    "id": "kj_4bbb531b20",
    "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Hukum-Hukum dalam Al-Qur'an (Al-Hakam)",
+   "pemateri": "Ustadz Ahmad Budi Setiawan",
+   "lokasi": "Masjid Darul Husna",
+   "alamat": "Jl. Veteran, Warungboto, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Fiqih",
+   "deskripsi": "Kajian rutin Selasa ba'da Maghrib membahas hukum-hukum dalam Al-Qur'an.",
+   "sumber": [
+    "https://kajianjogja.blogspot.com/p/kajian-rutin.html"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "sedang",
+   "id": "kj_8d928ebc43",
+   "pertama_terlihat": "2026-09-24"
   },
   {
    "judul": "Kajian Rabu Pagi Khusus Muslimah",
@@ -2245,7 +2587,7 @@
    "sumber": [
     "https://t.me/s/kajianjogja"
    ],
-   "terakhir_terlihat": "2026-09-18",
+   "terakhir_terlihat": "2026-09-24",
    "confidence": "sedang",
    "id": "kj_cff4d3c85d",
    "pertama_terlihat": "2026-09-18"
@@ -2264,7 +2606,7 @@
    "sumber": [
     "https://muslimah.or.id/jadwal-kajian-rutin"
    ],
-   "terakhir_terlihat": "2026-09-18",
+   "terakhir_terlihat": "2026-09-24",
    "confidence": "sedang",
    "id": "kj_1393c56d7b",
    "pertama_terlihat": "2026-09-18"
@@ -2283,10 +2625,67 @@
    "sumber": [
     "https://muslimah.or.id/jadwal-kajian-rutin"
    ],
-   "terakhir_terlihat": "2026-09-18",
+   "terakhir_terlihat": "2026-09-24",
    "confidence": "sedang",
    "id": "kj_b751752c6e",
    "pertama_terlihat": "2026-09-18"
+  },
+  {
+   "judul": "Majelis Jejak Nabi",
+   "pemateri": "Ustadz Salim A. Fillah",
+   "lokasi": "Masjid Jogokariyan",
+   "alamat": "Jl. Jogokariyan No. 36, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 4,
+   "mulai": "16:00",
+   "selesai": "17:30",
+   "kategori": "Sirah",
+   "deskripsi": "Kajian rutin Kamis sore membahas jejak kehidupan Nabi Muhammad.",
+   "sumber": [
+    "https://kajianjogja.blogspot.com/p/kajian-rutin.html"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "sedang",
+   "id": "kj_7f402830eb",
+   "pertama_terlihat": "2026-09-24"
+  },
+  {
+   "judul": "Kajian Non Tematik Darul Husna",
+   "pemateri": "",
+   "lokasi": "Masjid Darul Husna",
+   "alamat": "Jl. Veteran, Warungboto, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 4,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin Kamis ba'da Maghrib dengan pemateri bergilir.",
+   "sumber": [
+    "https://kajianjogja.blogspot.com/p/kajian-rutin.html"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "sedang",
+   "id": "kj_5bd1426d12",
+   "pertama_terlihat": "2026-09-24"
+  },
+  {
+   "judul": "Kajian Hadits Bulughul Maram (Uzlifatul Jannah)",
+   "pemateri": "Ustadz Ma'ruf",
+   "lokasi": "Uzlifatul Jannah",
+   "alamat": "Jl. Prof. Dr. Soepomo No. 105, Warungboto, Umbulharjo, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 6,
+   "mulai": "06:00",
+   "selesai": "07:00",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin Sabtu pagi membahas kitab Bulughul Maram.",
+   "sumber": [
+    "https://kajianjogja.blogspot.com/p/kajian-rutin.html"
+   ],
+   "terakhir_terlihat": "2026-09-24",
+   "confidence": "sedang",
+   "id": "kj_8e422c1899",
+   "pertama_terlihat": "2026-09-24"
   },
   {
    "judul": "KARUMAH (Kajian Rutin Khusus Muslimah)",
@@ -2302,7 +2701,7 @@
    "sumber": [
     "https://muslimah.or.id/jadwal-kajian-rutin"
    ],
-   "terakhir_terlihat": "2026-09-18",
+   "terakhir_terlihat": "2026-09-24",
    "confidence": "sedang",
    "id": "kj_420f116cc6",
    "pertama_terlihat": "2026-09-18"
