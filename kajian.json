@@ -1,11 +1,12 @@
 {
  "versi": 2,
- "diperbarui": "2026-09-25T08:10+07:00",
+ "diperbarui": "2026-09-26T08:14+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
   "Bogor",
   "Depok",
+  "Jakarta Barat",
   "Jakarta Pusat",
   "Jakarta Selatan",
   "Jakarta Timur",
@@ -15,8 +16,8 @@
   "Tangerang",
   "Yogyakarta"
  ],
- "jumlah": 156,
- "jumlah_agenda": 0,
+ "jumlah": 165,
+ "jumlah_agenda": 7,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -762,6 +763,82 @@
    "pertama_terlihat": "2026-09-20"
   },
   {
+   "judul": "Kajian Rutin Selasa Malam - Bahasa Arab (Durusul Lughoh)",
+   "pemateri": "Ustadz Mursalin Dahlan, Lc",
+   "lokasi": "Masjid At Tuur Maryam An Naim",
+   "alamat": "Komplek Bukit Kayu Manis, Parung/Salabenda",
+   "kota": "Bogor",
+   "hari": 2,
+   "mulai": "19:30",
+   "selesai": "20:30",
+   "kategori": "Bahasa Arab",
+   "deskripsi": "Kajian rutin setiap Ahad, Selasa, Kamis; kitab Durusul Lughoh Al Arobiyyah.",
+   "sumber": [
+    "https://darussalaf.or.id/bogor/"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "tinggi",
+   "id": "kj_f80bbcaf6b",
+   "pertama_terlihat": "2026-09-26"
+  },
+  {
+   "judul": "Kajian Rutin Kamis Malam - Bahasa Arab (Durusul Lughoh)",
+   "pemateri": "Ustadz Mursalin Dahlan, Lc",
+   "lokasi": "Masjid At Tuur Maryam An Naim",
+   "alamat": "Komplek Bukit Kayu Manis, Parung/Salabenda",
+   "kota": "Bogor",
+   "hari": 4,
+   "mulai": "19:30",
+   "selesai": "20:30",
+   "kategori": "Bahasa Arab",
+   "deskripsi": "Kajian rutin setiap Ahad, Selasa, Kamis; kitab Durusul Lughoh Al Arobiyyah.",
+   "sumber": [
+    "https://darussalaf.or.id/bogor/"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "tinggi",
+   "id": "kj_70d5aa1731",
+   "pertama_terlihat": "2026-09-26"
+  },
+  {
+   "judul": "Kajian Rutin Jumat Malam - Tiga Landasan Utama",
+   "pemateri": "Ustadz Mursalin Dahlan, Lc",
+   "lokasi": "Masjid At Tuur Maryam An Naim",
+   "alamat": "Komplek Bukit Kayu Manis, Parung/Salabenda",
+   "kota": "Bogor",
+   "hari": 5,
+   "mulai": "19:30",
+   "selesai": "20:30",
+   "kategori": "Aqidah",
+   "deskripsi": "Kajian rutin setiap Jumat malam, kitab Tiga Landasan Utama.",
+   "sumber": [
+    "https://darussalaf.or.id/bogor/"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "tinggi",
+   "id": "kj_ded2cae878",
+   "pertama_terlihat": "2026-09-26"
+  },
+  {
+   "judul": "Kajian Rutin Sabtu Malam",
+   "pemateri": "Ustadz Badrussalam, Ustadz Firanda Andirja, Ustadz Abdullah Taslim, Zainal Abidin (bergantian)",
+   "lokasi": "Masjid Al-Barkah Cileungsi",
+   "alamat": "Kampung Tengah, Cileungsi",
+   "kota": "Bogor",
+   "hari": 6,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin ba'da Maghrib setiap Sabtu dan Ahad, pusat siar Radio Rodja.",
+   "sumber": [
+    "https://chanelmuslim.com/wisata/ini-lima-masjid-referensi-kajian-sunnah-di-jabodetabek"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "sedang",
+   "id": "kj_ecc971fbf2",
+   "pertama_terlihat": "2026-09-26"
+  },
+  {
    "judul": "Memahami Ad-Dholalah / Kesesatan",
    "pemateri": "Ustadz Hafizuddin Siddiq, M.Pd",
    "lokasi": "Masjid Jami' At-Taqwa",
@@ -856,6 +933,63 @@
    "confidence": "tinggi",
    "id": "kj_b6a9edf8dd",
    "pertama_terlihat": "2026-09-20"
+  },
+  {
+   "judul": "Kajian Rutin Ahad Malam",
+   "pemateri": "Ustadz Badrussalam, Ustadz Firanda Andirja, Ustadz Abdullah Taslim, Zainal Abidin (bergantian)",
+   "lokasi": "Masjid Al-Barkah Cileungsi",
+   "alamat": "Kampung Tengah, Cileungsi",
+   "kota": "Bogor",
+   "hari": 7,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin ba'da Maghrib setiap Sabtu dan Ahad, pusat siar Radio Rodja.",
+   "sumber": [
+    "https://chanelmuslim.com/wisata/ini-lima-masjid-referensi-kajian-sunnah-di-jabodetabek"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "sedang",
+   "id": "kj_8c39886f79",
+   "pertama_terlihat": "2026-09-26"
+  },
+  {
+   "judul": "Kajian Rutin Ahad Malam - Kitab Firqotun Najiyah",
+   "pemateri": "Ustadz Abdullah Al Bugury",
+   "lokasi": "Masjid/Musholla Puri Nirwana 2 Cikaret",
+   "alamat": "Puri Nirwana 2, Cikaret, Cibinong",
+   "kota": "Bogor",
+   "hari": 7,
+   "mulai": "18:30",
+   "selesai": "21:00",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin setiap Ahad malam, membahas kitab Firqotun Najiyah dan Bahasa Arab.",
+   "sumber": [
+    "https://darussalaf.or.id/bogor/"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "tinggi",
+   "id": "kj_b545448d68",
+   "pertama_terlihat": "2026-09-26"
+  },
+  {
+   "judul": "Kajian Rutin Ahad Malam - Bahasa Arab (Durusul Lughoh)",
+   "pemateri": "Ustadz Mursalin Dahlan, Lc",
+   "lokasi": "Masjid At Tuur Maryam An Naim",
+   "alamat": "Komplek Bukit Kayu Manis, Parung/Salabenda",
+   "kota": "Bogor",
+   "hari": 7,
+   "mulai": "19:30",
+   "selesai": "20:30",
+   "kategori": "Bahasa Arab",
+   "deskripsi": "Kajian rutin setiap Ahad, Selasa, Kamis; kitab Durusul Lughoh Al Arobiyyah.",
+   "sumber": [
+    "https://darussalaf.or.id/bogor/"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "tinggi",
+   "id": "kj_6d261624a7",
+   "pertama_terlihat": "2026-09-26"
   },
   {
    "judul": "Kajian Syarah Adabul Mufrod",
@@ -1160,6 +1294,25 @@
    "confidence": "tinggi",
    "id": "kj_30c309d547",
    "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "Kajian Rutin Sabtu Malam - Bahasa Arab",
+   "pemateri": "Ustadz Abu Zubaeir",
+   "lokasi": "Masjid Ar Rohmah",
+   "alamat": "Belakang Taman Palem Mall, Cengkareng",
+   "kota": "Jakarta Barat",
+   "hari": 6,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Bahasa Arab",
+   "deskripsi": "Kajian rutin ba'da Maghrib, kitab Durusullughoh Al 'Arobiyyah li Ghairin Naathiqiina Bihaa.",
+   "sumber": [
+    "https://darussalaf.or.id/jakarta/"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "tinggi",
+   "id": "kj_8461932cd1",
+   "pertama_terlihat": "2026-09-26"
   },
   {
    "judul": "Pengajian Tri In One",
@@ -2118,6 +2271,25 @@
    "pertama_terlihat": "2026-09-25"
   },
   {
+   "judul": "Kajian Rutin Selasa Pagi (Majelis Taklim Babussalam)",
+   "pemateri": "",
+   "lokasi": "Masjid At-Taqwa Taman Bunga Wiladatika",
+   "alamat": "Taman Bunga Wiladatika, Cibubur",
+   "kota": "Jakarta Timur",
+   "hari": 2,
+   "mulai": "08:00",
+   "selesai": "11:00",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin tiap Selasa pagi, tema bergilir per pekan: Tafsir Al-Qur'an, Aqidah, Fiqih, Hadits.",
+   "sumber": [
+    "https://chanelmuslim.com/wisata/ini-lima-masjid-referensi-kajian-sunnah-di-jabodetabek"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "sedang",
+   "id": "kj_13a3d32314",
+   "pertama_terlihat": "2026-09-26"
+  },
+  {
    "judul": "Kajian Rutin Ahad Pagi",
    "pemateri": "Ustadz Abu Usamah Samsul Hadi",
    "lokasi": "Masjid Soleh Hawa",
@@ -2992,5 +3164,154 @@
    "pertama_terlihat": "2026-09-18"
   }
  ],
- "agenda": []
+ "agenda": [
+  {
+   "judul": "Mulia dengan Manhaj Salaf",
+   "pemateri": "Al Ustadz Abdurrahman Al Balitari, S.Kom, Lc",
+   "lokasi": "Masjid Nur Ilahi",
+   "alamat": "Jl. Raya Puncak, Pandansari, Ciawi",
+   "kota": "Bogor",
+   "tanggal": "2026-09-26",
+   "mulai": "09:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian rutin Sabtu pekan ke-4, untuk umum.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/378453"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "sedang",
+   "id": "ag_7623317b2d",
+   "pertama_terlihat": "2026-09-26"
+  },
+  {
+   "judul": "Mengingat & Mempersiapkan Kematian",
+   "pemateri": "Ustadz Sofyan Chalid Bin Idham Ruray, Lc",
+   "lokasi": "Masjid Istiqomah, IKEA Sentul City",
+   "alamat": "",
+   "kota": "Bogor",
+   "tanggal": "2026-09-26",
+   "mulai": "09:00",
+   "selesai": "11:00",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian tematik Sabtu pagi.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/378454"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "sedang",
+   "id": "ag_1026eeb5aa",
+   "pertama_terlihat": "2026-09-26"
+  },
+  {
+   "judul": "Muslimah Harus Baper (Karakteristik Istri Idaman)",
+   "pemateri": "Ustadzah Ummu Ihsan Choiriyah",
+   "lokasi": "Masjid Al Furqon",
+   "alamat": "Vila Nusa Indah Blok Z, Bojongkulur, Gunung Putri",
+   "kota": "Bogor",
+   "tanggal": "2026-09-26",
+   "mulai": "15:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian muslimah ba'da Ashar.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/378449",
+    "https://t.me/jadwalkajianID/378450"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "tinggi",
+   "id": "ag_361c62bd69",
+   "pertama_terlihat": "2026-09-26"
+  },
+  {
+   "judul": "Kesehatan: Nikmat Yang Sering Dilupakan",
+   "pemateri": "Al Ustadz Abdurrahman Dani",
+   "lokasi": "Kilometer Kopi",
+   "alamat": "Jl. H. Minggu, Tengah, Cibinong",
+   "kota": "Bogor",
+   "tanggal": "2026-09-26",
+   "mulai": "16:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian tematik Sabtu sore.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/378456"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "sedang",
+   "id": "ag_56e1888993",
+   "pertama_terlihat": "2026-09-26"
+  },
+  {
+   "judul": "Pembatal-Pembatal 2 Kalimat Syahadat [5]",
+   "pemateri": "Ustadz Abu Jarir Ari Triono, Lc, MA",
+   "lokasi": "Masjid Al Hidayah",
+   "alamat": "Komplek Taman Pulo Gebang, Cakung Timur",
+   "kota": "Jakarta Timur",
+   "tanggal": "2026-09-26",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian ba'da Maghrib, bagian pembahasan Kitab Al-Wala' Wal-Bara'.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/378460"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "sedang",
+   "id": "ag_9c6a0c3a40",
+   "pertama_terlihat": "2026-09-26"
+  },
+  {
+   "judul": "Nikmat Yang Mahal itu Bernama: Hidayah",
+   "pemateri": "Ustadz Muammar At Tamimi",
+   "lokasi": "Masjid Al-Ihsan Cipinang",
+   "alamat": "",
+   "kota": "Jakarta Timur",
+   "tanggal": "2026-09-26",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian ba'da Maghrib.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/378461"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "sedang",
+   "id": "ag_c09e3919d2",
+   "pertama_terlihat": "2026-09-26"
+  },
+  {
+   "judul": "5 Kaidah Dalam Memahami Sunnah",
+   "pemateri": "Ustadz Dr. Emha Hasan Ayatullah, MA",
+   "lokasi": "Masjid Soleh Hawa",
+   "alamat": "Jl. Raya Ceger No.3, Cipayung",
+   "kota": "Jakarta Timur",
+   "tanggal": "2026-09-26",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian ba'da Maghrib.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/378466"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "sedang",
+   "id": "ag_227277ec9f",
+   "pertama_terlihat": "2026-09-26"
+  }
+ ]
 }
