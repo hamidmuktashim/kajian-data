@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-09-27T08:11+07:00",
+ "diperbarui": "2026-09-28T08:27+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -16,8 +16,8 @@
   "Tangerang",
   "Yogyakarta"
  ],
- "jumlah": 170,
- "jumlah_agenda": 7,
+ "jumlah": 180,
+ "jumlah_agenda": 0,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -29,12 +29,12 @@
    "mulai": "05:00",
    "selesai": "",
    "kategori": "Tafsir",
-   "deskripsi": "Kajian rutin ba'da Subuh setiap Senin.",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Senin, tercantum di situs resmi Ma'had Al Hijrah.",
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-09-22",
-   "confidence": "sedang",
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "tinggi",
    "id": "kj_aead3fa771",
    "pertama_terlihat": "2026-09-22"
   },
@@ -67,12 +67,12 @@
    "mulai": "05:00",
    "selesai": "",
    "kategori": "Tafsir",
-   "deskripsi": "Kajian rutin ba'da Subuh setiap Selasa.",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Selasa, tercantum di situs resmi Ma'had Al Hijrah.",
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-09-22",
-   "confidence": "sedang",
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "tinggi",
    "id": "kj_35428f0373",
    "pertama_terlihat": "2026-09-22"
   },
@@ -96,6 +96,26 @@
    "pertama_terlihat": "2026-09-10"
   },
   {
+   "judul": "Kajian Rutin Ba'da Maghrib",
+   "pemateri": "Ustadz Abu Faqih Abdullah (tema & pemateri bergantian tiap pekan)",
+   "lokasi": "Masjid Jami' Al-Islam Ma'had Al-Islam Cileunyi",
+   "alamat": "Kp. Pesantren, Desa Cimekar, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 2,
+   "mulai": "18:00",
+   "selesai": "19:00",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin setiap Selasa ba'da Maghrib, tema berganti tiap pekan; tercatat berulang di arsip event Yayasan Tarbiyah Sunnah.",
+   "sumber": [
+    "https://tarbiyahsunnah.com/event_tag/kajian-rutin/",
+    "https://tarbiyahsunnah.com/event/syariat-yang-seimbang-ustadz-abu-faqih-abdullah-2/"
+   ],
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "sedang",
+   "id": "kj_e3aab25d1d",
+   "pertama_terlihat": "2026-09-28"
+  },
+  {
    "judul": "Kajian Kitab Shahih Bukhari",
    "pemateri": "Ustadz Abu Yasir Wildan",
    "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
@@ -105,12 +125,12 @@
    "mulai": "18:15",
    "selesai": "",
    "kategori": "Hadits",
-   "deskripsi": "Kajian rutin ba'da Maghrib setiap Selasa.",
+   "deskripsi": "Kajian rutin ba'da Maghrib setiap Selasa, tercantum di situs resmi Ma'had Al Hijrah.",
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-09-22",
-   "confidence": "sedang",
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "tinggi",
    "id": "kj_e1a239e30e",
    "pertama_terlihat": "2026-09-22"
   },
@@ -143,14 +163,34 @@
    "mulai": "05:00",
    "selesai": "",
    "kategori": "Tafsir",
-   "deskripsi": "Kajian rutin ba'da Subuh setiap Rabu.",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Rabu, tercantum di situs resmi Ma'had Al Hijrah.",
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-09-22",
-   "confidence": "sedang",
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "tinggi",
    "id": "kj_6f223b0cdc",
    "pertama_terlihat": "2026-09-22"
+  },
+  {
+   "judul": "Kajian Rutin Ba'da Ashar",
+   "pemateri": "Ustadz Abu Haidar As-Sundawy",
+   "lokasi": "Ma'had Sabilurrasyad",
+   "alamat": "Kp. Tambakan, Kec. Pameungpeuk, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 3,
+   "mulai": "16:00",
+   "selesai": "17:00",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin setiap Rabu sore, tercatat berulang di arsip event Yayasan Tarbiyah Sunnah.",
+   "sumber": [
+    "https://tarbiyahsunnah.com/event_tag/kajian-rutin/",
+    "https://tarbiyahsunnah.com/event/obati-hatimu-ustadz-abu-haidar-as-sundawy-2/"
+   ],
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "sedang",
+   "id": "kj_8451976c93",
+   "pertama_terlihat": "2026-09-28"
   },
   {
    "judul": "Pemuda Hijrah - Transtudio Mall",
@@ -181,12 +221,12 @@
    "mulai": "05:00",
    "selesai": "",
    "kategori": "Fikih",
-   "deskripsi": "Kajian rutin ba'da Subuh setiap Kamis.",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Kamis, tercantum di situs resmi Ma'had Al Hijrah.",
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-09-22",
-   "confidence": "sedang",
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "tinggi",
    "id": "kj_86325e2cc3",
    "pertama_terlihat": "2026-09-22"
   },
@@ -248,6 +288,26 @@
    "pertama_terlihat": "2026-09-10"
   },
   {
+   "judul": "Kajian Rutin Ba'da Ashar",
+   "pemateri": "Ustadz Abu Haidar As-Sundawy (tema & pemateri bergantian tiap pekan)",
+   "lokasi": "Masjid Jami' Al-Islam Ma'had Al-Islam Cileunyi",
+   "alamat": "Kp. Pesantren, Desa Cimekar, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 5,
+   "mulai": "16:00",
+   "selesai": "17:30",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin setiap Jumat sore, tema berganti tiap pekan; tercatat berulang di arsip event Yayasan Tarbiyah Sunnah.",
+   "sumber": [
+    "https://tarbiyahsunnah.com/event_tag/kajian-rutin/",
+    "https://tarbiyahsunnah.com/event/menjadi-rumah-menjaga-amanah-ustadz-abu-haidar-as-sundawy-2/"
+   ],
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "sedang",
+   "id": "kj_de994bee34",
+   "pertama_terlihat": "2026-09-28"
+  },
+  {
    "judul": "Kajian Kitab Fiqhul Muyassar",
    "pemateri": "Ustadz Abu Yasir Wildan",
    "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
@@ -257,12 +317,12 @@
    "mulai": "05:00",
    "selesai": "",
    "kategori": "Fikih",
-   "deskripsi": "Kajian rutin ba'da Subuh setiap Sabtu.",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Sabtu, tercantum di situs resmi Ma'had Al Hijrah.",
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-09-22",
-   "confidence": "sedang",
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "tinggi",
    "id": "kj_afe10c8b81",
    "pertama_terlihat": "2026-09-22"
   },
@@ -316,12 +376,12 @@
    "mulai": "18:15",
    "selesai": "",
    "kategori": "Hadits",
-   "deskripsi": "Kajian rutin ba'da Maghrib setiap Sabtu.",
+   "deskripsi": "Kajian rutin ba'da Maghrib setiap Sabtu, tercantum di situs resmi Ma'had Al Hijrah.",
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-09-22",
-   "confidence": "sedang",
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "tinggi",
    "id": "kj_c31dc460fd",
    "pertama_terlihat": "2026-09-22"
   },
@@ -354,12 +414,12 @@
    "mulai": "05:00",
    "selesai": "",
    "kategori": "Fikih",
-   "deskripsi": "Kajian rutin ba'da Subuh setiap Ahad.",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Ahad, tercantum di situs resmi Ma'had Al Hijrah.",
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-09-22",
-   "confidence": "sedang",
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "tinggi",
    "id": "kj_7315341d09",
    "pertama_terlihat": "2026-09-22"
   },
@@ -373,14 +433,34 @@
    "mulai": "15:30",
    "selesai": "",
    "kategori": "Majelis Taklim",
-   "deskripsi": "Kajian rutin khusus wanita ba'da Ashar hingga menjelang Maghrib setiap Ahad, pemateri dan tema bergantian tiap pekan.",
+   "deskripsi": "Kajian rutin khusus wanita ba'da Ashar hingga menjelang Maghrib setiap Ahad, pemateri dan tema bergantian tiap pekan; dikonfirmasi masih berjalan saat verifikasi ulang.",
    "sumber": [
     "https://islamdownload.net/125275-kajian-sunnah-salafi-cimahi-bandung-barat.html"
    ],
-   "terakhir_terlihat": "2026-09-22",
+   "terakhir_terlihat": "2026-09-28",
    "confidence": "sedang",
    "id": "kj_b8ff65d542",
    "pertama_terlihat": "2026-09-22"
+  },
+  {
+   "judul": "Kajian Tematik Ba'da Ashar",
+   "pemateri": "Ustadz Abu Haidar As-Sundawy",
+   "lokasi": "Masjid Jami Al-Muhajirin",
+   "alamat": "Jl. Komp. BPKP (Kebon Kopi), Cibeureum, Cimahi Selatan, Kota Cimahi",
+   "kota": "Bandung",
+   "hari": 7,
+   "mulai": "16:00",
+   "selesai": "17:30",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian tematik rutin setiap Ahad sore, tema berganti tiap pekan; tercatat berulang di arsip event Yayasan Tarbiyah Sunnah.",
+   "sumber": [
+    "https://tarbiyahsunnah.com/event/adab-ziarah-kubur-ustadz-abu-haidar-as-sundawy/",
+    "https://tarbiyahsunnah.com/event_tag/kajian-tematik/"
+   ],
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "sedang",
+   "id": "kj_0ac2eccc32",
+   "pertama_terlihat": "2026-09-28"
   },
   {
    "judul": "Kajian Kitab Shahih Bukhari",
@@ -392,12 +472,12 @@
    "mulai": "18:15",
    "selesai": "",
    "kategori": "Hadits",
-   "deskripsi": "Kajian rutin ba'da Maghrib setiap Ahad.",
+   "deskripsi": "Kajian rutin ba'da Maghrib setiap Ahad, tercantum di situs resmi Ma'had Al Hijrah.",
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-09-22",
-   "confidence": "sedang",
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "tinggi",
    "id": "kj_8591845048",
    "pertama_terlihat": "2026-09-22"
   },
@@ -1315,20 +1395,58 @@
    "pertama_terlihat": "2026-09-26"
   },
   {
+   "judul": "Kajian Ilmiah (Kitab At-Tadzkirah)",
+   "pemateri": "Ustadz Luthfi Abdul Jabbar, Lc",
+   "lokasi": "Masjid At Taufiq",
+   "alamat": "Jl. Cempaka Putih Timur XVII No.39, Kec. Cempaka Putih, Jakarta Pusat",
+   "kota": "Jakarta Pusat",
+   "hari": 1,
+   "mulai": "10:00",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian tiap Senin pukul 10.00 WIB; slot waktu sama pernah tercatat di pekan lain dengan pemateri berbeda (mis. Kitab Tauhid), menunjukkan jadwal tetap mingguan dengan pemateri bergantian.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "sedang",
+   "id": "kj_2b4c63361a",
+   "pertama_terlihat": "2026-09-28"
+  },
+  {
+   "judul": "Kajian Islami",
+   "pemateri": "Ustadz Adam Badr Bajrey, Lc",
+   "lokasi": "Masjid Umar Bin Khattab",
+   "alamat": "Pasar Senen Blok 3 Lantai 4, Kec. Senen, Jakarta Pusat",
+   "kota": "Jakarta Pusat",
+   "hari": 1,
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Kajian Rutin",
+   "deskripsi": "Kajian ba'da Dzuhur setiap Senin di lantai 4 Pasar Senen Blok 3.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "sedang",
+   "id": "kj_410167ac3a",
+   "pertama_terlihat": "2026-09-28"
+  },
+  {
    "judul": "Pengajian Tri In One",
    "pemateri": "",
    "lokasi": "Masjid Cut Meutia",
-   "alamat": "Jl. Taman Cut Mutiah No.1, Kb. Sirih, Menteng, Jakarta Pusat 10350",
+   "alamat": "Jl. Cut Meutia No.1, Menteng, Jakarta Pusat",
    "kota": "Jakarta Pusat",
    "hari": 1,
    "mulai": "18:15",
    "selesai": "",
-   "kategori": "Kajian Umum",
-   "deskripsi": "Program pengajian rutin ba'da Maghrib hingga Isya setiap Senin, terbuka untuk umum.",
+   "kategori": "Kajian Rutin",
+   "deskripsi": "Kajian rutin Senin-Kamis ba'da Maghrib hingga Isya, terbuka untuk umum.",
    "sumber": [
     "https://masjidcutmeutia.com/pengajian-tri-in-one/"
    ],
-   "terakhir_terlihat": "2026-09-22",
+   "terakhir_terlihat": "2026-09-28",
    "confidence": "tinggi",
    "id": "kj_25e88ef774",
    "pertama_terlihat": "2026-09-16"
@@ -1342,32 +1460,52 @@
    "hari": 1,
    "mulai": "18:15",
    "selesai": "",
-   "kategori": "Kajian Sunnah",
-   "deskripsi": "Kajian rutin ba'da Maghrib setiap Senin di Masjid Al-Azhar Cempaka Putih.",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian Kitab Adab & Akhlak Penuntut Ilmu ba'da Maghrib setiap Senin (pemateri Ustadz Wahid Rahman); pada 28 Sep 2026 tercatat sebagai pertemuan ke-37, menunjukkan seri kajian mingguan berkelanjutan.",
    "sumber": [
+    "https://t.me/s/jadwalkajianID",
     "https://jakarta.hallo.id/metropolitan/pr-2304759997/kajian-sunah-jakarta-pusat-ada-di-masjid-al-azhar-cempaka-putih",
     "https://www.genmuslim.id/khazanah/634675509/ada-informasi-kajian-di-masjid-al-azhar-cempaka-putih-masya-allah-kita-bisa-belajar-lagi-jangan-lupa-hadir"
    ],
-   "terakhir_terlihat": "2026-09-16",
-   "confidence": "tinggi",
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "sedang",
    "id": "kj_e470eef653",
    "pertama_terlihat": "2026-09-16"
+  },
+  {
+   "judul": "Kajian Ibadah",
+   "pemateri": "Ustadz Imam Faiz, BA",
+   "lokasi": "Masjid Nurul Mursalin",
+   "alamat": "Jl. Bungur Besar Gg. IV No.4, Jakarta Pusat",
+   "kota": "Jakarta Pusat",
+   "hari": 1,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Rutin",
+   "deskripsi": "Kajian ba'da Maghrib setiap Senin. Baru ditemukan dari satu sumber (rekap Telegram), belum ada korroborasi tambahan.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "rendah",
+   "id": "kj_a839effe42",
+   "pertama_terlihat": "2026-09-28"
   },
   {
    "judul": "Pengajian Tri In One",
    "pemateri": "",
    "lokasi": "Masjid Cut Meutia",
-   "alamat": "Jl. Taman Cut Mutiah No.1, Kb. Sirih, Menteng, Jakarta Pusat 10350",
+   "alamat": "Jl. Cut Meutia No.1, Menteng, Jakarta Pusat",
    "kota": "Jakarta Pusat",
    "hari": 2,
    "mulai": "18:15",
    "selesai": "",
-   "kategori": "Kajian Umum",
-   "deskripsi": "Program pengajian rutin ba'da Maghrib hingga Isya setiap Selasa, terbuka untuk umum.",
+   "kategori": "Kajian Rutin",
+   "deskripsi": "Kajian rutin Senin-Kamis ba'da Maghrib hingga Isya, terbuka untuk umum.",
    "sumber": [
     "https://masjidcutmeutia.com/pengajian-tri-in-one/"
    ],
-   "terakhir_terlihat": "2026-09-22",
+   "terakhir_terlihat": "2026-09-28",
    "confidence": "tinggi",
    "id": "kj_ee5bd6f2d9",
    "pertama_terlihat": "2026-09-16"
@@ -1396,17 +1534,17 @@
    "judul": "Pengajian Tri In One",
    "pemateri": "",
    "lokasi": "Masjid Cut Meutia",
-   "alamat": "Jl. Taman Cut Mutiah No.1, Kb. Sirih, Menteng, Jakarta Pusat 10350",
+   "alamat": "Jl. Cut Meutia No.1, Menteng, Jakarta Pusat",
    "kota": "Jakarta Pusat",
    "hari": 3,
    "mulai": "18:15",
    "selesai": "",
-   "kategori": "Kajian Umum",
-   "deskripsi": "Program pengajian rutin ba'da Maghrib hingga Isya setiap Rabu, terbuka untuk umum.",
+   "kategori": "Kajian Rutin",
+   "deskripsi": "Kajian rutin Senin-Kamis ba'da Maghrib hingga Isya, terbuka untuk umum.",
    "sumber": [
     "https://masjidcutmeutia.com/pengajian-tri-in-one/"
    ],
-   "terakhir_terlihat": "2026-09-22",
+   "terakhir_terlihat": "2026-09-28",
    "confidence": "tinggi",
    "id": "kj_e6f9b69079",
    "pertama_terlihat": "2026-09-16"
@@ -1415,17 +1553,17 @@
    "judul": "Pengajian Tri In One",
    "pemateri": "",
    "lokasi": "Masjid Cut Meutia",
-   "alamat": "Jl. Taman Cut Mutiah No.1, Kb. Sirih, Menteng, Jakarta Pusat 10350",
+   "alamat": "Jl. Cut Meutia No.1, Menteng, Jakarta Pusat",
    "kota": "Jakarta Pusat",
    "hari": 4,
    "mulai": "18:15",
    "selesai": "",
-   "kategori": "Kajian Umum",
-   "deskripsi": "Program pengajian rutin ba'da Maghrib hingga Isya setiap Kamis, terbuka untuk umum.",
+   "kategori": "Kajian Rutin",
+   "deskripsi": "Kajian rutin Senin-Kamis ba'da Maghrib hingga Isya, terbuka untuk umum.",
    "sumber": [
     "https://masjidcutmeutia.com/pengajian-tri-in-one/"
    ],
-   "terakhir_terlihat": "2026-09-22",
+   "terakhir_terlihat": "2026-09-28",
    "confidence": "tinggi",
    "id": "kj_43570d5c78",
    "pertama_terlihat": "2026-09-16"
@@ -2309,20 +2447,58 @@
    "pertama_terlihat": "2026-09-20"
   },
   {
+   "judul": "Kajian Kitab Sifat Shalat Nabi",
+   "pemateri": "Ustadz Abu Nida Fatahullah, Lc",
+   "lokasi": "Masjid Baitul Bahri (Tower Pelindo)",
+   "alamat": "Jl. Flamboyan No.2, RT.1/RW.14, Rawabadak Utara, Kec. Koja, Jakarta Utara",
+   "kota": "Jakarta Utara",
+   "hari": 1,
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian ba'da Dzuhur setiap Senin di masjid gedung Tower Pelindo.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "sedang",
+   "id": "kj_b2c2f64529",
+   "pertama_terlihat": "2026-09-28"
+  },
+  {
+   "judul": "Kajian Hukum Shalat",
+   "pemateri": "Ustadz Chia Rangga Gunawan, BA",
+   "lokasi": "Masjid As Salam (Isuzu Head Office)",
+   "alamat": "Jl. Danau Sunter Utara Blok O3 No.30, Sunter Agung, Kec. Tanjung Priok, Jakarta Utara",
+   "kota": "Jakarta Utara",
+   "hari": 1,
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Kajian Fiqih",
+   "deskripsi": "Kajian ba'da Dzuhur setiap Senin di lantai 8 gedung Isuzu Head Office.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "sedang",
+   "id": "kj_49d4e28ada",
+   "pertama_terlihat": "2026-09-28"
+  },
+  {
    "judul": "Kajian Tafsir Al-Munir",
    "pemateri": "",
    "lokasi": "Masjid Ad-Da'wah",
-   "alamat": "Jl. Biru Laut Barat, Kelapa Gading Timur, Jakarta Utara 14240",
+   "alamat": "Jl. Biru Laut Barat, RT.15/RW.10, Kelapa Gading Timur, Jakarta Utara",
    "kota": "Jakarta Utara",
    "hari": 3,
    "mulai": "18:15",
    "selesai": "",
-   "kategori": "Tafsir",
-   "deskripsi": "Kajian rutin ba'da Maghrib setiap Rabu di Masjid Ad-Da'wah Kelapa Gading.",
+   "kategori": "Kajian Tafsir",
+   "deskripsi": "Dilaporkan sebagai kajian tafsir rutin tiap Rabu ba'da Maghrib; belum ditemukan halaman sumber utama untuk memverifikasi kalimat persis.",
    "sumber": [
     "https://sayahafiz.com/Kajian/8383/Jadwal.html"
    ],
-   "terakhir_terlihat": "2026-09-16",
+   "terakhir_terlihat": "2026-09-28",
    "confidence": "sedang",
    "id": "kj_8abbe4cf89",
    "pertama_terlihat": "2026-09-16"
@@ -2331,20 +2507,39 @@
    "judul": "Kajian Rutin Ba'da Subuh",
    "pemateri": "",
    "lokasi": "Masjid Ad-Da'wah",
-   "alamat": "Jl. Biru Laut Barat, Kelapa Gading Timur, Jakarta Utara 14240",
+   "alamat": "Jl. Biru Laut Barat, RT.15/RW.10, Kelapa Gading Timur, Jakarta Utara",
    "kota": "Jakarta Utara",
    "hari": 7,
    "mulai": "05:00",
    "selesai": "",
-   "kategori": "Kajian Umum",
-   "deskripsi": "Kajian rutin ba'da Subuh setiap Ahad di Masjid Ad-Da'wah Kelapa Gading.",
+   "kategori": "Kajian Rutin",
+   "deskripsi": "Dilaporkan sebagai kajian rutin ba'da Subuh tiap Ahad (selain kajian ba'da Maghrib); belum terverifikasi langsung dari sumber utama.",
    "sumber": [
     "https://sayahafiz.com/Kajian/8383/Jadwal.html"
    ],
-   "terakhir_terlihat": "2026-09-16",
+   "terakhir_terlihat": "2026-09-28",
    "confidence": "sedang",
    "id": "kj_1de8e85684",
    "pertama_terlihat": "2026-09-16"
+  },
+  {
+   "judul": "Kajian Rutin Ba'da Maghrib",
+   "pemateri": "Ustadz Abu Ihsan Al Maidany",
+   "lokasi": "Masjid Ad-Da'wah",
+   "alamat": "Jl. Biru Laut Barat, RT.15/RW.10, Kelapa Gading Timur, Jakarta Utara",
+   "kota": "Jakarta Utara",
+   "hari": 7,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Rutin",
+   "deskripsi": "Kajian rutin ba'da Maghrib tiap Ahad, terbuka untuk umum ikhwan dan akhwat.",
+   "sumber": [
+    "https://sayahafiz.com/Kajian/8383/Jadwal.html"
+   ],
+   "terakhir_terlihat": "2026-09-28",
+   "confidence": "sedang",
+   "id": "kj_1a0a293281",
+   "pertama_terlihat": "2026-09-28"
   },
   {
    "judul": "Taisirul Karimir Rahman",
@@ -3259,154 +3454,5 @@
    "pertama_terlihat": "2026-09-18"
   }
  ],
- "agenda": [
-  {
-   "judul": "Mulia dengan Manhaj Salaf",
-   "pemateri": "Al Ustadz Abdurrahman Al Balitari, S.Kom, Lc",
-   "lokasi": "Masjid Nur Ilahi",
-   "alamat": "Jl. Raya Puncak, Pandansari, Ciawi",
-   "kota": "Bogor",
-   "tanggal": "2026-09-26",
-   "mulai": "09:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian rutin Sabtu pekan ke-4, untuk umum.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/378453"
-   ],
-   "terakhir_terlihat": "2026-09-26",
-   "confidence": "sedang",
-   "id": "ag_7623317b2d",
-   "pertama_terlihat": "2026-09-26"
-  },
-  {
-   "judul": "Mengingat & Mempersiapkan Kematian",
-   "pemateri": "Ustadz Sofyan Chalid Bin Idham Ruray, Lc",
-   "lokasi": "Masjid Istiqomah, IKEA Sentul City",
-   "alamat": "",
-   "kota": "Bogor",
-   "tanggal": "2026-09-26",
-   "mulai": "09:00",
-   "selesai": "11:00",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian tematik Sabtu pagi.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/378454"
-   ],
-   "terakhir_terlihat": "2026-09-26",
-   "confidence": "sedang",
-   "id": "ag_1026eeb5aa",
-   "pertama_terlihat": "2026-09-26"
-  },
-  {
-   "judul": "Muslimah Harus Baper (Karakteristik Istri Idaman)",
-   "pemateri": "Ustadzah Ummu Ihsan Choiriyah",
-   "lokasi": "Masjid Al Furqon",
-   "alamat": "Vila Nusa Indah Blok Z, Bojongkulur, Gunung Putri",
-   "kota": "Bogor",
-   "tanggal": "2026-09-26",
-   "mulai": "15:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian muslimah ba'da Ashar.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/378449",
-    "https://t.me/jadwalkajianID/378450"
-   ],
-   "terakhir_terlihat": "2026-09-26",
-   "confidence": "tinggi",
-   "id": "ag_361c62bd69",
-   "pertama_terlihat": "2026-09-26"
-  },
-  {
-   "judul": "Kesehatan: Nikmat Yang Sering Dilupakan",
-   "pemateri": "Al Ustadz Abdurrahman Dani",
-   "lokasi": "Kilometer Kopi",
-   "alamat": "Jl. H. Minggu, Tengah, Cibinong",
-   "kota": "Bogor",
-   "tanggal": "2026-09-26",
-   "mulai": "16:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian tematik Sabtu sore.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/378456"
-   ],
-   "terakhir_terlihat": "2026-09-26",
-   "confidence": "sedang",
-   "id": "ag_56e1888993",
-   "pertama_terlihat": "2026-09-26"
-  },
-  {
-   "judul": "Pembatal-Pembatal 2 Kalimat Syahadat [5]",
-   "pemateri": "Ustadz Abu Jarir Ari Triono, Lc, MA",
-   "lokasi": "Masjid Al Hidayah",
-   "alamat": "Komplek Taman Pulo Gebang, Cakung Timur",
-   "kota": "Jakarta Timur",
-   "tanggal": "2026-09-26",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian ba'da Maghrib, bagian pembahasan Kitab Al-Wala' Wal-Bara'.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/378460"
-   ],
-   "terakhir_terlihat": "2026-09-26",
-   "confidence": "sedang",
-   "id": "ag_9c6a0c3a40",
-   "pertama_terlihat": "2026-09-26"
-  },
-  {
-   "judul": "Nikmat Yang Mahal itu Bernama: Hidayah",
-   "pemateri": "Ustadz Muammar At Tamimi",
-   "lokasi": "Masjid Al-Ihsan Cipinang",
-   "alamat": "",
-   "kota": "Jakarta Timur",
-   "tanggal": "2026-09-26",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian ba'da Maghrib.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/378461"
-   ],
-   "terakhir_terlihat": "2026-09-26",
-   "confidence": "sedang",
-   "id": "ag_c09e3919d2",
-   "pertama_terlihat": "2026-09-26"
-  },
-  {
-   "judul": "5 Kaidah Dalam Memahami Sunnah",
-   "pemateri": "Ustadz Dr. Emha Hasan Ayatullah, MA",
-   "lokasi": "Masjid Soleh Hawa",
-   "alamat": "Jl. Raya Ceger No.3, Cipayung",
-   "kota": "Jakarta Timur",
-   "tanggal": "2026-09-26",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian ba'da Maghrib.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/378466"
-   ],
-   "terakhir_terlihat": "2026-09-26",
-   "confidence": "sedang",
-   "id": "ag_227277ec9f",
-   "pertama_terlihat": "2026-09-26"
-  }
- ]
+ "agenda": []
 }

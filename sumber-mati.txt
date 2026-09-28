@@ -25,3 +25,9 @@ https://jadwalevent.web.id/informasi-kajian-di-jakarta-dan-sekitarnya-jabodetabe
 https://alazharjp.or.id — DNS tidak resolve, dicoba 2x (2026-09-23). PERHATIAN: satu-satunya sumber entri "Kajian Islam Pemuda Masjid (GEMMA)" Al-Azhar Jakapermai di kajian.json kini mati; entri lama dibiarkan (belum kadaluarsa) tapi perlu dicek ulang manual. Jangan coba lagi sampai 2026-10-23.
 https://jakarta.hallo.id/metropolitan/pr-2305199463/kajian-sunnah-jakarta-timur-ada-di-4-masjid — 403 Forbidden (2026-09-26), jangan coba lagi sampai 2026-10-26
 https://jakarta.hallo.id/metropolitan/pr-2304888244/daftar-alamat-masjid-penyelenggara-kajian-sunnah-di-jakarta-timur — 403 Forbidden (2026-09-26), jangan coba lagi sampai 2026-10-26
+https://agenda.istiqlal.or.id — 500 Internal Server Error (2026-09-28), jangan coba lagi sampai 2026-10-28
+https://eng.istiqlal.or.id — DNS tidak resolve (2026-09-28), jangan coba lagi sampai 2026-10-28
+https://jakarta.hallo.id/metropolitan/pr-2304759997/kajian-sunah-jakarta-pusat-ada-di-masjid-al-azhar-cempaka-putih — 403 Forbidden, sebelumnya jadi salah satu sumber Kajian Al-Azhar Cempaka Putih Jakarta Pusat (2026-09-28), jangan coba lagi sampai 2026-10-28
+https://www.genmuslim.id/khazanah/634675509/ada-informasi-kajian-di-masjid-al-azhar-cempaka-putih-masya-allah-kita-bisa-belajar-lagi-jangan-lupa-hadir — 403 Forbidden (2026-09-28), jangan coba lagi sampai 2026-10-28
+https://jadwalkajian.com/event-location/masjid-astra-sunter — 404, dicoba 2x (2026-09-28), jangan coba lagi sampai 2026-10-28
+https://rumahfiqih.com/j/BE-jadwal_tempat.php?id=4 dan id=23 — butuh login, tidak bisa diakses crawler (2026-09-28), jangan coba lagi sampai 2026-10-28
