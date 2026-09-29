@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-09-28T08:27+07:00",
+ "diperbarui": "2026-09-29T08:08+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -16,7 +16,7 @@
   "Tangerang",
   "Yogyakarta"
  ],
- "jumlah": 180,
+ "jumlah": 181,
  "jumlah_agenda": 0,
  "kajian": [
   {
@@ -518,6 +518,25 @@
    "confidence": "sedang",
    "id": "kj_b6e52765c1",
    "pertama_terlihat": "2026-09-23"
+  },
+  {
+   "judul": "Syarah Tsalatsatul Ushul (lanjutan)",
+   "pemateri": "Ustadz Luthfi Abdul Jabbar, Lc",
+   "lokasi": "Masjid Baiturrahim Jakasetia",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 2,
+   "mulai": "09:30",
+   "selesai": "11:00",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Diumumkan sebagai kajian rutin pada post Selasa 29 September 2026.",
+   "sumber": [
+    "https://t.me/jadwalkajianID/378861"
+   ],
+   "terakhir_terlihat": "2026-09-29",
+   "confidence": "sedang",
+   "id": "kj_72abce0fa7",
+   "pertama_terlihat": "2026-09-29"
   },
   {
    "judul": "Kajian Rutin Ba'da Isya",

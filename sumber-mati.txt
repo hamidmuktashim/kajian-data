@@ -31,3 +31,4 @@ https://jakarta.hallo.id/metropolitan/pr-2304759997/kajian-sunah-jakarta-pusat-a
 https://www.genmuslim.id/khazanah/634675509/ada-informasi-kajian-di-masjid-al-azhar-cempaka-putih-masya-allah-kita-bisa-belajar-lagi-jangan-lupa-hadir — 403 Forbidden (2026-09-28), jangan coba lagi sampai 2026-10-28
 https://jadwalkajian.com/event-location/masjid-astra-sunter — 404, dicoba 2x (2026-09-28), jangan coba lagi sampai 2026-10-28
 https://rumahfiqih.com/j/BE-jadwal_tempat.php?id=4 dan id=23 — butuh login, tidak bisa diakses crawler (2026-09-28), jangan coba lagi sampai 2026-10-28
+- https://attaqwarawalumbu.org, baitulmakmur.info, darussalamcimanggu.com — halaman verifikasi bot (tidak dilewati) (2026-09-29), jangan coba lagi sampai 2026-10-29

@@ -1,14 +1,216 @@
-{"kota":"Bekasi","dicek":"2026-09-23","kajian":[
- {"judul":"Tahsin Al-Qur'an (Pemula)","pemateri":"Ustadz Imam Muslimin, Lc.","lokasi":"Masjid Raya At-Taqwa Rawalumbu","alamat":"Jl. Lumbu Utara Raya, Jembatan 11, Rawalumbu, Bekasi","kota":"Bekasi","hari":6,"mulai":"21:00","selesai":"","kategori":"Tahsin","deskripsi":"Sekitar 10 menit setelah Isya berjamaah, khusus ikhwan.","sumber":["https://attaqwarawalumbu.org/kajian-isya/"],"terakhir_terlihat":"2026-09-23","confidence":"tinggi"},
- {"judul":"Bahasa Arab Tingkat Pemula","pemateri":"Ustadz Imam Muslimin, Lc.","lokasi":"Masjid Raya At-Taqwa Rawalumbu","alamat":"Jl. Lumbu Utara Raya, Jembatan 11, Rawalumbu, Bekasi","kota":"Bekasi","hari":2,"mulai":"21:00","selesai":"","kategori":"Bahasa Arab","deskripsi":"Sekitar 10 menit setelah Isya berjamaah, khusus ikhwan.","sumber":["https://attaqwarawalumbu.org/kajian-isya/"],"terakhir_terlihat":"2026-09-23","confidence":"tinggi"},
- {"judul":"Bahasa Arab Tingkat Lanjutan","pemateri":"Ustadz Imam Muslimin, Lc.","lokasi":"Masjid Raya At-Taqwa Rawalumbu","alamat":"Jl. Lumbu Utara Raya, Jembatan 11, Rawalumbu, Bekasi","kota":"Bekasi","hari":7,"mulai":"21:00","selesai":"","kategori":"Bahasa Arab","deskripsi":"Sekitar 10 menit setelah Isya berjamaah, khusus ikhwan.","sumber":["https://attaqwarawalumbu.org/kajian-isya/"],"terakhir_terlihat":"2026-09-23","confidence":"tinggi"},
- {"judul":"Kitab Al-Jadid Syarh Kitabut Tauhid","pemateri":"Al-Ustadz Abul Hasan","lokasi":"Masjid Al-Muwahhidin Cibitung","alamat":"Kp. Selang Cironggeng, Ds. Wanajaya RT 03/04, Cibitung, Bekasi","kota":"Bekasi","hari":1,"mulai":"19:30","selesai":"","kategori":"Tauhid","deskripsi":"Ba'da Isya, khusus ikhwan.","sumber":["https://ahlussunnahcikarang.wordpress.com/jadwal-kajian/"],"terakhir_terlihat":"2026-09-23","confidence":"sedang"},
- {"judul":"Tafsir Al-Qur'an (Taisir Karimir Rahman)","pemateri":"Al-Ustadz Abul Hasan","lokasi":"Masjid Al-Muwahhidin Cibitung","alamat":"Kp. Selang Cironggeng, Ds. Wanajaya RT 03/04, Cibitung, Bekasi","kota":"Bekasi","hari":2,"mulai":"19:30","selesai":"","kategori":"Tafsir","deskripsi":"Syaikh As-Sa'di, ba'da Isya, khusus ikhwan.","sumber":["https://ahlussunnahcikarang.wordpress.com/jadwal-kajian/"],"terakhir_terlihat":"2026-09-23","confidence":"sedang"},
- {"judul":"Fiqih Muyassar","pemateri":"Al-Ustadz Abul Hasan","lokasi":"Masjid Al-Muwahhidin Cibitung","alamat":"Kp. Selang Cironggeng, Ds. Wanajaya RT 03/04, Cibitung, Bekasi","kota":"Bekasi","hari":3,"mulai":"19:30","selesai":"","kategori":"Fiqih","deskripsi":"Ba'da Isya, khusus ikhwan.","sumber":["https://ahlussunnahcikarang.wordpress.com/jadwal-kajian/"],"terakhir_terlihat":"2026-09-23","confidence":"sedang"},
- {"judul":"Lum'atul I'tiqad dan Al Ibanah","pemateri":"Al-Ustadz Abul Hasan","lokasi":"Masjid Al-Muwahhidin Cibitung","alamat":"Kp. Selang Cironggeng, Ds. Wanajaya RT 03/04, Cibitung, Bekasi","kota":"Bekasi","hari":4,"mulai":"19:30","selesai":"","kategori":"Aqidah","deskripsi":"Ba'da Isya, khusus ikhwan.","sumber":["https://ahlussunnahcikarang.wordpress.com/jadwal-kajian/"],"terakhir_terlihat":"2026-09-23","confidence":"sedang"},
- {"judul":"Kajian Ahad Sore (bergantian: Fiqh Tarbiyatul Aulad / Adabul Usroh)","pemateri":"Al-Ustadz Abul Hasan","lokasi":"Masjid Al-Muwahhidin Cibitung","alamat":"Kp. Selang Cironggeng, Ds. Wanajaya RT 03/04, Cibitung, Bekasi","kota":"Bekasi","hari":7,"mulai":"16:30","selesai":"","kategori":"Keluarga","deskripsi":"Menjelang Maghrib; tema bergantian tiap pekan.","sumber":["https://sunniy.wordpress.com/markaz/"],"terakhir_terlihat":"2026-09-23","confidence":"sedang"},
- {"judul":"Kajian Fiqh dan Aqidah","pemateri":"","lokasi":"Masjid Al-Ikhwan Jababeka","alamat":"","kota":"Bekasi","hari":6,"mulai":"19:30","selesai":"","kategori":"Fiqih/Aqidah","deskripsi":"Ba'da Isya, khusus ikhwan.","sumber":["https://sunniy.wordpress.com/markaz/"],"terakhir_terlihat":"2026-09-23","confidence":"sedang"}
-],"agenda":[
- {"judul":"Tafsir Tauhid dan Syahadat La Ilaha Illallah","pemateri":"Ustadz Ahmad Baidlowi","lokasi":"Masjid Al-Fursan Jatiasih","alamat":"","kota":"Bekasi","tanggal":"2026-09-23","mulai":"09:00","selesai":"11:30","kategori":"Kajian Tematik","deskripsi":"","online":false,"tautan":"","sumber":["https://t.me/s/jadwalkajianID"],"terakhir_terlihat":"2026-09-23","confidence":"sedang"},
- {"judul":"Fikih Asmaul Husna - Al Kafiil Al Wakiil & Zakat","pemateri":"Ustadz Abu Fahd Ega","lokasi":"Masjid Al Fatah Jatiasih","alamat":"","kota":"Bekasi","tanggal":"2026-09-23","mulai":"09:00","selesai":"","kategori":"Kajian Tematik","deskripsi":"","online":false,"tautan":"","sumber":["https://t.me/s/jadwalkajianID"],"terakhir_terlihat":"2026-09-23","confidence":"sedang"}
-]}
+{
+ "kota": "Bekasi",
+ "dicek": "2026-09-29",
+ "kajian": [
+  {
+   "judul": "Tahsin Al-Qur'an (Pemula)",
+   "pemateri": "Ustadz Imam Muslimin, Lc.",
+   "lokasi": "Masjid Raya At-Taqwa Rawalumbu",
+   "alamat": "Jl. Lumbu Utara Raya, Jembatan 11, Rawalumbu, Bekasi",
+   "kota": "Bekasi",
+   "hari": 6,
+   "mulai": "21:00",
+   "selesai": "",
+   "kategori": "Tahsin",
+   "deskripsi": "Sekitar 10 menit setelah Isya berjamaah, khusus ikhwan.",
+   "sumber": [
+    "https://attaqwarawalumbu.org/kajian-isya/"
+   ],
+   "terakhir_terlihat": "2026-09-23",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Bahasa Arab Tingkat Pemula",
+   "pemateri": "Ustadz Imam Muslimin, Lc.",
+   "lokasi": "Masjid Raya At-Taqwa Rawalumbu",
+   "alamat": "Jl. Lumbu Utara Raya, Jembatan 11, Rawalumbu, Bekasi",
+   "kota": "Bekasi",
+   "hari": 2,
+   "mulai": "21:00",
+   "selesai": "",
+   "kategori": "Bahasa Arab",
+   "deskripsi": "Sekitar 10 menit setelah Isya berjamaah, khusus ikhwan.",
+   "sumber": [
+    "https://attaqwarawalumbu.org/kajian-isya/"
+   ],
+   "terakhir_terlihat": "2026-09-23",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Bahasa Arab Tingkat Lanjutan",
+   "pemateri": "Ustadz Imam Muslimin, Lc.",
+   "lokasi": "Masjid Raya At-Taqwa Rawalumbu",
+   "alamat": "Jl. Lumbu Utara Raya, Jembatan 11, Rawalumbu, Bekasi",
+   "kota": "Bekasi",
+   "hari": 7,
+   "mulai": "21:00",
+   "selesai": "",
+   "kategori": "Bahasa Arab",
+   "deskripsi": "Sekitar 10 menit setelah Isya berjamaah, khusus ikhwan.",
+   "sumber": [
+    "https://attaqwarawalumbu.org/kajian-isya/"
+   ],
+   "terakhir_terlihat": "2026-09-23",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kitab Al-Jadid Syarh Kitabut Tauhid",
+   "pemateri": "Al-Ustadz Abul Hasan",
+   "lokasi": "Masjid Al-Muwahhidin Cibitung",
+   "alamat": "Kp. Selang Cironggeng, Ds. Wanajaya RT 03/04, Cibitung, Bekasi",
+   "kota": "Bekasi",
+   "hari": 1,
+   "mulai": "19:30",
+   "selesai": "",
+   "kategori": "Tauhid",
+   "deskripsi": "Ba'da Isya, khusus ikhwan.",
+   "sumber": [
+    "https://ahlussunnahcikarang.wordpress.com/jadwal-kajian/"
+   ],
+   "terakhir_terlihat": "2026-09-23",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Tafsir Al-Qur'an (Taisir Karimir Rahman)",
+   "pemateri": "Al-Ustadz Abul Hasan",
+   "lokasi": "Masjid Al-Muwahhidin Cibitung",
+   "alamat": "Kp. Selang Cironggeng, Ds. Wanajaya RT 03/04, Cibitung, Bekasi",
+   "kota": "Bekasi",
+   "hari": 2,
+   "mulai": "19:30",
+   "selesai": "",
+   "kategori": "Tafsir",
+   "deskripsi": "Syaikh As-Sa'di, ba'da Isya, khusus ikhwan.",
+   "sumber": [
+    "https://ahlussunnahcikarang.wordpress.com/jadwal-kajian/"
+   ],
+   "terakhir_terlihat": "2026-09-23",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Fiqih Muyassar",
+   "pemateri": "Al-Ustadz Abul Hasan",
+   "lokasi": "Masjid Al-Muwahhidin Cibitung",
+   "alamat": "Kp. Selang Cironggeng, Ds. Wanajaya RT 03/04, Cibitung, Bekasi",
+   "kota": "Bekasi",
+   "hari": 3,
+   "mulai": "19:30",
+   "selesai": "",
+   "kategori": "Fiqih",
+   "deskripsi": "Ba'da Isya, khusus ikhwan.",
+   "sumber": [
+    "https://ahlussunnahcikarang.wordpress.com/jadwal-kajian/"
+   ],
+   "terakhir_terlihat": "2026-09-23",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Lum'atul I'tiqad dan Al Ibanah",
+   "pemateri": "Al-Ustadz Abul Hasan",
+   "lokasi": "Masjid Al-Muwahhidin Cibitung",
+   "alamat": "Kp. Selang Cironggeng, Ds. Wanajaya RT 03/04, Cibitung, Bekasi",
+   "kota": "Bekasi",
+   "hari": 4,
+   "mulai": "19:30",
+   "selesai": "",
+   "kategori": "Aqidah",
+   "deskripsi": "Ba'da Isya, khusus ikhwan.",
+   "sumber": [
+    "https://ahlussunnahcikarang.wordpress.com/jadwal-kajian/"
+   ],
+   "terakhir_terlihat": "2026-09-23",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Ahad Sore (bergantian: Fiqh Tarbiyatul Aulad / Adabul Usroh)",
+   "pemateri": "Al-Ustadz Abul Hasan",
+   "lokasi": "Masjid Al-Muwahhidin Cibitung",
+   "alamat": "Kp. Selang Cironggeng, Ds. Wanajaya RT 03/04, Cibitung, Bekasi",
+   "kota": "Bekasi",
+   "hari": 7,
+   "mulai": "16:30",
+   "selesai": "",
+   "kategori": "Keluarga",
+   "deskripsi": "Menjelang Maghrib; tema bergantian tiap pekan.",
+   "sumber": [
+    "https://sunniy.wordpress.com/markaz/"
+   ],
+   "terakhir_terlihat": "2026-09-23",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Fiqh dan Aqidah",
+   "pemateri": "",
+   "lokasi": "Masjid Al-Ikhwan Jababeka",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 6,
+   "mulai": "19:30",
+   "selesai": "",
+   "kategori": "Fiqih/Aqidah",
+   "deskripsi": "Ba'da Isya, khusus ikhwan.",
+   "sumber": [
+    "https://sunniy.wordpress.com/markaz/"
+   ],
+   "terakhir_terlihat": "2026-09-23",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Syarah Tsalatsatul Ushul (lanjutan)",
+   "pemateri": "Ustadz Luthfi Abdul Jabbar, Lc",
+   "lokasi": "Masjid Baiturrahim Jakasetia",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 2,
+   "mulai": "09:30",
+   "selesai": "11:00",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Diumumkan sebagai kajian rutin pada post Selasa 29 September 2026.",
+   "sumber": [
+    "https://t.me/jadwalkajianID/378861"
+   ],
+   "terakhir_terlihat": "2026-09-29",
+   "confidence": "sedang"
+  }
+ ],
+ "agenda": [
+  {
+   "judul": "Tafsir Tauhid dan Syahadat La Ilaha Illallah",
+   "pemateri": "Ustadz Ahmad Baidlowi",
+   "lokasi": "Masjid Al-Fursan Jatiasih",
+   "alamat": "",
+   "kota": "Bekasi",
+   "tanggal": "2026-09-23",
+   "mulai": "09:00",
+   "selesai": "11:30",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-09-23",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Fikih Asmaul Husna - Al Kafiil Al Wakiil & Zakat",
+   "pemateri": "Ustadz Abu Fahd Ega",
+   "lokasi": "Masjid Al Fatah Jatiasih",
+   "alamat": "",
+   "kota": "Bekasi",
+   "tanggal": "2026-09-23",
+   "mulai": "09:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-09-23",
+   "confidence": "sedang"
+  }
+ ]
+}
