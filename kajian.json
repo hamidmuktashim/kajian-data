@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-09-30T08:08+07:00",
+ "diperbarui": "2026-10-01T08:07+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -16,7 +16,7 @@
   "Tangerang",
   "Yogyakarta"
  ],
- "jumlah": 181,
+ "jumlah": 183,
  "jumlah_agenda": 0,
  "kajian": [
   {
@@ -2084,6 +2084,44 @@
    "confidence": "sedang",
    "id": "kj_540b22fd74",
    "pertama_terlihat": "2026-09-19"
+  },
+  {
+   "judul": "Kajian Rutin Kitab Ad-Daa' wa Ad-Dawaa' (Kamis)",
+   "pemateri": "Ustadz Ahmad Rasyid Bazher",
+   "lokasi": "Masjid Fatimah Muhammad",
+   "alamat": "Jl. Tebet Barat Raya No. 44, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 4,
+   "mulai": "10:00",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin kitab Ad-Daa' wa Ad-Dawaa' Kamis pukul 10.00 WIB.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-09-30",
+   "confidence": "sedang",
+   "id": "kj_ec615dbb0a",
+   "pertama_terlihat": "2026-10-01"
+  },
+  {
+   "judul": "Kajian Riyadhus Shalihin (Kamis)",
+   "pemateri": "Ustadz Gigih Surya Nugraha, S.H.",
+   "lokasi": "Masjid RNI",
+   "alamat": "Jln. Denpasar Raya Kav DIII Kuningan, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 4,
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian kitab Riyadhus Shalihin rutin terbuka untuk umum; frasa asli: \"Ba'da Dzuhur\".",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-09-30",
+   "confidence": "sedang",
+   "id": "kj_794c099c60",
+   "pertama_terlihat": "2026-10-01"
   },
   {
    "judul": "Fiqih Dzikir dan Do'a",
