@@ -1,8 +1,137 @@
-{"kota":"Jakarta Timur & Barat","dicek":"2026-09-26","kajian":[
- {"judul":"Kajian Rutin Selasa Pagi (Majelis Taklim Babussalam)","pemateri":"","lokasi":"Masjid At-Taqwa Taman Bunga Wiladatika","alamat":"Taman Bunga Wiladatika, Cibubur","kota":"Jakarta Timur","hari":2,"mulai":"08:00","selesai":"11:00","kategori":"Kajian Umum","deskripsi":"Kajian rutin tiap Selasa pagi, tema bergilir per pekan: Tafsir Al-Qur'an, Aqidah, Fiqih, Hadits.","sumber":["https://chanelmuslim.com/wisata/ini-lima-masjid-referensi-kajian-sunnah-di-jabodetabek"],"terakhir_terlihat":"2026-09-26","confidence":"sedang"},
- {"judul":"Kajian Rutin Sabtu Malam - Bahasa Arab","pemateri":"Ustadz Abu Zubaeir","lokasi":"Masjid Ar Rohmah","alamat":"Belakang Taman Palem Mall, Cengkareng","kota":"Jakarta Barat","hari":6,"mulai":"18:15","selesai":"","kategori":"Bahasa Arab","deskripsi":"Kajian rutin ba'da Maghrib, kitab Durusullughoh Al 'Arobiyyah li Ghairin Naathiqiina Bihaa.","sumber":["https://darussalaf.or.id/jakarta/"],"terakhir_terlihat":"2026-09-26","confidence":"tinggi"}
-],"agenda":[
- {"judul":"Pembatal-Pembatal 2 Kalimat Syahadat [5]","pemateri":"Ustadz Abu Jarir Ari Triono, Lc, MA","lokasi":"Masjid Al Hidayah","alamat":"Komplek Taman Pulo Gebang, Cakung Timur","kota":"Jakarta Timur","tanggal":"2026-09-26","mulai":"18:15","selesai":"","kategori":"Kajian Tematik","deskripsi":"Kajian ba'da Maghrib, bagian pembahasan Kitab Al-Wala' Wal-Bara'.","online":false,"tautan":"","sumber":["https://t.me/jadwalkajianID/378460"],"terakhir_terlihat":"2026-09-26","confidence":"sedang"},
- {"judul":"Nikmat Yang Mahal itu Bernama: Hidayah","pemateri":"Ustadz Muammar At Tamimi","lokasi":"Masjid Al-Ihsan Cipinang","alamat":"","kota":"Jakarta Timur","tanggal":"2026-09-26","mulai":"18:15","selesai":"","kategori":"Kajian Tematik","deskripsi":"Kajian ba'da Maghrib.","online":false,"tautan":"","sumber":["https://t.me/jadwalkajianID/378461"],"terakhir_terlihat":"2026-09-26","confidence":"sedang"},
- {"judul":"5 Kaidah Dalam Memahami Sunnah","pemateri":"Ustadz Dr. Emha Hasan Ayatullah, MA","lokasi":"Masjid Soleh Hawa","alamat":"Jl. Raya Ceger No.3, Cipayung","kota":"Jakarta Timur","tanggal":"2026-09-26","mulai":"18:15","selesai":"","kategori":"Kajian Tematik","deskripsi":"Kajian ba'da Maghrib.","online":false,"tautan":"","sumber":["https://t.me/jadwalkajianID/378466"],"terakhir_terlihat":"2026-09-26","confidence":"sedang"}
-]}
+{
+ "kota": "Jakarta Timur & Barat",
+ "dicek": "2026-10-02",
+ "kajian": [
+  {
+   "judul": "Kajian Rutin Selasa Pagi (Majelis Taklim Babussalam)",
+   "pemateri": "",
+   "lokasi": "Masjid At-Taqwa Taman Bunga Wiladatika",
+   "alamat": "Taman Bunga Wiladatika, Cibubur",
+   "kota": "Jakarta Timur",
+   "hari": 2,
+   "mulai": "08:00",
+   "selesai": "11:00",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin tiap Selasa pagi, tema bergilir per pekan: Tafsir Al-Qur'an, Aqidah, Fiqih, Hadits.",
+   "sumber": [
+    "https://chanelmuslim.com/wisata/ini-lima-masjid-referensi-kajian-sunnah-di-jabodetabek"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Rutin Sabtu Malam - Bahasa Arab",
+   "pemateri": "Ustadz Abu Zubaeir",
+   "lokasi": "Masjid Ar Rohmah",
+   "alamat": "Belakang Taman Palem Mall, Cengkareng",
+   "kota": "Jakarta Barat",
+   "hari": 6,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Bahasa Arab",
+   "deskripsi": "Kajian rutin ba'da Maghrib, kitab Durusullughoh Al 'Arobiyyah li Ghairin Naathiqiina Bihaa.",
+   "sumber": [
+    "https://darussalaf.or.id/jakarta/"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "tinggi"
+  }
+ ],
+ "agenda": [
+  {
+   "judul": "Pembatal-Pembatal 2 Kalimat Syahadat [5]",
+   "pemateri": "Ustadz Abu Jarir Ari Triono, Lc, MA",
+   "lokasi": "Masjid Al Hidayah",
+   "alamat": "Komplek Taman Pulo Gebang, Cakung Timur",
+   "kota": "Jakarta Timur",
+   "tanggal": "2026-09-26",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian ba'da Maghrib, bagian pembahasan Kitab Al-Wala' Wal-Bara'.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/378460"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Nikmat Yang Mahal itu Bernama: Hidayah",
+   "pemateri": "Ustadz Muammar At Tamimi",
+   "lokasi": "Masjid Al-Ihsan Cipinang",
+   "alamat": "",
+   "kota": "Jakarta Timur",
+   "tanggal": "2026-09-26",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian ba'da Maghrib.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/378461"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "5 Kaidah Dalam Memahami Sunnah",
+   "pemateri": "Ustadz Dr. Emha Hasan Ayatullah, MA",
+   "lokasi": "Masjid Soleh Hawa",
+   "alamat": "Jl. Raya Ceger No.3, Cipayung",
+   "kota": "Jakarta Timur",
+   "tanggal": "2026-09-26",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian ba'da Maghrib.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/378466"
+   ],
+   "terakhir_terlihat": "2026-09-26",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Jumat Ba'da Maghrib",
+   "pemateri": "",
+   "lokasi": "Masjid SMP-SMA Nabawi School",
+   "alamat": "Jl. Sunan Giri no.5 Rawamangun, Jakarta Timur",
+   "kota": "Jakarta Timur",
+   "tanggal": "2026-10-02",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Diumumkan 'Jum'at, 02 Oktober 2026 Ba'da Maghrib'.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-02",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Jumat Ba'da Maghrib",
+   "pemateri": "",
+   "lokasi": "Masjid Soleh Hawa",
+   "alamat": "Jl. Raya Ceger No.3, RT.005/001 Ceger, Cipayung, Jakarta Timur",
+   "kota": "Jakarta Timur",
+   "tanggal": "2026-10-02",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Diumumkan 'Jum'at, 2 Oktober 2026 Ba'da Maghrib'.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-02",
+   "confidence": "sedang"
+  }
+ ]
+}
