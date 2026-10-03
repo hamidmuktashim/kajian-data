@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-10-02T08:07+07:00",
+ "diperbarui": "2026-10-03T08:07+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -17,7 +17,7 @@
   "Yogyakarta"
  ],
  "jumlah": 183,
- "jumlah_agenda": 2,
+ "jumlah_agenda": 3,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -3553,6 +3553,27 @@
    "confidence": "sedang",
    "id": "ag_285bbd1419",
    "pertama_terlihat": "2026-10-02"
+  },
+  {
+   "judul": "Anak-anak Shalih di Sekitar Nabi Bag.9 - Rumahnya al-Arqom bin Abil Arqom",
+   "pemateri": "Ustadz Zakariaya Rizky",
+   "lokasi": "Masjid Baiturroza (SIER)",
+   "alamat": "Jl. Rungkut Industri IV, Surabaya",
+   "kota": "Surabaya",
+   "tanggal": "2026-10-04",
+   "mulai": "08:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian anak, diumumkan di kanal Surabaya Mengaji.",
+   "online": false,
+   "tautan": "https://ysmo.link/kajiananak65",
+   "sumber": [
+    "https://t.me/s/surabayamengaji"
+   ],
+   "terakhir_terlihat": "2026-10-03",
+   "confidence": "sedang",
+   "id": "ag_0991332002",
+   "pertama_terlihat": "2026-10-03"
   }
  ]
 }

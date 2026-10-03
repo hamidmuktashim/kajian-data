@@ -1,6 +1,75 @@
-{"kota":"Tangerang","dicek":"2026-09-27","kajian":[
- {"judul":"Tanbihat 'ala Ahkamin Takhtashshu Bil Mu'minat","pemateri":"Ustadz Farhan Abu Furaihan","lokasi":"Masjid An-Naba' Graha Raya Bintaro","alamat":"Jl. Akses Graha Raya Bintaro KM.01, Regency Pinang, Kota Tangerang","kota":"Tangerang","hari":3,"mulai":"09:30","selesai":"11:00","kategori":"Muslimah","deskripsi":"Kajian rutin setiap Rabu pagi, membahas hukum-hukum khusus bagi wanita mukminat.","sumber":["https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"],"terakhir_terlihat":"2026-09-27","confidence":"sedang"},
- {"judul":"Kitab Lum'atul I'tiqod","pemateri":"Ustadz Sahl Abu Abdillah","lokasi":"Masjid An-Naba' Graha Raya Bintaro","alamat":"Jl. Akses Graha Raya Bintaro KM.01, Regency Pinang, Kota Tangerang","kota":"Tangerang","hari":3,"mulai":"18:30","selesai":"20:00","kategori":"Aqidah","deskripsi":"Kajian rutin setiap Rabu malam, Kitab Lum'atul I'tiqod.","sumber":["https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"],"terakhir_terlihat":"2026-09-27","confidence":"sedang"},
- {"judul":"Kitab Bulughul Maram","pemateri":"Ustadz Luthfi Abdul Jabbar, Lc.","lokasi":"Masjid An-Naba' Graha Raya Bintaro","alamat":"Jl. Akses Graha Raya Bintaro KM.01, Regency Pinang, Kota Tangerang","kota":"Tangerang","hari":6,"mulai":"10:00","selesai":"11:30","kategori":"Fiqih","deskripsi":"Kajian rutin setiap Sabtu pagi, Kitab Bulughul Maram.","sumber":["https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"],"terakhir_terlihat":"2026-09-27","confidence":"sedang"},
- {"judul":"Kitab Zuhud dan Kelembutan Hati","pemateri":"Ustadz Aep Saepullah Ibnu Ahmad","lokasi":"Masjid An-Naba' Graha Raya Bintaro","alamat":"Jl. Akses Graha Raya Bintaro KM.01, Regency Pinang, Kota Tangerang","kota":"Tangerang","hari":6,"mulai":"05:00","selesai":"07:00","kategori":"Kajian Umum","deskripsi":"Kajian rutin setiap Sabtu ba'da Subuh, Kitab Zuhud dan Kelembutan Hati.","sumber":["https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"],"terakhir_terlihat":"2026-09-27","confidence":"sedang"}
-],"agenda":[]}
+{
+ "kota": "Tangerang",
+ "dicek": "2026-10-03",
+ "kajian": [
+  {
+   "judul": "Tanbihat 'ala Ahkamin Takhtashshu Bil Mu'minat",
+   "pemateri": "Ustadz Farhan Abu Furaihan",
+   "lokasi": "Masjid An-Naba' Graha Raya Bintaro",
+   "alamat": "Jl. Akses Graha Raya Bintaro KM.01, Regency Pinang, Kota Tangerang",
+   "kota": "Tangerang",
+   "hari": 3,
+   "mulai": "09:30",
+   "selesai": "11:00",
+   "kategori": "Muslimah",
+   "deskripsi": "Kajian rutin setiap Rabu pagi, membahas hukum-hukum khusus bagi wanita mukminat.",
+   "sumber": [
+    "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
+   ],
+   "terakhir_terlihat": "2026-09-27",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kitab Lum'atul I'tiqod",
+   "pemateri": "Ustadz Sahl Abu Abdillah",
+   "lokasi": "Masjid An-Naba' Graha Raya Bintaro",
+   "alamat": "Jl. Akses Graha Raya Bintaro KM.01, Regency Pinang, Kota Tangerang",
+   "kota": "Tangerang",
+   "hari": 3,
+   "mulai": "18:30",
+   "selesai": "20:00",
+   "kategori": "Aqidah",
+   "deskripsi": "Kajian rutin setiap Rabu malam, Kitab Lum'atul I'tiqod.",
+   "sumber": [
+    "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
+   ],
+   "terakhir_terlihat": "2026-09-27",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kitab Bulughul Maram",
+   "pemateri": "Ustadz Luthfi Abdul Jabbar, Lc.",
+   "lokasi": "Masjid An-Naba' Graha Raya Bintaro",
+   "alamat": "Jl. Akses Graha Raya Bintaro KM.01, Regency Pinang, Kota Tangerang",
+   "kota": "Tangerang",
+   "hari": 6,
+   "mulai": "10:00",
+   "selesai": "11:30",
+   "kategori": "Fiqih",
+   "deskripsi": "Kajian rutin setiap Sabtu pagi, Kitab Bulughul Maram.",
+   "sumber": [
+    "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
+   ],
+   "terakhir_terlihat": "2026-09-27",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kitab Zuhud dan Kelembutan Hati",
+   "pemateri": "Ustadz Aep Saepullah Ibnu Ahmad",
+   "lokasi": "Masjid An-Naba' Graha Raya Bintaro",
+   "alamat": "Jl. Akses Graha Raya Bintaro KM.01, Regency Pinang, Kota Tangerang",
+   "kota": "Tangerang",
+   "hari": 6,
+   "mulai": "05:00",
+   "selesai": "07:00",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin setiap Sabtu ba'da Subuh, Kitab Zuhud dan Kelembutan Hati.",
+   "sumber": [
+    "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
+   ],
+   "terakhir_terlihat": "2026-09-27",
+   "confidence": "sedang"
+  }
+ ],
+ "agenda": []
+}

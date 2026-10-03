@@ -1,3 +1,44 @@
-{"kota":"Surabaya","dicek":"2026-09-27","kajian":[
- {"judul":"Kitab Bulughul Maram","pemateri":"Ustadz Muhammad Nur Yasin, Lc.","lokasi":"Masjid Al-Burhan","alamat":"Jl. Baruk Barat XIV No. 51, Pondok Nirwana, Surabaya","kota":"Surabaya","hari":7,"mulai":"05:00","selesai":"","kategori":"Fiqih","deskripsi":"Kajian rutin setiap Ahad ba'da Subuh, Kitab Bulughul Maram.","sumber":["https://t.me/s/surabayamengaji"],"terakhir_terlihat":"2026-09-27","confidence":"sedang"}
-],"agenda":[]}
+{
+ "kota": "Surabaya",
+ "dicek": "2026-10-03",
+ "kajian": [
+  {
+   "judul": "Kitab Bulughul Maram",
+   "pemateri": "Ustadz Muhammad Nur Yasin, Lc.",
+   "lokasi": "Masjid Al-Burhan",
+   "alamat": "Jl. Baruk Barat XIV No. 51, Pondok Nirwana, Surabaya",
+   "kota": "Surabaya",
+   "hari": 7,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Fiqih",
+   "deskripsi": "Kajian rutin setiap Ahad ba'da Subuh, Kitab Bulughul Maram.",
+   "sumber": [
+    "https://t.me/s/surabayamengaji"
+   ],
+   "terakhir_terlihat": "2026-09-27",
+   "confidence": "sedang"
+  }
+ ],
+ "agenda": [
+  {
+   "judul": "Anak-anak Shalih di Sekitar Nabi Bag.9 - Rumahnya al-Arqom bin Abil Arqom",
+   "pemateri": "Ustadz Zakariaya Rizky",
+   "lokasi": "Masjid Baiturroza (SIER)",
+   "alamat": "Jl. Rungkut Industri IV, Surabaya",
+   "kota": "Surabaya",
+   "tanggal": "2026-10-04",
+   "mulai": "08:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian anak, diumumkan di kanal Surabaya Mengaji.",
+   "online": false,
+   "tautan": "https://ysmo.link/kajiananak65",
+   "sumber": [
+    "https://t.me/s/surabayamengaji"
+   ],
+   "terakhir_terlihat": "2026-10-03",
+   "confidence": "sedang"
+  }
+ ]
+}
