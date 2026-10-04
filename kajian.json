@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-10-03T08:07+07:00",
+ "diperbarui": "2026-10-04T08:06+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -17,7 +17,7 @@
   "Yogyakarta"
  ],
  "jumlah": 183,
- "jumlah_agenda": 3,
+ "jumlah_agenda": 1,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -3512,48 +3512,6 @@
   }
  ],
  "agenda": [
-  {
-   "judul": "Kajian Jumat Ba'da Maghrib",
-   "pemateri": "",
-   "lokasi": "Masjid SMP-SMA Nabawi School",
-   "alamat": "Jl. Sunan Giri no.5 Rawamangun, Jakarta Timur",
-   "kota": "Jakarta Timur",
-   "tanggal": "2026-10-02",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Diumumkan 'Jum'at, 02 Oktober 2026 Ba'da Maghrib'.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-02",
-   "confidence": "sedang",
-   "id": "ag_53fa018f55",
-   "pertama_terlihat": "2026-10-02"
-  },
-  {
-   "judul": "Kajian Jumat Ba'da Maghrib",
-   "pemateri": "",
-   "lokasi": "Masjid Soleh Hawa",
-   "alamat": "Jl. Raya Ceger No.3, RT.005/001 Ceger, Cipayung, Jakarta Timur",
-   "kota": "Jakarta Timur",
-   "tanggal": "2026-10-02",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Diumumkan 'Jum'at, 2 Oktober 2026 Ba'da Maghrib'.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-02",
-   "confidence": "sedang",
-   "id": "ag_285bbd1419",
-   "pertama_terlihat": "2026-10-02"
-  },
   {
    "judul": "Anak-anak Shalih di Sekitar Nabi Bag.9 - Rumahnya al-Arqom bin Abil Arqom",
    "pemateri": "Ustadz Zakariaya Rizky",
