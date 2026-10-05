@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-10-04T08:06+07:00",
+ "diperbarui": "2026-10-05T08:08+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -16,8 +16,8 @@
   "Tangerang",
   "Yogyakarta"
  ],
- "jumlah": 183,
- "jumlah_agenda": 1,
+ "jumlah": 185,
+ "jumlah_agenda": 2,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -499,6 +499,25 @@
    "confidence": "tinggi",
    "id": "kj_594c18161d",
    "pertama_terlihat": "2026-09-17"
+  },
+  {
+   "judul": "Kajian Rutin Senin: Khulashoh Ta'zhim Al-'Ilm",
+   "pemateri": "Ustadz Ahmad Rasyid Bazher",
+   "lokasi": "Masjid Al Ikhlas Prima Harapan Regensi",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 1,
+   "mulai": "09:00",
+   "selesai": "10:30",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin Senin untuk umum, live streaming @mt_sahla.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-05",
+   "confidence": "sedang",
+   "id": "kj_fe396e2dec",
+   "pertama_terlihat": "2026-10-05"
   },
   {
    "judul": "Kitab Al-Jadid Syarh Kitabut Tauhid",
@@ -1108,6 +1127,25 @@
    "confidence": "sedang",
    "id": "kj_3d95dd330b",
    "pertama_terlihat": "2026-09-23"
+  },
+  {
+   "judul": "Kajian Kitab Ad-Daa wa Ad-Dawaa (Maksiat Menyebabkan Kesialan)",
+   "pemateri": "Ustadz Hasan Al Jaizy",
+   "lokasi": "Masjid Al Mukhlishun",
+   "alamat": "Griya Depok Asri Blok E1-44",
+   "kota": "Depok",
+   "hari": 1,
+   "mulai": "09:30",
+   "selesai": "11:00",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin untuk umum, disiarkan di YouTube MT Ash Shalihah.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-05",
+   "confidence": "sedang",
+   "id": "kj_cd1a0f2dc9",
+   "pertama_terlihat": "2026-10-05"
   },
   {
    "judul": "Kajian Kitab Al-Ilmu wa Akhlaqu Ahluh",
@@ -3532,6 +3570,27 @@
    "confidence": "sedang",
    "id": "ag_0991332002",
    "pertama_terlihat": "2026-10-03"
+  },
+  {
+   "judul": "Tabligh Akbar Kemuslimahan: Selagi Mereka Bersamamu",
+   "pemateri": "Ustadz Subhan Bawazier",
+   "lokasi": "Masjid Daarussalaam Griya Tugu Asri",
+   "alamat": "",
+   "kota": "Depok",
+   "tanggal": "2026-10-05",
+   "mulai": "08:30",
+   "selesai": "11:30",
+   "kategori": "Tabligh Akbar",
+   "deskripsi": "Terbuka untuk ikhwan & akhwat; wajib daftar.",
+   "online": false,
+   "tautan": "https://masjidgta.id/selagimerekabersamamu",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-05",
+   "confidence": "sedang",
+   "id": "ag_fcdfea6013",
+   "pertama_terlihat": "2026-10-05"
   }
  ]
 }

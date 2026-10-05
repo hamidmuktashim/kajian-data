@@ -1,6 +1,6 @@
 {
  "kota": "Bekasi",
- "dicek": "2026-09-29",
+ "dicek": "2026-10-05",
  "kajian": [
   {
    "judul": "Tahsin Al-Qur'an (Pemula)",
@@ -170,6 +170,23 @@
     "https://t.me/jadwalkajianID/378861"
    ],
    "terakhir_terlihat": "2026-09-29",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Rutin Senin: Khulashoh Ta'zhim Al-'Ilm",
+   "pemateri": "Ustadz Ahmad Rasyid Bazher",
+   "lokasi": "Masjid Al Ikhlas Prima Harapan Regensi",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 1,
+   "mulai": "09:00",
+   "selesai": "10:30",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin Senin untuk umum, live streaming @mt_sahla.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-05",
    "confidence": "sedang"
   }
  ],

@@ -1,6 +1,6 @@
 {
  "kota": "Depok",
- "dicek": "2026-09-29",
+ "dicek": "2026-10-05",
  "kajian": [
   {
    "judul": "Kajian Muslimah Kamis",
@@ -273,6 +273,23 @@
    ],
    "terakhir_terlihat": "2026-09-23",
    "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Kitab Ad-Daa wa Ad-Dawaa (Maksiat Menyebabkan Kesialan)",
+   "pemateri": "Ustadz Hasan Al Jaizy",
+   "lokasi": "Masjid Al Mukhlishun",
+   "alamat": "Griya Depok Asri Blok E1-44",
+   "kota": "Depok",
+   "hari": 1,
+   "mulai": "09:30",
+   "selesai": "11:00",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin untuk umum, disiarkan di YouTube MT Ash Shalihah.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-05",
+   "confidence": "sedang"
   }
  ],
  "agenda": [
@@ -312,6 +329,25 @@
     "https://t.me/s/jadwalkajianID"
    ],
    "terakhir_terlihat": "2026-09-23",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Tabligh Akbar Kemuslimahan: Selagi Mereka Bersamamu",
+   "pemateri": "Ustadz Subhan Bawazier",
+   "lokasi": "Masjid Daarussalaam Griya Tugu Asri",
+   "alamat": "",
+   "kota": "Depok",
+   "tanggal": "2026-10-05",
+   "mulai": "08:30",
+   "selesai": "11:30",
+   "kategori": "Tabligh Akbar",
+   "deskripsi": "Terbuka untuk ikhwan & akhwat; wajib daftar.",
+   "online": false,
+   "tautan": "https://masjidgta.id/selagimerekabersamamu",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-05",
    "confidence": "sedang"
   }
  ]
