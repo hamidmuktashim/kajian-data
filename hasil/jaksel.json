@@ -1,6 +1,6 @@
 {
  "kota": "Jakarta Selatan",
- "dicek": "2026-10-01",
+ "dicek": "2026-10-07",
  "kajian": [
   {
    "judul": "MT. Tafsir (Senin)",
@@ -16,7 +16,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-25",
+   "terakhir_terlihat": "2026-10-07",
    "confidence": "tinggi"
   },
   {
@@ -33,7 +33,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-25",
+   "terakhir_terlihat": "2026-10-07",
    "confidence": "tinggi"
   },
   {
@@ -50,7 +50,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-25",
+   "terakhir_terlihat": "2026-10-07",
    "confidence": "tinggi"
   },
   {
@@ -67,7 +67,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-25",
+   "terakhir_terlihat": "2026-10-07",
    "confidence": "tinggi"
   },
   {
@@ -84,7 +84,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-25",
+   "terakhir_terlihat": "2026-10-07",
    "confidence": "tinggi"
   },
   {
@@ -101,7 +101,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-25",
+   "terakhir_terlihat": "2026-10-07",
    "confidence": "tinggi"
   },
   {
@@ -118,7 +118,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-25",
+   "terakhir_terlihat": "2026-10-07",
    "confidence": "tinggi"
   },
   {
@@ -247,14 +247,15 @@
    "alamat": "",
    "kota": "Jakarta Selatan",
    "hari": 3,
-   "mulai": "18:15",
-   "selesai": "",
+   "mulai": "18:30",
+   "selesai": "20:00",
    "kategori": "Tematik",
-   "deskripsi": "Kajian rutin pekanan Rabu malam ba'da Maghrib, tema Dosa-Dosa Besar.",
+   "deskripsi": "Kajian rutin Dosa-Dosa Besar bersama Ustadz Khalid Basalamah, Rabu 18.30-20.00 WIB.",
    "sumber": [
-    "https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square"
+    "https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square",
+    "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-09-25",
+   "terakhir_terlihat": "2026-10-07",
    "confidence": "sedang"
   },
   {
@@ -391,6 +392,40 @@
     "https://t.me/s/jadwalkajianID"
    ],
    "terakhir_terlihat": "2026-09-30",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Kitab Permasalahan Fiqih (Rabu)",
+   "pemateri": "Ustadz Azhar Khalid bin Seff, Lc., MA",
+   "lokasi": "Masjid RNI",
+   "alamat": "Jln. Denpasar Raya Kav DIII Kuningan, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 3,
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian Islam Ilmiah rutin terbuka untuk umum; frasa asli: \"Ba'da Dzuhur - Selesai\".",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-06",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Kitab Rutin Menjaga Sunnah & Adab (Rabu)",
+   "pemateri": "Ustadz Imam Syuhada, Lc",
+   "lokasi": "Masjid MHT",
+   "alamat": "",
+   "kota": "Jakarta Selatan",
+   "hari": 3,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian kitab rutin terbuka untuk umum; frasa asli: \"Ba'da Maghrib - Selesai\".",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-06",
    "confidence": "sedang"
   }
  ],

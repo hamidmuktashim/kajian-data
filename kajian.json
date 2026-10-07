@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-10-05T08:08+07:00",
+ "diperbarui": "2026-10-07T08:08+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -16,8 +16,8 @@
   "Tangerang",
   "Yogyakarta"
  ],
- "jumlah": 185,
- "jumlah_agenda": 2,
+ "jumlah": 188,
+ "jumlah_agenda": 0,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -1738,7 +1738,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-25",
+   "terakhir_terlihat": "2026-10-07",
    "confidence": "tinggi",
    "id": "kj_6b737c6f40",
    "pertama_terlihat": "2026-09-10"
@@ -1985,7 +1985,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-25",
+   "terakhir_terlihat": "2026-10-07",
    "confidence": "tinggi",
    "id": "kj_992b43b53c",
    "pertama_terlihat": "2026-09-10"
@@ -2027,6 +2027,25 @@
    "confidence": "sedang",
    "id": "kj_5e4c1c192c",
    "pertama_terlihat": "2026-09-25"
+  },
+  {
+   "judul": "Kajian Kitab Permasalahan Fiqih (Rabu)",
+   "pemateri": "Ustadz Azhar Khalid bin Seff, Lc., MA",
+   "lokasi": "Masjid RNI",
+   "alamat": "Jln. Denpasar Raya Kav DIII Kuningan, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "hari": 3,
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian Islam Ilmiah rutin terbuka untuk umum; frasa asli: \"Ba'da Dzuhur - Selesai\".",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-06",
+   "confidence": "sedang",
+   "id": "kj_1b6a04ea18",
+   "pertama_terlihat": "2026-10-07"
   },
   {
    "judul": "Riyadhush Shalihin",
@@ -2103,6 +2122,45 @@
    "confidence": "sedang",
    "id": "kj_0d3c292c37",
    "pertama_terlihat": "2026-09-25"
+  },
+  {
+   "judul": "Kajian Kitab Rutin Menjaga Sunnah & Adab (Rabu)",
+   "pemateri": "Ustadz Imam Syuhada, Lc",
+   "lokasi": "Masjid MHT",
+   "alamat": "",
+   "kota": "Jakarta Selatan",
+   "hari": 3,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian kitab rutin terbuka untuk umum; frasa asli: \"Ba'da Maghrib - Selesai\".",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-06",
+   "confidence": "sedang",
+   "id": "kj_32cd276885",
+   "pertama_terlihat": "2026-10-07"
+  },
+  {
+   "judul": "Dosa-Dosa Besar (Rabu)",
+   "pemateri": "Ustadz Khalid Basalamah",
+   "lokasi": "Masjid Nurul Iman Blok M Square",
+   "alamat": "",
+   "kota": "Jakarta Selatan",
+   "hari": 3,
+   "mulai": "18:30",
+   "selesai": "20:00",
+   "kategori": "Tematik",
+   "deskripsi": "Kajian rutin Dosa-Dosa Besar bersama Ustadz Khalid Basalamah, Rabu 18.30-20.00 WIB.",
+   "sumber": [
+    "https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square",
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "id": "kj_42073c20dc",
+   "pertama_terlihat": "2026-10-07"
   },
   {
    "judul": "Tahsin Al-Quran Ibu-Ibu (Kamis)",
@@ -2270,7 +2328,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-25",
+   "terakhir_terlihat": "2026-10-07",
    "confidence": "tinggi",
    "id": "kj_842ad2efb4",
    "pertama_terlihat": "2026-09-10"
@@ -2327,7 +2385,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-25",
+   "terakhir_terlihat": "2026-10-07",
    "confidence": "tinggi",
    "id": "kj_363efaf21c",
    "pertama_terlihat": "2026-09-10"
@@ -2365,7 +2423,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-25",
+   "terakhir_terlihat": "2026-10-07",
    "confidence": "tinggi",
    "id": "kj_d745cd592a",
    "pertama_terlihat": "2026-09-25"
@@ -2384,7 +2442,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-25",
+   "terakhir_terlihat": "2026-10-07",
    "confidence": "tinggi",
    "id": "kj_3a05c8677f",
    "pertama_terlihat": "2026-09-10"
@@ -2441,7 +2499,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-09-25",
+   "terakhir_terlihat": "2026-10-07",
    "confidence": "tinggi",
    "id": "kj_9a4162391f",
    "pertama_terlihat": "2026-09-10"
@@ -3549,48 +3607,5 @@
    "pertama_terlihat": "2026-09-18"
   }
  ],
- "agenda": [
-  {
-   "judul": "Anak-anak Shalih di Sekitar Nabi Bag.9 - Rumahnya al-Arqom bin Abil Arqom",
-   "pemateri": "Ustadz Zakariaya Rizky",
-   "lokasi": "Masjid Baiturroza (SIER)",
-   "alamat": "Jl. Rungkut Industri IV, Surabaya",
-   "kota": "Surabaya",
-   "tanggal": "2026-10-04",
-   "mulai": "08:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian anak, diumumkan di kanal Surabaya Mengaji.",
-   "online": false,
-   "tautan": "https://ysmo.link/kajiananak65",
-   "sumber": [
-    "https://t.me/s/surabayamengaji"
-   ],
-   "terakhir_terlihat": "2026-10-03",
-   "confidence": "sedang",
-   "id": "ag_0991332002",
-   "pertama_terlihat": "2026-10-03"
-  },
-  {
-   "judul": "Tabligh Akbar Kemuslimahan: Selagi Mereka Bersamamu",
-   "pemateri": "Ustadz Subhan Bawazier",
-   "lokasi": "Masjid Daarussalaam Griya Tugu Asri",
-   "alamat": "",
-   "kota": "Depok",
-   "tanggal": "2026-10-05",
-   "mulai": "08:30",
-   "selesai": "11:30",
-   "kategori": "Tabligh Akbar",
-   "deskripsi": "Terbuka untuk ikhwan & akhwat; wajib daftar.",
-   "online": false,
-   "tautan": "https://masjidgta.id/selagimerekabersamamu",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-05",
-   "confidence": "sedang",
-   "id": "ag_fcdfea6013",
-   "pertama_terlihat": "2026-10-05"
-  }
- ]
+ "agenda": []
 }
