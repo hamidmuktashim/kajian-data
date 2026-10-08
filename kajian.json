@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-10-07T08:08+07:00",
+ "diperbarui": "2026-10-08T08:07+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -16,8 +16,8 @@
   "Tangerang",
   "Yogyakarta"
  ],
- "jumlah": 188,
- "jumlah_agenda": 0,
+ "jumlah": 192,
+ "jumlah_agenda": 6,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -900,6 +900,25 @@
    "pertama_terlihat": "2026-09-26"
   },
   {
+   "judul": "Kajian Rutin Bogor Bertauhid - Muslimah Harus Baper",
+   "pemateri": "Ustadzah Ummu Ihsan Choiriyah",
+   "lokasi": "Masjid Alumni IPB",
+   "alamat": "Jl. Cidangiang No 4, Bogor",
+   "kota": "Bogor",
+   "hari": 4,
+   "mulai": "09:00",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin khusus muslimah, Kamis 09.00 s/d selesai.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "id": "kj_6517e62b23",
+   "pertama_terlihat": "2026-10-08"
+  },
+  {
    "judul": "Kajian Rutin Kamis Malam - Bahasa Arab (Durusul Lughoh)",
    "pemateri": "Ustadz Mursalin Dahlan, Lc",
    "lokasi": "Masjid At Tuur Maryam An Naim",
@@ -917,6 +936,25 @@
    "confidence": "tinggi",
    "id": "kj_70d5aa1731",
    "pertama_terlihat": "2026-09-26"
+  },
+  {
+   "judul": "Kajian Rutin Lisan Arab",
+   "pemateri": "Ustadz Mas'ud Mahmud, Lc",
+   "lokasi": "Masjid Mu'adz bin Jabal",
+   "alamat": "Bojongkulur, Gunung Putri",
+   "kota": "Bogor",
+   "hari": 4,
+   "mulai": "19:30",
+   "selesai": "",
+   "kategori": "Bahasa Arab",
+   "deskripsi": "Kajian rutin Lisan Arabi, ba'da Isya s/d selesai; pertemuan ke-10 per 8 Okt 2026.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "rendah",
+   "id": "kj_41653d650c",
+   "pertama_terlihat": "2026-10-08"
   },
   {
    "judul": "Kajian Rutin Jumat Malam - Tiga Landasan Utama",
@@ -2581,6 +2619,44 @@
    "pertama_terlihat": "2026-09-26"
   },
   {
+   "judul": "Majelis Ilmu Nabawi Islamic School - Kitab Fawaidul Fawaid",
+   "pemateri": "Ustadz Nizar Saad Jabal",
+   "lokasi": "Masjid SD Nabawi School",
+   "alamat": "Jl. Pegambiran No. 24 Rawamangun",
+   "kota": "Jakarta Timur",
+   "hari": 4,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Insya Allah setiap pekan, ba'da Maghrib s/d selesai; kitab Fawaidul Fawaid.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "id": "kj_c94541c07d",
+   "pertama_terlihat": "2026-10-08"
+  },
+  {
+   "judul": "Kajian Rutin Setiap Kamis - Umdatul Ahkam (Kitab Jual Beli)",
+   "pemateri": "Ustadz Abu Ya'la Kurnaedi, Lc, MPd, MH",
+   "lokasi": "Masjid Kubah 9 Al-Muhajirin",
+   "alamat": "Jl. H Naman No.1 Pondok Kelapa",
+   "kota": "Jakarta Timur",
+   "hari": 4,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin setiap Kamis, ba'da Maghrib s/d selesai.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "id": "kj_6cb6720b1e",
+   "pertama_terlihat": "2026-10-08"
+  },
+  {
    "judul": "Kajian Rutin Ahad Pagi",
    "pemateri": "Ustadz Abu Usamah Samsul Hadi",
    "lokasi": "Masjid Soleh Hawa",
@@ -3607,5 +3683,132 @@
    "pertama_terlihat": "2026-09-18"
   }
  ],
- "agenda": []
+ "agenda": [
+  {
+   "judul": "Fiqih Sunnah Wanita - Bab Aiman (Sumpah) dan Nadzar",
+   "pemateri": "Ustadz Abu Bakar Al-Akhdory, Lc, MPd",
+   "lokasi": "Baitul Qur'an Lin-Nisaa",
+   "alamat": "Nirwana Estate Cikaret, Cibinong",
+   "kota": "Bogor",
+   "tanggal": "2026-10-08",
+   "mulai": "09:00",
+   "selesai": "10:45",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian Kamis pekan ke-2, khusus muslimah (MT Lin-Nisaa).",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "id": "ag_acf86b968a",
+   "pertama_terlihat": "2026-10-08"
+  },
+  {
+   "judul": "Perjalanan Menuju Akherat (Bagian 1)",
+   "pemateri": "Ustadz DR. Abu Islama Immanudin Lc MA",
+   "lokasi": "Masjid Shafa Marwah",
+   "alamat": "Nagrak, Gunung Putri",
+   "kota": "Bogor",
+   "tanggal": "2026-10-08",
+   "mulai": "09:00",
+   "selesai": "11:00",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian Kamis pagi pekan kedua, ikhwan dan akhwat.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "id": "ag_679690f2d1",
+   "pertama_terlihat": "2026-10-08"
+  },
+  {
+   "judul": "Kajian Ilmiah Muslimah Amalan Hati - Muhasabah",
+   "pemateri": "Ustadz Dr. Djazuli Ruhan Basyir, Lc, MA",
+   "lokasi": "Masjid Mu'adz bin Jabal",
+   "alamat": "Bojongkulur, Gunung Putri",
+   "kota": "Bogor",
+   "tanggal": "2026-10-08",
+   "mulai": "09:00",
+   "selesai": "11:00",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian ilmiah muslimah (MT Al Karimah).",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "id": "ag_5fcc803ff0",
+   "pertama_terlihat": "2026-10-08"
+  },
+  {
+   "judul": "Kajian Kitab Hadits Arbain An-Nawawi (lanjutan hadits ke-25)",
+   "pemateri": "Ustadz Farhan Furaihan",
+   "lokasi": "Masjid At Tabayyun",
+   "alamat": "Taman Villa Meruya, Jl Taman Palem Raya Blok D 12",
+   "kota": "Jakarta Barat",
+   "tanggal": "2026-10-08",
+   "mulai": "09:00",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian tatap muka untuk ikhwan dan akhwat, MT Ar Rohat dan Masjid At Tabayyun.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "id": "ag_7d540af07c",
+   "pertama_terlihat": "2026-10-08"
+  },
+  {
+   "judul": "Kitab Tauhid - Bab Keenam Puluh Tujuh (Bab Terakhir)",
+   "pemateri": "Ustadz Zainudin Khuzairi",
+   "lokasi": "Masjid Hayatun Nufus",
+   "alamat": "Pulo Gebang Permai Blok A, Cakung",
+   "kota": "Jakarta Timur",
+   "tanggal": "2026-10-08",
+   "mulai": "09:00",
+   "selesai": "11:00",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Lokasi dipindahkan sementara karena Masjid Al Muhajirin Blok D renovasi.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "id": "ag_4b93763c78",
+   "pertama_terlihat": "2026-10-08"
+  },
+  {
+   "judul": "Kajian MUIS Khusus Akhwat - Tafsir Surat Al Kahfi #5",
+   "pemateri": "Ustadz Abu Faris Yudi Kurnia, Lc",
+   "lokasi": "Mushalla Imam Syafi'i",
+   "alamat": "Jl. Raya Condet No.45",
+   "kota": "Jakarta Timur",
+   "tanggal": "2026-10-08",
+   "mulai": "09:00",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Khusus akhwat.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "id": "ag_cfc4f57c2b",
+   "pertama_terlihat": "2026-10-08"
+  }
+ ]
 }

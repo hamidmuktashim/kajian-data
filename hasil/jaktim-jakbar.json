@@ -1,6 +1,6 @@
 {
  "kota": "Jakarta Timur & Barat",
- "dicek": "2026-10-02",
+ "dicek": "2026-10-08",
  "kajian": [
   {
    "judul": "Kajian Rutin Selasa Pagi (Majelis Taklim Babussalam)",
@@ -35,103 +35,99 @@
    ],
    "terakhir_terlihat": "2026-09-26",
    "confidence": "tinggi"
+  },
+  {
+   "pemateri": "Ustadz Nizar Saad Jabal",
+   "alamat": "Jl. Pegambiran No. 24 Rawamangun",
+   "selesai": "",
+   "deskripsi": "Insya Allah setiap pekan, ba'da Maghrib s/d selesai; kitab Fawaidul Fawaid.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "kategori": "Kajian Kitab",
+   "judul": "Majelis Ilmu Nabawi Islamic School - Kitab Fawaidul Fawaid",
+   "lokasi": "Masjid SD Nabawi School",
+   "kota": "Jakarta Timur",
+   "hari": 4,
+   "mulai": "18:15"
+  },
+  {
+   "pemateri": "Ustadz Abu Ya'la Kurnaedi, Lc, MPd, MH",
+   "alamat": "Jl. H Naman No.1 Pondok Kelapa",
+   "selesai": "",
+   "deskripsi": "Kajian rutin setiap Kamis, ba'da Maghrib s/d selesai.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "kategori": "Kajian Kitab",
+   "judul": "Kajian Rutin Setiap Kamis - Umdatul Ahkam (Kitab Jual Beli)",
+   "lokasi": "Masjid Kubah 9 Al-Muhajirin",
+   "kota": "Jakarta Timur",
+   "hari": 4,
+   "mulai": "18:15"
   }
  ],
  "agenda": [
   {
-   "judul": "Pembatal-Pembatal 2 Kalimat Syahadat [5]",
-   "pemateri": "Ustadz Abu Jarir Ari Triono, Lc, MA",
-   "lokasi": "Masjid Al Hidayah",
-   "alamat": "Komplek Taman Pulo Gebang, Cakung Timur",
-   "kota": "Jakarta Timur",
-   "tanggal": "2026-09-26",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian ba'da Maghrib, bagian pembahasan Kitab Al-Wala' Wal-Bara'.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/378460"
-   ],
-   "terakhir_terlihat": "2026-09-26",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Nikmat Yang Mahal itu Bernama: Hidayah",
-   "pemateri": "Ustadz Muammar At Tamimi",
-   "lokasi": "Masjid Al-Ihsan Cipinang",
-   "alamat": "",
-   "kota": "Jakarta Timur",
-   "tanggal": "2026-09-26",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian ba'da Maghrib.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/378461"
-   ],
-   "terakhir_terlihat": "2026-09-26",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "5 Kaidah Dalam Memahami Sunnah",
-   "pemateri": "Ustadz Dr. Emha Hasan Ayatullah, MA",
-   "lokasi": "Masjid Soleh Hawa",
-   "alamat": "Jl. Raya Ceger No.3, Cipayung",
-   "kota": "Jakarta Timur",
-   "tanggal": "2026-09-26",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian ba'da Maghrib.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/378466"
-   ],
-   "terakhir_terlihat": "2026-09-26",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Jumat Ba'da Maghrib",
-   "pemateri": "",
-   "lokasi": "Masjid SMP-SMA Nabawi School",
-   "alamat": "Jl. Sunan Giri no.5 Rawamangun, Jakarta Timur",
-   "kota": "Jakarta Timur",
-   "tanggal": "2026-10-02",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Diumumkan 'Jum'at, 02 Oktober 2026 Ba'da Maghrib'.",
+   "pemateri": "Ustadz Zainudin Khuzairi",
+   "alamat": "Pulo Gebang Permai Blok A, Cakung",
+   "selesai": "11:00",
+   "deskripsi": "Lokasi dipindahkan sementara karena Masjid Al Muhajirin Blok D renovasi.",
    "online": false,
    "tautan": "",
    "sumber": [
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-10-02",
-   "confidence": "sedang"
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "kategori": "Kajian Umum",
+   "judul": "Kitab Tauhid - Bab Keenam Puluh Tujuh (Bab Terakhir)",
+   "lokasi": "Masjid Hayatun Nufus",
+   "kota": "Jakarta Timur",
+   "tanggal": "2026-10-08",
+   "mulai": "09:00"
   },
   {
-   "judul": "Kajian Jumat Ba'da Maghrib",
-   "pemateri": "",
-   "lokasi": "Masjid Soleh Hawa",
-   "alamat": "Jl. Raya Ceger No.3, RT.005/001 Ceger, Cipayung, Jakarta Timur",
-   "kota": "Jakarta Timur",
-   "tanggal": "2026-10-02",
-   "mulai": "18:15",
+   "pemateri": "Ustadz Abu Faris Yudi Kurnia, Lc",
+   "alamat": "Jl. Raya Condet No.45",
    "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Diumumkan 'Jum'at, 2 Oktober 2026 Ba'da Maghrib'.",
+   "deskripsi": "Khusus akhwat.",
    "online": false,
    "tautan": "",
    "sumber": [
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-10-02",
-   "confidence": "sedang"
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "kategori": "Kajian Umum",
+   "judul": "Kajian MUIS Khusus Akhwat - Tafsir Surat Al Kahfi #5",
+   "lokasi": "Mushalla Imam Syafi'i",
+   "kota": "Jakarta Timur",
+   "tanggal": "2026-10-08",
+   "mulai": "09:00"
+  },
+  {
+   "pemateri": "Ustadz Farhan Furaihan",
+   "alamat": "Taman Villa Meruya, Jl Taman Palem Raya Blok D 12",
+   "selesai": "",
+   "deskripsi": "Kajian tatap muka untuk ikhwan dan akhwat, MT Ar Rohat dan Masjid At Tabayyun.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "kategori": "Kajian Umum",
+   "judul": "Kajian Kitab Hadits Arbain An-Nawawi (lanjutan hadits ke-25)",
+   "lokasi": "Masjid At Tabayyun",
+   "kota": "Jakarta Barat",
+   "tanggal": "2026-10-08",
+   "mulai": "09:00"
   }
  ]
 }

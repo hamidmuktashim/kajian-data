@@ -1,6 +1,6 @@
 {
  "kota": "Bogor",
- "dicek": "2026-10-02",
+ "dicek": "2026-10-08",
  "kajian": [
   {
    "judul": "Kajian Rutin Ahad Malam - Kitab Firqotun Najiyah",
@@ -120,85 +120,99 @@
    ],
    "terakhir_terlihat": "2026-09-26",
    "confidence": "sedang"
+  },
+  {
+   "pemateri": "Ustadzah Ummu Ihsan Choiriyah",
+   "alamat": "Jl. Cidangiang No 4, Bogor",
+   "selesai": "",
+   "deskripsi": "Kajian rutin khusus muslimah, Kamis 09.00 s/d selesai.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "kategori": "Kajian Kitab",
+   "judul": "Kajian Rutin Bogor Bertauhid - Muslimah Harus Baper",
+   "lokasi": "Masjid Alumni IPB",
+   "kota": "Bogor",
+   "hari": 4,
+   "mulai": "09:00"
+  },
+  {
+   "pemateri": "Ustadz Mas'ud Mahmud, Lc",
+   "alamat": "Bojongkulur, Gunung Putri",
+   "selesai": "",
+   "deskripsi": "Kajian rutin Lisan Arabi, ba'da Isya s/d selesai; pertemuan ke-10 per 8 Okt 2026.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "rendah",
+   "kategori": "Bahasa Arab",
+   "judul": "Kajian Rutin Lisan Arab",
+   "lokasi": "Masjid Mu'adz bin Jabal",
+   "kota": "Bogor",
+   "hari": 4,
+   "mulai": "19:30"
   }
  ],
  "agenda": [
   {
-   "judul": "Muslimah Harus Baper (Karakteristik Istri Idaman)",
-   "pemateri": "Ustadzah Ummu Ihsan Choiriyah",
-   "lokasi": "Masjid Al Furqon",
-   "alamat": "Vila Nusa Indah Blok Z, Bojongkulur, Gunung Putri",
-   "kota": "Bogor",
-   "tanggal": "2026-09-26",
-   "mulai": "15:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian muslimah ba'da Ashar.",
+   "pemateri": "Ustadz Abu Bakar Al-Akhdory, Lc, MPd",
+   "alamat": "Nirwana Estate Cikaret, Cibinong",
+   "selesai": "10:45",
+   "deskripsi": "Kajian Kamis pekan ke-2, khusus muslimah (MT Lin-Nisaa).",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/jadwalkajianID/378449",
-    "https://t.me/jadwalkajianID/378450"
+    "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-09-26",
-   "confidence": "tinggi"
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "kategori": "Kajian Umum",
+   "judul": "Fiqih Sunnah Wanita - Bab Aiman (Sumpah) dan Nadzar",
+   "lokasi": "Baitul Qur'an Lin-Nisaa",
+   "kota": "Bogor",
+   "tanggal": "2026-10-08",
+   "mulai": "09:00"
   },
   {
-   "judul": "Mulia dengan Manhaj Salaf",
-   "pemateri": "Al Ustadz Abdurrahman Al Balitari, S.Kom, Lc",
-   "lokasi": "Masjid Nur Ilahi",
-   "alamat": "Jl. Raya Puncak, Pandansari, Ciawi",
-   "kota": "Bogor",
-   "tanggal": "2026-09-26",
-   "mulai": "09:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian rutin Sabtu pekan ke-4, untuk umum.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/378453"
-   ],
-   "terakhir_terlihat": "2026-09-26",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Mengingat & Mempersiapkan Kematian",
-   "pemateri": "Ustadz Sofyan Chalid Bin Idham Ruray, Lc",
-   "lokasi": "Masjid Istiqomah, IKEA Sentul City",
-   "alamat": "",
-   "kota": "Bogor",
-   "tanggal": "2026-09-26",
-   "mulai": "09:00",
+   "pemateri": "Ustadz DR. Abu Islama Immanudin Lc MA",
+   "alamat": "Nagrak, Gunung Putri",
    "selesai": "11:00",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian tematik Sabtu pagi.",
+   "deskripsi": "Kajian Kamis pagi pekan kedua, ikhwan dan akhwat.",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/jadwalkajianID/378454"
+    "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-09-26",
-   "confidence": "sedang"
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "kategori": "Kajian Umum",
+   "judul": "Perjalanan Menuju Akherat (Bagian 1)",
+   "lokasi": "Masjid Shafa Marwah",
+   "kota": "Bogor",
+   "tanggal": "2026-10-08",
+   "mulai": "09:00"
   },
   {
-   "judul": "Kesehatan: Nikmat Yang Sering Dilupakan",
-   "pemateri": "Al Ustadz Abdurrahman Dani",
-   "lokasi": "Kilometer Kopi",
-   "alamat": "Jl. H. Minggu, Tengah, Cibinong",
-   "kota": "Bogor",
-   "tanggal": "2026-09-26",
-   "mulai": "16:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian tematik Sabtu sore.",
+   "pemateri": "Ustadz Dr. Djazuli Ruhan Basyir, Lc, MA",
+   "alamat": "Bojongkulur, Gunung Putri",
+   "selesai": "11:00",
+   "deskripsi": "Kajian ilmiah muslimah (MT Al Karimah).",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/jadwalkajianID/378456"
+    "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-09-26",
-   "confidence": "sedang"
+   "terakhir_terlihat": "2026-10-07",
+   "confidence": "sedang",
+   "kategori": "Kajian Umum",
+   "judul": "Kajian Ilmiah Muslimah Amalan Hati - Muhasabah",
+   "lokasi": "Masjid Mu'adz bin Jabal",
+   "kota": "Bogor",
+   "tanggal": "2026-10-08",
+   "mulai": "09:00"
   }
  ]
 }
