@@ -1,6 +1,6 @@
 {
  "kota": "Tangerang",
- "dicek": "2026-10-03",
+ "dicek": "2026-10-09",
  "kajian": [
   {
    "judul": "Tanbihat 'ala Ahkamin Takhtashshu Bil Mu'minat",
@@ -12,12 +12,12 @@
    "mulai": "09:30",
    "selesai": "11:00",
    "kategori": "Muslimah",
-   "deskripsi": "Kajian rutin setiap Rabu pagi, membahas hukum-hukum khusus bagi wanita mukminat.",
+   "deskripsi": "Rabu pagi, di kalender sumber tampil selang-seling (tidak setiap pekan); cek jadwal sebelum datang.",
    "sumber": [
     "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
    ],
-   "terakhir_terlihat": "2026-09-27",
-   "confidence": "sedang"
+   "terakhir_terlihat": "2026-10-09",
+   "confidence": "rendah"
   },
   {
    "judul": "Kitab Lum'atul I'tiqod",
@@ -33,7 +33,7 @@
    "sumber": [
     "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
    ],
-   "terakhir_terlihat": "2026-09-27",
+   "terakhir_terlihat": "2026-10-09",
    "confidence": "sedang"
   },
   {
@@ -46,12 +46,12 @@
    "mulai": "10:00",
    "selesai": "11:30",
    "kategori": "Fiqih",
-   "deskripsi": "Kajian rutin setiap Sabtu pagi, Kitab Bulughul Maram.",
+   "deskripsi": "Sabtu pagi, di kalender sumber hanya sekali sebulan (pekan ke-3); cek jadwal sebelum datang.",
    "sumber": [
     "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
    ],
-   "terakhir_terlihat": "2026-09-27",
-   "confidence": "sedang"
+   "terakhir_terlihat": "2026-10-09",
+   "confidence": "rendah"
   },
   {
    "judul": "Kitab Zuhud dan Kelembutan Hati",
@@ -63,12 +63,12 @@
    "mulai": "05:00",
    "selesai": "07:00",
    "kategori": "Kajian Umum",
-   "deskripsi": "Kajian rutin setiap Sabtu ba'da Subuh, Kitab Zuhud dan Kelembutan Hati.",
+   "deskripsi": "Sabtu subuh, di kalender sumber hanya sekali sebulan (pekan ke-4); cek jadwal sebelum datang.",
    "sumber": [
     "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
    ],
-   "terakhir_terlihat": "2026-09-27",
-   "confidence": "sedang"
+   "terakhir_terlihat": "2026-10-09",
+   "confidence": "rendah"
   }
  ],
  "agenda": []
