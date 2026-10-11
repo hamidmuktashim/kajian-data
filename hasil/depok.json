@@ -1,6 +1,6 @@
 {
  "kota": "Depok",
- "dicek": "2026-10-05",
+ "dicek": "2026-10-11",
  "kajian": [
   {
    "judul": "Kajian Muslimah Kamis",
@@ -348,6 +348,25 @@
     "https://t.me/s/jadwalkajianID"
    ],
    "terakhir_terlihat": "2026-10-05",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Tematik: Bila Kumati",
+   "pemateri": "Ustadz Ammi Nur Baits, S.T., B.A.",
+   "lokasi": "Masjid Al-Lathiif, Lantai 3 Pesona Square Mall",
+   "alamat": "Jl. Ir. H. Juanda No.22a",
+   "kota": "Depok",
+   "tanggal": "2026-10-11",
+   "mulai": "09:30",
+   "selesai": "11:30",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian tematik MT As-Sunnah Depok; disiarkan YouTube MT As-Sunnah Depok.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-11",
    "confidence": "sedang"
   }
  ]

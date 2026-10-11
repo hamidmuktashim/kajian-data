@@ -1,6 +1,6 @@
 {
  "kota": "Bekasi",
- "dicek": "2026-10-05",
+ "dicek": "2026-10-11",
  "kajian": [
   {
    "judul": "Tahsin Al-Qur'an (Pemula)",
@@ -227,6 +227,25 @@
     "https://t.me/s/jadwalkajianID"
    ],
    "terakhir_terlihat": "2026-09-23",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Tafsir Ayat-Ayat Pilihan #20",
+   "pemateri": "Ustadz Dr. Firanda Andirja, MA",
+   "lokasi": "Masjid Al Ikhlas Dukuh Bima",
+   "alamat": "",
+   "kota": "Bekasi",
+   "tanggal": "2026-10-11",
+   "mulai": "18:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Maghrib, Tambun Selatan.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-11",
    "confidence": "sedang"
   }
  ]
