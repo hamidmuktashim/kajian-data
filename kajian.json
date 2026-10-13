@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-10-12T08:08+07:00",
+ "diperbarui": "2026-10-13T08:07+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -17,7 +17,7 @@
   "Yogyakarta"
  ],
  "jumlah": 192,
- "jumlah_agenda": 2,
+ "jumlah_agenda": 8,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -3685,46 +3685,172 @@
  ],
  "agenda": [
   {
-   "judul": "Kajian Tematik: Bila Kumati",
-   "pemateri": "Ustadz Ammi Nur Baits, S.T., B.A.",
-   "lokasi": "Masjid Al-Lathiif, Lantai 3 Pesona Square Mall",
-   "alamat": "Jl. Ir. H. Juanda No.22a",
-   "kota": "Depok",
-   "tanggal": "2026-10-11",
+   "judul": "Kajian Selasa Pagi",
+   "pemateri": "Ustadz Abdurrahman Dani",
+   "lokasi": "Masjid Fatimah Muhammad",
+   "alamat": "Jl. Tebet Barat Raya No. 44",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-13",
    "mulai": "09:30",
-   "selesai": "11:30",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian tematik MT As-Sunnah Depok; disiarkan YouTube MT As-Sunnah Depok.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-11",
-   "confidence": "sedang",
-   "id": "ag_dc8964abe4",
-   "pertama_terlihat": "2026-10-11"
-  },
-  {
-   "judul": "Tafsir Ayat-Ayat Pilihan #20",
-   "pemateri": "Ustadz Dr. Firanda Andirja, MA",
-   "lokasi": "Masjid Al Ikhlas Dukuh Bima",
-   "alamat": "",
-   "kota": "Bekasi",
-   "tanggal": "2026-10-11",
-   "mulai": "18:00",
    "selesai": "",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Ba'da Maghrib, Tambun Selatan.",
+   "deskripsi": "Kajian bertanggal 13 Oktober 2026 dari kanal jadwalkajianID.",
    "online": false,
    "tautan": "",
    "sumber": [
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-10-11",
+   "terakhir_terlihat": "2026-10-13",
    "confidence": "sedang",
-   "id": "ag_18194b7a09",
-   "pertama_terlihat": "2026-10-11"
+   "id": "ag_7bb584918c",
+   "pertama_terlihat": "2026-10-13"
+  },
+  {
+   "judul": "Kajian Selasa Pagi",
+   "pemateri": "Ustadz Sofyan Chalid Ruray",
+   "lokasi": "Masjid Al Hidayah",
+   "alamat": "Villa Pejaten Mas",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-13",
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian bertanggal 13 Oktober 2026 dari kanal jadwalkajianID.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang",
+   "id": "ag_c62bea0cf1",
+   "pertama_terlihat": "2026-10-13"
+  },
+  {
+   "judul": "Kajian Selasa Pagi",
+   "pemateri": "Ustadz Badru Salam, Lc",
+   "lokasi": "Aula Masjid Raya Nurul Hidayah",
+   "alamat": "Jl. Bintaro Raya No. 7, Tanah Kusir",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-13",
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian bertanggal 13 Oktober 2026 dari kanal jadwalkajianID.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang",
+   "id": "ag_b8be09d857",
+   "pertama_terlihat": "2026-10-13"
+  },
+  {
+   "judul": "Kajian Selasa Pagi",
+   "pemateri": "Ustadz Muhammad Yahya, Lc",
+   "lokasi": "Masjid Baiturrahman",
+   "alamat": "Jl. Buana Raya, Pondok Pinang",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-13",
+   "mulai": "10:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian bertanggal 13 Oktober 2026 dari kanal jadwalkajianID.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang",
+   "id": "ag_ec1c6aed0a",
+   "pertama_terlihat": "2026-10-13"
+  },
+  {
+   "judul": "Kajian Selasa Siang",
+   "pemateri": "Ustadz Nizar Saad Jabal",
+   "lokasi": "Masjid Darsyafii Islamic School (Lt. 5)",
+   "alamat": "Jl. Buncit Raya, Pejaten Barat",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-13",
+   "mulai": "13:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian bertanggal 13 Oktober 2026 dari kanal jadwalkajianID.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang",
+   "id": "ag_224f5941e4",
+   "pertama_terlihat": "2026-10-13"
+  },
+  {
+   "judul": "Kajian Ba'da Maghrib",
+   "pemateri": "Ustadz Ali Hasan Bawazier",
+   "lokasi": "At-Tiin Asem Baris",
+   "alamat": "Jl. Asem Baris Raya No. 1-C, Tebet",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-13",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Maghrib.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang",
+   "id": "ag_6da538d39c",
+   "pertama_terlihat": "2026-10-13"
+  },
+  {
+   "judul": "Kajian Ba'da Maghrib",
+   "pemateri": "Ustadz Sofyan Chalid Ruray",
+   "lokasi": "Masjid Baitul Muttaqin Ciganjur",
+   "alamat": "Jl. Kemenyan No. 70X, Jagakarsa",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-13",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Maghrib.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang",
+   "id": "ag_a5893bf3ef",
+   "pertama_terlihat": "2026-10-13"
+  },
+  {
+   "judul": "Kajian Ba'da Maghrib",
+   "pemateri": "Ustadz Dr. Firanda Andirja",
+   "lokasi": "Masjid Baiturrahman",
+   "alamat": "Jl. Buana Raya, Pondok Pinang",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-13",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Maghrib.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang",
+   "id": "ag_af6170f05b",
+   "pertama_terlihat": "2026-10-13"
   }
  ]
 }

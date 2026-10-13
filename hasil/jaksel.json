@@ -1,6 +1,6 @@
 {
  "kota": "Jakarta Selatan",
- "dicek": "2026-10-07",
+ "dicek": "2026-10-13",
  "kajian": [
   {
    "judul": "MT. Tafsir (Senin)",
@@ -429,5 +429,158 @@
    "confidence": "sedang"
   }
  ],
- "agenda": []
+ "agenda": [
+  {
+   "judul": "Kajian Selasa Pagi",
+   "pemateri": "Ustadz Abdurrahman Dani",
+   "lokasi": "Masjid Fatimah Muhammad",
+   "alamat": "Jl. Tebet Barat Raya No. 44",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-13",
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian bertanggal 13 Oktober 2026 dari kanal jadwalkajianID.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Selasa Pagi",
+   "pemateri": "Ustadz Sofyan Chalid Ruray",
+   "lokasi": "Masjid Al Hidayah",
+   "alamat": "Villa Pejaten Mas",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-13",
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian bertanggal 13 Oktober 2026 dari kanal jadwalkajianID.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Selasa Pagi",
+   "pemateri": "Ustadz Muhammad Yahya, Lc",
+   "lokasi": "Masjid Baiturrahman",
+   "alamat": "Jl. Buana Raya, Pondok Pinang",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-13",
+   "mulai": "10:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian bertanggal 13 Oktober 2026 dari kanal jadwalkajianID.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Ba'da Maghrib",
+   "pemateri": "Ustadz Ali Hasan Bawazier",
+   "lokasi": "At-Tiin Asem Baris",
+   "alamat": "Jl. Asem Baris Raya No. 1-C, Tebet",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-13",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Maghrib.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Ba'da Maghrib",
+   "pemateri": "Ustadz Sofyan Chalid Ruray",
+   "lokasi": "Masjid Baitul Muttaqin Ciganjur",
+   "alamat": "Jl. Kemenyan No. 70X, Jagakarsa",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-13",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Maghrib.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Selasa Siang",
+   "pemateri": "Ustadz Nizar Saad Jabal",
+   "lokasi": "Masjid Darsyafii Islamic School (Lt. 5)",
+   "alamat": "Jl. Buncit Raya, Pejaten Barat",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-13",
+   "mulai": "13:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian bertanggal 13 Oktober 2026 dari kanal jadwalkajianID.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Ba'da Maghrib",
+   "pemateri": "Ustadz Dr. Firanda Andirja",
+   "lokasi": "Masjid Baiturrahman",
+   "alamat": "Jl. Buana Raya, Pondok Pinang",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-13",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Maghrib.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Selasa Pagi",
+   "pemateri": "Ustadz Badru Salam, Lc",
+   "lokasi": "Aula Masjid Raya Nurul Hidayah",
+   "alamat": "Jl. Bintaro Raya No. 7, Tanah Kusir",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-13",
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian bertanggal 13 Oktober 2026 dari kanal jadwalkajianID.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang"
+  }
+ ]
 }
