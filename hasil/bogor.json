@@ -1,6 +1,6 @@
 {
  "kota": "Bogor",
- "dicek": "2026-10-08",
+ "dicek": "2026-10-14",
  "kajian": [
   {
    "judul": "Kajian Rutin Ahad Malam - Kitab Firqotun Najiyah",
@@ -154,6 +154,23 @@
    "kota": "Bogor",
    "hari": 4,
    "mulai": "19:30"
+  },
+  {
+   "pemateri": "Ustadz Abu Bakar Al Akhdhory, Lc., M.Pd.",
+   "alamat": "Jl. Perumahan Bumi Cibinong Endah Blok A4, RT.04 RW.10 Sukahati, Cibinong",
+   "selesai": "11:00",
+   "kategori": "Kajian Kitab",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang",
+   "judul": "Kajian Rutin Rabu Pagi - Fikih Asma'ul Husna",
+   "lokasi": "Masjid Ad Daulah",
+   "kota": "Bogor",
+   "hari": 3,
+   "mulai": "09:30",
+   "deskripsi": "Kajian rutin kitab Fikih Asma'ul Husna; disiarkan YouTube Abu Bakar Al Akhdhory."
   }
  ],
  "agenda": [

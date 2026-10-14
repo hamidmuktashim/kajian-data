@@ -1,6 +1,6 @@
 {
  "kota": "Jakarta Timur & Barat",
- "dicek": "2026-10-08",
+ "dicek": "2026-10-14",
  "kajian": [
   {
    "judul": "Kajian Rutin Selasa Pagi (Majelis Taklim Babussalam)",
@@ -69,6 +69,40 @@
    "kota": "Jakarta Timur",
    "hari": 4,
    "mulai": "18:15"
+  },
+  {
+   "pemateri": "Ustadz Nizar Saad Jabal, Lc., M.Pd",
+   "alamat": "Jl. Raya Ceger No.3, RT.005/001 Ceger, Cipayung",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang",
+   "judul": "Kajian Rutin Rabu - Al-Wabil ash-Shayyib",
+   "lokasi": "Masjid Soleh Hawa",
+   "kota": "Jakarta Timur",
+   "hari": 3,
+   "mulai": "18:15",
+   "deskripsi": "Info kajian rutin setiap Rabu, ba'da Maghrib; kitab Al-Wabil ash-Shayyib."
+  },
+  {
+   "pemateri": "Ustadz Azhar Kholid bin Seff",
+   "alamat": "",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang",
+   "judul": "Kajian Rutin Rabu Malam - Shahih Fadhail Amal",
+   "lokasi": "Masjid Al-Ihsan Cipinang",
+   "kota": "Jakarta Timur",
+   "hari": 3,
+   "mulai": "18:15",
+   "deskripsi": "Kajian rutin Rabu malam, ba'da Maghrib; kajian kitab Shahih Fadhail Amal."
   }
  ],
  "agenda": [
@@ -128,6 +162,120 @@
    "kota": "Jakarta Barat",
    "tanggal": "2026-10-08",
    "mulai": "09:00"
+  },
+  {
+   "pemateri": "Ustadz Subhan Bawazier",
+   "alamat": "Taman Villa Meruya, Jl Taman Palem Raya Blok D 12, Meruya Selatan",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang",
+   "tanggal": "2026-10-14",
+   "judul": "Tazkiyatun Nafs - Bab Al-Khasy-yah (Takut)",
+   "lokasi": "Masjid At Tabayyun",
+   "kota": "Jakarta Barat",
+   "mulai": "09:00",
+   "deskripsi": "Kajian tatap muka untuk umum, MT Ar Rohat dan Masjid At Tabayyun."
+  },
+  {
+   "pemateri": "Ustadz Muhammad Halid Syar'ie Lc.",
+   "alamat": "Jl. Cendani Raya 1 No 143, Pondok Bambu",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang",
+   "tanggal": "2026-10-14",
+   "judul": "Kajian Muslimah - Syarah Bait-Bait Khairunnisa (Pertemuan ke-11)",
+   "lokasi": "Rumah Ilmu As-Salam",
+   "kota": "Jakarta Timur",
+   "mulai": "09:30",
+   "deskripsi": "Kajian khusus muslimah pekan ke-2, Yayasan SALAM."
+  },
+  {
+   "pemateri": "Ustadz Sofyan Chalid bin Idham Ruray",
+   "alamat": "Jl. Dermaga No.26 Blok D, Klender, Duren Sawit",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang",
+   "tanggal": "2026-10-14",
+   "judul": "Enam Prinsip Ahlus Sunnah wal Jamaah",
+   "lokasi": "Masjid Jami Istiqomah",
+   "kota": "Jakarta Timur",
+   "mulai": "18:15",
+   "deskripsi": "Kajian rutin Rabu pekan ke-2, ba'da Maghrib."
+  },
+  {
+   "pemateri": "Ustadz Ali Hasan Bawazier",
+   "alamat": "Jl. Jatinegara Timur No. 48-50, Jatinegara",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "online": false,
+   "tautan": "https://youtube.com/live/l_QlomWDnes",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang",
+   "tanggal": "2026-10-14",
+   "judul": "Al-'Aqidah Al-Wasithiyyah - Iman Bertambah dan Berkurang (Pertemuan ke-1)",
+   "lokasi": "Masjid Al-Fattah",
+   "kota": "Jakarta Timur",
+   "mulai": "18:15",
+   "deskripsi": "Kajian rutin Rabu pekan ke-2 & 4, ba'da Maghrib."
+  },
+  {
+   "pemateri": "Ustadz Farhan Abu Furaihan",
+   "alamat": "Permata Timur-1 Blok G/20, Pondok Kelapa",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang",
+   "tanggal": "2026-10-14",
+   "judul": "Kajian Akhwat - Menjaga Hati dari Penyakit Hati",
+   "lokasi": "Rumah Belajar Permata Timur-1 Blok G/20",
+   "kota": "Jakarta Timur",
+   "mulai": "09:15",
+   "deskripsi": "Taklim Sahabat KSAproilmi, khusus akhwat, Rabu pekan ke-2."
+  },
+  {
+   "pemateri": "Ustadz Ahmad Rasyid Bazher",
+   "alamat": "Jln. Haji Ten, Komp. Bulog",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-13",
+   "confidence": "sedang",
+   "tanggal": "2026-10-14",
+   "judul": "Zuhud dan Kelembutan Hati - Bagaimana Menjadi Orang yang Sabar",
+   "lokasi": "Masjid Salman Al Farisi",
+   "kota": "Jakarta Timur",
+   "mulai": "09:30",
+   "deskripsi": "Kajian rutin tiap Rabu ke-2, terbuka untuk umum."
   }
  ]
 }
