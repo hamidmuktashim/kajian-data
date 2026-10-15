@@ -1,6 +1,6 @@
 {
  "kota": "Tangerang",
- "dicek": "2026-10-09",
+ "dicek": "2026-10-15",
  "kajian": [
   {
    "judul": "Tanbihat 'ala Ahkamin Takhtashshu Bil Mu'minat",
@@ -16,7 +16,7 @@
    "sumber": [
     "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
    ],
-   "terakhir_terlihat": "2026-10-09",
+   "terakhir_terlihat": "2026-10-15",
    "confidence": "rendah"
   },
   {
@@ -33,7 +33,7 @@
    "sumber": [
     "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
    ],
-   "terakhir_terlihat": "2026-10-09",
+   "terakhir_terlihat": "2026-10-15",
    "confidence": "sedang"
   },
   {
@@ -50,7 +50,7 @@
    "sumber": [
     "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
    ],
-   "terakhir_terlihat": "2026-10-09",
+   "terakhir_terlihat": "2026-10-15",
    "confidence": "rendah"
   },
   {
@@ -67,9 +67,67 @@
    "sumber": [
     "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
    ],
-   "terakhir_terlihat": "2026-10-09",
+   "terakhir_terlihat": "2026-10-15",
    "confidence": "rendah"
   }
  ],
- "agenda": []
+ "agenda": [
+  {
+   "judul": "Kitab Hadits Arba'in An-Nawawiyyah",
+   "pemateri": "Ustadz Azhar Khalid Bin Seff, Lc., MA",
+   "lokasi": "Masjid Raya Rahmatan Lil'alamin (Marala)",
+   "alamat": "",
+   "kota": "Tangerang",
+   "tanggal": "2026-10-15",
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Dzuhur s.d selesai; Buaran Indah.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-15",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kitab Bulughul Maram",
+   "pemateri": "Ustadz Luthfi Abdul Jabbar",
+   "lokasi": "Masjid An-Naba' Graha Raya Bintaro",
+   "alamat": "Jl. Akses Graha Raya Bintaro KM.01, Regency Pinang, Kota Tangerang",
+   "kota": "Tangerang",
+   "tanggal": "2026-10-17",
+   "mulai": "10:00",
+   "selesai": "11:30",
+   "kategori": "Fiqih",
+   "deskripsi": "Sesi bulanan Sabtu pagi.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
+   ],
+   "terakhir_terlihat": "2026-10-15",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kitab Zuhud dan Kelembutan Hati",
+   "pemateri": "Ustadz Aep Saepullah Ibnu Ahmad",
+   "lokasi": "Masjid An-Naba' Graha Raya Bintaro",
+   "alamat": "Jl. Akses Graha Raya Bintaro KM.01, Regency Pinang, Kota Tangerang",
+   "kota": "Tangerang",
+   "tanggal": "2026-10-24",
+   "mulai": "05:00",
+   "selesai": "07:00",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Sesi bulanan Sabtu subuh.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
+   ],
+   "terakhir_terlihat": "2026-10-15",
+   "confidence": "sedang"
+  }
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-10-14T08:08+07:00",
+ "diperbarui": "2026-10-15T08:07+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -17,7 +17,7 @@
   "Yogyakarta"
  ],
  "jumlah": 195,
- "jumlah_agenda": 14,
+ "jumlah_agenda": 9,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -3468,7 +3468,7 @@
    "sumber": [
     "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
    ],
-   "terakhir_terlihat": "2026-10-09",
+   "terakhir_terlihat": "2026-10-15",
    "confidence": "sedang",
    "id": "kj_405ec21e79",
    "pertama_terlihat": "2026-09-27"
@@ -3487,7 +3487,7 @@
    "sumber": [
     "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
    ],
-   "terakhir_terlihat": "2026-10-09",
+   "terakhir_terlihat": "2026-10-15",
    "confidence": "sedang",
    "id": "kj_c9920591b9",
    "pertama_terlihat": "2026-09-27"
@@ -3506,7 +3506,7 @@
    "sumber": [
     "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
    ],
-   "terakhir_terlihat": "2026-10-09",
+   "terakhir_terlihat": "2026-10-15",
    "confidence": "sedang",
    "id": "kj_ea11af417e",
    "pertama_terlihat": "2026-09-27"
@@ -3525,7 +3525,7 @@
    "sumber": [
     "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
    ],
-   "terakhir_terlihat": "2026-10-09",
+   "terakhir_terlihat": "2026-10-15",
    "confidence": "sedang",
    "id": "kj_749237a253",
    "pertama_terlihat": "2026-09-27"
@@ -3742,174 +3742,6 @@
  ],
  "agenda": [
   {
-   "judul": "Kajian Selasa Pagi",
-   "pemateri": "Ustadz Abdurrahman Dani",
-   "lokasi": "Masjid Fatimah Muhammad",
-   "alamat": "Jl. Tebet Barat Raya No. 44",
-   "kota": "Jakarta Selatan",
-   "tanggal": "2026-10-13",
-   "mulai": "09:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian bertanggal 13 Oktober 2026 dari kanal jadwalkajianID.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-13",
-   "confidence": "sedang",
-   "id": "ag_7bb584918c",
-   "pertama_terlihat": "2026-10-13"
-  },
-  {
-   "judul": "Kajian Selasa Pagi",
-   "pemateri": "Ustadz Sofyan Chalid Ruray",
-   "lokasi": "Masjid Al Hidayah",
-   "alamat": "Villa Pejaten Mas",
-   "kota": "Jakarta Selatan",
-   "tanggal": "2026-10-13",
-   "mulai": "09:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian bertanggal 13 Oktober 2026 dari kanal jadwalkajianID.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-13",
-   "confidence": "sedang",
-   "id": "ag_c62bea0cf1",
-   "pertama_terlihat": "2026-10-13"
-  },
-  {
-   "judul": "Kajian Selasa Pagi",
-   "pemateri": "Ustadz Badru Salam, Lc",
-   "lokasi": "Aula Masjid Raya Nurul Hidayah",
-   "alamat": "Jl. Bintaro Raya No. 7, Tanah Kusir",
-   "kota": "Jakarta Selatan",
-   "tanggal": "2026-10-13",
-   "mulai": "09:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian bertanggal 13 Oktober 2026 dari kanal jadwalkajianID.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-13",
-   "confidence": "sedang",
-   "id": "ag_b8be09d857",
-   "pertama_terlihat": "2026-10-13"
-  },
-  {
-   "judul": "Kajian Selasa Pagi",
-   "pemateri": "Ustadz Muhammad Yahya, Lc",
-   "lokasi": "Masjid Baiturrahman",
-   "alamat": "Jl. Buana Raya, Pondok Pinang",
-   "kota": "Jakarta Selatan",
-   "tanggal": "2026-10-13",
-   "mulai": "10:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian bertanggal 13 Oktober 2026 dari kanal jadwalkajianID.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-13",
-   "confidence": "sedang",
-   "id": "ag_ec1c6aed0a",
-   "pertama_terlihat": "2026-10-13"
-  },
-  {
-   "judul": "Kajian Selasa Siang",
-   "pemateri": "Ustadz Nizar Saad Jabal",
-   "lokasi": "Masjid Darsyafii Islamic School (Lt. 5)",
-   "alamat": "Jl. Buncit Raya, Pejaten Barat",
-   "kota": "Jakarta Selatan",
-   "tanggal": "2026-10-13",
-   "mulai": "13:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian bertanggal 13 Oktober 2026 dari kanal jadwalkajianID.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-13",
-   "confidence": "sedang",
-   "id": "ag_224f5941e4",
-   "pertama_terlihat": "2026-10-13"
-  },
-  {
-   "judul": "Kajian Ba'da Maghrib",
-   "pemateri": "Ustadz Ali Hasan Bawazier",
-   "lokasi": "At-Tiin Asem Baris",
-   "alamat": "Jl. Asem Baris Raya No. 1-C, Tebet",
-   "kota": "Jakarta Selatan",
-   "tanggal": "2026-10-13",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Ba'da Maghrib.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-13",
-   "confidence": "sedang",
-   "id": "ag_6da538d39c",
-   "pertama_terlihat": "2026-10-13"
-  },
-  {
-   "judul": "Kajian Ba'da Maghrib",
-   "pemateri": "Ustadz Sofyan Chalid Ruray",
-   "lokasi": "Masjid Baitul Muttaqin Ciganjur",
-   "alamat": "Jl. Kemenyan No. 70X, Jagakarsa",
-   "kota": "Jakarta Selatan",
-   "tanggal": "2026-10-13",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Ba'da Maghrib.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-13",
-   "confidence": "sedang",
-   "id": "ag_a5893bf3ef",
-   "pertama_terlihat": "2026-10-13"
-  },
-  {
-   "judul": "Kajian Ba'da Maghrib",
-   "pemateri": "Ustadz Dr. Firanda Andirja",
-   "lokasi": "Masjid Baiturrahman",
-   "alamat": "Jl. Buana Raya, Pondok Pinang",
-   "kota": "Jakarta Selatan",
-   "tanggal": "2026-10-13",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Ba'da Maghrib.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-13",
-   "confidence": "sedang",
-   "id": "ag_af6170f05b",
-   "pertama_terlihat": "2026-10-13"
-  },
-  {
    "judul": "Tazkiyatun Nafs - Bab Al-Khasy-yah (Takut)",
    "pemateri": "Ustadz Subhan Bawazier",
    "lokasi": "Masjid At Tabayyun",
@@ -4034,6 +3866,69 @@
    "confidence": "sedang",
    "id": "ag_12b309d949",
    "pertama_terlihat": "2026-10-14"
+  },
+  {
+   "judul": "Kitab Hadits Arba'in An-Nawawiyyah",
+   "pemateri": "Ustadz Azhar Khalid Bin Seff, Lc., MA",
+   "lokasi": "Masjid Raya Rahmatan Lil'alamin (Marala)",
+   "alamat": "",
+   "kota": "Tangerang",
+   "tanggal": "2026-10-15",
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Dzuhur s.d selesai; Buaran Indah.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-15",
+   "confidence": "sedang",
+   "id": "ag_451cab8280",
+   "pertama_terlihat": "2026-10-15"
+  },
+  {
+   "judul": "Kitab Bulughul Maram",
+   "pemateri": "Ustadz Luthfi Abdul Jabbar",
+   "lokasi": "Masjid An-Naba' Graha Raya Bintaro",
+   "alamat": "Jl. Akses Graha Raya Bintaro KM.01, Regency Pinang, Kota Tangerang",
+   "kota": "Tangerang",
+   "tanggal": "2026-10-17",
+   "mulai": "10:00",
+   "selesai": "11:30",
+   "kategori": "Fiqih",
+   "deskripsi": "Sesi bulanan Sabtu pagi.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
+   ],
+   "terakhir_terlihat": "2026-10-15",
+   "confidence": "sedang",
+   "id": "ag_13cc1275ee",
+   "pertama_terlihat": "2026-10-15"
+  },
+  {
+   "judul": "Kitab Zuhud dan Kelembutan Hati",
+   "pemateri": "Ustadz Aep Saepullah Ibnu Ahmad",
+   "lokasi": "Masjid An-Naba' Graha Raya Bintaro",
+   "alamat": "Jl. Akses Graha Raya Bintaro KM.01, Regency Pinang, Kota Tangerang",
+   "kota": "Tangerang",
+   "tanggal": "2026-10-24",
+   "mulai": "05:00",
+   "selesai": "07:00",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Sesi bulanan Sabtu subuh.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
+   ],
+   "terakhir_terlihat": "2026-10-15",
+   "confidence": "sedang",
+   "id": "ag_422b07d8b4",
+   "pertama_terlihat": "2026-10-15"
   }
  ]
 }
