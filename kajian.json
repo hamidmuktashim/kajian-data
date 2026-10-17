@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-10-15T08:07+07:00",
+ "diperbarui": "2026-10-17T08:07+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -17,7 +17,7 @@
   "Yogyakarta"
  ],
  "jumlah": 195,
- "jumlah_agenda": 9,
+ "jumlah_agenda": 4,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -3742,151 +3742,25 @@
  ],
  "agenda": [
   {
-   "judul": "Tazkiyatun Nafs - Bab Al-Khasy-yah (Takut)",
-   "pemateri": "Ustadz Subhan Bawazier",
-   "lokasi": "Masjid At Tabayyun",
-   "alamat": "Taman Villa Meruya, Jl Taman Palem Raya Blok D 12, Meruya Selatan",
-   "kota": "Jakarta Barat",
-   "tanggal": "2026-10-14",
+   "judul": "Kajian Islam Ilmiah: Al-Wasail Al-Mufidah lil Hayatis Sa'idah",
+   "pemateri": "Ustadz Abu Fairuz Ahmad Ridwan, Lc., MA.",
+   "lokasi": "Masjid Imam Asy-Syafi'i (MIAS)",
+   "alamat": "Jl. Raden Saleh, Gg. Persahabatan No.69, Sukmajaya, Depok",
+   "kota": "Depok",
+   "tanggal": "2026-10-17",
    "mulai": "09:00",
-   "selesai": "",
-   "kategori": "Kajian Umum",
-   "deskripsi": "Kajian tatap muka untuk umum, MT Ar Rohat dan Masjid At Tabayyun.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-13",
-   "confidence": "sedang",
-   "id": "ag_e0070522bc",
-   "pertama_terlihat": "2026-10-14"
-  },
-  {
-   "judul": "Kajian Akhwat - Menjaga Hati dari Penyakit Hati",
-   "pemateri": "Ustadz Farhan Abu Furaihan",
-   "lokasi": "Rumah Belajar Permata Timur-1 Blok G/20",
-   "alamat": "Permata Timur-1 Blok G/20, Pondok Kelapa",
-   "kota": "Jakarta Timur",
-   "tanggal": "2026-10-14",
-   "mulai": "09:15",
-   "selesai": "",
-   "kategori": "Kajian Umum",
-   "deskripsi": "Taklim Sahabat KSAproilmi, khusus akhwat, Rabu pekan ke-2.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-13",
-   "confidence": "sedang",
-   "id": "ag_687bd86ebb",
-   "pertama_terlihat": "2026-10-14"
-  },
-  {
-   "judul": "Kajian Muslimah - Syarah Bait-Bait Khairunnisa (Pertemuan ke-11)",
-   "pemateri": "Ustadz Muhammad Halid Syar'ie Lc.",
-   "lokasi": "Rumah Ilmu As-Salam",
-   "alamat": "Jl. Cendani Raya 1 No 143, Pondok Bambu",
-   "kota": "Jakarta Timur",
-   "tanggal": "2026-10-14",
-   "mulai": "09:30",
-   "selesai": "",
-   "kategori": "Kajian Umum",
-   "deskripsi": "Kajian khusus muslimah pekan ke-2, Yayasan SALAM.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-13",
-   "confidence": "sedang",
-   "id": "ag_68090624fa",
-   "pertama_terlihat": "2026-10-14"
-  },
-  {
-   "judul": "Zuhud dan Kelembutan Hati - Bagaimana Menjadi Orang yang Sabar",
-   "pemateri": "Ustadz Ahmad Rasyid Bazher",
-   "lokasi": "Masjid Salman Al Farisi",
-   "alamat": "Jln. Haji Ten, Komp. Bulog",
-   "kota": "Jakarta Timur",
-   "tanggal": "2026-10-14",
-   "mulai": "09:30",
-   "selesai": "",
-   "kategori": "Kajian Umum",
-   "deskripsi": "Kajian rutin tiap Rabu ke-2, terbuka untuk umum.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-13",
-   "confidence": "sedang",
-   "id": "ag_11ea338f68",
-   "pertama_terlihat": "2026-10-14"
-  },
-  {
-   "judul": "Enam Prinsip Ahlus Sunnah wal Jamaah",
-   "pemateri": "Ustadz Sofyan Chalid bin Idham Ruray",
-   "lokasi": "Masjid Jami Istiqomah",
-   "alamat": "Jl. Dermaga No.26 Blok D, Klender, Duren Sawit",
-   "kota": "Jakarta Timur",
-   "tanggal": "2026-10-14",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Umum",
-   "deskripsi": "Kajian rutin Rabu pekan ke-2, ba'da Maghrib.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-13",
-   "confidence": "sedang",
-   "id": "ag_6ba1656608",
-   "pertama_terlihat": "2026-10-14"
-  },
-  {
-   "judul": "Al-'Aqidah Al-Wasithiyyah - Iman Bertambah dan Berkurang (Pertemuan ke-1)",
-   "pemateri": "Ustadz Ali Hasan Bawazier",
-   "lokasi": "Masjid Al-Fattah",
-   "alamat": "Jl. Jatinegara Timur No. 48-50, Jatinegara",
-   "kota": "Jakarta Timur",
-   "tanggal": "2026-10-14",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Kitab",
-   "deskripsi": "Kajian rutin Rabu pekan ke-2 & 4, ba'da Maghrib.",
-   "online": false,
-   "tautan": "https://youtube.com/live/l_QlomWDnes",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-13",
-   "confidence": "sedang",
-   "id": "ag_12b309d949",
-   "pertama_terlihat": "2026-10-14"
-  },
-  {
-   "judul": "Kitab Hadits Arba'in An-Nawawiyyah",
-   "pemateri": "Ustadz Azhar Khalid Bin Seff, Lc., MA",
-   "lokasi": "Masjid Raya Rahmatan Lil'alamin (Marala)",
-   "alamat": "",
-   "kota": "Tangerang",
-   "tanggal": "2026-10-15",
-   "mulai": "12:30",
-   "selesai": "",
+   "selesai": "11:00",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Ba'da Dzuhur s.d selesai; Buaran Indah.",
+   "deskripsi": "Tema: memusatkan pikiran untuk melakukan pekerjaan hari ini.",
    "online": false,
    "tautan": "",
    "sumber": [
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-10-15",
+   "terakhir_terlihat": "2026-10-16",
    "confidence": "sedang",
-   "id": "ag_451cab8280",
-   "pertama_terlihat": "2026-10-15"
+   "id": "ag_2b7df07fac",
+   "pertama_terlihat": "2026-10-17"
   },
   {
    "judul": "Kitab Bulughul Maram",
@@ -3908,6 +3782,27 @@
    "confidence": "sedang",
    "id": "ag_13cc1275ee",
    "pertama_terlihat": "2026-10-15"
+  },
+  {
+   "judul": "Kajian Anak DAQKA: Aku Anak Hebat, Bijak Menggunakan HP",
+   "pemateri": "Kak Yogi",
+   "lokasi": "Masjid Duyufurrahman, Terminal Jatijajar",
+   "alamat": "",
+   "kota": "Depok",
+   "tanggal": "2026-10-17",
+   "mulai": "16:00",
+   "selesai": "",
+   "kategori": "Kajian Anak",
+   "deskripsi": "Gratis untuk anak usia 5-12 tahun; pendaftaran via formulir.",
+   "online": false,
+   "tautan": "https://forms.gle/AHogaVVzmUscoAgh7",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-16",
+   "confidence": "sedang",
+   "id": "ag_1dce51bee0",
+   "pertama_terlihat": "2026-10-17"
   },
   {
    "judul": "Kitab Zuhud dan Kelembutan Hati",

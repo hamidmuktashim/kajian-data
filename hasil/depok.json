@@ -1,6 +1,6 @@
 {
  "kota": "Depok",
- "dicek": "2026-10-11",
+ "dicek": "2026-10-17",
  "kajian": [
   {
    "judul": "Kajian Muslimah Kamis",
@@ -367,6 +367,44 @@
     "https://t.me/s/jadwalkajianID"
    ],
    "terakhir_terlihat": "2026-10-11",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Islam Ilmiah: Al-Wasail Al-Mufidah lil Hayatis Sa'idah",
+   "pemateri": "Ustadz Abu Fairuz Ahmad Ridwan, Lc., MA.",
+   "lokasi": "Masjid Imam Asy-Syafi'i (MIAS)",
+   "alamat": "Jl. Raden Saleh, Gg. Persahabatan No.69, Sukmajaya, Depok",
+   "kota": "Depok",
+   "tanggal": "2026-10-17",
+   "mulai": "09:00",
+   "selesai": "11:00",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Tema: memusatkan pikiran untuk melakukan pekerjaan hari ini.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-16",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Anak DAQKA: Aku Anak Hebat, Bijak Menggunakan HP",
+   "pemateri": "Kak Yogi",
+   "lokasi": "Masjid Duyufurrahman, Terminal Jatijajar",
+   "alamat": "",
+   "kota": "Depok",
+   "tanggal": "2026-10-17",
+   "mulai": "16:00",
+   "selesai": "",
+   "kategori": "Kajian Anak",
+   "deskripsi": "Gratis untuk anak usia 5-12 tahun; pendaftaran via formulir.",
+   "online": false,
+   "tautan": "https://forms.gle/AHogaVVzmUscoAgh7",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-16",
    "confidence": "sedang"
   }
  ]
