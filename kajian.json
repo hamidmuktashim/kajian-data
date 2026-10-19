@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-10-18T08:11+07:00",
+ "diperbarui": "2026-10-19T08:11+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -1795,7 +1795,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-07",
+   "terakhir_terlihat": "2026-10-19",
    "confidence": "tinggi",
    "id": "kj_6b737c6f40",
    "pertama_terlihat": "2026-09-10"
@@ -2042,7 +2042,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-07",
+   "terakhir_terlihat": "2026-10-19",
    "confidence": "tinggi",
    "id": "kj_992b43b53c",
    "pertama_terlihat": "2026-09-10"
@@ -2385,7 +2385,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-07",
+   "terakhir_terlihat": "2026-10-19",
    "confidence": "tinggi",
    "id": "kj_842ad2efb4",
    "pertama_terlihat": "2026-09-10"
@@ -2442,7 +2442,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-07",
+   "terakhir_terlihat": "2026-10-19",
    "confidence": "tinggi",
    "id": "kj_363efaf21c",
    "pertama_terlihat": "2026-09-10"
@@ -2480,7 +2480,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-07",
+   "terakhir_terlihat": "2026-10-19",
    "confidence": "tinggi",
    "id": "kj_d745cd592a",
    "pertama_terlihat": "2026-09-25"
@@ -2499,7 +2499,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-07",
+   "terakhir_terlihat": "2026-10-19",
    "confidence": "tinggi",
    "id": "kj_3a05c8677f",
    "pertama_terlihat": "2026-09-10"
@@ -2556,7 +2556,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-07",
+   "terakhir_terlihat": "2026-10-19",
    "confidence": "tinggi",
    "id": "kj_9a4162391f",
    "pertama_terlihat": "2026-09-10"
@@ -3742,67 +3742,67 @@
  ],
  "agenda": [
   {
-   "judul": "Kajian Islam Ilmiah: Al-Wasail Al-Mufidah lil Hayatis Sa'idah",
-   "pemateri": "Ustadz Abu Fairuz Ahmad Ridwan, Lc., MA.",
-   "lokasi": "Masjid Imam Asy-Syafi'i (MIAS)",
-   "alamat": "Jl. Raden Saleh, Gg. Persahabatan No.69, Sukmajaya, Depok",
-   "kota": "Depok",
-   "tanggal": "2026-10-17",
-   "mulai": "09:00",
-   "selesai": "11:00",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Tema: memusatkan pikiran untuk melakukan pekerjaan hari ini.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-16",
-   "confidence": "sedang",
-   "id": "ag_2b7df07fac",
-   "pertama_terlihat": "2026-10-17"
-  },
-  {
-   "judul": "Kitab Bulughul Maram",
-   "pemateri": "Ustadz Luthfi Abdul Jabbar",
-   "lokasi": "Masjid An-Naba' Graha Raya Bintaro",
-   "alamat": "Jl. Akses Graha Raya Bintaro KM.01, Regency Pinang, Kota Tangerang",
-   "kota": "Tangerang",
-   "tanggal": "2026-10-17",
-   "mulai": "10:00",
-   "selesai": "11:30",
-   "kategori": "Fiqih",
-   "deskripsi": "Sesi bulanan Sabtu pagi.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
-   ],
-   "terakhir_terlihat": "2026-10-15",
-   "confidence": "sedang",
-   "id": "ag_13cc1275ee",
-   "pertama_terlihat": "2026-10-15"
-  },
-  {
-   "judul": "Kajian Anak DAQKA: Aku Anak Hebat, Bijak Menggunakan HP",
-   "pemateri": "Kak Yogi",
-   "lokasi": "Masjid Duyufurrahman, Terminal Jatijajar",
+   "judul": "Kajian Senin Pagi Masjid Nurul Hidayah",
+   "pemateri": "Ustadz Azhar Khalid bin Seff",
+   "lokasi": "Masjid Nurul Hidayah Brawijaya, Kebayoran Baru",
    "alamat": "",
-   "kota": "Depok",
-   "tanggal": "2026-10-17",
-   "mulai": "16:00",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-19",
+   "mulai": "09:30",
    "selesai": "",
-   "kategori": "Kajian Anak",
-   "deskripsi": "Gratis untuk anak usia 5-12 tahun; pendaftaran via formulir.",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Diumumkan di jadwalkajianID untuk Senin 19 Oktober 2026.",
    "online": false,
-   "tautan": "https://forms.gle/AHogaVVzmUscoAgh7",
+   "tautan": "",
    "sumber": [
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-10-16",
+   "terakhir_terlihat": "2026-10-19",
    "confidence": "sedang",
-   "id": "ag_1dce51bee0",
-   "pertama_terlihat": "2026-10-17"
+   "id": "ag_2cf098429a",
+   "pertama_terlihat": "2026-10-19"
+  },
+  {
+   "judul": "Kajian Senin Pagi Masjid Al-Adil",
+   "pemateri": "Ustadz Najmi Umar Bakkar",
+   "lokasi": "Masjid Al-Adil, Lebak Bulus",
+   "alamat": "",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-19",
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Diumumkan sebagai kajian rutin Senin ke-3 (19 Oktober 2026).",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-19",
+   "confidence": "sedang",
+   "id": "ag_3b54db6f8f",
+   "pertama_terlihat": "2026-10-19"
+  },
+  {
+   "judul": "Kajian Ba'da Dzuhur Masjid Nur Salma",
+   "pemateri": "Ustadz Ali Hasan Bawazier",
+   "lokasi": "Masjid Nur Salma, Centennial Tower lt. 22, Jl. Gatot Subroto",
+   "alamat": "",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-10-19",
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Dzuhur-13.00, Senin 19 Oktober 2026.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-19",
+   "confidence": "sedang",
+   "id": "ag_23033cc276",
+   "pertama_terlihat": "2026-10-19"
   },
   {
    "judul": "Kitab Zuhud dan Kelembutan Hati",
