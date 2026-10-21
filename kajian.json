@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-10-20T08:12+07:00",
+ "diperbarui": "2026-10-21T08:11+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -17,7 +17,7 @@
   "Yogyakarta"
  ],
  "jumlah": 195,
- "jumlah_agenda": 4,
+ "jumlah_agenda": 9,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -3742,67 +3742,172 @@
  ],
  "agenda": [
   {
-   "judul": "Kajian Senin Pagi Masjid Nurul Hidayah",
-   "pemateri": "Ustadz Azhar Khalid bin Seff",
-   "lokasi": "Masjid Nurul Hidayah Brawijaya, Kebayoran Baru",
+   "judul": "Tafsir As-Sa'di, Surat Al-Zalzalah",
+   "pemateri": "Ustadz Firmansyah Abu Fauzan",
+   "lokasi": "Masjid Al Waqifin, Cibodas",
    "alamat": "",
-   "kota": "Jakarta Selatan",
-   "tanggal": "2026-10-19",
+   "kota": "Tangerang",
+   "tanggal": "2026-10-21",
+   "mulai": "09:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "09.00 WIB s.d selesai.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-21",
+   "confidence": "sedang",
+   "id": "ag_0af52acaa0",
+   "pertama_terlihat": "2026-10-21"
+  },
+  {
+   "judul": "Kitab Kitabul Jami'",
+   "pemateri": "Ustadz Azhar Khalid Bin Seff, MA",
+   "lokasi": "Masjid Jami' Utsman Bin Affan, Pondok Aren",
+   "alamat": "",
+   "kota": "Tangerang",
+   "tanggal": "2026-10-21",
+   "mulai": "09:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "09.00 WIB s.d selesai.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-21",
+   "confidence": "sedang",
+   "id": "ag_dfc2b08c3e",
+   "pertama_terlihat": "2026-10-21"
+  },
+  {
+   "judul": "Ibu Kaulah guru idamanku",
+   "pemateri": "Ustadzah Ummu Ihsan Choiriyah",
+   "lokasi": "Masjid Ash Shaff, District Emerald, Bintaro Jaya Sektor 9",
+   "alamat": "",
+   "kota": "Tangerang",
+   "tanggal": "2026-10-21",
+   "mulai": "09:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "09.00 WIB s.d selesai.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-21",
+   "confidence": "sedang",
+   "id": "ag_9492df60af",
+   "pertama_terlihat": "2026-10-21"
+  },
+  {
+   "judul": "Kitab 40 Atsar Sahabat",
+   "pemateri": "Ustadz Mukhlis Abu Dzar",
+   "lokasi": "Masjid Al Hakim (Komplek Kehakiman), Tanah Tinggi",
+   "alamat": "",
+   "kota": "Tangerang",
+   "tanggal": "2026-10-21",
    "mulai": "09:30",
    "selesai": "",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Diumumkan di jadwalkajianID untuk Senin 19 Oktober 2026.",
+   "deskripsi": "09.30 WIB s.d selesai.",
    "online": false,
    "tautan": "",
    "sumber": [
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-10-19",
+   "terakhir_terlihat": "2026-10-21",
    "confidence": "sedang",
-   "id": "ag_2cf098429a",
-   "pertama_terlihat": "2026-10-19"
+   "id": "ag_65af028e7e",
+   "pertama_terlihat": "2026-10-21"
   },
   {
-   "judul": "Kajian Senin Pagi Masjid Al-Adil",
-   "pemateri": "Ustadz Najmi Umar Bakkar",
-   "lokasi": "Masjid Al-Adil, Lebak Bulus",
+   "judul": "Shahih Adabul Mufrad",
+   "pemateri": "Ustadz Aep Saepullah Ibnu Ahmad, B.Sh",
+   "lokasi": "Masjid Al Barkah, Ciputat",
    "alamat": "",
-   "kota": "Jakarta Selatan",
-   "tanggal": "2026-10-19",
+   "kota": "Tangerang",
+   "tanggal": "2026-10-21",
    "mulai": "09:30",
    "selesai": "",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Diumumkan sebagai kajian rutin Senin ke-3 (19 Oktober 2026).",
+   "deskripsi": "09.30 WIB s.d selesai.",
    "online": false,
    "tautan": "",
    "sumber": [
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-10-19",
+   "terakhir_terlihat": "2026-10-21",
    "confidence": "sedang",
-   "id": "ag_3b54db6f8f",
-   "pertama_terlihat": "2026-10-19"
+   "id": "ag_98339b25de",
+   "pertama_terlihat": "2026-10-21"
   },
   {
-   "judul": "Kajian Ba'da Dzuhur Masjid Nur Salma",
-   "pemateri": "Ustadz Ali Hasan Bawazier",
-   "lokasi": "Masjid Nur Salma, Centennial Tower lt. 22, Jl. Gatot Subroto",
+   "judul": "Fiqih doa dan dzikir",
+   "pemateri": "Ustadz Ahmad Ali Rozaq, Lc",
+   "lokasi": "Masjid Jami' Al Jihad, Ciledug",
    "alamat": "",
-   "kota": "Jakarta Selatan",
-   "tanggal": "2026-10-19",
-   "mulai": "12:30",
+   "kota": "Tangerang",
+   "tanggal": "2026-10-21",
+   "mulai": "18:15",
    "selesai": "",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Ba'da Dzuhur-13.00, Senin 19 Oktober 2026.",
+   "deskripsi": "Ba'da Maghrib s.d selesai.",
    "online": false,
    "tautan": "",
    "sumber": [
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-10-19",
+   "terakhir_terlihat": "2026-10-21",
    "confidence": "sedang",
-   "id": "ag_23033cc276",
-   "pertama_terlihat": "2026-10-19"
+   "id": "ag_99423c6686",
+   "pertama_terlihat": "2026-10-21"
+  },
+  {
+   "judul": "Asy-Syamail Al-Muhammadiyah",
+   "pemateri": "Ustadz Afdhalul Ziqri, Lc",
+   "lokasi": "Masjid Al Barkah, Ciputat",
+   "alamat": "",
+   "kota": "Tangerang",
+   "tanggal": "2026-10-21",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Maghrib s.d selesai.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-21",
+   "confidence": "sedang",
+   "id": "ag_01ac7cc36e",
+   "pertama_terlihat": "2026-10-21"
+  },
+  {
+   "judul": "Arba'in An-Nawawi (pertemuan ke-10)",
+   "pemateri": "Ustadz Aep Saepullah Ibnu Ahmad, Lc",
+   "lokasi": "Masjid Ash Shaff, District Emerald, Bintaro Jaya Sektor 9",
+   "alamat": "",
+   "kota": "Tangerang",
+   "tanggal": "2026-10-21",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Maghrib s.d selesai.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-21",
+   "confidence": "sedang",
+   "id": "ag_4848caf191",
+   "pertama_terlihat": "2026-10-21"
   },
   {
    "judul": "Kitab Zuhud dan Kelembutan Hati",
