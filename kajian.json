@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-10-21T08:11+07:00",
+ "diperbarui": "2026-10-22T08:11+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -17,7 +17,7 @@
   "Yogyakarta"
  ],
  "jumlah": 195,
- "jumlah_agenda": 9,
+ "jumlah_agenda": 13,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -3908,6 +3908,90 @@
    "confidence": "sedang",
    "id": "ag_4848caf191",
    "pertama_terlihat": "2026-10-21"
+  },
+  {
+   "judul": "Kajian Ujian Kehidupan (khusus akhwat)",
+   "pemateri": "Ustadz Wahid Rahman",
+   "lokasi": "Masjid Al Azhar Cempaka Putih",
+   "alamat": "Jl. Cempaka Putih Barat III, Cempaka Putih",
+   "kota": "Jakarta Pusat",
+   "tanggal": "2026-10-22",
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian Kamis 22 Okt 2026 pukul 09.30 WIB, khusus akhwat.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/381789"
+   ],
+   "terakhir_terlihat": "2026-10-22",
+   "confidence": "sedang",
+   "id": "ag_69b3e8a531",
+   "pertama_terlihat": "2026-10-22"
+  },
+  {
+   "judul": "Kitab Ad-Duruus Al-Muhimmah: Tadabbur Surah Al-Fiil",
+   "pemateri": "Ustadz Ali Hasan Bawazier, MA",
+   "lokasi": "Musholla Menara Astra",
+   "alamat": "Lt. B4 (ikhwan) & B5 (akhwat), Jl. Jenderal Sudirman Kav. 5-6, Karet Tengsin, Tanah Abang",
+   "kota": "Jakarta Pusat",
+   "tanggal": "2026-10-22",
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian Kamis 22 Okt 2026, \"Ba'da Dzuhur\".",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/381789"
+   ],
+   "terakhir_terlihat": "2026-10-22",
+   "confidence": "sedang",
+   "id": "ag_321fcd2397",
+   "pertama_terlihat": "2026-10-22"
+  },
+  {
+   "judul": "Kajian Matan Kitab Al-Jami' (Pertemuan 34)",
+   "pemateri": "Ustadz Ahmad Bazher",
+   "lokasi": "Masjid Al Azhar Cempaka Putih",
+   "alamat": "Jl. Cempaka Putih Barat III, Cempaka Putih",
+   "kota": "Jakarta Pusat",
+   "tanggal": "2026-10-22",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian Kamis 22 Okt 2026, \"Ba'da Maghrib\".",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/381789"
+   ],
+   "terakhir_terlihat": "2026-10-22",
+   "confidence": "sedang",
+   "id": "ag_77a7f5e7a5",
+   "pertama_terlihat": "2026-10-22"
+  },
+  {
+   "judul": "Kajian Kitab Kaidah-kaidah Tauhid",
+   "pemateri": "Ustadz Zainudin Khuzairi",
+   "lokasi": "Masjid Al Hidayah",
+   "alamat": "Jl. Kebantenan III, Semper Timur, Cilincing",
+   "kota": "Jakarta Utara",
+   "tanggal": "2026-10-22",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian Kamis 22 Okt 2026, \"Ba'da Maghrib\".",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/381789"
+   ],
+   "terakhir_terlihat": "2026-10-22",
+   "confidence": "sedang",
+   "id": "ag_75eba27e1c",
+   "pertama_terlihat": "2026-10-22"
   },
   {
    "judul": "Kitab Zuhud dan Kelembutan Hati",
