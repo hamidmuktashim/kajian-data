@@ -1,6 +1,6 @@
 {
  "kota": "Depok",
- "dicek": "2026-10-17",
+ "dicek": "2026-10-23",
  "kajian": [
   {
    "judul": "Kajian Muslimah Kamis",
@@ -405,6 +405,25 @@
     "https://t.me/s/jadwalkajianID"
    ],
    "terakhir_terlihat": "2026-10-16",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Tematik Masjid Al Adhim Cinere",
+   "pemateri": "Ustadz Ishom Aini, M.A.",
+   "lokasi": "Masjid Al Adhim, Cinere",
+   "alamat": "",
+   "kota": "Depok",
+   "tanggal": "2026-11-07",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Sabtu ba'da Maghrib hingga selesai.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/381884"
+   ],
+   "terakhir_terlihat": "2026-10-23",
    "confidence": "sedang"
   }
  ]

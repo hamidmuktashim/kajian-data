@@ -1,6 +1,6 @@
 {
  "kota": "Bekasi",
- "dicek": "2026-10-17",
+ "dicek": "2026-10-23",
  "kajian": [
   {
    "judul": "Tahsin Al-Qur'an (Pemula)",
@@ -246,6 +246,44 @@
     "https://t.me/s/jadwalkajianID"
    ],
    "terakhir_terlihat": "2026-10-11",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Karyawan dan Umum Masjid Nurul I'tishom",
+   "pemateri": "Ustadz Armin Akbar, Lc.",
+   "lokasi": "Masjid Nurul I'tishom, Bintara, Bekasi Barat",
+   "alamat": "",
+   "kota": "Bekasi",
+   "tanggal": "2026-10-23",
+   "mulai": "15:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Jumat 15.30 hingga selesai, untuk karyawan dan umum.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/381882"
+   ],
+   "terakhir_terlihat": "2026-10-23",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Umum Mushola Jahwar Lathif",
+   "pemateri": "",
+   "lokasi": "Mushola Jahwar Lathif, Sekolah Amr Bin Dinar, Duren Jaya, Bekasi Timur",
+   "alamat": "",
+   "kota": "Bekasi",
+   "tanggal": "2026-10-23",
+   "mulai": "13:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Jumat 13.30 WIB hingga selesai, untuk umum.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/381883"
+   ],
+   "terakhir_terlihat": "2026-10-23",
    "confidence": "sedang"
   }
  ]
