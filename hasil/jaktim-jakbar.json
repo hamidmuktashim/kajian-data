@@ -1,6 +1,6 @@
 {
  "kota": "Jakarta Timur & Barat",
- "dicek": "2026-10-20",
+ "dicek": "2026-10-26",
  "kajian": [
   {
    "judul": "Kajian Rutin Selasa Pagi (Majelis Taklim Babussalam)",
@@ -103,6 +103,57 @@
    "hari": 3,
    "mulai": "18:15",
    "deskripsi": "Kajian rutin Rabu malam, ba'da Maghrib; kajian kitab Shahih Fadhail Amal."
+  },
+  {
+   "judul": "Kajian Senin Pagi - Hadits Pelembut Hati",
+   "pemateri": "Ustadz Muhammad Halid Syar'ie, Lc",
+   "lokasi": "Masjid Salman Al Farisi",
+   "alamat": "Jln. Hj. Ten, Komp. BULOG",
+   "kota": "Jakarta Timur",
+   "hari": 1,
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin Senin pagi; tema Hadits Pelembut Hati (Sifat Surga dan Neraka).",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-26",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kitab Hilyah Tholibil Ilmi",
+   "pemateri": "Ustadz Ahmad Rasyid Bazher",
+   "lokasi": "Masjid Imam Nawawi",
+   "alamat": "Jl. Panti Asuhan No.32, Cipinang Cempedak, Jatinegara",
+   "kota": "Jakarta Timur",
+   "hari": 1,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Rutin setiap Senin, ba'da Maghrib; kitab Hilyah Tholibil Ilmi.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-26",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Riyadhus Shalihin dan Kitab Tauhid",
+   "pemateri": "Ustadz Aldhi Ferdian, Lc",
+   "lokasi": "Masjid Nurul Falah (Komplek Pajak)",
+   "alamat": "Jl. Penyelesaian Tomang 3, Meruya Utara, Kembangan",
+   "kota": "Jakarta Barat",
+   "hari": 1,
+   "mulai": "08:00",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Setiap Senin; sesi 1 Riyadhus Shalihin 08.00, sesi 2 Kitab Tauhid 09.15.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-26",
+   "confidence": "sedang"
   }
  ],
  "agenda": [

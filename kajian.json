@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-10-25T08:12+07:00",
+ "diperbarui": "2026-10-26T08:12+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -16,8 +16,8 @@
   "Tangerang",
   "Yogyakarta"
  ],
- "jumlah": 195,
- "jumlah_agenda": 2,
+ "jumlah": 198,
+ "jumlah_agenda": 1,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -1490,6 +1490,25 @@
    "pertama_terlihat": "2026-09-17"
   },
   {
+   "judul": "Riyadhus Shalihin dan Kitab Tauhid",
+   "pemateri": "Ustadz Aldhi Ferdian, Lc",
+   "lokasi": "Masjid Nurul Falah (Komplek Pajak)",
+   "alamat": "Jl. Penyelesaian Tomang 3, Meruya Utara, Kembangan",
+   "kota": "Jakarta Barat",
+   "hari": 1,
+   "mulai": "08:00",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Setiap Senin; sesi 1 Riyadhus Shalihin 08.00, sesi 2 Kitab Tauhid 09.15.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-26",
+   "confidence": "sedang",
+   "id": "kj_f0e12ec6af",
+   "pertama_terlihat": "2026-10-26"
+  },
+  {
    "judul": "Kajian Rutin Sabtu Malam - Bahasa Arab",
    "pemateri": "Ustadz Abu Zubaeir",
    "lokasi": "Masjid Ar Rohmah",
@@ -2619,6 +2638,44 @@
    "pertama_terlihat": "2026-09-25"
   },
   {
+   "judul": "Kajian Senin Pagi - Hadits Pelembut Hati",
+   "pemateri": "Ustadz Muhammad Halid Syar'ie, Lc",
+   "lokasi": "Masjid Salman Al Farisi",
+   "alamat": "Jln. Hj. Ten, Komp. BULOG",
+   "kota": "Jakarta Timur",
+   "hari": 1,
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin Senin pagi; tema Hadits Pelembut Hati (Sifat Surga dan Neraka).",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-26",
+   "confidence": "sedang",
+   "id": "kj_b853da6b26",
+   "pertama_terlihat": "2026-10-26"
+  },
+  {
+   "judul": "Kitab Hilyah Tholibil Ilmi",
+   "pemateri": "Ustadz Ahmad Rasyid Bazher",
+   "lokasi": "Masjid Imam Nawawi",
+   "alamat": "Jl. Panti Asuhan No.32, Cipinang Cempedak, Jatinegara",
+   "kota": "Jakarta Timur",
+   "hari": 1,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Rutin setiap Senin, ba'da Maghrib; kitab Hilyah Tholibil Ilmi.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-10-26",
+   "confidence": "sedang",
+   "id": "kj_2d6ebefcdb",
+   "pertama_terlihat": "2026-10-26"
+  },
+  {
    "judul": "Kajian Rutin Selasa Pagi (Majelis Taklim Babussalam)",
    "pemateri": "",
    "lokasi": "Masjid At-Taqwa Taman Bunga Wiladatika",
@@ -3741,27 +3798,6 @@
   }
  ],
  "agenda": [
-  {
-   "judul": "Kitab Zuhud dan Kelembutan Hati",
-   "pemateri": "Ustadz Aep Saepullah Ibnu Ahmad",
-   "lokasi": "Masjid An-Naba' Graha Raya Bintaro",
-   "alamat": "Jl. Akses Graha Raya Bintaro KM.01, Regency Pinang, Kota Tangerang",
-   "kota": "Tangerang",
-   "tanggal": "2026-10-24",
-   "mulai": "05:00",
-   "selesai": "07:00",
-   "kategori": "Kajian Umum",
-   "deskripsi": "Sesi bulanan Sabtu subuh.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
-   ],
-   "terakhir_terlihat": "2026-10-15",
-   "confidence": "sedang",
-   "id": "ag_422b07d8b4",
-   "pertama_terlihat": "2026-10-15"
-  },
   {
    "judul": "Kajian Tematik Masjid Al Adhim Cinere",
    "pemateri": "Ustadz Ishom Aini, M.A.",
