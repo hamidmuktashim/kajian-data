@@ -1,6 +1,6 @@
 {
  "kota": "Surabaya",
- "dicek": "2026-10-21",
+ "dicek": "2026-10-27",
  "kajian": [
   {
    "judul": "Kitab Bulughul Maram",
@@ -16,28 +16,83 @@
    "sumber": [
     "https://t.me/s/surabayamengaji"
    ],
-   "terakhir_terlihat": "2026-09-27",
+   "terakhir_terlihat": "2026-10-27",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kitab Tauhid (Shahih al-Bukhari)",
+   "pemateri": "Ustadz Muhammad Yusuf Rustam, Lc., M.A.",
+   "lokasi": "Masjid al-Islamiyyah",
+   "alamat": "Jl. Petemon Sidomulyo IV No. 113 (Jl. Pacuan Kuda), Surabaya",
+   "kota": "Surabaya",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Aqidah",
+   "deskripsi": "Rutin setiap Selasa, ba'da Maghrib.",
+   "sumber": [
+    "https://t.me/s/surabayamengaji"
+   ],
+   "terakhir_terlihat": "2026-10-27",
    "confidence": "sedang"
   }
  ],
  "agenda": [
   {
-   "judul": "Anak-anak Shalih di Sekitar Nabi Bag.9 - Rumahnya al-Arqom bin Abil Arqom",
-   "pemateri": "Ustadz Zakariaya Rizky",
-   "lokasi": "Masjid Baiturroza (SIER)",
-   "alamat": "Jl. Rungkut Industri IV, Surabaya",
+   "judul": "Mari Belajar (MABAR) #9 - Tanda dunia mulai menguasai hati",
+   "pemateri": "Ustadz Yulian Purnama, S.Kom.",
+   "lokasi": "Zoom Meeting",
+   "alamat": "",
    "kota": "Surabaya",
-   "tanggal": "2026-10-04",
-   "mulai": "08:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian anak, diumumkan di kanal Surabaya Mengaji.",
-   "online": false,
-   "tautan": "https://ysmo.link/kajiananak65",
+   "tanggal": "2026-11-01",
+   "mulai": "19:30",
+   "selesai": "21:00",
+   "kategori": "Kajian Online",
+   "deskripsi": "Pendaftaran dibuka sampai 29 Oktober 2026.",
+   "online": true,
+   "tautan": "https://ysmo.link/mabarsm9",
    "sumber": [
     "https://t.me/s/surabayamengaji"
    ],
-   "terakhir_terlihat": "2026-10-03",
+   "terakhir_terlihat": "2026-10-27",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Kitab Tauhid Pertemuan ke-62",
+   "pemateri": "Ustadz Muhammad Yusuf Rustam, Lc., M.A.",
+   "lokasi": "Masjid al-Islamiyyah",
+   "alamat": "Jl. Petemon Sidomulyo IV No. 113 (Jl. Pacuan Kuda), Surabaya",
+   "kota": "Surabaya",
+   "tanggal": "2026-10-27",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Maghrib sampai selesai.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/surabayamengaji"
+   ],
+   "terakhir_terlihat": "2026-10-27",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Kitab Qowa'idul Arba' Pertemuan ke-25",
+   "pemateri": "Ustadz Gemma Ilhamy, M.Pd.I.",
+   "lokasi": "Masjid Jami' Makkah",
+   "alamat": "Jl. Bendul Merisi Tengah No. 52, Surabaya",
+   "kota": "Surabaya",
+   "tanggal": "2026-10-28",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Maghrib sampai selesai.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/surabayamengaji"
+   ],
+   "terakhir_terlihat": "2026-10-27",
    "confidence": "sedang"
   }
  ]

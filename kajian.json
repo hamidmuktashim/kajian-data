@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-10-26T08:12+07:00",
+ "diperbarui": "2026-10-27T08:12+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -16,8 +16,8 @@
   "Tangerang",
   "Yogyakarta"
  ],
- "jumlah": 198,
- "jumlah_agenda": 1,
+ "jumlah": 199,
+ "jumlah_agenda": 4,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -3417,6 +3417,25 @@
    "pertama_terlihat": "2026-09-21"
   },
   {
+   "judul": "Kitab Tauhid (Shahih al-Bukhari)",
+   "pemateri": "Ustadz Muhammad Yusuf Rustam, Lc., M.A.",
+   "lokasi": "Masjid al-Islamiyyah",
+   "alamat": "Jl. Petemon Sidomulyo IV No. 113 (Jl. Pacuan Kuda), Surabaya",
+   "kota": "Surabaya",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Aqidah",
+   "deskripsi": "Rutin setiap Selasa, ba'da Maghrib.",
+   "sumber": [
+    "https://t.me/s/surabayamengaji"
+   ],
+   "terakhir_terlihat": "2026-10-27",
+   "confidence": "sedang",
+   "id": "kj_acb9f92b7a",
+   "pertama_terlihat": "2026-10-27"
+  },
+  {
    "judul": "Kajian Rabu Malam: Kitab Riyadus Sholihin",
    "pemateri": "Ustadz H. Moh. Sholeh Drehem, Lc., M.Ag",
    "lokasi": "Masjid Nasional Al Akbar Surabaya",
@@ -3468,7 +3487,7 @@
    "sumber": [
     "https://t.me/s/surabayamengaji"
    ],
-   "terakhir_terlihat": "2026-09-27",
+   "terakhir_terlihat": "2026-10-27",
    "confidence": "sedang",
    "id": "kj_ae4b93fb0b",
    "pertama_terlihat": "2026-09-27"
@@ -3798,6 +3817,69 @@
   }
  ],
  "agenda": [
+  {
+   "judul": "Kajian Kitab Tauhid Pertemuan ke-62",
+   "pemateri": "Ustadz Muhammad Yusuf Rustam, Lc., M.A.",
+   "lokasi": "Masjid al-Islamiyyah",
+   "alamat": "Jl. Petemon Sidomulyo IV No. 113 (Jl. Pacuan Kuda), Surabaya",
+   "kota": "Surabaya",
+   "tanggal": "2026-10-27",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Maghrib sampai selesai.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/surabayamengaji"
+   ],
+   "terakhir_terlihat": "2026-10-27",
+   "confidence": "sedang",
+   "id": "ag_39ef0422fb",
+   "pertama_terlihat": "2026-10-27"
+  },
+  {
+   "judul": "Kajian Kitab Qowa'idul Arba' Pertemuan ke-25",
+   "pemateri": "Ustadz Gemma Ilhamy, M.Pd.I.",
+   "lokasi": "Masjid Jami' Makkah",
+   "alamat": "Jl. Bendul Merisi Tengah No. 52, Surabaya",
+   "kota": "Surabaya",
+   "tanggal": "2026-10-28",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Maghrib sampai selesai.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/surabayamengaji"
+   ],
+   "terakhir_terlihat": "2026-10-27",
+   "confidence": "sedang",
+   "id": "ag_ba461b0d2c",
+   "pertama_terlihat": "2026-10-27"
+  },
+  {
+   "judul": "Mari Belajar (MABAR) #9 - Tanda dunia mulai menguasai hati",
+   "pemateri": "Ustadz Yulian Purnama, S.Kom.",
+   "lokasi": "Zoom Meeting",
+   "alamat": "",
+   "kota": "Surabaya",
+   "tanggal": "2026-11-01",
+   "mulai": "19:30",
+   "selesai": "21:00",
+   "kategori": "Kajian Online",
+   "deskripsi": "Pendaftaran dibuka sampai 29 Oktober 2026.",
+   "online": true,
+   "tautan": "https://ysmo.link/mabarsm9",
+   "sumber": [
+    "https://t.me/s/surabayamengaji"
+   ],
+   "terakhir_terlihat": "2026-10-27",
+   "confidence": "sedang",
+   "id": "ag_d98d8f1304",
+   "pertama_terlihat": "2026-10-27"
+  },
   {
    "judul": "Kajian Tematik Masjid Al Adhim Cinere",
    "pemateri": "Ustadz Ishom Aini, M.A.",
