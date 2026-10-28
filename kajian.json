@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-10-27T08:12+07:00",
+ "diperbarui": "2026-10-28T08:11+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -17,7 +17,7 @@
   "Yogyakarta"
  ],
  "jumlah": 199,
- "jumlah_agenda": 4,
+ "jumlah_agenda": 5,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -3837,6 +3837,27 @@
    "confidence": "sedang",
    "id": "ag_39ef0422fb",
    "pertama_terlihat": "2026-10-27"
+  },
+  {
+   "judul": "Kajian Muslimah: Kitab Jalan Golongan yang Selamat",
+   "pemateri": "Ustadz Yovin Abu Hammam",
+   "lokasi": "Masjid Al Bilal",
+   "alamat": "",
+   "kota": "Jakarta Pusat",
+   "tanggal": "2026-10-28",
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian muslimah di Masjid Al Bilal, Cempaka Baru, Kemayoran.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/382550"
+   ],
+   "terakhir_terlihat": "2026-10-28",
+   "confidence": "sedang",
+   "id": "ag_185e04a384",
+   "pertama_terlihat": "2026-10-28"
   },
   {
    "judul": "Kajian Kitab Qowa'idul Arba' Pertemuan ke-25",

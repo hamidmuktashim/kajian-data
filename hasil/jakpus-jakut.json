@@ -1,6 +1,6 @@
 {
  "kota": "Jakarta Pusat",
- "dicek": "2026-10-22",
+ "dicek": "2026-10-28",
  "kajian": [
   {
    "judul": "Pengajian Tri In One",
@@ -317,6 +317,25 @@
     "https://t.me/jadwalkajianID/381789"
    ],
    "terakhir_terlihat": "2026-10-22",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Muslimah: Kitab Jalan Golongan yang Selamat",
+   "pemateri": "Ustadz Yovin Abu Hammam",
+   "lokasi": "Masjid Al Bilal",
+   "alamat": "",
+   "kota": "Jakarta Pusat",
+   "tanggal": "2026-10-28",
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian muslimah di Masjid Al Bilal, Cempaka Baru, Kemayoran.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/382550"
+   ],
+   "terakhir_terlihat": "2026-10-28",
    "confidence": "sedang"
   }
  ]
