@@ -1,6 +1,6 @@
 {
  "kota": "Bekasi",
- "dicek": "2026-10-23",
+ "dicek": "2026-10-29",
  "kajian": [
   {
    "judul": "Tahsin Al-Qur'an (Pemula)",
@@ -187,6 +187,74 @@
     "https://t.me/s/jadwalkajianID"
    ],
    "terakhir_terlihat": "2026-10-05",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Shahih At-Targhib wa At-Tarhib (Kitab Shalat)",
+   "pemateri": "Ustadz Dr. Khalid Basamalah, M.A",
+   "lokasi": "Masjid Baitul Ma'mur Grand Prima Bintara, Bekasi Barat",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 4,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Telegram: \"Ba'da Subuh – selesai (setiap kamis)\".",
+   "sumber": [
+    "https://t.me/jadwalkajianID/382693"
+   ],
+   "terakhir_terlihat": "2026-10-29",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Halaqah Al-Qur'an Al-Karim",
+   "pemateri": "Ustadz Abdurrahman Yahya",
+   "lokasi": "Masjid Nurul I'tishom Bintara, Bekasi Barat",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 3,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Al-Qur'an",
+   "deskripsi": "Telegram: \"Ba'da Subuh – selesai (rabu & kamis)\".",
+   "sumber": [
+    "https://t.me/jadwalkajianID/382693"
+   ],
+   "terakhir_terlihat": "2026-10-29",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Halaqah Al-Qur'an Al-Karim",
+   "pemateri": "Ustadz Abdurrahman Yahya",
+   "lokasi": "Masjid Nurul I'tishom Bintara, Bekasi Barat",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 4,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Al-Qur'an",
+   "deskripsi": "Telegram: \"Ba'da Subuh – selesai (rabu & kamis)\".",
+   "sumber": [
+    "https://t.me/jadwalkajianID/382693"
+   ],
+   "terakhir_terlihat": "2026-10-29",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Al-Qawa'id al-Arba'",
+   "pemateri": "Ustadz Muhammad Hamdi, Lc",
+   "lokasi": "Masjid HSI Al Kautsar Mustika Jaya, Bekasi",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 4,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Telegram: \"Ba'da Maghrib – selesai (setiap kamis)\".",
+   "sumber": [
+    "https://t.me/jadwalkajianID/382694"
+   ],
+   "terakhir_terlihat": "2026-10-29",
    "confidence": "sedang"
   }
  ],
