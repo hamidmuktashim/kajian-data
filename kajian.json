@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-10-29T08:11+07:00",
+ "diperbarui": "2026-10-31T08:11+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -17,7 +17,7 @@
   "Yogyakarta"
  ],
  "jumlah": 203,
- "jumlah_agenda": 4,
+ "jumlah_agenda": 2,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -1890,7 +1890,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-25",
+   "terakhir_terlihat": "2026-10-31",
    "confidence": "tinggi",
    "id": "kj_6b737c6f40",
    "pertama_terlihat": "2026-09-10"
@@ -2137,7 +2137,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-25",
+   "terakhir_terlihat": "2026-10-31",
    "confidence": "tinggi",
    "id": "kj_992b43b53c",
    "pertama_terlihat": "2026-09-10"
@@ -2480,7 +2480,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-25",
+   "terakhir_terlihat": "2026-10-31",
    "confidence": "tinggi",
    "id": "kj_842ad2efb4",
    "pertama_terlihat": "2026-09-10"
@@ -2537,7 +2537,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-25",
+   "terakhir_terlihat": "2026-10-31",
    "confidence": "tinggi",
    "id": "kj_363efaf21c",
    "pertama_terlihat": "2026-09-10"
@@ -2575,7 +2575,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-25",
+   "terakhir_terlihat": "2026-10-31",
    "confidence": "tinggi",
    "id": "kj_d745cd592a",
    "pertama_terlihat": "2026-09-25"
@@ -2594,7 +2594,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-25",
+   "terakhir_terlihat": "2026-10-31",
    "confidence": "tinggi",
    "id": "kj_3a05c8677f",
    "pertama_terlihat": "2026-09-10"
@@ -2651,7 +2651,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-25",
+   "terakhir_terlihat": "2026-10-31",
    "confidence": "tinggi",
    "id": "kj_9a4162391f",
    "pertama_terlihat": "2026-09-10"
@@ -3893,48 +3893,6 @@
   }
  ],
  "agenda": [
-  {
-   "judul": "Kajian Muslimah: Kitab Jalan Golongan yang Selamat",
-   "pemateri": "Ustadz Yovin Abu Hammam",
-   "lokasi": "Masjid Al Bilal",
-   "alamat": "",
-   "kota": "Jakarta Pusat",
-   "tanggal": "2026-10-28",
-   "mulai": "09:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian muslimah di Masjid Al Bilal, Cempaka Baru, Kemayoran.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/382550"
-   ],
-   "terakhir_terlihat": "2026-10-28",
-   "confidence": "sedang",
-   "id": "ag_185e04a384",
-   "pertama_terlihat": "2026-10-28"
-  },
-  {
-   "judul": "Kajian Kitab Qowa'idul Arba' Pertemuan ke-25",
-   "pemateri": "Ustadz Gemma Ilhamy, M.Pd.I.",
-   "lokasi": "Masjid Jami' Makkah",
-   "alamat": "Jl. Bendul Merisi Tengah No. 52, Surabaya",
-   "kota": "Surabaya",
-   "tanggal": "2026-10-28",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Ba'da Maghrib sampai selesai.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/surabayamengaji"
-   ],
-   "terakhir_terlihat": "2026-10-27",
-   "confidence": "sedang",
-   "id": "ag_ba461b0d2c",
-   "pertama_terlihat": "2026-10-27"
-  },
   {
    "judul": "Mari Belajar (MABAR) #9 - Tanda dunia mulai menguasai hati",
    "pemateri": "Ustadz Yulian Purnama, S.Kom.",
