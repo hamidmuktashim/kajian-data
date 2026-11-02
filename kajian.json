@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-11-01T08:10+07:00",
+ "diperbarui": "2026-11-02T08:12+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -17,7 +17,7 @@
   "Yogyakarta"
  ],
  "jumlah": 203,
- "jumlah_agenda": 2,
+ "jumlah_agenda": 4,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -3506,7 +3506,7 @@
    "sumber": [
     "https://t.me/s/surabayamengaji"
    ],
-   "terakhir_terlihat": "2026-10-27",
+   "terakhir_terlihat": "2026-11-02",
    "confidence": "sedang",
    "id": "kj_acb9f92b7a",
    "pertama_terlihat": "2026-10-27"
@@ -3913,6 +3913,48 @@
    "confidence": "sedang",
    "id": "ag_d98d8f1304",
    "pertama_terlihat": "2026-10-27"
+  },
+  {
+   "judul": "Kitab Aqidah Al Wasithiyah (Sifat Rahmat Bagi Allah)",
+   "pemateri": "Ustadz Muhammad Yahya, Lc.",
+   "lokasi": "Masjid As-Sunnah VCM",
+   "alamat": "",
+   "kota": "Tangerang",
+   "tanggal": "2026-11-02",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Info Kajian Senin Maghrib, Pisangan Ciputat Timur; ba'da Maghrib sampai selesai.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-02",
+   "confidence": "sedang",
+   "id": "ag_e438131fbf",
+   "pertama_terlihat": "2026-11-02"
+  },
+  {
+   "judul": "Kajian Kitab Tauhid Pertemuan ke-63",
+   "pemateri": "Ustadz Muhammad Yusuf Rustam, Lc., M.A.",
+   "lokasi": "Masjid al-Islamiyyah",
+   "alamat": "Jl. Petemon Sidomulyo IV No. 113 (Jl. Pacuan Kuda), Surabaya",
+   "kota": "Surabaya",
+   "tanggal": "2026-11-03",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Tema: Sifat Kalam Allah; ba'da Maghrib sampai selesai.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/surabayamengaji"
+   ],
+   "terakhir_terlihat": "2026-11-02",
+   "confidence": "sedang",
+   "id": "ag_82c535e827",
+   "pertama_terlihat": "2026-11-02"
   },
   {
    "judul": "Kajian Tematik Masjid Al Adhim Cinere",
