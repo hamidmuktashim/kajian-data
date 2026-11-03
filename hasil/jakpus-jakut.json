@@ -1,6 +1,6 @@
 {
  "kota": "Jakarta Pusat",
- "dicek": "2026-10-28",
+ "dicek": "2026-11-03",
  "kajian": [
   {
    "judul": "Pengajian Tri In One",
@@ -336,6 +336,25 @@
     "https://t.me/jadwalkajianID/382550"
    ],
    "terakhir_terlihat": "2026-10-28",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Rutin Selasa Pekan Ke-1: Khulashoh Ta'zhim Al Ilm (20 Simpul Adab Penuntut Ilmu)",
+   "pemateri": "Ustadz Ahmad Rasyid Bazher",
+   "lokasi": "Masjid Al Istiqomah",
+   "alamat": "Jl. Kelapa Sawit Raya, Kelapa Gading Timur",
+   "kota": "Jakarta Utara",
+   "tanggal": "2026-11-03",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Maghrib - Isya; simpul ke-12 tentang memilih teman yang saleh.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-03",
    "confidence": "sedang"
   }
  ]

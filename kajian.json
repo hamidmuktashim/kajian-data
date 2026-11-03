@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-11-02T08:12+07:00",
+ "diperbarui": "2026-11-03T08:11+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -3894,27 +3894,6 @@
  ],
  "agenda": [
   {
-   "judul": "Mari Belajar (MABAR) #9 - Tanda dunia mulai menguasai hati",
-   "pemateri": "Ustadz Yulian Purnama, S.Kom.",
-   "lokasi": "Zoom Meeting",
-   "alamat": "",
-   "kota": "Surabaya",
-   "tanggal": "2026-11-01",
-   "mulai": "19:30",
-   "selesai": "21:00",
-   "kategori": "Kajian Online",
-   "deskripsi": "Pendaftaran dibuka sampai 29 Oktober 2026.",
-   "online": true,
-   "tautan": "https://ysmo.link/mabarsm9",
-   "sumber": [
-    "https://t.me/s/surabayamengaji"
-   ],
-   "terakhir_terlihat": "2026-10-27",
-   "confidence": "sedang",
-   "id": "ag_d98d8f1304",
-   "pertama_terlihat": "2026-10-27"
-  },
-  {
    "judul": "Kitab Aqidah Al Wasithiyah (Sifat Rahmat Bagi Allah)",
    "pemateri": "Ustadz Muhammad Yahya, Lc.",
    "lokasi": "Masjid As-Sunnah VCM",
@@ -3934,6 +3913,27 @@
    "confidence": "sedang",
    "id": "ag_e438131fbf",
    "pertama_terlihat": "2026-11-02"
+  },
+  {
+   "judul": "Kajian Rutin Selasa Pekan Ke-1: Khulashoh Ta'zhim Al Ilm (20 Simpul Adab Penuntut Ilmu)",
+   "pemateri": "Ustadz Ahmad Rasyid Bazher",
+   "lokasi": "Masjid Al Istiqomah",
+   "alamat": "Jl. Kelapa Sawit Raya, Kelapa Gading Timur",
+   "kota": "Jakarta Utara",
+   "tanggal": "2026-11-03",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Maghrib - Isya; simpul ke-12 tentang memilih teman yang saleh.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-03",
+   "confidence": "sedang",
+   "id": "ag_6d06ab390a",
+   "pertama_terlihat": "2026-11-03"
   },
   {
    "judul": "Kajian Kitab Tauhid Pertemuan ke-63",
