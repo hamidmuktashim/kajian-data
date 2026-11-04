@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-11-03T08:11+07:00",
+ "diperbarui": "2026-11-04T08:11+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -17,7 +17,7 @@
   "Yogyakarta"
  ],
  "jumlah": 203,
- "jumlah_agenda": 4,
+ "jumlah_agenda": 8,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -3894,27 +3894,6 @@
  ],
  "agenda": [
   {
-   "judul": "Kitab Aqidah Al Wasithiyah (Sifat Rahmat Bagi Allah)",
-   "pemateri": "Ustadz Muhammad Yahya, Lc.",
-   "lokasi": "Masjid As-Sunnah VCM",
-   "alamat": "",
-   "kota": "Tangerang",
-   "tanggal": "2026-11-02",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Info Kajian Senin Maghrib, Pisangan Ciputat Timur; ba'da Maghrib sampai selesai.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-11-02",
-   "confidence": "sedang",
-   "id": "ag_e438131fbf",
-   "pertama_terlihat": "2026-11-02"
-  },
-  {
    "judul": "Kajian Rutin Selasa Pekan Ke-1: Khulashoh Ta'zhim Al Ilm (20 Simpul Adab Penuntut Ilmu)",
    "pemateri": "Ustadz Ahmad Rasyid Bazher",
    "lokasi": "Masjid Al Istiqomah",
@@ -3955,6 +3934,111 @@
    "confidence": "sedang",
    "id": "ag_82c535e827",
    "pertama_terlihat": "2026-11-02"
+  },
+  {
+   "judul": "Kajian Rabu Muslimah: Kitab Bulughul Maram (Hukum Barang Temuan)",
+   "pemateri": "Ustadz Hasan Ishak, MA",
+   "lokasi": "Masjid Al Hidayah, Lembah Hijau Lippo Cikarang",
+   "alamat": "",
+   "kota": "Bekasi",
+   "tanggal": "2026-11-04",
+   "mulai": "09:00",
+   "selesai": "11:00",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian Kitab Bulughul Maram untuk muslimah, tema Hukum Barang Temuan.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/383429"
+   ],
+   "terakhir_terlihat": "2026-11-03",
+   "confidence": "sedang",
+   "id": "ag_c745eb0cdb",
+   "pertama_terlihat": "2026-11-04"
+  },
+  {
+   "judul": "Kajian Rabu Muslimah Mekar Indah: Syarah Umdatul Mar'ah",
+   "pemateri": "Ustadz Musabbih, Lc",
+   "lokasi": "Masjid Mekar Indah",
+   "alamat": "Jl. Puspita 2, Mekar Indah, Cikarang Baru",
+   "kota": "Bekasi",
+   "tanggal": "2026-11-04",
+   "mulai": "09:00",
+   "selesai": "11:00",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Pekan ke-1, penjelasan 100 hadits pilihan seputar wanita.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/383431"
+   ],
+   "terakhir_terlihat": "2026-11-03",
+   "confidence": "sedang",
+   "id": "ag_097f459447",
+   "pertama_terlihat": "2026-11-04"
+  },
+  {
+   "judul": "Kajian Offline Akhwat: Fikih Asmaul Husna & Manhajus Salikin",
+   "pemateri": "Ustadz Abu Fahd Ega",
+   "lokasi": "Masjid Al Fatah Jatiasih",
+   "alamat": "Jatiasih, Bekasi Selatan",
+   "kota": "Bekasi",
+   "tanggal": "2026-11-04",
+   "mulai": "09:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "ILMvestment; sesi 1 Al Qariib & Al Mujiib, sesi 2 Puasa.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/383433"
+   ],
+   "terakhir_terlihat": "2026-11-03",
+   "confidence": "sedang",
+   "id": "ag_a64d1df221",
+   "pertama_terlihat": "2026-11-04"
+  },
+  {
+   "judul": "Kajian Ilmiyah Umum: Seakan Ini Sholat Pertamaku",
+   "pemateri": "Ustadz Ishom Aini, Lc. MA",
+   "lokasi": "Masjid Raya Al Azhar Summarecon Bekasi",
+   "alamat": "",
+   "kota": "Bekasi",
+   "tanggal": "2026-11-04",
+   "mulai": "09:30",
+   "selesai": "11:00",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian untuk umum ikhwan dan akhwat, presented by MT Al Kawthar.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/383434"
+   ],
+   "terakhir_terlihat": "2026-11-03",
+   "confidence": "sedang",
+   "id": "ag_f584c2bb0b",
+   "pertama_terlihat": "2026-11-04"
+  },
+  {
+   "judul": "Majelis Taman Surga",
+   "pemateri": "",
+   "lokasi": "Masjid Al-Jihad Cikarang Baru (MAJ)",
+   "alamat": "Jalan Beruang X Blok G, Jayamukti, Cikarang Pusat, Kab. Bekasi",
+   "kota": "Bekasi",
+   "tanggal": "2026-11-04",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Rabu 4 November 2026, ba'da Maghrib - selesai.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/383428"
+   ],
+   "terakhir_terlihat": "2026-11-03",
+   "confidence": "sedang",
+   "id": "ag_4695462815",
+   "pertama_terlihat": "2026-11-04"
   },
   {
    "judul": "Kajian Tematik Masjid Al Adhim Cinere",

@@ -1,6 +1,6 @@
 {
  "kota": "Bekasi",
- "dicek": "2026-10-29",
+ "dicek": "2026-11-04",
  "kajian": [
   {
    "judul": "Tahsin Al-Qur'an (Pemula)",
@@ -260,98 +260,98 @@
  ],
  "agenda": [
   {
-   "judul": "Tafsir Tauhid dan Syahadat La Ilaha Illallah",
-   "pemateri": "Ustadz Ahmad Baidlowi",
-   "lokasi": "Masjid Al-Fursan Jatiasih",
-   "alamat": "",
+   "judul": "Majelis Taman Surga",
+   "pemateri": "",
+   "lokasi": "Masjid Al-Jihad Cikarang Baru (MAJ)",
+   "alamat": "Jalan Beruang X Blok G, Jayamukti, Cikarang Pusat, Kab. Bekasi",
    "kota": "Bekasi",
-   "tanggal": "2026-09-23",
-   "mulai": "09:00",
-   "selesai": "11:30",
+   "tanggal": "2026-11-04",
+   "mulai": "18:15",
+   "selesai": "",
    "kategori": "Kajian Tematik",
-   "deskripsi": "",
+   "deskripsi": "Rabu 4 November 2026, ba'da Maghrib - selesai.",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/s/jadwalkajianID"
+    "https://t.me/jadwalkajianID/383428"
    ],
-   "terakhir_terlihat": "2026-09-23",
+   "terakhir_terlihat": "2026-11-03",
    "confidence": "sedang"
   },
   {
-   "judul": "Fikih Asmaul Husna - Al Kafiil Al Wakiil & Zakat",
+   "judul": "Kajian Rabu Muslimah: Kitab Bulughul Maram (Hukum Barang Temuan)",
+   "pemateri": "Ustadz Hasan Ishak, MA",
+   "lokasi": "Masjid Al Hidayah, Lembah Hijau Lippo Cikarang",
+   "alamat": "",
+   "kota": "Bekasi",
+   "tanggal": "2026-11-04",
+   "mulai": "09:00",
+   "selesai": "11:00",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian Kitab Bulughul Maram untuk muslimah, tema Hukum Barang Temuan.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/383429"
+   ],
+   "terakhir_terlihat": "2026-11-03",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Rabu Muslimah Mekar Indah: Syarah Umdatul Mar'ah",
+   "pemateri": "Ustadz Musabbih, Lc",
+   "lokasi": "Masjid Mekar Indah",
+   "alamat": "Jl. Puspita 2, Mekar Indah, Cikarang Baru",
+   "kota": "Bekasi",
+   "tanggal": "2026-11-04",
+   "mulai": "09:00",
+   "selesai": "11:00",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Pekan ke-1, penjelasan 100 hadits pilihan seputar wanita.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/383431"
+   ],
+   "terakhir_terlihat": "2026-11-03",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Offline Akhwat: Fikih Asmaul Husna & Manhajus Salikin",
    "pemateri": "Ustadz Abu Fahd Ega",
    "lokasi": "Masjid Al Fatah Jatiasih",
-   "alamat": "",
+   "alamat": "Jatiasih, Bekasi Selatan",
    "kota": "Bekasi",
-   "tanggal": "2026-09-23",
+   "tanggal": "2026-11-04",
    "mulai": "09:00",
    "selesai": "",
    "kategori": "Kajian Tematik",
-   "deskripsi": "",
+   "deskripsi": "ILMvestment; sesi 1 Al Qariib & Al Mujiib, sesi 2 Puasa.",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/s/jadwalkajianID"
+    "https://t.me/jadwalkajianID/383433"
    ],
-   "terakhir_terlihat": "2026-09-23",
+   "terakhir_terlihat": "2026-11-03",
    "confidence": "sedang"
   },
   {
-   "judul": "Tafsir Ayat-Ayat Pilihan #20",
-   "pemateri": "Ustadz Dr. Firanda Andirja, MA",
-   "lokasi": "Masjid Al Ikhlas Dukuh Bima",
+   "judul": "Kajian Ilmiyah Umum: Seakan Ini Sholat Pertamaku",
+   "pemateri": "Ustadz Ishom Aini, Lc. MA",
+   "lokasi": "Masjid Raya Al Azhar Summarecon Bekasi",
    "alamat": "",
    "kota": "Bekasi",
-   "tanggal": "2026-10-11",
-   "mulai": "18:00",
-   "selesai": "",
+   "tanggal": "2026-11-04",
+   "mulai": "09:30",
+   "selesai": "11:00",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Ba'da Maghrib, Tambun Selatan.",
+   "deskripsi": "Kajian untuk umum ikhwan dan akhwat, presented by MT Al Kawthar.",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/s/jadwalkajianID"
+    "https://t.me/jadwalkajianID/383434"
    ],
-   "terakhir_terlihat": "2026-10-11",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Karyawan dan Umum Masjid Nurul I'tishom",
-   "pemateri": "Ustadz Armin Akbar, Lc.",
-   "lokasi": "Masjid Nurul I'tishom, Bintara, Bekasi Barat",
-   "alamat": "",
-   "kota": "Bekasi",
-   "tanggal": "2026-10-23",
-   "mulai": "15:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Jumat 15.30 hingga selesai, untuk karyawan dan umum.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/381882"
-   ],
-   "terakhir_terlihat": "2026-10-23",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Umum Mushola Jahwar Lathif",
-   "pemateri": "",
-   "lokasi": "Mushola Jahwar Lathif, Sekolah Amr Bin Dinar, Duren Jaya, Bekasi Timur",
-   "alamat": "",
-   "kota": "Bekasi",
-   "tanggal": "2026-10-23",
-   "mulai": "13:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Jumat 13.30 WIB hingga selesai, untuk umum.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/381883"
-   ],
-   "terakhir_terlihat": "2026-10-23",
+   "terakhir_terlihat": "2026-11-03",
    "confidence": "sedang"
   }
  ]
