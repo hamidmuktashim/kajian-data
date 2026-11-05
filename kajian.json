@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-11-04T08:11+07:00",
+ "diperbarui": "2026-11-05T08:12+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -17,7 +17,7 @@
   "Yogyakarta"
  ],
  "jumlah": 203,
- "jumlah_agenda": 8,
+ "jumlah_agenda": 6,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -3893,48 +3893,6 @@
   }
  ],
  "agenda": [
-  {
-   "judul": "Kajian Rutin Selasa Pekan Ke-1: Khulashoh Ta'zhim Al Ilm (20 Simpul Adab Penuntut Ilmu)",
-   "pemateri": "Ustadz Ahmad Rasyid Bazher",
-   "lokasi": "Masjid Al Istiqomah",
-   "alamat": "Jl. Kelapa Sawit Raya, Kelapa Gading Timur",
-   "kota": "Jakarta Utara",
-   "tanggal": "2026-11-03",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Ba'da Maghrib - Isya; simpul ke-12 tentang memilih teman yang saleh.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-11-03",
-   "confidence": "sedang",
-   "id": "ag_6d06ab390a",
-   "pertama_terlihat": "2026-11-03"
-  },
-  {
-   "judul": "Kajian Kitab Tauhid Pertemuan ke-63",
-   "pemateri": "Ustadz Muhammad Yusuf Rustam, Lc., M.A.",
-   "lokasi": "Masjid al-Islamiyyah",
-   "alamat": "Jl. Petemon Sidomulyo IV No. 113 (Jl. Pacuan Kuda), Surabaya",
-   "kota": "Surabaya",
-   "tanggal": "2026-11-03",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Tema: Sifat Kalam Allah; ba'da Maghrib sampai selesai.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/surabayamengaji"
-   ],
-   "terakhir_terlihat": "2026-11-02",
-   "confidence": "sedang",
-   "id": "ag_82c535e827",
-   "pertama_terlihat": "2026-11-02"
-  },
   {
    "judul": "Kajian Rabu Muslimah: Kitab Bulughul Maram (Hukum Barang Temuan)",
    "pemateri": "Ustadz Hasan Ishak, MA",
