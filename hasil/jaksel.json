@@ -1,6 +1,6 @@
 {
  "kota": "Jakarta Selatan",
- "dicek": "2026-10-31",
+ "dicek": "2026-11-06",
  "kajian": [
   {
    "judul": "MT. Tafsir (Senin)",
@@ -16,7 +16,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-31",
+   "terakhir_terlihat": "2026-11-06",
    "confidence": "tinggi"
   },
   {
@@ -33,7 +33,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-31",
+   "terakhir_terlihat": "2026-11-06",
    "confidence": "tinggi"
   },
   {
@@ -50,7 +50,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-31",
+   "terakhir_terlihat": "2026-11-06",
    "confidence": "tinggi"
   },
   {
@@ -67,7 +67,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-31",
+   "terakhir_terlihat": "2026-11-06",
    "confidence": "tinggi"
   },
   {
@@ -84,7 +84,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-31",
+   "terakhir_terlihat": "2026-11-06",
    "confidence": "tinggi"
   },
   {
@@ -101,7 +101,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-31",
+   "terakhir_terlihat": "2026-11-06",
    "confidence": "tinggi"
   },
   {
@@ -118,7 +118,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-10-31",
+   "terakhir_terlihat": "2026-11-06",
    "confidence": "tinggi"
   },
   {
@@ -431,60 +431,79 @@
  ],
  "agenda": [
   {
-   "judul": "Kajian Senin Pagi Masjid Nurul Hidayah",
-   "pemateri": "Ustadz Azhar Khalid bin Seff",
-   "lokasi": "Masjid Nurul Hidayah Brawijaya, Kebayoran Baru",
+   "judul": "Kajian Ba'da Maghrib Masjid Nurullah Kalibata City",
+   "pemateri": "Ustadz Sofyan Chalid Ruray",
+   "lokasi": "Masjid Nurullah, Kalibata City",
    "alamat": "",
    "kota": "Jakarta Selatan",
-   "tanggal": "2026-10-19",
-   "mulai": "09:30",
+   "tanggal": "2026-11-06",
+   "mulai": "18:15",
    "selesai": "",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Diumumkan di jadwalkajianID untuk Senin 19 Oktober 2026.",
+   "deskripsi": "Jumat 6 November 2026, ba'da Maghrib sampai selesai.",
    "online": false,
    "tautan": "",
    "sumber": [
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-10-19",
+   "terakhir_terlihat": "2026-11-06",
    "confidence": "sedang"
   },
   {
-   "judul": "Kajian Senin Pagi Masjid Al-Adil",
-   "pemateri": "Ustadz Najmi Umar Bakkar",
-   "lokasi": "Masjid Al-Adil, Lebak Bulus",
+   "judul": "Kajian Muslimah Rumah Kajian Gandaria",
+   "pemateri": "Ustadz Yovin Abu Hammam",
+   "lokasi": "Rumah Kajian Gandaria, Kebayoran Baru",
    "alamat": "",
    "kota": "Jakarta Selatan",
-   "tanggal": "2026-10-19",
-   "mulai": "09:30",
+   "tanggal": "2026-11-06",
+   "mulai": "09:00",
    "selesai": "",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Diumumkan sebagai kajian rutin Senin ke-3 (19 Oktober 2026).",
+   "deskripsi": "Jumat 6 November 2026, khusus akhwat.",
    "online": false,
    "tautan": "",
    "sumber": [
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-10-19",
+   "terakhir_terlihat": "2026-11-06",
    "confidence": "sedang"
   },
   {
-   "judul": "Kajian Ba'da Dzuhur Masjid Nur Salma",
-   "pemateri": "Ustadz Ali Hasan Bawazier",
-   "lokasi": "Masjid Nur Salma, Centennial Tower lt. 22, Jl. Gatot Subroto",
+   "judul": "Kajian Ba'da Ashar Masjid Baitussyifa RSUD Pasar Minggu",
+   "pemateri": "Ustadz Mohamad Nursamsul Qomar",
+   "lokasi": "Masjid Baitussyifa, RSUD Pasar Minggu",
    "alamat": "",
    "kota": "Jakarta Selatan",
-   "tanggal": "2026-10-19",
-   "mulai": "12:30",
+   "tanggal": "2026-11-06",
+   "mulai": "15:30",
    "selesai": "",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Ba'da Dzuhur-13.00, Senin 19 Oktober 2026.",
+   "deskripsi": "Jumat 6 November 2026, ba'da Ashar.",
    "online": false,
    "tautan": "",
    "sumber": [
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-10-19",
+   "terakhir_terlihat": "2026-11-06",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Aula DK Group Pasar Minggu",
+   "pemateri": "Ustadz Dr. Djazuli Ruhan Basyir",
+   "lokasi": "Gedung DK Group, Aula lt. 2, Jl. Salihara, Pasar Minggu",
+   "alamat": "",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-11-06",
+   "mulai": "09:00",
+   "selesai": "11:00",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Jumat 6 November 2026, 09:00-11:00.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-06",
    "confidence": "sedang"
   }
  ]

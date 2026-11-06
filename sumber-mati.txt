@@ -36,3 +36,4 @@ https://almarkaz.or.id — domain tidak resolve (2026-09-30), jangan coba lagi s
 https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/ — halaman verifikasi bot (2026-10-27), jangan coba lagi sampai 2026-11-26
 https://tarbiyahsunnah.com/event_tag/kajian-rutin/ — konten kosong saat di-fetch (2026-10-28), jangan coba lagi sampai 2026-11-27
 https://kajiansunnahbandung.web.id/jadwal-kajian-rutin-bandung-timur-dan-sekitarnya/ — halaman verifikasi bot (2026-11-03), jangan coba lagi sampai 2026-12-03
+- https://t.me/s/infokajianbandung — isi usang (post terbaru Juni 2026), tidak ada agenda aktif (2026-11-06)
