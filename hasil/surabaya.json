@@ -1,6 +1,6 @@
 {
  "kota": "Surabaya",
- "dicek": "2026-11-02",
+ "dicek": "2026-11-08",
  "kajian": [
   {
    "judul": "Kitab Bulughul Maram",
@@ -112,6 +112,25 @@
     "https://t.me/s/surabayamengaji"
    ],
    "terakhir_terlihat": "2026-11-02",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Mari Belajar (MABAR) #10 - Ketika Takdir Tak Sesuai Harapan",
+   "pemateri": "Ustadz Muhammad Halid Syar'ie, Lc.",
+   "lokasi": "Zoom Meeting",
+   "alamat": "",
+   "kota": "Surabaya",
+   "tanggal": "2026-11-14",
+   "mulai": "19:30",
+   "selesai": "21:00",
+   "kategori": "Kajian Online",
+   "deskripsi": "Gratis; tautan Zoom dibagikan di komunitas WhatsApp.",
+   "online": true,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/surabayamengaji"
+   ],
+   "terakhir_terlihat": "2026-11-08",
    "confidence": "sedang"
   }
  ]

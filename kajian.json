@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-11-06T08:13+07:00",
+ "diperbarui": "2026-11-08T08:11+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -17,7 +17,7 @@
   "Yogyakarta"
  ],
  "jumlah": 203,
- "jumlah_agenda": 5,
+ "jumlah_agenda": 2,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -3894,90 +3894,6 @@
  ],
  "agenda": [
   {
-   "judul": "Kajian Muslimah Rumah Kajian Gandaria",
-   "pemateri": "Ustadz Yovin Abu Hammam",
-   "lokasi": "Rumah Kajian Gandaria, Kebayoran Baru",
-   "alamat": "",
-   "kota": "Jakarta Selatan",
-   "tanggal": "2026-11-06",
-   "mulai": "09:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Jumat 6 November 2026, khusus akhwat.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-11-06",
-   "confidence": "sedang",
-   "id": "ag_a018d5252e",
-   "pertama_terlihat": "2026-11-06"
-  },
-  {
-   "judul": "Kajian Aula DK Group Pasar Minggu",
-   "pemateri": "Ustadz Dr. Djazuli Ruhan Basyir",
-   "lokasi": "Gedung DK Group, Aula lt. 2, Jl. Salihara, Pasar Minggu",
-   "alamat": "",
-   "kota": "Jakarta Selatan",
-   "tanggal": "2026-11-06",
-   "mulai": "09:00",
-   "selesai": "11:00",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Jumat 6 November 2026, 09:00-11:00.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-11-06",
-   "confidence": "sedang",
-   "id": "ag_6cd74e3857",
-   "pertama_terlihat": "2026-11-06"
-  },
-  {
-   "judul": "Kajian Ba'da Ashar Masjid Baitussyifa RSUD Pasar Minggu",
-   "pemateri": "Ustadz Mohamad Nursamsul Qomar",
-   "lokasi": "Masjid Baitussyifa, RSUD Pasar Minggu",
-   "alamat": "",
-   "kota": "Jakarta Selatan",
-   "tanggal": "2026-11-06",
-   "mulai": "15:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Jumat 6 November 2026, ba'da Ashar.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-11-06",
-   "confidence": "sedang",
-   "id": "ag_1b71997c63",
-   "pertama_terlihat": "2026-11-06"
-  },
-  {
-   "judul": "Kajian Ba'da Maghrib Masjid Nurullah Kalibata City",
-   "pemateri": "Ustadz Sofyan Chalid Ruray",
-   "lokasi": "Masjid Nurullah, Kalibata City",
-   "alamat": "",
-   "kota": "Jakarta Selatan",
-   "tanggal": "2026-11-06",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Jumat 6 November 2026, ba'da Maghrib sampai selesai.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-11-06",
-   "confidence": "sedang",
-   "id": "ag_c5fb85e053",
-   "pertama_terlihat": "2026-11-06"
-  },
-  {
    "judul": "Kajian Tematik Masjid Al Adhim Cinere",
    "pemateri": "Ustadz Ishom Aini, M.A.",
    "lokasi": "Masjid Al Adhim, Cinere",
@@ -3997,6 +3913,27 @@
    "confidence": "sedang",
    "id": "ag_2d7603e7c5",
    "pertama_terlihat": "2026-10-23"
+  },
+  {
+   "judul": "Mari Belajar (MABAR) #10 - Ketika Takdir Tak Sesuai Harapan",
+   "pemateri": "Ustadz Muhammad Halid Syar'ie, Lc.",
+   "lokasi": "Zoom Meeting",
+   "alamat": "",
+   "kota": "Surabaya",
+   "tanggal": "2026-11-14",
+   "mulai": "19:30",
+   "selesai": "21:00",
+   "kategori": "Kajian Online",
+   "deskripsi": "Gratis; tautan Zoom dibagikan di komunitas WhatsApp.",
+   "online": true,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/surabayamengaji"
+   ],
+   "terakhir_terlihat": "2026-11-08",
+   "confidence": "sedang",
+   "id": "ag_d8d7a00d30",
+   "pertama_terlihat": "2026-11-08"
   }
  ]
 }
