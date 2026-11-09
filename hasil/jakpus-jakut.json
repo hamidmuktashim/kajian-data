@@ -1,6 +1,6 @@
 {
  "kota": "Jakarta Pusat",
- "dicek": "2026-11-03",
+ "dicek": "2026-11-09",
  "kajian": [
   {
    "judul": "Pengajian Tri In One",
@@ -355,6 +355,120 @@
     "https://t.me/s/jadwalkajianID"
    ],
    "terakhir_terlihat": "2026-11-03",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Tafsir QS Al-Mutaffifin",
+   "pemateri": "Ustadz Abdul Aziz Al Owainy, Lc",
+   "lokasi": "Masjid At Taufiq",
+   "alamat": "Cempaka Putih Timur VI",
+   "kota": "Jakarta Pusat",
+   "tanggal": "2026-11-09",
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Tafsir Al-Qur'an, QS Al-Mutaffifin.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-09",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Meraih Pahala Besar dengan Amalan Ringan",
+   "pemateri": "Ustadz Luthfi Abdu Jabbar, Lc",
+   "lokasi": "Masjid Al-Huda Kemayoran",
+   "alamat": "Kb. Kosong",
+   "kota": "Jakarta Pusat",
+   "tanggal": "2026-11-09",
+   "mulai": "13:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian tematik dari rekap harian.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-09",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Seputar Hari Jum'at",
+   "pemateri": "Ustadz Chia Rangga Gunawan, Lc",
+   "lokasi": "Masjid Umar bin Khaththab",
+   "alamat": "Pasar Senen Blok 3, Lt. 4",
+   "kota": "Jakarta Pusat",
+   "tanggal": "2026-11-09",
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Sumber: 'ba'da Dzuhur sampai 13:00 WIB'.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-09",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kitab Mukhtasar Riyadhus Shalihin: Mendamaikan Manusia",
+   "pemateri": "Ustadz Sahl Abu Abdillah",
+   "lokasi": "Masjid Al Azhar Cempaka Putih",
+   "alamat": "Cempaka Putih Barat III",
+   "kota": "Jakarta Pusat",
+   "tanggal": "2026-11-09",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Sumber: 'ba'da Maghrib sampai selesai'.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-09",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kitab Ta'Dheem As Salah: Rahasia Takbiratul Ihram",
+   "pemateri": "Ustadz Muhammad Hanief Ridho, Lc, MA",
+   "lokasi": "Masjid As Salam (Isuzu Head Office Lt. 8)",
+   "alamat": "Sunter Agung",
+   "kota": "Jakarta Utara",
+   "tanggal": "2026-11-09",
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Sumber: 'ba'da Dzuhur sampai selesai'.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-09",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kitab Al Kabair",
+   "pemateri": "Ustadz Gigih Surya Nugraha, S.H.",
+   "lokasi": "Masjid Baitul Bahri (Tower Pelindo)",
+   "alamat": "Rawabadak Utara, Koja",
+   "kota": "Jakarta Utara",
+   "tanggal": "2026-11-09",
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Sumber: 'ba'da Dzuhur sampai selesai'.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-09",
    "confidence": "sedang"
   }
  ]
