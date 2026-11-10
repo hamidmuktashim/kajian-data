@@ -1,6 +1,6 @@
 {
  "kota": "Depok",
- "dicek": "2026-11-04",
+ "dicek": "2026-11-10",
  "kajian": [
   {
    "judul": "Kajian Muslimah Kamis",
@@ -424,6 +424,82 @@
     "https://t.me/jadwalkajianID/381884"
    ],
    "terakhir_terlihat": "2026-10-23",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kitab Fiqh Doa dan Dzikir",
+   "pemateri": "Ustadz Ali Saman Hasan, MA",
+   "lokasi": "Masjid Al Adhim",
+   "alamat": "Jl. Andara Raya No.32, Pangkalan Jati Baru, Cinere",
+   "kota": "Depok",
+   "tanggal": "2026-11-10",
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Tertulis \"Ba'da Shubuh\". Rekapan kajian Jabodetabek Selasa 10 Nov 2026 (pekan kedua).",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-09",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kumpulan amalan pembuka rezeki",
+   "pemateri": "Ustadz Sidqi Kamal Zimmah, BA",
+   "lokasi": "Masjid Al Lathif (Pesona Square Mall lantai 3)",
+   "alamat": "Jl. Ir. H. Juanda No.22a, Bakti Jaya, Sukmajaya",
+   "kota": "Depok",
+   "tanggal": "2026-11-10",
+   "mulai": "09:00",
+   "selesai": "11:00",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Rekapan kajian Jabodetabek Selasa 10 Nov 2026 (pekan kedua).",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-09",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Beberapa wasiat penting menjelang wafatnya Nabi",
+   "pemateri": "Ustadz Mas'ud Mahmud, Lc",
+   "lokasi": "Masjid Jami' Babussalam",
+   "alamat": "Jl. Swadaya 3 No.40, Mekarsari, Cimanggis",
+   "kota": "Depok",
+   "tanggal": "2026-11-10",
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Rekapan kajian Jabodetabek Selasa 10 Nov 2026 (pekan kedua).",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-09",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kitab Umdatul Ahkam",
+   "pemateri": "Ustadz Abu Ya'la Kurnaedi, Lc",
+   "lokasi": "Masjid Mardhiyyatul Ikhlas",
+   "alamat": "Jl. Pale 2, Sukamaju Baru, Tapos",
+   "kota": "Depok",
+   "tanggal": "2026-11-10",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Tertulis \"Ba'da Maghrib\". Rekapan kajian Jabodetabek Selasa 10 Nov 2026 (pekan kedua).",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-09",
    "confidence": "sedang"
   }
  ]
