@@ -1,6 +1,6 @@
 {
  "kota": "Makassar",
- "dicek": "2026-11-05",
+ "dicek": "2026-11-11",
  "kajian": [
   {
    "judul": "Pokok-Pokok Aqidah Ahlus Sunnah",
@@ -16,7 +16,7 @@
    "sumber": [
     "https://sites.google.com/view/assunnahmakassar/jadwal-kajian"
    ],
-   "terakhir_terlihat": "2026-09-24",
+   "terakhir_terlihat": "2026-11-11",
    "confidence": "tinggi"
   },
   {
@@ -33,7 +33,7 @@
    "sumber": [
     "https://sites.google.com/view/assunnahmakassar/jadwal-kajian"
    ],
-   "terakhir_terlihat": "2026-09-24",
+   "terakhir_terlihat": "2026-11-11",
    "confidence": "tinggi"
   },
   {
@@ -50,7 +50,7 @@
    "sumber": [
     "https://sites.google.com/view/assunnahmakassar/jadwal-kajian"
    ],
-   "terakhir_terlihat": "2026-09-24",
+   "terakhir_terlihat": "2026-11-11",
    "confidence": "tinggi"
   },
   {
@@ -68,11 +68,11 @@
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi"
+   "confidence": "rendah"
   },
   {
    "judul": "Kajian Rutin Selasa - Masjid Al-Ihsan",
-   "pemateri": "Ustadz Harman Tajang",
+   "pemateri": "",
    "lokasi": "Masjid Al-Ihsan",
    "alamat": "Jl. Alauddin 3 No. 2, Makassar",
    "kota": "Makassar",
@@ -85,11 +85,11 @@
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi"
+   "confidence": "rendah"
   },
   {
    "judul": "Kajian Rutin Rabu - Masjid Al-Ikhlas",
-   "pemateri": "Ustadz Harman Tajang",
+   "pemateri": "",
    "lokasi": "Masjid Al-Ikhlas",
    "alamat": "Jl. Teduh Bersinar, Alauddin, Makassar",
    "kota": "Makassar",
@@ -102,11 +102,11 @@
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi"
+   "confidence": "rendah"
   },
   {
    "judul": "Kajian Rutin Kamis - Masjid Nur Akhlak",
-   "pemateri": "Ustadz Harman Tajang",
+   "pemateri": "",
    "lokasi": "Masjid Nur Akhlak",
    "alamat": "Kompleks Pasar Hartaco, Parangtambung, Makassar",
    "kota": "Makassar",
@@ -119,11 +119,11 @@
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi"
+   "confidence": "rendah"
   },
   {
    "judul": "Kajian Rutin Jumat - Masjid Nurul Hikmah",
-   "pemateri": "Ustadz Harman Tajang",
+   "pemateri": "",
    "lokasi": "Masjid Nurul Hikmah",
    "alamat": "Jl. RSI Faisal XIV No. 14, Makassar",
    "kota": "Makassar",
@@ -136,11 +136,11 @@
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi"
+   "confidence": "rendah"
   },
   {
    "judul": "Kajian Rutin Ahad Subuh - Masjid Nurul Hikmah",
-   "pemateri": "Ustadz Harman Tajang",
+   "pemateri": "",
    "lokasi": "Masjid Nurul Hikmah",
    "alamat": "Jl. RSI Faisal XIV No. 14, Makassar",
    "kota": "Makassar",
@@ -153,7 +153,7 @@
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi"
+   "confidence": "rendah"
   },
   {
    "judul": "Taisirul Karimir Rahman",

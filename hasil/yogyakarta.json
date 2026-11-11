@@ -1,6 +1,6 @@
 {
  "kota": "Yogyakarta",
- "dicek": "2026-11-05",
+ "dicek": "2026-11-11",
  "kajian": [
   {
    "judul": "KARUMAH (Kajian Rutin Khusus Muslimah)",
@@ -91,17 +91,18 @@
    "judul": "Kajian Rabu Pagi Khusus Muslimah",
    "pemateri": "Ustadz Dr. M. Abduh Tuasikal, M.Sc.",
    "lokasi": "Sekar Kedhaton Restaurant",
-   "alamat": "Kotagede, Yogyakarta",
+   "alamat": "Jl. Tegal Gendu No. 28, Prenggan, Kotagede, Yogyakarta",
    "kota": "Yogyakarta",
    "hari": 3,
    "mulai": "09:00",
    "selesai": "10:30",
    "kategori": "Kajian Muslimah",
-   "deskripsi": "Kajian rutin Rabu pagi khusus muslimah, materi bervariasi setiap bulan.",
+   "deskripsi": "Kajian rutin Rabu pagi khusus muslimah, disiarkan langsung melalui Rumaysho TV.",
    "sumber": [
+    "https://t.me/kajianjogja/23620",
     "https://t.me/s/kajianjogja"
    ],
-   "terakhir_terlihat": "2026-09-24",
+   "terakhir_terlihat": "2026-11-10",
    "confidence": "sedang"
   },
   {
@@ -188,7 +189,83 @@
    ],
    "terakhir_terlihat": "2026-09-24",
    "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Rutin Riyadhus Shalihin (Imogiri)",
+   "pemateri": "Ustadz Dr. Muhammad Abduh Tuasikal",
+   "lokasi": "Musholla Al-Amin",
+   "alamat": "Lapangan Demi, Imogiri, Bantul",
+   "kota": "Yogyakarta",
+   "hari": 1,
+   "mulai": "19:30",
+   "selesai": "20:30",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin kitab Riyadhus Shalihin Senin malam (malam Selasa) ba'da Isya, terbuka untuk umum; diumumkan per pertemuan (19 Okt & 9 Nov 2026).",
+   "sumber": [
+    "https://t.me/kajianjogja/23614",
+    "https://t.me/kajianjogja/23592",
+    "https://t.me/s/kajianjogja"
+   ],
+   "terakhir_terlihat": "2026-11-09",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Rutin Selasa Pagi Khusus Muslimah (Bulughul Maram)",
+   "pemateri": "Ustadz Dr. Muhammad Abduh Tuasikal",
+   "lokasi": "Masjid Mina Jakal KM 9,3",
+   "alamat": "Gondangan, Sardonoharjo, Ngaglik, Sleman",
+   "kota": "Yogyakarta",
+   "hari": 2,
+   "mulai": "09:00",
+   "selesai": "10:30",
+   "kategori": "Kajian Muslimah",
+   "deskripsi": "Kajian rutin Selasa pagi khusus muslimah membahas Bulughul Maram (pertemuan perdana 10 Nov 2026), disiarkan Rumaysho TV.",
+   "sumber": [
+    "https://t.me/kajianjogja/23617",
+    "https://t.me/s/kajianjogja"
+   ],
+   "terakhir_terlihat": "2026-11-09",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Rutin MPD + QnA",
+   "pemateri": "Ustadz Dr. Muhammad Abduh Tuasikal",
+   "lokasi": "Masjid Pogung Dalangan",
+   "alamat": "Pogung Kampung Hijrah, utara FT UGM, Sleman",
+   "kota": "Yogyakarta",
+   "hari": 4,
+   "mulai": "18:00",
+   "selesai": "19:00",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin Kamis malam (Maghrib–Isya) untuk umum, kitab Riyadhus Shalihin dan Matan Taqrib, dengan tanya jawab.",
+   "sumber": [
+    "https://t.me/kajianjogja/23608",
+    "https://t.me/kajianjogja/23586",
+    "https://t.me/s/kajianjogja"
+   ],
+   "terakhir_terlihat": "2026-10-29",
+   "confidence": "sedang"
   }
  ],
- "agenda": []
+ "agenda": [
+  {
+   "judul": "Dosa yang Kena Laknat — Bagian Kedua (Kajian Khusus Muslimah)",
+   "pemateri": "Ustadz Dr. Muhammad Abduh Tuasikal, M.Sc.",
+   "lokasi": "Sekar Kedhaton Restaurant",
+   "alamat": "Jl. Tegal Gendu No. 28, Prenggan, Kotagede, Yogyakarta",
+   "kota": "Yogyakarta",
+   "tanggal": "2026-11-11",
+   "mulai": "09:00",
+   "selesai": "10:30",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Lanjutan pembahasan buku Dosa Itu Candu, khusus muslimah, disiarkan langsung melalui Rumaysho TV.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/kajianjogja/23620"
+   ],
+   "terakhir_terlihat": "2026-11-10",
+   "confidence": "tinggi"
+  }
+ ]
 }

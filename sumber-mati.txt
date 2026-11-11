@@ -37,3 +37,4 @@ https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/ — halaman verif
 https://tarbiyahsunnah.com/event_tag/kajian-rutin/ — konten kosong saat di-fetch (2026-10-28), jangan coba lagi sampai 2026-11-27
 https://kajiansunnahbandung.web.id/jadwal-kajian-rutin-bandung-timur-dan-sekitarnya/ — halaman verifikasi bot (2026-11-03), jangan coba lagi sampai 2026-12-03
 - https://t.me/s/infokajianbandung — isi usang (post terbaru Juni 2026), tidak ada agenda aktif (2026-11-06)
+https://almarkaz.or.id — domain masih tidak resolve, dicoba lagi (2026-11-11), jangan coba lagi sampai 2026-12-11

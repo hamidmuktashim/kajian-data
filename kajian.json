@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-11-10T08:13+07:00",
+ "diperbarui": "2026-11-11T08:17+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -16,8 +16,8 @@
   "Tangerang",
   "Yogyakarta"
  ],
- "jumlah": 203,
- "jumlah_agenda": 26,
+ "jumlah": 206,
+ "jumlah_agenda": 21,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -2975,7 +2975,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi",
+   "confidence": "rendah",
    "id": "kj_c5addf2567",
    "pertama_terlihat": "2026-09-24"
   },
@@ -2994,7 +2994,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi",
+   "confidence": "rendah",
    "id": "kj_20c4eb6812",
    "pertama_terlihat": "2026-09-24"
   },
@@ -3013,7 +3013,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi",
+   "confidence": "rendah",
    "id": "kj_98ab8db3fd",
    "pertama_terlihat": "2026-09-24"
   },
@@ -3031,7 +3031,7 @@
    "sumber": [
     "https://sites.google.com/view/assunnahmakassar/jadwal-kajian"
    ],
-   "terakhir_terlihat": "2026-09-24",
+   "terakhir_terlihat": "2026-11-11",
    "confidence": "tinggi",
    "id": "kj_b21cd25c6c",
    "pertama_terlihat": "2026-09-18"
@@ -3051,7 +3051,7 @@
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi",
+   "confidence": "rendah",
    "id": "kj_4f129ee277",
    "pertama_terlihat": "2026-09-18"
   },
@@ -3070,7 +3070,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi",
+   "confidence": "rendah",
    "id": "kj_559b593497",
    "pertama_terlihat": "2026-09-24"
   },
@@ -3108,7 +3108,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi",
+   "confidence": "rendah",
    "id": "kj_3c9ac163aa",
    "pertama_terlihat": "2026-09-24"
   },
@@ -3126,14 +3126,14 @@
    "sumber": [
     "https://sites.google.com/view/assunnahmakassar/jadwal-kajian"
    ],
-   "terakhir_terlihat": "2026-09-24",
+   "terakhir_terlihat": "2026-11-11",
    "confidence": "tinggi",
    "id": "kj_084bbe40ea",
    "pertama_terlihat": "2026-09-18"
   },
   {
    "judul": "Kajian Rutin Selasa - Masjid Al-Ihsan",
-   "pemateri": "Ustadz Harman Tajang",
+   "pemateri": "",
    "lokasi": "Masjid Al-Ihsan",
    "alamat": "Jl. Alauddin 3 No. 2, Makassar",
    "kota": "Makassar",
@@ -3146,7 +3146,7 @@
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi",
+   "confidence": "rendah",
    "id": "kj_93ee7bd039",
    "pertama_terlihat": "2026-09-18"
   },
@@ -3165,7 +3165,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi",
+   "confidence": "rendah",
    "id": "kj_125822f84f",
    "pertama_terlihat": "2026-09-24"
   },
@@ -3184,7 +3184,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi",
+   "confidence": "rendah",
    "id": "kj_1cb1e872ec",
    "pertama_terlihat": "2026-09-24"
   },
@@ -3221,14 +3221,14 @@
    "sumber": [
     "https://sites.google.com/view/assunnahmakassar/jadwal-kajian"
    ],
-   "terakhir_terlihat": "2026-09-24",
+   "terakhir_terlihat": "2026-11-11",
    "confidence": "tinggi",
    "id": "kj_fc17ef893a",
    "pertama_terlihat": "2026-09-18"
   },
   {
    "judul": "Kajian Rutin Rabu - Masjid Al-Ikhlas",
-   "pemateri": "Ustadz Harman Tajang",
+   "pemateri": "",
    "lokasi": "Masjid Al-Ikhlas",
    "alamat": "Jl. Teduh Bersinar, Alauddin, Makassar",
    "kota": "Makassar",
@@ -3241,7 +3241,7 @@
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi",
+   "confidence": "rendah",
    "id": "kj_f74837984f",
    "pertama_terlihat": "2026-09-18"
   },
@@ -3260,7 +3260,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi",
+   "confidence": "rendah",
    "id": "kj_80c46ab4a4",
    "pertama_terlihat": "2026-09-24"
   },
@@ -3279,7 +3279,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-di-makassar/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi",
+   "confidence": "rendah",
    "id": "kj_5f302971d8",
    "pertama_terlihat": "2026-09-24"
   },
@@ -3304,7 +3304,7 @@
   },
   {
    "judul": "Kajian Rutin Kamis - Masjid Nur Akhlak",
-   "pemateri": "Ustadz Harman Tajang",
+   "pemateri": "",
    "lokasi": "Masjid Nur Akhlak",
    "alamat": "Kompleks Pasar Hartaco, Parangtambung, Makassar",
    "kota": "Makassar",
@@ -3317,7 +3317,7 @@
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi",
+   "confidence": "rendah",
    "id": "kj_0f3dcad67e",
    "pertama_terlihat": "2026-09-18"
   },
@@ -3342,7 +3342,7 @@
   },
   {
    "judul": "Kajian Rutin Jumat - Masjid Nurul Hikmah",
-   "pemateri": "Ustadz Harman Tajang",
+   "pemateri": "",
    "lokasi": "Masjid Nurul Hikmah",
    "alamat": "Jl. RSI Faisal XIV No. 14, Makassar",
    "kota": "Makassar",
@@ -3355,7 +3355,7 @@
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi",
+   "confidence": "rendah",
    "id": "kj_b31761c26f",
    "pertama_terlihat": "2026-09-18"
   },
@@ -3399,7 +3399,7 @@
   },
   {
    "judul": "Kajian Rutin Ahad Subuh - Masjid Nurul Hikmah",
-   "pemateri": "Ustadz Harman Tajang",
+   "pemateri": "",
    "lokasi": "Masjid Nurul Hikmah",
    "alamat": "Jl. RSI Faisal XIV No. 14, Makassar",
    "kota": "Makassar",
@@ -3412,7 +3412,7 @@
     "https://mim.or.id/makassar-kota-pengajian/"
    ],
    "terakhir_terlihat": "2026-09-24",
-   "confidence": "tinggi",
+   "confidence": "rendah",
    "id": "kj_313b976861",
    "pertama_terlihat": "2026-09-18"
   },
@@ -3702,6 +3702,27 @@
    "pertama_terlihat": "2026-09-18"
   },
   {
+   "judul": "Kajian Rutin Riyadhus Shalihin (Imogiri)",
+   "pemateri": "Ustadz Dr. Muhammad Abduh Tuasikal",
+   "lokasi": "Musholla Al-Amin",
+   "alamat": "Lapangan Demi, Imogiri, Bantul",
+   "kota": "Yogyakarta",
+   "hari": 1,
+   "mulai": "19:30",
+   "selesai": "20:30",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin kitab Riyadhus Shalihin Senin malam (malam Selasa) ba'da Isya, terbuka untuk umum; diumumkan per pertemuan (19 Okt & 9 Nov 2026).",
+   "sumber": [
+    "https://t.me/kajianjogja/23614",
+    "https://t.me/kajianjogja/23592",
+    "https://t.me/s/kajianjogja"
+   ],
+   "terakhir_terlihat": "2026-11-09",
+   "confidence": "sedang",
+   "id": "kj_7a3632d1e0",
+   "pertama_terlihat": "2026-11-11"
+  },
+  {
    "judul": "Lubabul Hadits",
    "pemateri": "Ustadz Ahmad Lutfian Antoni",
    "lokasi": "Mushola Baitussalam",
@@ -3719,6 +3740,26 @@
    "confidence": "sedang",
    "id": "kj_94a9ab251e",
    "pertama_terlihat": "2026-09-24"
+  },
+  {
+   "judul": "Kajian Rutin Selasa Pagi Khusus Muslimah (Bulughul Maram)",
+   "pemateri": "Ustadz Dr. Muhammad Abduh Tuasikal",
+   "lokasi": "Masjid Mina Jakal KM 9,3",
+   "alamat": "Gondangan, Sardonoharjo, Ngaglik, Sleman",
+   "kota": "Yogyakarta",
+   "hari": 2,
+   "mulai": "09:00",
+   "selesai": "10:30",
+   "kategori": "Kajian Muslimah",
+   "deskripsi": "Kajian rutin Selasa pagi khusus muslimah membahas Bulughul Maram (pertemuan perdana 10 Nov 2026), disiarkan Rumaysho TV.",
+   "sumber": [
+    "https://t.me/kajianjogja/23617",
+    "https://t.me/s/kajianjogja"
+   ],
+   "terakhir_terlihat": "2026-11-09",
+   "confidence": "sedang",
+   "id": "kj_7762a36417",
+   "pertama_terlihat": "2026-11-11"
   },
   {
    "judul": "Kajian Musholla Teknik UGM (Selasa)",
@@ -3762,17 +3803,18 @@
    "judul": "Kajian Rabu Pagi Khusus Muslimah",
    "pemateri": "Ustadz Dr. M. Abduh Tuasikal, M.Sc.",
    "lokasi": "Sekar Kedhaton Restaurant",
-   "alamat": "Kotagede, Yogyakarta",
+   "alamat": "Jl. Tegal Gendu No. 28, Prenggan, Kotagede, Yogyakarta",
    "kota": "Yogyakarta",
    "hari": 3,
    "mulai": "09:00",
    "selesai": "10:30",
    "kategori": "Kajian Muslimah",
-   "deskripsi": "Kajian rutin Rabu pagi khusus muslimah, materi bervariasi setiap bulan.",
+   "deskripsi": "Kajian rutin Rabu pagi khusus muslimah, disiarkan langsung melalui Rumaysho TV.",
    "sumber": [
+    "https://t.me/kajianjogja/23620",
     "https://t.me/s/kajianjogja"
    ],
-   "terakhir_terlihat": "2026-09-24",
+   "terakhir_terlihat": "2026-11-10",
    "confidence": "sedang",
    "id": "kj_cff4d3c85d",
    "pertama_terlihat": "2026-09-18"
@@ -3835,6 +3877,27 @@
    "pertama_terlihat": "2026-09-24"
   },
   {
+   "judul": "Kajian Rutin MPD + QnA",
+   "pemateri": "Ustadz Dr. Muhammad Abduh Tuasikal",
+   "lokasi": "Masjid Pogung Dalangan",
+   "alamat": "Pogung Kampung Hijrah, utara FT UGM, Sleman",
+   "kota": "Yogyakarta",
+   "hari": 4,
+   "mulai": "18:00",
+   "selesai": "19:00",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin Kamis malam (Maghrib–Isya) untuk umum, kitab Riyadhus Shalihin dan Matan Taqrib, dengan tanya jawab.",
+   "sumber": [
+    "https://t.me/kajianjogja/23608",
+    "https://t.me/kajianjogja/23586",
+    "https://t.me/s/kajianjogja"
+   ],
+   "terakhir_terlihat": "2026-10-29",
+   "confidence": "sedang",
+   "id": "kj_c9978a1fcc",
+   "pertama_terlihat": "2026-11-11"
+  },
+  {
    "judul": "Kajian Non Tematik Darul Husna",
    "pemateri": "",
    "lokasi": "Masjid Darul Husna",
@@ -3893,132 +3956,6 @@
   }
  ],
  "agenda": [
-  {
-   "judul": "Tafsir QS Al-Mutaffifin",
-   "pemateri": "Ustadz Abdul Aziz Al Owainy, Lc",
-   "lokasi": "Masjid At Taufiq",
-   "alamat": "Cempaka Putih Timur VI",
-   "kota": "Jakarta Pusat",
-   "tanggal": "2026-11-09",
-   "mulai": "09:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Tafsir Al-Qur'an, QS Al-Mutaffifin.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-11-09",
-   "confidence": "sedang",
-   "id": "ag_39ac071bb7",
-   "pertama_terlihat": "2026-11-09"
-  },
-  {
-   "judul": "Seputar Hari Jum'at",
-   "pemateri": "Ustadz Chia Rangga Gunawan, Lc",
-   "lokasi": "Masjid Umar bin Khaththab",
-   "alamat": "Pasar Senen Blok 3, Lt. 4",
-   "kota": "Jakarta Pusat",
-   "tanggal": "2026-11-09",
-   "mulai": "12:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Sumber: 'ba'da Dzuhur sampai 13:00 WIB'.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-11-09",
-   "confidence": "sedang",
-   "id": "ag_ae9cc93641",
-   "pertama_terlihat": "2026-11-09"
-  },
-  {
-   "judul": "Kitab Ta'Dheem As Salah: Rahasia Takbiratul Ihram",
-   "pemateri": "Ustadz Muhammad Hanief Ridho, Lc, MA",
-   "lokasi": "Masjid As Salam (Isuzu Head Office Lt. 8)",
-   "alamat": "Sunter Agung",
-   "kota": "Jakarta Utara",
-   "tanggal": "2026-11-09",
-   "mulai": "12:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Sumber: 'ba'da Dzuhur sampai selesai'.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-11-09",
-   "confidence": "sedang",
-   "id": "ag_0ca5cd087d",
-   "pertama_terlihat": "2026-11-09"
-  },
-  {
-   "judul": "Kitab Al Kabair",
-   "pemateri": "Ustadz Gigih Surya Nugraha, S.H.",
-   "lokasi": "Masjid Baitul Bahri (Tower Pelindo)",
-   "alamat": "Rawabadak Utara, Koja",
-   "kota": "Jakarta Utara",
-   "tanggal": "2026-11-09",
-   "mulai": "12:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Sumber: 'ba'da Dzuhur sampai selesai'.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-11-09",
-   "confidence": "sedang",
-   "id": "ag_82572521b0",
-   "pertama_terlihat": "2026-11-09"
-  },
-  {
-   "judul": "Meraih Pahala Besar dengan Amalan Ringan",
-   "pemateri": "Ustadz Luthfi Abdu Jabbar, Lc",
-   "lokasi": "Masjid Al-Huda Kemayoran",
-   "alamat": "Kb. Kosong",
-   "kota": "Jakarta Pusat",
-   "tanggal": "2026-11-09",
-   "mulai": "13:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian tematik dari rekap harian.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-11-09",
-   "confidence": "sedang",
-   "id": "ag_1c6c713eb9",
-   "pertama_terlihat": "2026-11-09"
-  },
-  {
-   "judul": "Kitab Mukhtasar Riyadhus Shalihin: Mendamaikan Manusia",
-   "pemateri": "Ustadz Sahl Abu Abdillah",
-   "lokasi": "Masjid Al Azhar Cempaka Putih",
-   "alamat": "Cempaka Putih Barat III",
-   "kota": "Jakarta Pusat",
-   "tanggal": "2026-11-09",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Sumber: 'ba'da Maghrib sampai selesai'.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-11-09",
-   "confidence": "sedang",
-   "id": "ag_9ba7360b85",
-   "pertama_terlihat": "2026-11-09"
-  },
   {
    "judul": "Kitab Minhajul Muslim",
    "pemateri": "Ustadz Isa Abdullah, Lc., M.A",
@@ -4417,6 +4354,27 @@
    "confidence": "sedang",
    "id": "ag_e8fe6e3ccf",
    "pertama_terlihat": "2026-11-10"
+  },
+  {
+   "judul": "Dosa yang Kena Laknat — Bagian Kedua (Kajian Khusus Muslimah)",
+   "pemateri": "Ustadz Dr. Muhammad Abduh Tuasikal, M.Sc.",
+   "lokasi": "Sekar Kedhaton Restaurant",
+   "alamat": "Jl. Tegal Gendu No. 28, Prenggan, Kotagede, Yogyakarta",
+   "kota": "Yogyakarta",
+   "tanggal": "2026-11-11",
+   "mulai": "09:00",
+   "selesai": "10:30",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Lanjutan pembahasan buku Dosa Itu Candu, khusus muslimah, disiarkan langsung melalui Rumaysho TV.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/kajianjogja/23620"
+   ],
+   "terakhir_terlihat": "2026-11-10",
+   "confidence": "tinggi",
+   "id": "ag_07f07b3fe8",
+   "pertama_terlihat": "2026-11-11"
   },
   {
    "judul": "Mari Belajar (MABAR) #10 - Ketika Takdir Tak Sesuai Harapan",
