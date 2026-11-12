@@ -1,125 +1,230 @@
 {
  "kota": "Bandung",
- "dicek": "2026-11-06",
+ "dicek": "2026-11-12",
  "kajian": [
   {
-   "judul": "AfterWork",
-   "pemateri": "",
-   "lokasi": "Masjid Al-Lathiif",
-   "alamat": "Jl. Saninten No. 2, Bandung",
+   "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
    "kota": "Bandung",
    "hari": 1,
-   "mulai": "18:00",
+   "mulai": "05:00",
    "selesai": "",
-   "kategori": "Tematik",
-   "deskripsi": "Kajian rutin Senin sore sepulang kerja, program menjadi muslim yang produktif.",
+   "kategori": "Tafsir",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Senin, tercantum di situs resmi Ma'had Al Hijrah.",
    "sumber": [
-    "https://kabarharmoni.com/2025/01/masjid-al-lathiif-miliki-3-program-utama-dengan-dukungan-medsos/"
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-09-25",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Murabbians (Selasa)",
-   "pemateri": "Ustadz Tengku Hanan Attaki, Lc.",
-   "lokasi": "Masjid Al-Murabbi",
-   "alamat": "Jl. Prof. Dr. Soetami No. 122, Bandung",
-   "kota": "Bandung",
-   "hari": 2,
-   "mulai": "18:30",
-   "selesai": "",
-   "kategori": "Kajian Kitab",
-   "deskripsi": "Kajian rutin Selasa malam ba'da Maghrib.",
-   "sumber": [
-    "https://blog.miftahussalam.com/jadwal-kajian-rutin-kota-bandung/"
-   ],
-   "terakhir_terlihat": "2026-09-25",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Pemuda Hijrah - Transtudio Mall",
-   "pemateri": "Ustadz Tengku Hanan Attaki, Lc.",
-   "lokasi": "Masjid Transtudio Mall",
-   "alamat": "Jl. Jendral Gatot Subroto No. 289, Cibangkong, Bandung",
-   "kota": "Bandung",
-   "hari": 3,
-   "mulai": "18:00",
-   "selesai": "20:30",
-   "kategori": "Pemuda",
-   "deskripsi": "Kajian rutin pemuda setiap Rabu malam.",
-   "sumber": [
-    "https://blog.miftahussalam.com/jadwal-kajian-rutin-kota-bandung/"
-   ],
-   "terakhir_terlihat": "2026-09-25",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "NgajiKitab",
-   "pemateri": "",
-   "lokasi": "Masjid Al-Lathiif",
-   "alamat": "Jl. Saninten No. 2, Bandung",
-   "kota": "Bandung",
-   "hari": 4,
-   "mulai": "18:00",
-   "selesai": "",
-   "kategori": "Kitab",
-   "deskripsi": "Program rutin Kamis pengenalan ilmu Islam dari kitab-kitab klasik.",
-   "sumber": [
-    "https://kabarharmoni.com/2025/01/masjid-al-lathiif-miliki-3-program-utama-dengan-dukungan-medsos/"
-   ],
-   "terakhir_terlihat": "2026-09-25",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Murabbians (Kamis)",
-   "pemateri": "Ustadz Guntur Eko",
-   "lokasi": "Masjid Al-Murabbi",
-   "alamat": "Jl. Prof. Dr. Soetami No. 122, Bandung",
-   "kota": "Bandung",
-   "hari": 4,
-   "mulai": "18:30",
-   "selesai": "",
-   "kategori": "Kajian Kitab",
-   "deskripsi": "Kajian rutin Kamis malam ba'da Maghrib.",
-   "sumber": [
-    "https://blog.miftahussalam.com/jadwal-kajian-rutin-kota-bandung/"
-   ],
-   "terakhir_terlihat": "2026-09-25",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Sabtu Malam Masjid Al-Lathiif",
-   "pemateri": "",
-   "lokasi": "Masjid Al-Lathiif",
-   "alamat": "Jl. Saninten No. 2, Bandung",
-   "kota": "Bandung",
-   "hari": 6,
-   "mulai": "18:00",
-   "selesai": "20:30",
-   "kategori": "Pemuda",
-   "deskripsi": "Ta'aruf Series, kajian Sabtu malam untuk pemuda membahas ilmu terkait pernikahan.",
-   "sumber": [
-    "https://kabarharmoni.com/2025/01/masjid-al-lathiif-miliki-3-program-utama-dengan-dukungan-medsos/",
-    "https://blog.miftahussalam.com/jadwal-kajian-rutin-kota-bandung/"
-   ],
-   "terakhir_terlihat": "2026-09-25",
+   "terakhir_terlihat": "2026-11-12",
    "confidence": "tinggi"
   },
   {
-   "judul": "Kajian Murabbians (Sabtu)",
-   "pemateri": "Ustadz Rahmat Baequni",
-   "lokasi": "Masjid Al-Murabbi",
-   "alamat": "Jl. Prof. Dr. Soetami No. 122, Bandung",
+   "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 2,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Tafsir",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Selasa, tercantum di situs resmi Ma'had Al Hijrah.",
+   "sumber": [
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
+   ],
+   "terakhir_terlihat": "2026-11-12",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Kitab Shahih Bukhari",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin ba'da Maghrib setiap Selasa, tercantum di situs resmi Ma'had Al Hijrah.",
+   "sumber": [
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
+   ],
+   "terakhir_terlihat": "2026-11-12",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 3,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Tafsir",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Rabu, tercantum di situs resmi Ma'had Al Hijrah.",
+   "sumber": [
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
+   ],
+   "terakhir_terlihat": "2026-11-12",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Kitab Fiqhul Muyassar",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 4,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Fikih",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Kamis, tercantum di situs resmi Ma'had Al Hijrah.",
+   "sumber": [
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
+   ],
+   "terakhir_terlihat": "2026-11-12",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Kitab Arbain An-Nawawi",
+   "pemateri": "Ustadz Hary Badar bin Marwan",
+   "lokasi": "Studio MIMBA TV",
+   "alamat": "Jl. Kebon Gedang No. 99, Gatot Subroto, Kota Bandung",
+   "kota": "Bandung",
+   "hari": 4,
+   "mulai": "20:00",
+   "selesai": "21:00",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin Kamis malam kitab Arbain An-Nawawi.",
+   "sumber": [
+    "https://tarbiyahsunnah.com/event/bahaya-memenuhi-perut-anjuran-makan-secukupnya-ustadz-hary-badar-bin-marwan/",
+    "https://tarbiyahsunnah.com/event_tag/kajian-rutin/"
+   ],
+   "terakhir_terlihat": "2026-11-05",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Kitab Fiqhul Muyassar",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
    "kota": "Bandung",
    "hari": 6,
-   "mulai": "18:30",
+   "mulai": "05:00",
    "selesai": "",
-   "kategori": "Kajian Kitab",
-   "deskripsi": "Kajian rutin Sabtu malam ba'da Maghrib.",
+   "kategori": "Fikih",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Sabtu, tercantum di situs resmi Ma'had Al Hijrah.",
    "sumber": [
-    "https://blog.miftahussalam.com/jadwal-kajian-rutin-kota-bandung/"
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-09-25",
+   "terakhir_terlihat": "2026-11-12",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Kitab Shahih Bukhari",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 6,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin ba'da Maghrib setiap Sabtu, tercantum di situs resmi Ma'had Al Hijrah.",
+   "sumber": [
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
+   ],
+   "terakhir_terlihat": "2026-11-12",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Kitab Fiqhul Muyassar",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 7,
+   "mulai": "05:00",
+   "selesai": "",
+   "kategori": "Fikih",
+   "deskripsi": "Kajian rutin ba'da Subuh setiap Ahad, tercantum di situs resmi Ma'had Al Hijrah.",
+   "sumber": [
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
+   ],
+   "terakhir_terlihat": "2026-11-12",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Kitab Shahih Bukhari",
+   "pemateri": "Ustadz Abu Yasir Wildan",
+   "lokasi": "Masjid Ma'had Al Hijrah Manglayang",
+   "alamat": "Jl. Desa Cimekar RT.02/RW.10, Kec. Cileunyi, Kab. Bandung",
+   "kota": "Bandung",
+   "hari": 7,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin ba'da Maghrib setiap Ahad, tercantum di situs resmi Ma'had Al Hijrah.",
+   "sumber": [
+    "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
+   ],
+   "terakhir_terlihat": "2026-11-12",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Kitab A'malul Qulub (Kamis Sore)",
+   "pemateri": "Ustadz Abu Haidar As-Sundawy",
+   "lokasi": "Masjid Agung Al-Ukhuwwah",
+   "alamat": "Jl. Wastukencana No. 27, Kota Bandung",
+   "kota": "Bandung",
+   "hari": 4,
+   "mulai": "16:00",
+   "selesai": "17:30",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian Bareng Offline terbuka untuk umum, Kamis sore pukul 16.00 WIB, Kitab A'malul Qulub; ditandai Kajian Rutin oleh Tarbiyah Sunnah.",
+   "sumber": [
+    "https://tarbiyahsunnah.com/event/tingkatan-manusia-dalam-hal-wara-ustadz-abu-haidar-as-sundawy/",
+    "https://tarbiyahsunnah.com/event_tag/kajian-rutin/"
+   ],
+   "terakhir_terlihat": "2026-11-05",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Kitab Al-Qaulul Farid Fawaid 'ala Kitabit Tauhid (Jumat Sore)",
+   "pemateri": "Ustadz Abu Haidar As-Sundawy",
+   "lokasi": "Masjid Agung Al-Ukhuwwah",
+   "alamat": "Jl. Wastukencana No. 27, Kota Bandung",
+   "kota": "Bandung",
+   "hari": 5,
+   "mulai": "16:00",
+   "selesai": "17:30",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian Bareng Offline terbuka untuk umum, Jumat sore pukul 16.00 WIB; ditandai Kajian Rutin oleh Tarbiyah Sunnah.",
+   "sumber": [
+    "https://tarbiyahsunnah.com/event/mengkultuskan-orang-shalih-bag-02-ustadz-abu-haidar-as-sundawy/",
+    "https://tarbiyahsunnah.com/event_tag/kajian-rutin/"
+   ],
+   "terakhir_terlihat": "2026-11-06",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Khusus Muslimah (Kamis Pagi)",
+   "pemateri": "Ustadz Abu Haidar As-Sundawy",
+   "lokasi": "Masjid Agung Al-Ukhuwwah",
+   "alamat": "Jl. Wastukencana No. 27, Kota Bandung",
+   "kota": "Bandung",
+   "hari": 4,
+   "mulai": "09:00",
+   "selesai": "10:30",
+   "kategori": "Kajian Muslimah",
+   "deskripsi": "Kajian khusus muslimah 'Benteng Wanita Muslimah Dalam Menghadapi Gelombang Fitnah', Kamis pagi pukul 09.00 WIB; ditandai Kajian Rutin oleh Tarbiyah Sunnah.",
+   "sumber": [
+    "https://tarbiyahsunnah.com/event/membekali-diri-dengan-taqwa-ustadz-abu-haidar-as-sundawy/",
+    "https://tarbiyahsunnah.com/event_tag/kajian-rutin/"
+   ],
+   "terakhir_terlihat": "2026-11-05",
    "confidence": "sedang"
   }
  ],

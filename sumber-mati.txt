@@ -38,3 +38,6 @@ https://tarbiyahsunnah.com/event_tag/kajian-rutin/ — konten kosong saat di-fet
 https://kajiansunnahbandung.web.id/jadwal-kajian-rutin-bandung-timur-dan-sekitarnya/ — halaman verifikasi bot (2026-11-03), jangan coba lagi sampai 2026-12-03
 - https://t.me/s/infokajianbandung — isi usang (post terbaru Juni 2026), tidak ada agenda aktif (2026-11-06)
 https://almarkaz.or.id — domain masih tidak resolve, dicoba lagi (2026-11-11), jangan coba lagi sampai 2026-12-11
+https://masjidrayapondokindah.com — masih tidak bisa dihubungi (koneksi gagal, dicoba 2x) (2026-11-12), jangan coba lagi sampai 2026-12-12. Entri Masjid Raya Pondok Indah di kajian.json tidak bisa diverifikasi ulang sejak 2026-09-19.
+https://kajiansunnahbandung.web.id — situs tampak diretas (post terbaru berisi spam kasino oleh "wp_update", Okt–Nov 2026); tidak ada jadwal baru yang layak diambil (2026-11-12), jangan coba lagi sampai 2026-12-12
+https://almultazambandung.com/jadwal-kajian — hanya memuat acara bertanggal 2022–2023, tidak ada jadwal aktif (2026-11-12), jangan coba lagi sampai 2026-12-12
