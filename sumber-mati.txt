@@ -41,3 +41,5 @@ https://almarkaz.or.id — domain masih tidak resolve, dicoba lagi (2026-11-11),
 https://masjidrayapondokindah.com — masih tidak bisa dihubungi (koneksi gagal, dicoba 2x) (2026-11-12), jangan coba lagi sampai 2026-12-12. Entri Masjid Raya Pondok Indah di kajian.json tidak bisa diverifikasi ulang sejak 2026-09-19.
 https://kajiansunnahbandung.web.id — situs tampak diretas (post terbaru berisi spam kasino oleh "wp_update", Okt–Nov 2026); tidak ada jadwal baru yang layak diambil (2026-11-12), jangan coba lagi sampai 2026-12-12
 https://almultazambandung.com/jadwal-kajian — hanya memuat acara bertanggal 2022–2023, tidak ada jadwal aktif (2026-11-12), jangan coba lagi sampai 2026-12-12
+https://jadwalkajian.com/jadwal-kajian/bogor/ , /jakarta-timur/ , /jakarta-barat/ — masih 404, dicoba lagi (2026-11-13), jangan coba lagi sampai 2026-12-13
+https://darussalaf.or.id/bogor/ dan /jakarta/ — halaman hidup tapi terbit 2012-09-15 dan tidak pernah diperbarui; entri dari sini diturunkan ke confidence rendah (2026-11-13), tidak perlu dicek ulang sampai 2026-12-13
