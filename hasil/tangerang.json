@@ -1,6 +1,6 @@
 {
  "kota": "Tangerang",
- "dicek": "2026-11-08",
+ "dicek": "2026-11-14",
  "kajian": [
   {
    "judul": "Tanbihat 'ala Ahkamin Takhtashshu Bil Mu'minat",
@@ -69,235 +69,155 @@
    ],
    "terakhir_terlihat": "2026-10-15",
    "confidence": "rendah"
+  },
+  {
+   "judul": "Kajian Kitab Fiqih Al-Fiqh Al-Muyassar",
+   "pemateri": "Ustadz Agil Pradana, Lc.",
+   "lokasi": "Masjid At-Tawwaab (Al-Bayan Islamic School)",
+   "alamat": "Jl. Basoka Raya No. 96, Larangan Indah, Kota Tangerang",
+   "kota": "Tangerang",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Fiqih",
+   "deskripsi": "Setiap Selasa malam Rabu ba'da sholat Maghrib, terbuka untuk umum muslim dan muslimah (pertemuan #8 pada 10 Nov 2026).",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-09",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Kitab Rutin Jum'at (Kitab Tauhid)",
+   "pemateri": "Ustadz Aep Saepullah ibnu Ahmad, Lc.",
+   "lokasi": "Masjid Agung Al Mujahidin Pamulang",
+   "alamat": "Jl. Siliwangi Raya No.1, Pamulang, Tangerang Selatan",
+   "kota": "Tangerang",
+   "hari": 5,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Aqidah",
+   "deskripsi": "Kajian kitab rutin setiap Jum'at ba'da Maghrib untuk umum ikhwan & akhwat, kitab Tauhid karya Syaikh Shalih bin Fauzan al-Fauzan.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-12",
+   "confidence": "sedang"
   }
  ],
  "agenda": [
   {
-   "judul": "Kitab Hadits Arba'in An-Nawawiyyah",
-   "pemateri": "Ustadz Azhar Khalid Bin Seff, Lc., MA",
-   "lokasi": "Masjid Raya Rahmatan Lil'alamin (Marala)",
-   "alamat": "",
+   "judul": "Wasiat Rasulullah kepada Abu Dzar",
+   "pemateri": "Ustadz Abdurrahman Thoyyib, Lc.",
+   "lokasi": "Masjid Al-Amanah Ciputat",
+   "alamat": "Perumahan Bukit Nusa Indah, Jl. Kakaktua No.1, Ciputat",
    "kota": "Tangerang",
-   "tanggal": "2026-10-15",
-   "mulai": "12:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Ba'da Dzuhur s.d selesai; Buaran Indah.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-15",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kitab Bulughul Maram",
-   "pemateri": "Ustadz Luthfi Abdul Jabbar",
-   "lokasi": "Masjid An-Naba' Graha Raya Bintaro",
-   "alamat": "Jl. Akses Graha Raya Bintaro KM.01, Regency Pinang, Kota Tangerang",
-   "kota": "Tangerang",
-   "tanggal": "2026-10-17",
-   "mulai": "10:00",
-   "selesai": "11:30",
-   "kategori": "Fiqih",
-   "deskripsi": "Sesi bulanan Sabtu pagi.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
-   ],
-   "terakhir_terlihat": "2026-10-15",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kitab Zuhud dan Kelembutan Hati",
-   "pemateri": "Ustadz Aep Saepullah Ibnu Ahmad",
-   "lokasi": "Masjid An-Naba' Graha Raya Bintaro",
-   "alamat": "Jl. Akses Graha Raya Bintaro KM.01, Regency Pinang, Kota Tangerang",
-   "kota": "Tangerang",
-   "tanggal": "2026-10-24",
-   "mulai": "05:00",
-   "selesai": "07:00",
-   "kategori": "Kajian Umum",
-   "deskripsi": "Sesi bulanan Sabtu subuh.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://kajiansunnah.info/tempat/masjid-an-naba-graha-bintaro/"
-   ],
-   "terakhir_terlihat": "2026-10-15",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Tafsir As-Sa'di, Surat Al-Zalzalah",
-   "pemateri": "Ustadz Firmansyah Abu Fauzan",
-   "lokasi": "Masjid Al Waqifin, Cibodas",
-   "alamat": "",
-   "kota": "Tangerang",
-   "tanggal": "2026-10-21",
-   "mulai": "09:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "09.00 WIB s.d selesai.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-21",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kitab 40 Atsar Sahabat",
-   "pemateri": "Ustadz Mukhlis Abu Dzar",
-   "lokasi": "Masjid Al Hakim (Komplek Kehakiman), Tanah Tinggi",
-   "alamat": "",
-   "kota": "Tangerang",
-   "tanggal": "2026-10-21",
+   "tanggal": "2026-11-14",
    "mulai": "09:30",
-   "selesai": "",
+   "selesai": "11:00",
    "kategori": "Kajian Tematik",
-   "deskripsi": "09.30 WIB s.d selesai.",
+   "deskripsi": "Kajian umum dalam rangkaian safari dakwah Jabodetabek 13–15 November 2026.",
    "online": false,
    "tautan": "",
    "sumber": [
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-10-21",
+   "terakhir_terlihat": "2026-11-13",
    "confidence": "sedang"
   },
   {
-   "judul": "Fiqih doa dan dzikir",
-   "pemateri": "Ustadz Ahmad Ali Rozaq, Lc",
-   "lokasi": "Masjid Jami' Al Jihad, Ciledug",
-   "alamat": "",
+   "judul": "Kajian Anak DiariesKidz: Kecanduan Game, Lalai Ibadah!",
+   "pemateri": "Kak Yogi",
+   "lokasi": "Masjid Ash Shaff Emerald Bintaro (Lt. Basement)",
+   "alamat": "Distrik Emerald, Bintaro Jaya Sektor 9, Tangsel",
    "kota": "Tangerang",
-   "tanggal": "2026-10-21",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Ba'da Maghrib s.d selesai.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-21",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kitab Kitabul Jami'",
-   "pemateri": "Ustadz Azhar Khalid Bin Seff, MA",
-   "lokasi": "Masjid Jami' Utsman Bin Affan, Pondok Aren",
-   "alamat": "",
-   "kota": "Tangerang",
-   "tanggal": "2026-10-21",
+   "tanggal": "2026-11-14",
    "mulai": "09:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "09.00 WIB s.d selesai.",
+   "selesai": "10:30",
+   "kategori": "Kajian Anak",
+   "deskripsi": "Kajian anak untuk umum dan gratis, registrasi online.",
    "online": false,
-   "tautan": "",
+   "tautan": "https://bit.ly/DaftarKajianDK",
    "sumber": [
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-10-21",
+   "terakhir_terlihat": "2026-11-13",
    "confidence": "sedang"
   },
   {
-   "judul": "Shahih Adabul Mufrad",
-   "pemateri": "Ustadz Aep Saepullah Ibnu Ahmad, B.Sh",
-   "lokasi": "Masjid Al Barkah, Ciputat",
-   "alamat": "",
+   "judul": "Kajian Anak Yusna Education Expo 2026: Asyiknya Belajar di Lingkungan Islami",
+   "pemateri": "Kak Muslim",
+   "lokasi": "Masjid Izzul Alawi, Ma'had Tahfidz / SDI Uswah Hasanah",
+   "alamat": "Ciledug, Tangerang",
    "kota": "Tangerang",
-   "tanggal": "2026-10-21",
-   "mulai": "09:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "09.30 WIB s.d selesai.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-21",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Asy-Syamail Al-Muhammadiyah",
-   "pemateri": "Ustadz Afdhalul Ziqri, Lc",
-   "lokasi": "Masjid Al Barkah, Ciputat",
-   "alamat": "",
-   "kota": "Tangerang",
-   "tanggal": "2026-10-21",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Ba'da Maghrib s.d selesai.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-21",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Arba'in An-Nawawi (pertemuan ke-10)",
-   "pemateri": "Ustadz Aep Saepullah Ibnu Ahmad, Lc",
-   "lokasi": "Masjid Ash Shaff, District Emerald, Bintaro Jaya Sektor 9",
-   "alamat": "",
-   "kota": "Tangerang",
-   "tanggal": "2026-10-21",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Ba'da Maghrib s.d selesai.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-21",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Ibu Kaulah guru idamanku",
-   "pemateri": "Ustadzah Ummu Ihsan Choiriyah",
-   "lokasi": "Masjid Ash Shaff, District Emerald, Bintaro Jaya Sektor 9",
-   "alamat": "",
-   "kota": "Tangerang",
-   "tanggal": "2026-10-21",
+   "tanggal": "2026-11-14",
    "mulai": "09:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "09.00 WIB s.d selesai.",
+   "selesai": "10:30",
+   "kategori": "Kajian Anak",
+   "deskripsi": "Kajian anak gratis dan terbuka untuk umum di lantai utama masjid.",
    "online": false,
    "tautan": "",
    "sumber": [
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-10-21",
+   "terakhir_terlihat": "2026-11-13",
    "confidence": "sedang"
   },
   {
-   "judul": "Kitab Aqidah Al Wasithiyah (Sifat Rahmat Bagi Allah)",
-   "pemateri": "Ustadz Muhammad Yahya, Lc.",
+   "judul": "Kajian Khusus Anak: Rukun Iman ke-4, Beriman Kepada Rasul-rasul Allah",
+   "pemateri": "Kak Yogi Triandi, BA",
    "lokasi": "Masjid As-Sunnah VCM",
    "alamat": "",
    "kota": "Tangerang",
-   "tanggal": "2026-11-02",
-   "mulai": "18:15",
+   "tanggal": "2026-11-14",
+   "mulai": "13:00",
+   "selesai": "",
+   "kategori": "Kajian Anak",
+   "deskripsi": "Kajian tematik anak oleh MT Syiar Syari bersama DKM As Sunnah VCM, gratis dengan pendaftaran.",
+   "online": false,
+   "tautan": "https://bit.ly/4AciNN8",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-13",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Anak Rutin Pekan Ke-2: Mengenal dan Belajar dari Kisah Nabi Luth 'Alaihissalam",
+   "pemateri": "Kak Yogi Triandi, B.A",
+   "lokasi": "Rumah Ilmu Miaz",
+   "alamat": "",
+   "kota": "Tangerang",
+   "tanggal": "2026-11-14",
+   "mulai": "16:00",
+   "selesai": "17:15",
+   "kategori": "Kajian Anak",
+   "deskripsi": "Untuk usia 5,5–11 tahun, slot terbatas dan wajib mendaftar.",
+   "online": false,
+   "tautan": "https://forms.gle/Z8MFR3nRpFbjv8Kx7",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-13",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Dakwah Kebutuhan Kita Semua",
+   "pemateri": "Ustadz Afifi Abdul Wadud, B.A.",
+   "lokasi": "Masjid Al Amanah Ciputat",
+   "alamat": "Perumahan Bukit Nusa Indah, Jl. Kakaktua No. 1, Serua, Ciputat, Kota Tangerang Selatan",
+   "kota": "Tangerang",
+   "tanggal": "2026-11-15",
+   "mulai": "09:00",
    "selesai": "",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Info Kajian Senin Maghrib, Pisangan Ciputat Timur; ba'da Maghrib sampai selesai.",
+   "deskripsi": "Bagian dari rangkaian safari dakwah Bogor-Tangerang-Jakarta, pukul 09.00 WIB sampai Dzuhur.",
    "online": false,
    "tautan": "",
    "sumber": [
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-11-02",
+   "terakhir_terlihat": "2026-11-13",
    "confidence": "sedang"
   }
  ]

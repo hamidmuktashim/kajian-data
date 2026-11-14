@@ -43,3 +43,5 @@ https://kajiansunnahbandung.web.id — situs tampak diretas (post terbaru berisi
 https://almultazambandung.com/jadwal-kajian — hanya memuat acara bertanggal 2022–2023, tidak ada jadwal aktif (2026-11-12), jangan coba lagi sampai 2026-12-12
 https://jadwalkajian.com/jadwal-kajian/bogor/ , /jakarta-timur/ , /jakarta-barat/ — masih 404, dicoba lagi (2026-11-13), jangan coba lagi sampai 2026-12-13
 https://darussalaf.or.id/bogor/ dan /jakarta/ — halaman hidup tapi terbit 2012-09-15 dan tidak pernah diperbarui; entri dari sini diturunkan ke confidence rendah (2026-11-13), tidak perlu dicek ulang sampai 2026-12-13
+https://jadwalkajian.com/jadwal-kajian/tangerang/ dan /surabaya/ — tidak dicoba lagi (404 berulang sejak 2026-09-21; pola yang sama masih 404 untuk wilayah lain per 2026-11-13) (2026-11-14), jangan coba lagi sampai 2026-12-14
+https://masjidalakbar.or.id — hidup, tapi tidak memuat jadwal kajian mingguan (hanya "Majelis Subuh GenZI" bulanan tanpa jam) (2026-11-14), tidak perlu dicek ulang sampai 2026-12-14

@@ -1,6 +1,6 @@
 {
  "kota": "Surabaya",
- "dicek": "2026-11-08",
+ "dicek": "2026-11-14",
  "kajian": [
   {
    "judul": "Kitab Bulughul Maram",
@@ -33,87 +33,28 @@
    "sumber": [
     "https://t.me/s/surabayamengaji"
    ],
-   "terakhir_terlihat": "2026-11-02",
+   "terakhir_terlihat": "2026-11-08",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Rutin Khusus Muslimah: 100 Hadits Landasan Hukum Bagi Wanita (Umdatul Mar'ah)",
+   "pemateri": "Ustadzah Niswah Khoiro, Lc",
+   "lokasi": "Masjid al-Islamiyyah (Lantai 2)",
+   "alamat": "Jl. Petemon Sidomulyo IV No. 113 (Jl. Pacuan Kuda) Surabaya",
+   "kota": "Surabaya",
+   "hari": 7,
+   "mulai": "15:30",
+   "selesai": "",
+   "kategori": "Kajian Muslimah",
+   "deskripsi": "Rutin setiap Ahad sore khusus muslimah, diselenggarakan Surabaya Mengaji (hadits ke-48 pada 15 Nov 2026).",
+   "sumber": [
+    "https://t.me/s/surabayamengaji"
+   ],
+   "terakhir_terlihat": "2026-11-14",
    "confidence": "sedang"
   }
  ],
  "agenda": [
-  {
-   "judul": "Mari Belajar (MABAR) #9 - Tanda dunia mulai menguasai hati",
-   "pemateri": "Ustadz Yulian Purnama, S.Kom.",
-   "lokasi": "Zoom Meeting",
-   "alamat": "",
-   "kota": "Surabaya",
-   "tanggal": "2026-11-01",
-   "mulai": "19:30",
-   "selesai": "21:00",
-   "kategori": "Kajian Online",
-   "deskripsi": "Pendaftaran dibuka sampai 29 Oktober 2026.",
-   "online": true,
-   "tautan": "https://ysmo.link/mabarsm9",
-   "sumber": [
-    "https://t.me/s/surabayamengaji"
-   ],
-   "terakhir_terlihat": "2026-10-27",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Kitab Tauhid Pertemuan ke-62",
-   "pemateri": "Ustadz Muhammad Yusuf Rustam, Lc., M.A.",
-   "lokasi": "Masjid al-Islamiyyah",
-   "alamat": "Jl. Petemon Sidomulyo IV No. 113 (Jl. Pacuan Kuda), Surabaya",
-   "kota": "Surabaya",
-   "tanggal": "2026-10-27",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Ba'da Maghrib sampai selesai.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/surabayamengaji"
-   ],
-   "terakhir_terlihat": "2026-10-27",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Kitab Qowa'idul Arba' Pertemuan ke-25",
-   "pemateri": "Ustadz Gemma Ilhamy, M.Pd.I.",
-   "lokasi": "Masjid Jami' Makkah",
-   "alamat": "Jl. Bendul Merisi Tengah No. 52, Surabaya",
-   "kota": "Surabaya",
-   "tanggal": "2026-10-28",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Ba'da Maghrib sampai selesai.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/surabayamengaji"
-   ],
-   "terakhir_terlihat": "2026-10-27",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Kitab Tauhid Pertemuan ke-63",
-   "pemateri": "Ustadz Muhammad Yusuf Rustam, Lc., M.A.",
-   "lokasi": "Masjid al-Islamiyyah",
-   "alamat": "Jl. Petemon Sidomulyo IV No. 113 (Jl. Pacuan Kuda), Surabaya",
-   "kota": "Surabaya",
-   "tanggal": "2026-11-03",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Tema: Sifat Kalam Allah; ba'da Maghrib sampai selesai.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/surabayamengaji"
-   ],
-   "terakhir_terlihat": "2026-11-02",
-   "confidence": "sedang"
-  },
   {
    "judul": "Mari Belajar (MABAR) #10 - Ketika Takdir Tak Sesuai Harapan",
    "pemateri": "Ustadz Muhammad Halid Syar'ie, Lc.",
@@ -130,7 +71,7 @@
    "sumber": [
     "https://t.me/s/surabayamengaji"
    ],
-   "terakhir_terlihat": "2026-11-08",
+   "terakhir_terlihat": "2026-11-12",
    "confidence": "sedang"
   }
  ]
