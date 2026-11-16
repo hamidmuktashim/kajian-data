@@ -49,3 +49,6 @@ https://istiqlal.or.id — masih 403 Forbidden, dicoba lagi (2026-11-15), jangan
 https://masjid-sundakelapa.id — hidup, tapi tidak memuat jadwal kajian rutin; kategori info-agenda terakhir terbit 2025-03-01 (2026-11-15), tidak perlu dicek ulang sampai 2026-12-15
 https://sunnah.me — hidup, tapi label "jadwal" terakhir terbit Okt 2021 dan tidak ada jadwal Bandung/Cimahi (2026-11-15), tidak perlu dicek ulang sampai 2026-12-15
 https://sayahafiz.com/Kajian/8383/Jadwal.html — hidup, tapi hanya memuat satu sesi bertanggal 9 Juni 2024 (Masjid Ad-Da'wah Kelapa Gading); tiga entri dari sini diturunkan ke confidence rendah (2026-11-15), tidak perlu dicek ulang sampai 2026-12-15
+https://jadwalkajian.com/jadwal-kajian/depok/ dan /bekasi/ — masih 404, dicoba lagi (2026-11-16), jangan coba lagi sampai 2026-12-16
+https://ahlussunnahcikarang.wordpress.com/jadwal-kajian/ dan https://sunniy.wordpress.com/markaz/ — hidup tapi terbit 2013 / diperbarui Juni 2011 dan saling berbeda jam; entri Cibitung/Jababeka diturunkan ke confidence rendah (2026-11-16), tidak perlu dicek ulang sampai 2026-12-16
+https://markazdakwah.or.id/jadwal-kajian-rutin-masjid-al-muhajirin-wal-anshar-depok/ — hidup tapi terbit 2015-11-09; entri Al-Muhajirin Wal Anshar diturunkan ke confidence rendah (2026-11-16), tidak perlu dicek ulang sampai 2026-12-16

@@ -1,6 +1,6 @@
 {
  "kota": "Depok",
- "dicek": "2026-11-10",
+ "dicek": "2026-11-16",
  "kajian": [
   {
    "judul": "Kajian Muslimah Kamis",
@@ -16,7 +16,7 @@
    "sumber": [
     "https://www.masjidarrahim.org/p/jadwal-kegiatan-rutin-masjid-ar-rahim.html"
    ],
-   "terakhir_terlihat": "2026-09-23",
+   "terakhir_terlihat": "2026-11-16",
    "confidence": "tinggi"
   },
   {
@@ -33,7 +33,7 @@
    "sumber": [
     "https://www.masjidarrahim.org/p/jadwal-kegiatan-rutin-masjid-ar-rahim.html"
    ],
-   "terakhir_terlihat": "2026-09-23",
+   "terakhir_terlihat": "2026-11-16",
    "confidence": "tinggi"
   },
   {
@@ -50,7 +50,7 @@
    "sumber": [
     "https://www.masjidarrahim.org/p/jadwal-kegiatan-rutin-masjid-ar-rahim.html"
    ],
-   "terakhir_terlihat": "2026-09-23",
+   "terakhir_terlihat": "2026-11-16",
    "confidence": "tinggi"
   },
   {
@@ -67,7 +67,7 @@
    "sumber": [
     "https://www.masjidarrahim.org/p/jadwal-kegiatan-rutin-masjid-ar-rahim.html"
    ],
-   "terakhir_terlihat": "2026-09-23",
+   "terakhir_terlihat": "2026-11-16",
    "confidence": "tinggi"
   },
   {
@@ -84,7 +84,7 @@
    "sumber": [
     "https://www.masjidarrahim.org/p/jadwal-kegiatan-rutin-masjid-ar-rahim.html"
    ],
-   "terakhir_terlihat": "2026-09-23",
+   "terakhir_terlihat": "2026-11-16",
    "confidence": "tinggi"
   },
   {
@@ -101,7 +101,7 @@
    "sumber": [
     "https://masjidalihsanpermatadepok.com/kegiatan/kajian.html"
    ],
-   "terakhir_terlihat": "2026-09-23",
+   "terakhir_terlihat": "2026-11-16",
    "confidence": "tinggi"
   },
   {
@@ -136,7 +136,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-masjid-al-muhajirin-wal-anshar-depok/"
    ],
    "terakhir_terlihat": "2026-09-23",
-   "confidence": "sedang"
+   "confidence": "rendah"
   },
   {
    "judul": "Kajian Syarah Adabul Mufrod",
@@ -153,7 +153,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-masjid-al-muhajirin-wal-anshar-depok/"
    ],
    "terakhir_terlihat": "2026-09-23",
-   "confidence": "sedang"
+   "confidence": "rendah"
   },
   {
    "judul": "Kajian Syarah Adabul Mufrod",
@@ -170,7 +170,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-masjid-al-muhajirin-wal-anshar-depok/"
    ],
    "terakhir_terlihat": "2026-09-23",
-   "confidence": "sedang"
+   "confidence": "rendah"
   },
   {
    "judul": "Kajian Kitab Al-Ilmu wa Akhlaqu Ahluh",
@@ -187,7 +187,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-masjid-al-muhajirin-wal-anshar-depok/"
    ],
    "terakhir_terlihat": "2026-09-23",
-   "confidence": "sedang"
+   "confidence": "rendah"
   },
   {
    "judul": "Kajian Tafsir Al-Qur'an",
@@ -204,7 +204,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-masjid-al-muhajirin-wal-anshar-depok/"
    ],
    "terakhir_terlihat": "2026-09-23",
-   "confidence": "sedang"
+   "confidence": "rendah"
   },
   {
    "judul": "Kajian Syarah Riyadhus Shalihin",
@@ -221,7 +221,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-masjid-al-muhajirin-wal-anshar-depok/"
    ],
    "terakhir_terlihat": "2026-09-23",
-   "confidence": "sedang"
+   "confidence": "rendah"
   },
   {
    "judul": "Kajian Kitab Dzikir dan Doa",
@@ -238,7 +238,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-masjid-al-muhajirin-wal-anshar-depok/"
    ],
    "terakhir_terlihat": "2026-09-23",
-   "confidence": "sedang"
+   "confidence": "rendah"
   },
   {
    "judul": "Kajian Kitab At-Tauhid",
@@ -255,7 +255,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-masjid-al-muhajirin-wal-anshar-depok/"
    ],
    "terakhir_terlihat": "2026-09-23",
-   "confidence": "sedang"
+   "confidence": "rendah"
   },
   {
    "judul": "Kajian Kitab Taisirul Allam",
@@ -272,7 +272,7 @@
     "https://markazdakwah.or.id/jadwal-kajian-rutin-masjid-al-muhajirin-wal-anshar-depok/"
    ],
    "terakhir_terlihat": "2026-09-23",
-   "confidence": "sedang"
+   "confidence": "rendah"
   },
   {
    "judul": "Kajian Kitab Ad-Daa wa Ad-Dawaa (Maksiat Menyebabkan Kesialan)",
@@ -290,217 +290,99 @@
    ],
    "terakhir_terlihat": "2026-10-05",
    "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Rutin Senin Dhuha: Fikih Muyassar",
+   "pemateri": "Ustadz Afdal Noverdi, Lc",
+   "lokasi": "Baitul Quran Cinere",
+   "alamat": "Jl. Puncak Pesanggrahan I No.31, Komplek Bukit Cinere Indah (BCI), Cinere, Depok",
+   "kota": "Depok",
+   "hari": 1,
+   "mulai": "10:00",
+   "selesai": "11:30",
+   "kategori": "Fiqih",
+   "deskripsi": "Kajian rutin Senin untuk umum akhwat, kitab Fikih Muyassar.",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385183"
+   ],
+   "terakhir_terlihat": "2026-11-15",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Rutin Pekanan: Syarah Hadits Arbain Nawawi",
+   "pemateri": "Ustadz Fatahillah Aly, M.Ag",
+   "lokasi": "Masjid Al Adhim",
+   "alamat": "Jl. Andara Raya No.32, Pangkalan Jati Baru, Kec. Cinere, Kota Depok",
+   "kota": "Depok",
+   "hari": 7,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Hadits",
+   "deskripsi": "Kajian rutin pekanan terbuka untuk umum, \"Bakda Maghrib - Selesai\".",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385029"
+   ],
+   "terakhir_terlihat": "2026-11-14",
+   "confidence": "sedang"
   }
  ],
  "agenda": [
   {
-   "judul": "Menjaga Fitrah Anak dari Pengaruh LGBT di Era Digital",
-   "pemateri": "Ustadzah Ummu Ihsan Choiriyah",
-   "lokasi": "Masjid Imam Asy-Syafi'i Sukmajaya",
-   "alamat": "",
+   "judul": "Kajian Rutin SEHATI #2: Kitab Fiqh Al-Usrah",
+   "pemateri": "Ustadz Gigih Surya Nugraha, S.H.",
+   "lokasi": "Masjid Ibaadusshalihiin, Anja Global Islamic School",
+   "alamat": "Jl. Abdul Wahhab No. 1, Cinangka, Depok",
    "kota": "Depok",
-   "tanggal": "2026-09-23",
+   "tanggal": "2026-11-16",
    "mulai": "08:30",
    "selesai": "",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian khusus wanita.",
+   "deskripsi": "Pembahasan Kitab Fiqh Al-Usrah, terbuka untuk umum ikhwan dan akhwat.",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/s/jadwalkajianID"
+    "https://t.me/jadwalkajianID/385184"
    ],
-   "terakhir_terlihat": "2026-09-23",
+   "terakhir_terlihat": "2026-11-15",
    "confidence": "sedang"
   },
   {
-   "judul": "Hak-Hak Suami (Bagian 3)",
-   "pemateri": "Ustadz Farhan",
-   "lokasi": "Masjid Ar-Riyadh Kolintang 2 Sukmajaya",
-   "alamat": "",
-   "kota": "Depok",
-   "tanggal": "2026-09-23",
-   "mulai": "09:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian khusus muslimah.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-09-23",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Tabligh Akbar Kemuslimahan: Selagi Mereka Bersamamu",
-   "pemateri": "Ustadz Subhan Bawazier",
-   "lokasi": "Masjid Daarussalaam Griya Tugu Asri",
-   "alamat": "",
-   "kota": "Depok",
-   "tanggal": "2026-10-05",
-   "mulai": "08:30",
-   "selesai": "11:30",
-   "kategori": "Tabligh Akbar",
-   "deskripsi": "Terbuka untuk ikhwan & akhwat; wajib daftar.",
-   "online": false,
-   "tautan": "https://masjidgta.id/selagimerekabersamamu",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-05",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Tematik: Bila Kumati",
-   "pemateri": "Ustadz Ammi Nur Baits, S.T., B.A.",
+   "judul": "Kajian Rutin MT As-Sunnah Depok: Berbicara dari Hati",
+   "pemateri": "Ustadz Nizar Saad Jabal, Lc., M.Pd.",
    "lokasi": "Masjid Al-Lathiif, Lantai 3 Pesona Square Mall",
-   "alamat": "Jl. Ir. H. Juanda No.22a",
+   "alamat": "Jl. Ir. H. Juanda No.22a, Kota Depok",
    "kota": "Depok",
-   "tanggal": "2026-10-11",
-   "mulai": "09:30",
-   "selesai": "11:30",
+   "tanggal": "2026-11-16",
+   "mulai": "09:00",
+   "selesai": "11:00",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian tematik MT As-Sunnah Depok; disiarkan YouTube MT As-Sunnah Depok.",
+   "deskripsi": "Tema dari buku \"Ketika Cinta Dirawat\"; siaran langsung di YouTube MT As Sunnah Depok.",
    "online": false,
-   "tautan": "",
+   "tautan": "https://youtube.com/@mt.assunnah",
    "sumber": [
-    "https://t.me/s/jadwalkajianID"
+    "https://t.me/jadwalkajianID/385185"
    ],
-   "terakhir_terlihat": "2026-10-11",
+   "terakhir_terlihat": "2026-11-15",
    "confidence": "sedang"
   },
   {
-   "judul": "Kajian Islam Ilmiah: Al-Wasail Al-Mufidah lil Hayatis Sa'idah",
-   "pemateri": "Ustadz Abu Fairuz Ahmad Ridwan, Lc., MA.",
+   "judul": "Kajian Penyucian Jiwa: Riyadhus Shalihin Bab 25 (Perintah Menunaikan Amanah)",
+   "pemateri": "Ustadz Sulam Mustareja",
    "lokasi": "Masjid Imam Asy-Syafi'i (MIAS)",
    "alamat": "Jl. Raden Saleh, Gg. Persahabatan No.69, Sukmajaya, Depok",
    "kota": "Depok",
-   "tanggal": "2026-10-17",
-   "mulai": "09:00",
-   "selesai": "11:00",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Tema: memusatkan pikiran untuk melakukan pekerjaan hari ini.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-16",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Anak DAQKA: Aku Anak Hebat, Bijak Menggunakan HP",
-   "pemateri": "Kak Yogi",
-   "lokasi": "Masjid Duyufurrahman, Terminal Jatijajar",
-   "alamat": "",
-   "kota": "Depok",
-   "tanggal": "2026-10-17",
-   "mulai": "16:00",
-   "selesai": "",
-   "kategori": "Kajian Anak",
-   "deskripsi": "Gratis untuk anak usia 5-12 tahun; pendaftaran via formulir.",
-   "online": false,
-   "tautan": "https://forms.gle/AHogaVVzmUscoAgh7",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-10-16",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Tematik Masjid Al Adhim Cinere",
-   "pemateri": "Ustadz Ishom Aini, M.A.",
-   "lokasi": "Masjid Al Adhim, Cinere",
-   "alamat": "",
-   "kota": "Depok",
-   "tanggal": "2026-11-07",
+   "tanggal": "2026-11-17",
    "mulai": "18:15",
    "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Sabtu ba'da Maghrib hingga selesai.",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kitab Riyadhus Shalihin, hadits ke-200; \"Ba'da Maghrib - Selesai\".",
    "online": false,
-   "tautan": "",
+   "tautan": "https://www.miasdepok.com/kajian/ustadz-sulam-mustareja-17-november-2026",
    "sumber": [
-    "https://t.me/jadwalkajianID/381884"
+    "https://www.miasdepok.com/kajian"
    ],
-   "terakhir_terlihat": "2026-10-23",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kitab Fiqh Doa dan Dzikir",
-   "pemateri": "Ustadz Ali Saman Hasan, MA",
-   "lokasi": "Masjid Al Adhim",
-   "alamat": "Jl. Andara Raya No.32, Pangkalan Jati Baru, Cinere",
-   "kota": "Depok",
-   "tanggal": "2026-11-10",
-   "mulai": "05:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Tertulis \"Ba'da Shubuh\". Rekapan kajian Jabodetabek Selasa 10 Nov 2026 (pekan kedua).",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-11-09",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kumpulan amalan pembuka rezeki",
-   "pemateri": "Ustadz Sidqi Kamal Zimmah, BA",
-   "lokasi": "Masjid Al Lathif (Pesona Square Mall lantai 3)",
-   "alamat": "Jl. Ir. H. Juanda No.22a, Bakti Jaya, Sukmajaya",
-   "kota": "Depok",
-   "tanggal": "2026-11-10",
-   "mulai": "09:00",
-   "selesai": "11:00",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Rekapan kajian Jabodetabek Selasa 10 Nov 2026 (pekan kedua).",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-11-09",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Beberapa wasiat penting menjelang wafatnya Nabi",
-   "pemateri": "Ustadz Mas'ud Mahmud, Lc",
-   "lokasi": "Masjid Jami' Babussalam",
-   "alamat": "Jl. Swadaya 3 No.40, Mekarsari, Cimanggis",
-   "kota": "Depok",
-   "tanggal": "2026-11-10",
-   "mulai": "09:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Rekapan kajian Jabodetabek Selasa 10 Nov 2026 (pekan kedua).",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-11-09",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kitab Umdatul Ahkam",
-   "pemateri": "Ustadz Abu Ya'la Kurnaedi, Lc",
-   "lokasi": "Masjid Mardhiyyatul Ikhlas",
-   "alamat": "Jl. Pale 2, Sukamaju Baru, Tapos",
-   "kota": "Depok",
-   "tanggal": "2026-11-10",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Tertulis \"Ba'da Maghrib\". Rekapan kajian Jabodetabek Selasa 10 Nov 2026 (pekan kedua).",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID"
-   ],
-   "terakhir_terlihat": "2026-11-09",
-   "confidence": "sedang"
+   "terakhir_terlihat": "2026-11-15",
+   "confidence": "tinggi"
   }
  ]
 }
