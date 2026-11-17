@@ -52,3 +52,7 @@ https://sayahafiz.com/Kajian/8383/Jadwal.html — hidup, tapi hanya memuat satu 
 https://jadwalkajian.com/jadwal-kajian/depok/ dan /bekasi/ — masih 404, dicoba lagi (2026-11-16), jangan coba lagi sampai 2026-12-16
 https://ahlussunnahcikarang.wordpress.com/jadwal-kajian/ dan https://sunniy.wordpress.com/markaz/ — hidup tapi terbit 2013 / diperbarui Juni 2011 dan saling berbeda jam; entri Cibitung/Jababeka diturunkan ke confidence rendah (2026-11-16), tidak perlu dicek ulang sampai 2026-12-16
 https://markazdakwah.or.id/jadwal-kajian-rutin-masjid-al-muhajirin-wal-anshar-depok/ — hidup tapi terbit 2015-11-09; entri Al-Muhajirin Wal Anshar diturunkan ke confidence rendah (2026-11-16), tidak perlu dicek ulang sampai 2026-12-16
+https://masjidjogokariyan.com — 523 (origin tidak terjangkau), dicoba 2x (2026-11-17), jangan coba lagi sampai 2026-12-17. Kanal t.me/s/masjidjogokariyan juga usang (post terakhir Jan 2024).
+https://masjidnurulashri.com — hidup, tapi hanya portal donasi/berita, tidak memuat jadwal kajian (2026-11-17), tidak perlu dicek ulang sampai 2026-12-17
+https://masjidkampus.ugm.ac.id — hidup, tapi beranda hanya memuat artikel liputan, tanpa jadwal kajian rutin berhari+jam (2026-11-17), tidak perlu dicek ulang sampai 2026-12-17
+https://t.me/s/infokajianmks dan https://t.me/s/infokajianjogjakarta — aktif tapi isinya didominasi iklan/tautan video, tidak ada jadwal rutin yang layak diambil (2026-11-17)

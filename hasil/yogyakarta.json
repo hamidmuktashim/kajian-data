@@ -1,6 +1,6 @@
 {
  "kota": "Yogyakarta",
- "dicek": "2026-11-11",
+ "dicek": "2026-11-17",
  "kajian": [
   {
    "judul": "KARUMAH (Kajian Rutin Khusus Muslimah)",
@@ -202,11 +202,11 @@
    "kategori": "Hadits",
    "deskripsi": "Kajian rutin kitab Riyadhus Shalihin Senin malam (malam Selasa) ba'da Isya, terbuka untuk umum; diumumkan per pertemuan (19 Okt & 9 Nov 2026).",
    "sumber": [
+    "https://t.me/kajianjogja/23638",
     "https://t.me/kajianjogja/23614",
-    "https://t.me/kajianjogja/23592",
     "https://t.me/s/kajianjogja"
    ],
-   "terakhir_terlihat": "2026-11-09",
+   "terakhir_terlihat": "2026-11-16",
    "confidence": "sedang"
   },
   {
@@ -239,33 +239,273 @@
    "kategori": "Kajian Kitab",
    "deskripsi": "Kajian rutin Kamis malam (Maghrib–Isya) untuk umum, kitab Riyadhus Shalihin dan Matan Taqrib, dengan tanya jawab.",
    "sumber": [
+    "https://t.me/kajianjogja/23629",
+    "https://t.me/masjidpogungdalangan/12300",
     "https://t.me/kajianjogja/23608",
-    "https://t.me/kajianjogja/23586",
     "https://t.me/s/kajianjogja"
    ],
-   "terakhir_terlihat": "2026-10-29",
-   "confidence": "sedang"
-  }
- ],
- "agenda": [
+   "terakhir_terlihat": "2026-11-12",
+   "confidence": "tinggi"
+  },
   {
-   "judul": "Dosa yang Kena Laknat — Bagian Kedua (Kajian Khusus Muslimah)",
-   "pemateri": "Ustadz Dr. Muhammad Abduh Tuasikal, M.Sc.",
-   "lokasi": "Sekar Kedhaton Restaurant",
-   "alamat": "Jl. Tegal Gendu No. 28, Prenggan, Kotagede, Yogyakarta",
+   "judul": "Kajian Senin Pagi MPD",
+   "pemateri": "",
+   "lokasi": "Masjid Pogung Dalangan",
+   "alamat": "Pogung Kampung Hijrah, Yogyakarta",
    "kota": "Yogyakarta",
-   "tanggal": "2026-11-11",
+   "hari": 1,
    "mulai": "09:00",
    "selesai": "10:30",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Lanjutan pembahasan buku Dosa Itu Candu, khusus muslimah, disiarkan langsung melalui Rumaysho TV.",
-   "online": false,
-   "tautan": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Majelis Taman Surga hari Senin, kajian pagi dengan pemateri bergantian tiap pekan.",
    "sumber": [
-    "https://t.me/kajianjogja/23620"
+    "https://t.me/masjidpogungdalangan/12325",
+    "https://t.me/masjidpogungdalangan/12283",
+    "https://t.me/masjidpogungdalangan/12233"
+   ],
+   "terakhir_terlihat": "2026-11-15",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Jelang Buka Puasa Sunnah Senin MPD",
+   "pemateri": "",
+   "lokasi": "Masjid Pogung Dalangan",
+   "alamat": "Pogung Kampung Hijrah, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 1,
+   "mulai": "16:45",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian jelang buka puasa sunnah Senin, pukul 16.45 sampai Maghrib, pemateri bergantian.",
+   "sumber": [
+    "https://t.me/masjidpogungdalangan/12325",
+    "https://t.me/masjidpogungdalangan/12283",
+    "https://t.me/masjidpogungdalangan/12233"
+   ],
+   "terakhir_terlihat": "2026-11-15",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Senin Malam MPD",
+   "pemateri": "Ustadz Ammi Nur Baits, S.T., B.A.",
+   "lokasi": "Masjid Pogung Dalangan",
+   "alamat": "Pogung Kampung Hijrah, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 1,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian malam Senin \"Bada Maghrib - Isya\"; sempat diliburkan pada 2 dan 9 November 2026.",
+   "sumber": [
+    "https://t.me/masjidpogungdalangan/12325",
+    "https://t.me/masjidpogungdalangan/12283",
+    "https://t.me/masjidpogungdalangan/12233"
+   ],
+   "terakhir_terlihat": "2026-11-15",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Selasa Malam MPD",
+   "pemateri": "Ustadz Muhammad Rezki Hr, S.T., M.Eng., Ph.D.",
+   "lokasi": "Masjid Pogung Dalangan",
+   "alamat": "Pogung Kampung Hijrah, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "\"Ba'da Maghrib - selesai\", membahas buku Menjaga Qalbu karya Syaikh Abdurrazzaq bin Abdil Muhsin; diliburkan pada Selasa 17 November 2026.",
+   "sumber": [
+    "https://t.me/masjidpogungdalangan/12242",
+    "https://t.me/masjidpogungdalangan/12331"
+   ],
+   "terakhir_terlihat": "2026-11-16",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Rabu Malam MPD",
+   "pemateri": "Ustadz Muhammad Romelan, Lc., M.Ag.",
+   "lokasi": "Masjid Pogung Dalangan",
+   "alamat": "Pogung Kampung Hijrah, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 3,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "\"Ba'da Maghrib - selesai\", membahas kitab Sunanun Nabiyya wa Adzkaruhul Yaumiyyah karya Syaikh Abdullah bin Hamud Al Farih.",
+   "sumber": [
+    "https://t.me/masjidpogungdalangan/12290",
+    "https://t.me/masjidpogungdalangan/12248"
    ],
    "terakhir_terlihat": "2026-11-10",
    "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Muslimah Kamis Pagi MPD",
+   "pemateri": "Ustadzah Maryam Ummu Saffaanah, M.H.I.",
+   "lokasi": "Masjid Pogung Dalangan",
+   "alamat": "Pogung Kampung Hijrah, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 4,
+   "mulai": "09:00",
+   "selesai": "10:30",
+   "kategori": "Kajian Muslimah",
+   "deskripsi": "Majelis Taman Surga hari Kamis, kajian muslimah; diliburkan pada 12 November 2026.",
+   "sumber": [
+    "https://t.me/masjidpogungdalangan/12259",
+    "https://t.me/masjidpogungdalangan/12300"
+   ],
+   "terakhir_terlihat": "2026-11-11",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Jelang Buka Puasa Sunnah Kamis MPD",
+   "pemateri": "Ustadz Ristiyan Ragil P., S.T., M.T.",
+   "lokasi": "Masjid Pogung Dalangan",
+   "alamat": "Pogung Kampung Hijrah, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 4,
+   "mulai": "16:45",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian jelang buka puasa sunnah Kamis sampai menjelang Maghrib; pengumuman 12 Nov menulis 16.45, pengumuman 5 Nov menulis 16.30.",
+   "sumber": [
+    "https://t.me/masjidpogungdalangan/12300",
+    "https://t.me/masjidpogungdalangan/12259"
+   ],
+   "terakhir_terlihat": "2026-11-11",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Parenting Jumat Malam MPD",
+   "pemateri": "",
+   "lokasi": "Masjid Pogung Dalangan",
+   "alamat": "Pogung Kampung Hijrah, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 5,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Parenting",
+   "deskripsi": "Kajian parenting hari Jumat \"Ba'da Maghrib - Isya\", pemateri bergantian; diliburkan pada 6 November 2026.",
+   "sumber": [
+    "https://t.me/masjidpogungdalangan/12308",
+    "https://t.me/masjidpogungdalangan/12265"
+   ],
+   "terakhir_terlihat": "2026-11-12",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Sabtu Malam MPD",
+   "pemateri": "Ustadz Yulian Purnama, S.Kom.",
+   "lokasi": "Masjid Pogung Dalangan",
+   "alamat": "Pogung Kampung Hijrah, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 6,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Aqidah",
+   "deskripsi": "\"Ba'da Maghrib - selesai\", membahas kitab Ushulus Sunnah karya Imam Ahmad bin Hanbal.",
+   "sumber": [
+    "https://t.me/masjidpogungdalangan/12316",
+    "https://t.me/masjidpogungdalangan/12276"
+   ],
+   "terakhir_terlihat": "2026-11-13",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Rutin Buka Puasa Sunnah Senin MPR",
+   "pemateri": "",
+   "lokasi": "Masjid Pogung Raya",
+   "alamat": "Pogung Kampung Hijrah, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 1,
+   "mulai": "17:00",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin Senin pukul 17.00 WIB sampai menjelang maghrib, terbuka untuk umum, pemateri bergantian.",
+   "sumber": [
+    "https://t.me/masjidpogungraya/8591",
+    "https://t.me/masjidpogungraya/8578",
+    "https://t.me/masjidpogungraya/8563"
+   ],
+   "terakhir_terlihat": "2026-11-15",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Rutin Selasa Petang MPR",
+   "pemateri": "Ustadz Hasim Ikhwanudin, S.Ars.",
+   "lokasi": "Masjid Pogung Raya",
+   "alamat": "Pogung Kampung Hijrah, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "\"Ba'da Maghrib - Selesai\", pembahasan kitab Mendulang Mutiara Faidah dari Kisah Nabi dan Rasul.",
+   "sumber": [
+    "https://t.me/masjidpogungraya/8592",
+    "https://t.me/masjidpogungraya/8579",
+    "https://t.me/masjidpogungraya/8565"
+   ],
+   "terakhir_terlihat": "2026-11-16",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Rutin Rabu Petang MPR",
+   "pemateri": "Ustadz Afifi Abdul Wadud, B.A.",
+   "lokasi": "Masjid Pogung Raya",
+   "alamat": "Pogung Kampung Hijrah, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 3,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "\"Ba'da Maghrib - selesai\", kitab Ad-Daa' wa Ad-Dawaa' karya Ibnul Qayyim; pada 4 November 2026 diisi Ustadz Sulaiman Rasyid.",
+   "sumber": [
+    "https://t.me/masjidpogungraya/8581",
+    "https://t.me/masjidpogungraya/8566",
+    "https://t.me/masjidpogungraya/8553"
+   ],
+   "terakhir_terlihat": "2026-11-10",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Rutin Kamis Buka Puasa MPR",
+   "pemateri": "",
+   "lokasi": "Masjid Pogung Raya",
+   "alamat": "Pogung Kampung Hijrah, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 4,
+   "mulai": "17:00",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "Kajian rutin Kamis pukul 17.00 sampai selesai, terbuka untuk umum, pemateri bergantian.",
+   "sumber": [
+    "https://t.me/masjidpogungraya/8583",
+    "https://t.me/masjidpogungraya/8571",
+    "https://t.me/masjidpogungraya/8556"
+   ],
+   "terakhir_terlihat": "2026-11-11",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Rutin Jum'at Petang MPR",
+   "pemateri": "Ustadz Rizki Amipon Dasa",
+   "lokasi": "Masjid Pogung Raya",
+   "alamat": "Pogung Kampung Hijrah, Yogyakarta",
+   "kota": "Yogyakarta",
+   "hari": 5,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Fiqih",
+   "deskripsi": "\"Ba'da Maghrib - selesai\", materi berseri Sunnah-Sunnah dalam Shalat.",
+   "sumber": [
+    "https://t.me/masjidpogungraya/8560",
+    "https://t.me/masjidpogungraya/8543"
+   ],
+   "terakhir_terlihat": "2026-10-30",
+   "confidence": "tinggi"
   }
- ]
+ ],
+ "agenda": []
 }
