@@ -56,3 +56,7 @@ https://masjidjogokariyan.com — 523 (origin tidak terjangkau), dicoba 2x (2026
 https://masjidnurulashri.com — hidup, tapi hanya portal donasi/berita, tidak memuat jadwal kajian (2026-11-17), tidak perlu dicek ulang sampai 2026-12-17
 https://masjidkampus.ugm.ac.id — hidup, tapi beranda hanya memuat artikel liputan, tanpa jadwal kajian rutin berhari+jam (2026-11-17), tidak perlu dicek ulang sampai 2026-12-17
 https://t.me/s/infokajianmks dan https://t.me/s/infokajianjogjakarta — aktif tapi isinya didominasi iklan/tautan video, tidak ada jadwal rutin yang layak diambil (2026-11-17)
+https://tarbiyahsunnah.com/event_tag/kajian-rutin/ — koneksi putus (HTTP/2 PROTOCOL_ERROR), beranda hidup tapi hanya memuat acara yang sudah lewat (terbaru 17 Nov 2026) (2026-11-18), jangan coba lagi sampai 2026-12-18
+https://kabarharmoni.com — hidup, tapi beranda hanya berita umum, tidak ada jadwal Masjid Al-Lathiif yang baru (2026-11-18), tidak perlu dicek ulang sampai 2026-12-18
+https://alsofwa.com/layanan/kajian-rutin-masjid-jami-al-sofwa/ — hidup, tapi tidak memuat hari/jam kajian (2026-11-18), tidak perlu dicek ulang sampai 2026-12-18
+https://masjidrayaaljabbar.com — hidup, hanya menyebut "tiap ba'da Subuh dan Dzuhur" tanpa hari/judul/pemateri; tidak diambil (2026-11-18), tidak perlu dicek ulang sampai 2026-12-18

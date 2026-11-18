@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-11-17T08:13+07:00",
+ "diperbarui": "2026-11-18T08:13+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -17,7 +17,7 @@
   "Yogyakarta"
  ],
  "jumlah": 240,
- "jumlah_agenda": 9,
+ "jumlah_agenda": 14,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -33,7 +33,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-15",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "tinggi",
    "id": "kj_aead3fa771",
    "pertama_terlihat": "2026-09-22"
@@ -71,7 +71,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-15",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "tinggi",
    "id": "kj_35428f0373",
    "pertama_terlihat": "2026-09-22"
@@ -129,7 +129,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-15",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "tinggi",
    "id": "kj_e1a239e30e",
    "pertama_terlihat": "2026-09-22"
@@ -167,7 +167,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-15",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "tinggi",
    "id": "kj_6f223b0cdc",
    "pertama_terlihat": "2026-09-22"
@@ -225,7 +225,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-15",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "tinggi",
    "id": "kj_86325e2cc3",
    "pertama_terlihat": "2026-09-22"
@@ -382,7 +382,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-15",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "tinggi",
    "id": "kj_afe10c8b81",
    "pertama_terlihat": "2026-09-22"
@@ -441,7 +441,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-15",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "tinggi",
    "id": "kj_c31dc460fd",
    "pertama_terlihat": "2026-09-22"
@@ -479,7 +479,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-15",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "tinggi",
    "id": "kj_7315341d09",
    "pertama_terlihat": "2026-09-22"
@@ -537,7 +537,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-15",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "tinggi",
    "id": "kj_8591845048",
    "pertama_terlihat": "2026-09-22"
@@ -2011,7 +2011,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-11-12",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "tinggi",
    "id": "kj_6b737c6f40",
    "pertama_terlihat": "2026-09-10"
@@ -2353,7 +2353,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-11-12",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "tinggi",
    "id": "kj_992b43b53c",
    "pertama_terlihat": "2026-09-10"
@@ -2370,10 +2370,11 @@
    "kategori": "Aqidah",
    "deskripsi": "Kajian pekanan Rabu ba'da Dzuhur.",
    "sumber": [
+    "https://t.me/jadwalkajianID/385419",
     "https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square"
    ],
-   "terakhir_terlihat": "2026-09-10",
-   "confidence": "sedang",
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "tinggi",
    "id": "kj_384e6b1307",
    "pertama_terlihat": "2026-09-10"
   },
@@ -2389,10 +2390,11 @@
    "kategori": "Kajian Kitab",
    "deskripsi": "Kajian rutin pekanan Rabu siang, Kitab Ushul Tsalatsah.",
    "sumber": [
+    "https://t.me/jadwalkajianID/385419",
     "https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square"
    ],
-   "terakhir_terlihat": "2026-09-25",
-   "confidence": "sedang",
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "tinggi",
    "id": "kj_5e4c1c192c",
    "pertama_terlihat": "2026-09-25"
   },
@@ -2446,10 +2448,11 @@
    "kategori": "Hadits",
    "deskripsi": "Kajian pekanan Rabu ba'da Ashar.",
    "sumber": [
+    "https://t.me/jadwalkajianID/385419",
     "https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square"
    ],
-   "terakhir_terlihat": "2026-09-10",
-   "confidence": "sedang",
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "tinggi",
    "id": "kj_af5a05559a",
    "pertama_terlihat": "2026-09-10"
   },
@@ -2465,10 +2468,11 @@
    "kategori": "Kajian Kitab",
    "deskripsi": "Kajian rutin pekanan Rabu sore, Kitab Riyadush Shalihin.",
    "sumber": [
+    "https://t.me/jadwalkajianID/385419",
     "https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square"
    ],
-   "terakhir_terlihat": "2026-09-25",
-   "confidence": "sedang",
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "tinggi",
    "id": "kj_ec3ae07cff",
    "pertama_terlihat": "2026-09-25"
   },
@@ -2716,7 +2720,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-11-12",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "tinggi",
    "id": "kj_842ad2efb4",
    "pertama_terlihat": "2026-09-10"
@@ -2773,7 +2777,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-11-12",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "tinggi",
    "id": "kj_363efaf21c",
    "pertama_terlihat": "2026-09-10"
@@ -2811,7 +2815,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-11-12",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "tinggi",
    "id": "kj_d745cd592a",
    "pertama_terlihat": "2026-09-25"
@@ -2830,7 +2834,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-11-12",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "tinggi",
    "id": "kj_3a05c8677f",
    "pertama_terlihat": "2026-09-10"
@@ -2887,7 +2891,7 @@
    "sumber": [
     "https://www.masjidagungalazhar.com/program/majelis-taklim-kajian-rutin-masjid-agung-al-azhar"
    ],
-   "terakhir_terlihat": "2026-11-12",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "tinggi",
    "id": "kj_9a4162391f",
    "pertama_terlihat": "2026-09-10"
@@ -4640,174 +4644,6 @@
  ],
  "agenda": [
   {
-   "judul": "Kajian Khusus Muslimah MT Al Mumtaz Shalihah: Sifat Wudhu Nabi",
-   "pemateri": "Ustadzah Umi Yunengsih",
-   "lokasi": "Masjid Al Mukmin, Blok T Dukuh Zamrud",
-   "alamat": "",
-   "kota": "Bekasi",
-   "tanggal": "2026-11-16",
-   "mulai": "08:30",
-   "selesai": "10:00",
-   "kategori": "Muslimah",
-   "deskripsi": "Kajian khusus muslimah, Senin pekan ke-3.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385175"
-   ],
-   "terakhir_terlihat": "2026-11-15",
-   "confidence": "sedang",
-   "id": "ag_732192b656",
-   "pertama_terlihat": "2026-11-16"
-  },
-  {
-   "judul": "Kajian Rutin SEHATI #2: Kitab Fiqh Al-Usrah",
-   "pemateri": "Ustadz Gigih Surya Nugraha, S.H.",
-   "lokasi": "Masjid Ibaadusshalihiin, Anja Global Islamic School",
-   "alamat": "Jl. Abdul Wahhab No. 1, Cinangka, Depok",
-   "kota": "Depok",
-   "tanggal": "2026-11-16",
-   "mulai": "08:30",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Pembahasan Kitab Fiqh Al-Usrah, terbuka untuk umum ikhwan dan akhwat.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385184"
-   ],
-   "terakhir_terlihat": "2026-11-15",
-   "confidence": "sedang",
-   "id": "ag_45306d66a5",
-   "pertama_terlihat": "2026-11-16"
-  },
-  {
-   "judul": "Kajian Rutin Kitab Shahih Fiqih Sunnah: Bab Adab Berhias dan Berpakaian #6",
-   "pemateri": "Ust. Muhammad Anwar, Lc, M.Pd",
-   "lokasi": "Masjid Al Ikhlas Dukuh Bima",
-   "alamat": "",
-   "kota": "Bekasi",
-   "tanggal": "2026-11-16",
-   "mulai": "09:00",
-   "selesai": "",
-   "kategori": "Muslimah",
-   "deskripsi": "Kajian rutin kitab khusus muslimah.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385176"
-   ],
-   "terakhir_terlihat": "2026-11-15",
-   "confidence": "sedang",
-   "id": "ag_8cb338f30f",
-   "pertama_terlihat": "2026-11-16"
-  },
-  {
-   "judul": "Kajian Rutin Senin: Menyelesaikan Sengketa (Hadits-Hadits Jual Beli & Bisnis)",
-   "pemateri": "Ustadz Irham Maulana, Lc., M.H.",
-   "lokasi": "Masjid Al Ikhlas Prima Harapan Regensi",
-   "alamat": "",
-   "kota": "Bekasi",
-   "tanggal": "2026-11-16",
-   "mulai": "09:00",
-   "selesai": "10:30",
-   "kategori": "Kajian Kitab",
-   "deskripsi": "Kajian rutin Senin untuk umum, bahasan kitab Untaian Mutiara Faidah Hadits-Hadits Jual Beli & Bisnis.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385177"
-   ],
-   "terakhir_terlihat": "2026-11-15",
-   "confidence": "sedang",
-   "id": "ag_704fc0c4f5",
-   "pertama_terlihat": "2026-11-16"
-  },
-  {
-   "judul": "Kajian Rutin Muslimah: Fikih Wanita, Hak Wanita Dalam Islam (lanjutan)",
-   "pemateri": "Ustadz Fatahillah Aly, S.Ag, M.Ag",
-   "lokasi": "Masjid Jami' RMG",
-   "alamat": "Jl. Bumur III Gang Masjid RMG No.01 RT 02 RW 01, Jatirangga, Jatisampurna, Kota Bekasi",
-   "kota": "Bekasi",
-   "tanggal": "2026-11-16",
-   "mulai": "09:00",
-   "selesai": "10:30",
-   "kategori": "Muslimah",
-   "deskripsi": "Kajian rutin muslimah, Fikih Wanita Bab II Pasal 2.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385180"
-   ],
-   "terakhir_terlihat": "2026-11-15",
-   "confidence": "sedang",
-   "id": "ag_8ec6893de3",
-   "pertama_terlihat": "2026-11-16"
-  },
-  {
-   "judul": "Kajian Rutin MT As-Sunnah Depok: Berbicara dari Hati",
-   "pemateri": "Ustadz Nizar Saad Jabal, Lc., M.Pd.",
-   "lokasi": "Masjid Al-Lathiif, Lantai 3 Pesona Square Mall",
-   "alamat": "Jl. Ir. H. Juanda No.22a, Kota Depok",
-   "kota": "Depok",
-   "tanggal": "2026-11-16",
-   "mulai": "09:00",
-   "selesai": "11:00",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Tema dari buku \"Ketika Cinta Dirawat\"; siaran langsung di YouTube MT As Sunnah Depok.",
-   "online": false,
-   "tautan": "https://youtube.com/@mt.assunnah",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385185"
-   ],
-   "terakhir_terlihat": "2026-11-15",
-   "confidence": "sedang",
-   "id": "ag_d8a813f689",
-   "pertama_terlihat": "2026-11-16"
-  },
-  {
-   "judul": "Kajian Kitab Al Ushul Ats Tsalatsah: Roja' / Rasa Harap",
-   "pemateri": "Ustadz Ali Hasan Bawazier",
-   "lokasi": "Salon Fayza (MT Al Ikhlash JBE), seberang Superindo",
-   "alamat": "Jl. Ratna - Jatibening, RT 002/RW 001, Jatibening, Kec. Pondok Gede, Kota Bekasi",
-   "kota": "Bekasi",
-   "tanggal": "2026-11-16",
-   "mulai": "09:30",
-   "selesai": "11:30",
-   "kategori": "Muslimah",
-   "deskripsi": "Kajian offline khusus muslimah dan terbuka untuk umum.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385179"
-   ],
-   "terakhir_terlihat": "2026-11-15",
-   "confidence": "sedang",
-   "id": "ag_5a202a9cb9",
-   "pertama_terlihat": "2026-11-16"
-  },
-  {
-   "judul": "Kajian Kitab Arbain An-Nawawi: Syarat Laa Ilaaha Illallah",
-   "pemateri": "Ustadz Abu Yahya Badru Salam, Lc.",
-   "lokasi": "Masjid Al-Muchlishin, Jatiluhur, Jatiasih",
-   "alamat": "",
-   "kota": "Bekasi",
-   "tanggal": "2026-11-16",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Kitab",
-   "deskripsi": "\"Ba'da Maghrib\"; kajian rutin setiap Senin pekan ke-1 & ke-3, terbuka untuk umum.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385181"
-   ],
-   "terakhir_terlihat": "2026-11-15",
-   "confidence": "sedang",
-   "id": "ag_bf9bf5d630",
-   "pertama_terlihat": "2026-11-16"
-  },
-  {
    "judul": "Kajian Penyucian Jiwa: Riyadhus Shalihin Bab 25 (Perintah Menunaikan Amanah)",
    "pemateri": "Ustadz Sulam Mustareja",
    "lokasi": "Masjid Imam Asy-Syafi'i (MIAS)",
@@ -4827,6 +4663,285 @@
    "confidence": "tinggi",
    "id": "ag_d768d06081",
    "pertama_terlihat": "2026-11-16"
+  },
+  {
+   "judul": "Kajian Hawa: Dunya wal Akhirah",
+   "pemateri": "Ustadz Gigih Surya Nugraha",
+   "lokasi": "Masjid Ar Ridho Al-Azhar Kemandoran",
+   "alamat": "Jl. Kemandoran I No.71, RT.1/RW.16, Grogol Utara, Kec. Kebayoran Lama, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-11-18",
+   "mulai": "08:00",
+   "selesai": "10:00",
+   "kategori": "Muslimah",
+   "deskripsi": "Kajian khusus akhwat; hadir 15 menit sebelum mulai.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385412",
+    "https://t.me/jadwalkajianID/385419"
+   ],
+   "terakhir_terlihat": "2026-11-17",
+   "confidence": "sedang",
+   "id": "ag_022b19b1d4",
+   "pertama_terlihat": "2026-11-18"
+  },
+  {
+   "judul": "Kajian Kitab Al-Jami' li Ahkam Mar'ah Al-Muslimah: Bab Tauhid",
+   "pemateri": "Ustadzah Tiara Mutiara E, B.Sh., M.A",
+   "lokasi": "Masjid Baitussalam",
+   "alamat": "Jl. BNI 46, Cilandak Barat, Kec. Cilandak, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-11-18",
+   "mulai": "09:00",
+   "selesai": "10:30",
+   "kategori": "Muslimah",
+   "deskripsi": "Ensiklopedia Fiqih Wanita, khusus akhwat (rekapan kajian Rabu 18 November 2026).",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385419"
+   ],
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "sedang",
+   "id": "ag_2e70787acb",
+   "pertama_terlihat": "2026-11-18"
+  },
+  {
+   "judul": "Kajian: Makna Asmaul Husna",
+   "pemateri": "Ustadz Zahir Al Minangkabawy, Lc",
+   "lokasi": "Masjid Al Haamidiyah",
+   "alamat": "Jl. TB Simatupang, Pasar Minggu, Jakarta Selatan (SPBU samping AD Premier)",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-11-18",
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Tercantum di rekapan kajian Rabu 18 November 2026.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385419"
+   ],
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "sedang",
+   "id": "ag_64364b6499",
+   "pertama_terlihat": "2026-11-18"
+  },
+  {
+   "judul": "Kajian MT Al Khansa: Dakwah Senyap yang Mengubah Dunia",
+   "pemateri": "Ustadz Taufiq Al Haddad, ST, SH, MM",
+   "lokasi": "MT Al Khansa Soepomo",
+   "alamat": "Jl. Tebet Timur Dalam III/i No. 16, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-11-18",
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian tatap muka sesi pagi, juga disiarkan lewat Zoom.",
+   "online": false,
+   "tautan": "https://us04web.zoom.us/j/74326177037?pwd=hRZyjPfby379TjqNnIDd1nOfYlgBVc.1",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385409",
+    "https://t.me/jadwalkajianID/385419"
+   ],
+   "terakhir_terlihat": "2026-11-17",
+   "confidence": "sedang",
+   "id": "ag_a585da668c",
+   "pertama_terlihat": "2026-11-18"
+  },
+  {
+   "judul": "Kajian Tawadhu: Halal Tapi Hambar",
+   "pemateri": "Ustadz Taufiq Al-Haddad, ST., SH., MM.",
+   "lokasi": "Masjid Daarut Tauhiid Jakarta",
+   "alamat": "Jl. Cipaku I No.43, Petogogan, Kec. Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-11-18",
+   "mulai": "12:00",
+   "selesai": "13:00",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Dzuhur, terbuka untuk umum, tersedia live stream kanal Masjid Daarut Tauhiid Jakarta.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385404",
+    "https://t.me/jadwalkajianID/385419"
+   ],
+   "terakhir_terlihat": "2026-11-17",
+   "confidence": "sedang",
+   "id": "ag_03eec25f02",
+   "pertama_terlihat": "2026-11-18"
+  },
+  {
+   "judul": "Kajian Kitab Minhajul Muslim: Orang yang Beradab",
+   "pemateri": "Ustadz Abu Fahd Ega, Lc",
+   "lokasi": "Masjid RNI",
+   "alamat": "Jl. Denpasar Raya Kav. DIII, Kuningan, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-11-18",
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Ba'da Dzuhur - selesai; kajian kitab rutin terbuka untuk umum.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385417",
+    "https://t.me/jadwalkajianID/385419"
+   ],
+   "terakhir_terlihat": "2026-11-17",
+   "confidence": "sedang",
+   "id": "ag_7e97741e98",
+   "pertama_terlihat": "2026-11-18"
+  },
+  {
+   "judul": "Kajian Kitab Ushul Tsalatsah: Antara Dosa dan Taubat",
+   "pemateri": "Ustadz Yovin Abu Hammam",
+   "lokasi": "Masjid Nurul Iman Blok M Square Lt. 7",
+   "alamat": "Blok M Square Mall Lt. 7, Jl. Melawai 5, Melawai, Kec. Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-11-18",
+   "mulai": "12:30",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Sesi 1, ba'da Zhuhur - selesai (rekapan kajian Rabu 18 November 2026).",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385419"
+   ],
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "sedang",
+   "id": "ag_60b38bfb67",
+   "pertama_terlihat": "2026-11-18"
+  },
+  {
+   "judul": "Kajian: Faidah Makna Laa Ilaaha Illallah dan Syarat-syaratnya",
+   "pemateri": "Ustadz Ayman Hafid Thalib",
+   "lokasi": "Masjid Fatimah Muhammad",
+   "alamat": "Jl. Tebet Barat Raya No 44, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-11-18",
+   "mulai": "13:30",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Tercantum di rekapan kajian Rabu 18 November 2026.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385419"
+   ],
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "sedang",
+   "id": "ag_46e6e7caa6",
+   "pertama_terlihat": "2026-11-18"
+  },
+  {
+   "judul": "Kajian Kitab Riyadhush Shalihin: Bab Kemurahan Hati dan Kedermawanan (Hadits 565)",
+   "pemateri": "Ustadz Idrus Yusuf, M.A",
+   "lokasi": "Masjid Nurul Iman Blok M Square Lt. 7",
+   "alamat": "Blok M Square Mall Lt. 7, Jl. Melawai 5, Melawai, Kec. Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-11-18",
+   "mulai": "15:30",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Sesi 2, ba'da Ashar - selesai (rekapan kajian Rabu 18 November 2026).",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385419"
+   ],
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "sedang",
+   "id": "ag_56bbbbb2ea",
+   "pertama_terlihat": "2026-11-18"
+  },
+  {
+   "judul": "Kajian Kitab Shahih Targhib wat Tarhib (Pertemuan ke-147)",
+   "pemateri": "Ustadz Abu Yahya Badrussalam, Lc",
+   "lokasi": "Masjid Baiturrahman",
+   "alamat": "Jl. Buana Raya, Pondok Pinang, Kec. Kebayoran Lama, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-11-18",
+   "mulai": "18:10",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Pukul 18:10 WIB (ba'da Maghrib).",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385410",
+    "https://t.me/jadwalkajianID/385420"
+   ],
+   "terakhir_terlihat": "2026-11-17",
+   "confidence": "sedang",
+   "id": "ag_297b8ad15d",
+   "pertama_terlihat": "2026-11-18"
+  },
+  {
+   "judul": "Kajian Tematik: Trust adalah Segalanya, Pelajaran dari Sirah Nabi",
+   "pemateri": "Ustadz Johan Saputra Halim, Lc, MHi",
+   "lokasi": "Masjid Nurul Iman Blok M Square Lt. 7",
+   "alamat": "Blok M Square Mall Lt. 7, Jl. Melawai 5, Melawai, Kec. Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-11-18",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Sesi 3, ba'da Maghrib - selesai (rekapan kajian Rabu 18 November 2026).",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385419"
+   ],
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "sedang",
+   "id": "ag_87d8d78c2b",
+   "pertama_terlihat": "2026-11-18"
+  },
+  {
+   "judul": "Kajian Kitab Iqtidha Shirathal Mustaqim: Bahaya Perkara Haram (Bagian ke-2)",
+   "pemateri": "Ustadz Joni Qodariyanto, Lc",
+   "lokasi": "Masjid Nurullah Apartemen Kalibata City",
+   "alamat": "Basement Tower Cendana, Rawajati, Kec. Pancoran, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-11-18",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Ba'da Maghrib - selesai (rekapan kajian Rabu 18 November 2026).",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385420"
+   ],
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "sedang",
+   "id": "ag_496f05e601",
+   "pertama_terlihat": "2026-11-18"
+  },
+  {
+   "judul": "Kajian: Kalah Tapi Menang",
+   "pemateri": "Ustadz Muhammad Halid Syar'ie, Lc",
+   "lokasi": "Masjid Agung Al Azhar",
+   "alamat": "Jl. Sisingamangaraja, Selong, Kec. Kebayoran Baru, Jakarta Selatan",
+   "kota": "Jakarta Selatan",
+   "tanggal": "2026-11-18",
+   "mulai": "19:45",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Rabu malam ba'da Isya di Masjid Agung Al Azhar Kebayoran Baru.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385408",
+    "https://t.me/jadwalkajianID/385420"
+   ],
+   "terakhir_terlihat": "2026-11-17",
+   "confidence": "sedang",
+   "id": "ag_672e491135",
+   "pertama_terlihat": "2026-11-18"
   }
  ]
 }
