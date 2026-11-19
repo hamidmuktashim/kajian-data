@@ -1,6 +1,6 @@
 {
  "kota": "Bogor",
- "dicek": "2026-11-13",
+ "dicek": "2026-11-19",
  "kajian": [
   {
    "judul": "Kajian Rutin Ahad Malam - Kitab Firqotun Najiyah",
@@ -122,15 +122,17 @@
    "confidence": "sedang"
   },
   {
-   "pemateri": "Ustadzah Ummu Ihsan Choiriyah",
+   "pemateri": "Bergantian",
    "alamat": "Jl. Cidangiang No 4, Bogor",
    "selesai": "",
-   "deskripsi": "Kajian rutin khusus muslimah, Kamis 09.00 s/d selesai.",
+   "deskripsi": "Kajian rutin Bogor Bertauhid khusus muslimah, Kamis 09.00 s/d selesai; pemateri & tema berganti (12 Nov: Ustadzah Ummu Ihsan Choiriyah; 19 Nov: Ustadz Ruslan Nurhadi, Tafsir Juz Amma).",
    "sumber": [
+    "https://t.me/s/jadwalkajianID/385511",
+    "https://majlis.id/events/62b39acb-827c-4b2f-a0ac-b4e6186b1fc2",
     "https://t.me/s/jadwalkajianID/384523",
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-11-11",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "sedang",
    "kategori": "Kajian Kitab",
    "judul": "Kajian Rutin Bogor Bertauhid - Muslimah Harus Baper",
@@ -143,13 +145,14 @@
    "pemateri": "Ustadz Mas'ud Mahmud, Lc",
    "alamat": "Bojongkulur, Gunung Putri",
    "selesai": "",
-   "deskripsi": "Kajian Bahasa Arab Lisan Arabi, Kamis ba'da Isya s/d selesai; terlihat lagi untuk 12 Nov 2026 (Jilid 1 Unit ke-9).",
+   "deskripsi": "Kajian Bahasa Arab Lisan Arabi, Kamis ba'da Isya s/d selesai; terlihat dua pekan berturut-turut (12 & 19 Nov 2026, Jilid 1 Unit ke-10).",
    "sumber": [
+    "https://t.me/s/jadwalkajianID/385506",
     "https://t.me/s/jadwalkajianID/384521",
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-11-11",
-   "confidence": "rendah",
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "sedang",
    "kategori": "Bahasa Arab",
    "judul": "Kajian Rutin Lisan Arab",
    "lokasi": "Masjid Mu'adz bin Jabal",
@@ -219,51 +222,164 @@
    "mulai": "09:00",
    "selesai": "",
    "kategori": "Kajian Kitab",
-   "deskripsi": "Kajian rutin untuk ikhwan & akhwat, Ahad 09.00 s/d selesai (belum pasti tiap pekan).",
+   "deskripsi": "Kajian rutin untuk ikhwan & akhwat, Ahad 09.00 s/d selesai; terlihat dua pekan berturut-turut (8 & 15 Nov 2026).",
    "sumber": [
+    "https://t.me/s/jadwalkajianID/385020",
     "https://t.me/s/jadwalkajianID/384044"
    ],
-   "terakhir_terlihat": "2026-11-07",
-   "confidence": "rendah"
+   "terakhir_terlihat": "2026-11-14",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Rutin Setiap Senin - Pelajaran Tajwid",
+   "pemateri": "Ustadz Abu Ya'la Kurnaedi, Lc, M.Pd, M.H.",
+   "lokasi": "MT Al Hikmah Pati (ex MT Tazkia Aulia)",
+   "alamat": "Citra Gran, Puri Wirabhakti, Jl. Wirabhakti III kav 13, Cibubur",
+   "kota": "Bogor",
+   "hari": 1,
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Tahsin/Tajwid",
+   "deskripsi": "Kajian rutin ikhwan & akhwat setiap Senin, 09.30 s/d selesai; Pelajaran Tajwid lanjutan.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID/385200"
+   ],
+   "terakhir_terlihat": "2026-11-15",
+   "confidence": "sedang"
   }
  ],
  "agenda": [
   {
-   "judul": "Safari Dakwah - Aqidah Imam Syafii Series",
-   "pemateri": "Ustadz Abdurrahman Thoyyib, Lc.",
-   "lokasi": "Al Furqon, Bojongkulur",
-   "alamat": "",
+   "judul": "Kajian Ilmiah Muslimah MT Al-Karimah - Dosa Besar dalam Hal Ibadah",
+   "pemateri": "Ustadz Sulam Mustareja",
+   "lokasi": "Masjid Mu'adz bin Jabal",
+   "alamat": "Jl. Kavling Bulog, Bojong Kulur, Gunung Putri, Kab. Bogor",
    "kota": "Bogor",
-   "tanggal": "2026-11-15",
-   "mulai": "05:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Safari Dakwah Jabodetabek, ba'da Shubuh s/d selesai.",
+   "tanggal": "2026-11-19",
+   "mulai": "09:00",
+   "selesai": "11:00",
+   "kategori": "Kajian Muslimah",
+   "deskripsi": "Bimbingan Islam: Dosa Besar dalam Hal Ibadah.",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/s/jadwalkajianID/384668"
+    "https://t.me/s/jadwalkajianID/385507"
    ],
-   "terakhir_terlihat": "2026-11-12",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "sedang"
   },
   {
-   "judul": "Safari Dakwah - Tanya Jawab Seputar Manhaj",
-   "pemateri": "Ustadz Abdurrahman Thoyyib, Lc.",
-   "lokasi": "Masjid Mu'adz bin Jabal",
-   "alamat": "Bojongkulur",
+   "judul": "Kajian Panduan Keluarga Sakinah (Bab 6)",
+   "pemateri": "Ustadz Ali Hasan Bawazier",
+   "lokasi": "Masjid Al Furqon Vila Nusa Indah Blok Z",
+   "alamat": "Vila Nusa Indah Blok Z, Bojongkulur, Gunung Putri",
    "kota": "Bogor",
-   "tanggal": "2026-11-15",
-   "mulai": "09:00",
+   "tanggal": "2026-11-19",
+   "mulai": "09:30",
    "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Safari Dakwah Jabodetabek, 09:00 s/d selesai.",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian ikhwan & akhwat untuk umum; Panduan Keluarga Sakinah Bab 6.",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/s/jadwalkajianID/384668"
+    "https://t.me/s/jadwalkajianID/385509"
    ],
-   "terakhir_terlihat": "2026-11-12",
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Rutin Kamis ke-3 MT Lin-Nisaa - Tafsir Ayat-Ayat tentang Wanita",
+   "pemateri": "Ustadzah Ummu Ihsan Choiriyah",
+   "lokasi": "Baitul Qur'an Lin-Nisaa",
+   "alamat": "Nirwana Estate, Cikaret, Cibinong",
+   "kota": "Bogor",
+   "tanggal": "2026-11-19",
+   "mulai": "09:00",
+   "selesai": "10:45",
+   "kategori": "Kajian Muslimah",
+   "deskripsi": "Khusus muslimah; Surah An-Nisaa ayat 97-100 (wajibnya hijrah bagi mukminin dan mukminah).",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID/385513"
+   ],
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Kamis Pagi Pekan Ketiga - Kitab Al Kabair",
+   "pemateri": "Ustadz Sofyan Chalid Ruray, Lc",
+   "lokasi": "Masjid Shafa Marwah",
+   "alamat": "Jl. Letda Nasir No.31, Nagrak, Kec. Gunung Putri, Kabupaten Bogor",
+   "kota": "Bogor",
+   "tanggal": "2026-11-19",
+   "mulai": "09:00",
+   "selesai": "11:00",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian umum ikhwan & akhwat; Al Kabair bab 22-24.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID/385516"
+   ],
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Rutin MUNIIRA: Fiqih Wanita (Pertemuan ke-13)",
+   "pemateri": "Ustadzah Ummu Ihsan Choiriyah",
+   "lokasi": "MUNIIRA Office - Halal Destination",
+   "alamat": "Jl. Alternatif Cibubur, Cileungsi, Kabupaten Bogor 16820",
+   "kota": "Bogor",
+   "tanggal": "2026-11-19",
+   "mulai": "13:00",
+   "selesai": "",
+   "kategori": "Kajian Muslimah",
+   "deskripsi": "Kajian rutin serial Fiqih Wanita, khusus muslimah.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID/385515"
+   ],
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Tadabbur (Ku Awali dengan Bismillah) - MT Taqwa Serenity",
+   "pemateri": "Ustadz Hisyam Mukhlas Arruyani",
+   "lokasi": "Masjid Alumni IPB",
+   "alamat": "Jl. Cidangiang, Baranangsiang, Kota Bogor",
+   "kota": "Bogor",
+   "tanggal": "2026-11-20",
+   "mulai": "07:00",
+   "selesai": "10:30",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian umum ikhwan & akhwat.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://majlis.id/events/2933d3fa-8a4e-41b5-b100-1b7b73388517"
+   ],
+   "terakhir_terlihat": "2026-11-19",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "SAM Day Art Space: Voices of Liberation - Into the Path of Al Aqsha",
+   "pemateri": "Ustadzah Idzni Fitri",
+   "lokasi": "Masjid Raya Al Muttaqin",
+   "alamat": "Jalan Achmad Adnawijaya 112, Tegal Gundil, Bogor Utara, Kota Bogor",
+   "kota": "Bogor",
+   "tanggal": "2026-11-29",
+   "mulai": "08:00",
+   "selesai": "18:00",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Acara SAM Day Art Space, kajian umum ikhwan & akhwat.",
+   "online": false,
+   "tautan": "https://bit.ly/SAMDAYArtSpace",
+   "sumber": [
+    "https://majlis.id/events/c0dac8ab-7455-4591-b6e6-3287f17a18ce"
+   ],
+   "terakhir_terlihat": "2026-11-19",
    "confidence": "sedang"
   }
  ]
