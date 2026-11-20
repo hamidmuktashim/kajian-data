@@ -1,6 +1,6 @@
 {
  "kota": "Surabaya",
- "dicek": "2026-11-14",
+ "dicek": "2026-11-20",
  "kajian": [
   {
    "judul": "Kitab Bulughul Maram",
@@ -29,11 +29,12 @@
    "mulai": "18:15",
    "selesai": "",
    "kategori": "Aqidah",
-   "deskripsi": "Rutin setiap Selasa, ba'da Maghrib.",
+   "deskripsi": "Rutin setiap hari Selasa, ba'da Maghrib (pertemuan ke-64 pada 17 Nov 2026).",
    "sumber": [
+    "https://t.me/surabayamengaji/44857",
     "https://t.me/s/surabayamengaji"
    ],
-   "terakhir_terlihat": "2026-11-08",
+   "terakhir_terlihat": "2026-11-16",
    "confidence": "sedang"
   },
   {
@@ -48,6 +49,7 @@
    "kategori": "Kajian Muslimah",
    "deskripsi": "Rutin setiap Ahad sore khusus muslimah, diselenggarakan Surabaya Mengaji (hadits ke-48 pada 15 Nov 2026).",
    "sumber": [
+    "https://t.me/surabayamengaji/44836",
     "https://t.me/s/surabayamengaji"
    ],
    "terakhir_terlihat": "2026-11-14",
@@ -56,23 +58,23 @@
  ],
  "agenda": [
   {
-   "judul": "Mari Belajar (MABAR) #10 - Ketika Takdir Tak Sesuai Harapan",
-   "pemateri": "Ustadz Muhammad Halid Syar'ie, Lc.",
-   "lokasi": "Zoom Meeting",
-   "alamat": "",
+   "judul": "40 Hadits Tentang Tarbiyah & Manhaj (Pertemuan ke-12)",
+   "pemateri": "Ustadz Dr. Fadlan Fahamsyah, Lc., M.H.I.",
+   "lokasi": "Masjid al-Islamiyyah",
+   "alamat": "Jl. Petemon Sidomulyo IV No. 113 (Jl. Pacuan Kuda), Surabaya",
    "kota": "Surabaya",
-   "tanggal": "2026-11-14",
-   "mulai": "19:30",
-   "selesai": "21:00",
-   "kategori": "Kajian Online",
-   "deskripsi": "Gratis; tautan Zoom dibagikan di komunitas WhatsApp.",
-   "online": true,
+   "tanggal": "2026-11-22",
+   "mulai": "10:00",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian rutin Surabaya Mengaji setiap Ahad ke-4, sampai menjelang Dhuhur; gratis, terbuka untuk umum muslim dan muslimah.",
+   "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/s/surabayamengaji"
+    "https://t.me/surabayamengaji/44902"
    ],
-   "terakhir_terlihat": "2026-11-12",
-   "confidence": "sedang"
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "tinggi"
   }
  ]
 }
