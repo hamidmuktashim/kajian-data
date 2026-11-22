@@ -1,6 +1,6 @@
 {
  "kota": "Bekasi",
- "dicek": "2026-11-16",
+ "dicek": "2026-11-22",
  "kajian": [
   {
    "judul": "Kitab Al-Jadid Syarh Kitabut Tauhid",
@@ -114,11 +114,12 @@
    "mulai": "09:30",
    "selesai": "11:00",
    "kategori": "Kajian Kitab",
-   "deskripsi": "Diumumkan sebagai kajian rutin pada post Selasa 29 September 2026.",
+   "deskripsi": "Kajian rutin Selasa Kajian Sahabat Muslimah; pemateri/kitab bergantian (17 Nov 2026: Ustadz Sofyan Chalid Ruray, 25 Kaidah Tauhid).",
    "sumber": [
+    "https://t.me/jadwalkajianID/385276",
     "https://t.me/jadwalkajianID/378861"
    ],
-   "terakhir_terlihat": "2026-09-29",
+   "terakhir_terlihat": "2026-11-16",
    "confidence": "sedang"
   },
   {
@@ -167,9 +168,10 @@
    "kategori": "Al-Qur'an",
    "deskripsi": "Telegram: \"Ba'da Subuh – selesai (rabu & kamis)\".",
    "sumber": [
+    "https://t.me/jadwalkajianID/385422",
     "https://t.me/jadwalkajianID/382693"
    ],
-   "terakhir_terlihat": "2026-10-29",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "sedang"
   },
   {
@@ -220,7 +222,7 @@
    "sumber": [
     "https://attaqwarawalumbu.org/kajian-isya/"
    ],
-   "terakhir_terlihat": "2026-11-16",
+   "terakhir_terlihat": "2026-11-22",
    "confidence": "tinggi"
   },
   {
@@ -237,7 +239,7 @@
    "sumber": [
     "https://attaqwarawalumbu.org/kajian-isya/"
    ],
-   "terakhir_terlihat": "2026-11-16",
+   "terakhir_terlihat": "2026-11-22",
    "confidence": "tinggi"
   },
   {
@@ -254,7 +256,7 @@
    "sumber": [
     "https://attaqwarawalumbu.org/kajian-isya/"
    ],
-   "terakhir_terlihat": "2026-11-16",
+   "terakhir_terlihat": "2026-11-22",
    "confidence": "tinggi"
   },
   {
@@ -271,7 +273,7 @@
    "sumber": [
     "https://attaqwarawalumbu.org/kajian-rutin-khusus-muslimah/"
    ],
-   "terakhir_terlihat": "2026-11-16",
+   "terakhir_terlihat": "2026-11-22",
    "confidence": "tinggi"
   },
   {
@@ -288,7 +290,7 @@
    "sumber": [
     "https://attaqwarawalumbu.org/kajian-rutin-khusus-muslimah/"
    ],
-   "terakhir_terlihat": "2026-11-16",
+   "terakhir_terlihat": "2026-11-22",
    "confidence": "tinggi"
   },
   {
@@ -305,123 +307,164 @@
    "sumber": [
     "https://attaqwarawalumbu.org/kajian-rutin-khusus-muslimah/"
    ],
-   "terakhir_terlihat": "2026-11-16",
+   "terakhir_terlihat": "2026-11-22",
    "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Rutin Ahad Ba'da Maghrib",
+   "pemateri": "",
+   "lokasi": "Masjid At-Taqwa Harapan Baru Regency",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 7,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian",
+   "deskripsi": "\"Ba'da Maghrib\"; pekan 1 & 3: Tanbihul Ghofilin (Ust. Muhammad Nur Chaliq), pekan 2 & 4: Kutubussittah (Ust Abdurrahman Dasrul).",
+   "sumber": [
+    "https://mawaqit.net/id/m/at-taqwa-harapan-baru-regency-kota-bekasi-17133-indonesia"
+   ],
+   "terakhir_terlihat": "2026-03-28",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Senin Ceria At-Taqwa",
+   "pemateri": "",
+   "lokasi": "Masjid At-Taqwa Harapan Baru Regency",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 1,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian",
+   "deskripsi": "\"Setiap Senin Ba'da Maghrib\"; bergantian Bahasa Arab Dasar, Doa Keseharian, Cerita Sahabat, Tahsin Surat Pendek (Ust. Fadil / Ust Ilyas).",
+   "sumber": [
+    "https://mawaqit.net/id/m/at-taqwa-harapan-baru-regency-kota-bekasi-17133-indonesia"
+   ],
+   "terakhir_terlihat": "2026-03-28",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Rutin Selasa Ba'da Maghrib",
+   "pemateri": "",
+   "lokasi": "Masjid At-Taqwa Harapan Baru Regency",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 2,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Fiqih",
+   "deskripsi": "\"Ba'da Maghrib\"; pekan 1 & 3: Fiqih Tematik (Ust Ilham Tabrani), pekan 2 & 4: Al-Mu'tamad fi Al-Fiqh Asy-Syafi'i (Dr. Ahmad Rubai).",
+   "sumber": [
+    "https://mawaqit.net/id/m/at-taqwa-harapan-baru-regency-kota-bekasi-17133-indonesia"
+   ],
+   "terakhir_terlihat": "2026-03-28",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Rutin Rabu Ba'da Maghrib",
+   "pemateri": "",
+   "lokasi": "Masjid At-Taqwa Harapan Baru Regency",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 3,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian",
+   "deskripsi": "\"Ba'da Maghrib\"; pekan 1 & 3: Tafsir Ibnu Katsir (Ust. Muhammad Afif), pekan 2: Adabul Mufrod & pekan 4: Shirah Nabawiyah (Ust Abdul Muyassir).",
+   "sumber": [
+    "https://mawaqit.net/id/m/at-taqwa-harapan-baru-regency-kota-bekasi-17133-indonesia"
+   ],
+   "terakhir_terlihat": "2026-03-28",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Rutin Jumat Ba'da Maghrib",
+   "pemateri": "",
+   "lokasi": "Masjid At-Taqwa Harapan Baru Regency",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 5,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian",
+   "deskripsi": "\"Ba'da Maghrib\"; pekan 1 & 3: Riyadhus Shalihin (Abu Muhammadain, Lc. MA), pekan 2 & 4: Kitab Aqidah (Ust Asrori).",
+   "sumber": [
+    "https://mawaqit.net/id/m/at-taqwa-harapan-baru-regency-kota-bekasi-17133-indonesia"
+   ],
+   "terakhir_terlihat": "2026-03-28",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Tahsin Al-Quran",
+   "pemateri": "",
+   "lokasi": "Masjid At-Taqwa Harapan Baru Regency",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 6,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Tahsin",
+   "deskripsi": "\"Setiap hari Sabtu ba'da Maghrib\"; Ust Abdul Syukur (pekan 1 & 2), Ust Abdul Syakur (pekan 3 & 4).",
+   "sumber": [
+    "https://mawaqit.net/id/m/at-taqwa-harapan-baru-regency-kota-bekasi-17133-indonesia"
+   ],
+   "terakhir_terlihat": "2026-03-28",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Kajian Rutin Jum'at Malam",
+   "pemateri": "",
+   "lokasi": "Masjid At-Taqwa BPN, Lippo Cikarang",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 5,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian",
+   "deskripsi": "Terbuka untuk umum, \"Ba'da Maghrib s/d Selesai\"; pekan ke-3: Ustadz Muhlis Mubarok, Lc, kitab Bahjatun Nazhirin (Syarah Riyadhush Shalihin).",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385667"
+   ],
+   "terakhir_terlihat": "2026-11-19",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Kamis Muslimah Taman Sentosa Cikarang",
+   "pemateri": "",
+   "lokasi": "Masjid Arrahman Taman Sentosa Cikarang",
+   "alamat": "",
+   "kota": "Bekasi",
+   "hari": 4,
+   "mulai": "09:00",
+   "selesai": "11:00",
+   "kategori": "Muslimah",
+   "deskripsi": "Kajian rutin khusus muslimah (offline & online); pekan ke-3: Ustadz Erfandoni Tarmidzi, kitab Harta Haram Muamalat Kontemporer.",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385494"
+   ],
+   "terakhir_terlihat": "2026-11-18",
+   "confidence": "sedang"
   }
  ],
  "agenda": [
   {
-   "judul": "Kajian Khusus Muslimah MT Al Mumtaz Shalihah: Sifat Wudhu Nabi",
-   "pemateri": "Ustadzah Umi Yunengsih",
-   "lokasi": "Masjid Al Mukmin, Blok T Dukuh Zamrud",
-   "alamat": "",
+   "judul": "Kajian Tafsir: Tafsir Ayat-Ayat Pilihan",
+   "pemateri": "Ustadz Dr. Firanda Andirja, M.A.",
+   "lokasi": "Masjid Al-Ikhlas Dukuh Bima",
+   "alamat": "Tambun, Kab. Bekasi",
    "kota": "Bekasi",
-   "tanggal": "2026-11-16",
-   "mulai": "08:30",
-   "selesai": "10:00",
-   "kategori": "Muslimah",
-   "deskripsi": "Kajian khusus muslimah, Senin pekan ke-3.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385175"
-   ],
-   "terakhir_terlihat": "2026-11-15",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Rutin Kitab Shahih Fiqih Sunnah: Bab Adab Berhias dan Berpakaian #6",
-   "pemateri": "Ust. Muhammad Anwar, Lc, M.Pd",
-   "lokasi": "Masjid Al Ikhlas Dukuh Bima",
-   "alamat": "",
-   "kota": "Bekasi",
-   "tanggal": "2026-11-16",
-   "mulai": "09:00",
-   "selesai": "",
-   "kategori": "Muslimah",
-   "deskripsi": "Kajian rutin kitab khusus muslimah.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385176"
-   ],
-   "terakhir_terlihat": "2026-11-15",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Rutin Senin: Menyelesaikan Sengketa (Hadits-Hadits Jual Beli & Bisnis)",
-   "pemateri": "Ustadz Irham Maulana, Lc., M.H.",
-   "lokasi": "Masjid Al Ikhlas Prima Harapan Regensi",
-   "alamat": "",
-   "kota": "Bekasi",
-   "tanggal": "2026-11-16",
-   "mulai": "09:00",
-   "selesai": "10:30",
-   "kategori": "Kajian Kitab",
-   "deskripsi": "Kajian rutin Senin untuk umum, bahasan kitab Untaian Mutiara Faidah Hadits-Hadits Jual Beli & Bisnis.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385177"
-   ],
-   "terakhir_terlihat": "2026-11-15",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Rutin Muslimah: Fikih Wanita, Hak Wanita Dalam Islam (lanjutan)",
-   "pemateri": "Ustadz Fatahillah Aly, S.Ag, M.Ag",
-   "lokasi": "Masjid Jami' RMG",
-   "alamat": "Jl. Bumur III Gang Masjid RMG No.01 RT 02 RW 01, Jatirangga, Jatisampurna, Kota Bekasi",
-   "kota": "Bekasi",
-   "tanggal": "2026-11-16",
-   "mulai": "09:00",
-   "selesai": "10:30",
-   "kategori": "Muslimah",
-   "deskripsi": "Kajian rutin muslimah, Fikih Wanita Bab II Pasal 2.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385180"
-   ],
-   "terakhir_terlihat": "2026-11-15",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Kitab Al Ushul Ats Tsalatsah: Roja' / Rasa Harap",
-   "pemateri": "Ustadz Ali Hasan Bawazier",
-   "lokasi": "Salon Fayza (MT Al Ikhlash JBE), seberang Superindo",
-   "alamat": "Jl. Ratna - Jatibening, RT 002/RW 001, Jatibening, Kec. Pondok Gede, Kota Bekasi",
-   "kota": "Bekasi",
-   "tanggal": "2026-11-16",
-   "mulai": "09:30",
-   "selesai": "11:30",
-   "kategori": "Muslimah",
-   "deskripsi": "Kajian offline khusus muslimah dan terbuka untuk umum.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385179"
-   ],
-   "terakhir_terlihat": "2026-11-15",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Kitab Arbain An-Nawawi: Syarat Laa Ilaaha Illallah",
-   "pemateri": "Ustadz Abu Yahya Badru Salam, Lc.",
-   "lokasi": "Masjid Al-Muchlishin, Jatiluhur, Jatiasih",
-   "alamat": "",
-   "kota": "Bekasi",
-   "tanggal": "2026-11-16",
+   "tanggal": "2026-11-22",
    "mulai": "18:15",
    "selesai": "",
-   "kategori": "Kajian Kitab",
-   "deskripsi": "\"Ba'da Maghrib\"; kajian rutin setiap Senin pekan ke-1 & ke-3, terbuka untuk umum.",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "\"Ba'da Maghrib - Selesai\", live di YouTube UFA Official.",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/jadwalkajianID/385181"
+    "https://t.me/jadwalkajianID/386100"
    ],
-   "terakhir_terlihat": "2026-11-15",
+   "terakhir_terlihat": "2026-11-21",
    "confidence": "sedang"
   }
  ]
