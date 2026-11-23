@@ -1,6 +1,6 @@
 {
  "kota": "Makassar",
- "dicek": "2026-11-17",
+ "dicek": "2026-11-23",
  "kajian": [
   {
    "judul": "Pokok-Pokok Aqidah Ahlus Sunnah",
@@ -17,7 +17,7 @@
     "https://sites.google.com/view/assunnahmakassar/jadwal-kajian",
     "https://t.me/passunnahmks/4953"
    ],
-   "terakhir_terlihat": "2026-11-17",
+   "terakhir_terlihat": "2026-11-23",
    "confidence": "tinggi"
   },
   {
@@ -32,9 +32,10 @@
    "kategori": "Hadits",
    "deskripsi": "Kajian rutin Selasa ba'da Maghrib, kitab karya Muhammad bin Ismail Al-Bukhariy.",
    "sumber": [
-    "https://sites.google.com/view/assunnahmakassar/jadwal-kajian"
+    "https://sites.google.com/view/assunnahmakassar/jadwal-kajian",
+    "https://t.me/passunnahmks/4958"
    ],
-   "terakhir_terlihat": "2026-11-17",
+   "terakhir_terlihat": "2026-11-23",
    "confidence": "tinggi"
   },
   {
@@ -49,9 +50,10 @@
    "kategori": "Fiqih",
    "deskripsi": "Kajian rutin Rabu ba'da Maghrib, kitab karya Syaikh Abdurrazzaq bin Abdul Muhsin Al-Badr.",
    "sumber": [
-    "https://sites.google.com/view/assunnahmakassar/jadwal-kajian"
+    "https://sites.google.com/view/assunnahmakassar/jadwal-kajian",
+    "https://t.me/passunnahmks/4963"
    ],
-   "terakhir_terlihat": "2026-11-17",
+   "terakhir_terlihat": "2026-11-23",
    "confidence": "tinggi"
   },
   {
@@ -429,5 +431,126 @@
    "confidence": "sedang"
   }
  ],
- "agenda": []
+ "agenda": [
+  {
+   "judul": "Daurah Fikih Intensif Umdatul Ahkam: Hadis-Hadis Landasan Ahli Fikih",
+   "pemateri": "Ustadz Dzulqarnain M. Sunusi",
+   "lokasi": "Masjid As-Sunnah Makassar",
+   "alamat": "Jl. Baji Rupa No. 8 Makassar",
+   "kota": "Makassar",
+   "tanggal": "2026-11-25",
+   "mulai": "10:00",
+   "selesai": "21:00",
+   "kategori": "Dauroh",
+   "deskripsi": "Daurah 25-30 November 2026, 4 sesi tiap hari (WITA): 10.00-11.50, 12.20-13.20, 16.00-18.00, 19.00-21.00; gratis, terbuka untuk umum.",
+   "online": false,
+   "tautan": "https://markazdakwah.or.id/daftar-daurah-umdatulahkam",
+   "sumber": [
+    "https://t.me/passunnahmks/4972",
+    "https://t.me/radioannashihah/6761"
+   ],
+   "terakhir_terlihat": "2026-11-22",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Daurah Fikih Intensif Umdatul Ahkam: Hadis-Hadis Landasan Ahli Fikih",
+   "pemateri": "Ustadz Dzulqarnain M. Sunusi",
+   "lokasi": "Masjid As-Sunnah Makassar",
+   "alamat": "Jl. Baji Rupa No. 8 Makassar",
+   "kota": "Makassar",
+   "tanggal": "2026-11-26",
+   "mulai": "10:00",
+   "selesai": "21:00",
+   "kategori": "Dauroh",
+   "deskripsi": "Daurah 25-30 November 2026, 4 sesi tiap hari (WITA): 10.00-11.50, 12.20-13.20, 16.00-18.00, 19.00-21.00; gratis, terbuka untuk umum.",
+   "online": false,
+   "tautan": "https://markazdakwah.or.id/daftar-daurah-umdatulahkam",
+   "sumber": [
+    "https://t.me/passunnahmks/4972",
+    "https://t.me/radioannashihah/6761"
+   ],
+   "terakhir_terlihat": "2026-11-22",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Daurah Fikih Intensif Umdatul Ahkam: Hadis-Hadis Landasan Ahli Fikih",
+   "pemateri": "Ustadz Dzulqarnain M. Sunusi",
+   "lokasi": "Masjid As-Sunnah Makassar",
+   "alamat": "Jl. Baji Rupa No. 8 Makassar",
+   "kota": "Makassar",
+   "tanggal": "2026-11-27",
+   "mulai": "10:00",
+   "selesai": "21:00",
+   "kategori": "Dauroh",
+   "deskripsi": "Daurah 25-30 November 2026, 4 sesi tiap hari (WITA): 10.00-11.50, 12.20-13.20, 16.00-18.00, 19.00-21.00; gratis, terbuka untuk umum.",
+   "online": false,
+   "tautan": "https://markazdakwah.or.id/daftar-daurah-umdatulahkam",
+   "sumber": [
+    "https://t.me/passunnahmks/4972",
+    "https://t.me/radioannashihah/6761"
+   ],
+   "terakhir_terlihat": "2026-11-22",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Daurah Fikih Intensif Umdatul Ahkam: Hadis-Hadis Landasan Ahli Fikih",
+   "pemateri": "Ustadz Dzulqarnain M. Sunusi",
+   "lokasi": "Masjid As-Sunnah Makassar",
+   "alamat": "Jl. Baji Rupa No. 8 Makassar",
+   "kota": "Makassar",
+   "tanggal": "2026-11-28",
+   "mulai": "10:00",
+   "selesai": "21:00",
+   "kategori": "Dauroh",
+   "deskripsi": "Daurah 25-30 November 2026, 4 sesi tiap hari (WITA): 10.00-11.50, 12.20-13.20, 16.00-18.00, 19.00-21.00; gratis, terbuka untuk umum.",
+   "online": false,
+   "tautan": "https://markazdakwah.or.id/daftar-daurah-umdatulahkam",
+   "sumber": [
+    "https://t.me/passunnahmks/4972",
+    "https://t.me/radioannashihah/6761"
+   ],
+   "terakhir_terlihat": "2026-11-22",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Daurah Fikih Intensif Umdatul Ahkam: Hadis-Hadis Landasan Ahli Fikih",
+   "pemateri": "Ustadz Dzulqarnain M. Sunusi",
+   "lokasi": "Masjid As-Sunnah Makassar",
+   "alamat": "Jl. Baji Rupa No. 8 Makassar",
+   "kota": "Makassar",
+   "tanggal": "2026-11-29",
+   "mulai": "10:00",
+   "selesai": "21:00",
+   "kategori": "Dauroh",
+   "deskripsi": "Daurah 25-30 November 2026, 4 sesi tiap hari (WITA): 10.00-11.50, 12.20-13.20, 16.00-18.00, 19.00-21.00; gratis, terbuka untuk umum.",
+   "online": false,
+   "tautan": "https://markazdakwah.or.id/daftar-daurah-umdatulahkam",
+   "sumber": [
+    "https://t.me/passunnahmks/4972",
+    "https://t.me/radioannashihah/6761"
+   ],
+   "terakhir_terlihat": "2026-11-22",
+   "confidence": "tinggi"
+  },
+  {
+   "judul": "Daurah Fikih Intensif Umdatul Ahkam: Hadis-Hadis Landasan Ahli Fikih",
+   "pemateri": "Ustadz Dzulqarnain M. Sunusi",
+   "lokasi": "Masjid As-Sunnah Makassar",
+   "alamat": "Jl. Baji Rupa No. 8 Makassar",
+   "kota": "Makassar",
+   "tanggal": "2026-11-30",
+   "mulai": "10:00",
+   "selesai": "21:00",
+   "kategori": "Dauroh",
+   "deskripsi": "Daurah 25-30 November 2026, 4 sesi tiap hari (WITA): 10.00-11.50, 12.20-13.20, 16.00-18.00, 19.00-21.00; gratis, terbuka untuk umum.",
+   "online": false,
+   "tautan": "https://markazdakwah.or.id/daftar-daurah-umdatulahkam",
+   "sumber": [
+    "https://t.me/passunnahmks/4972",
+    "https://t.me/radioannashihah/6761"
+   ],
+   "terakhir_terlihat": "2026-11-22",
+   "confidence": "tinggi"
+  }
+ ]
 }

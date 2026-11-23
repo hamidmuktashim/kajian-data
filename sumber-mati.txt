@@ -60,3 +60,7 @@ https://tarbiyahsunnah.com/event_tag/kajian-rutin/ — koneksi putus (HTTP/2 PRO
 https://kabarharmoni.com — hidup, tapi beranda hanya berita umum, tidak ada jadwal Masjid Al-Lathiif yang baru (2026-11-18), tidak perlu dicek ulang sampai 2026-12-18
 https://alsofwa.com/layanan/kajian-rutin-masjid-jami-al-sofwa/ — hidup, tapi tidak memuat hari/jam kajian (2026-11-18), tidak perlu dicek ulang sampai 2026-12-18
 https://masjidrayaaljabbar.com — hidup, hanya menyebut "tiap ba'da Subuh dan Dzuhur" tanpa hari/judul/pemateri; tidak diambil (2026-11-18), tidak perlu dicek ulang sampai 2026-12-18
+https://masjidjogokariyan.com — 523 (origin tidak terjangkau), dicoba 2x (2026-11-23), jangan coba lagi sampai 2026-12-23
+https://t.me/s/masjidjogokariyan — hidup tapi post terakhir 2024-01-15, tidak ada jadwal baru (2026-11-23), tidak perlu dicek ulang sampai 2026-12-23
+https://masjidnurulashri.com — hidup, tapi hanya donasi/kelas tahsin, tanpa jadwal kajian berhari+jam (2026-11-23), tidak perlu dicek ulang sampai 2026-12-23
+https://muslimah.or.id/jadwal-kajian-rutin dan https://radiomuslim.com/hadirilah-kembali-kajian-rutin-pekanan/ — 403 Forbidden (crawler diblokir), entri terkait tidak bisa diverifikasi ulang (2026-11-23), jangan coba lagi sampai 2026-12-23

@@ -1,6 +1,6 @@
 {
  "versi": 2,
- "diperbarui": "2026-11-22T08:14+07:00",
+ "diperbarui": "2026-11-23T08:13+07:00",
  "kota": [
   "Bandung",
   "Bekasi",
@@ -16,8 +16,8 @@
   "Tangerang",
   "Yogyakarta"
  ],
- "jumlah": 274,
- "jumlah_agenda": 16,
+ "jumlah": 275,
+ "jumlah_agenda": 19,
  "kajian": [
   {
    "judul": "Kajian Tafsir Taisir Al-Karim Ar-Rahman",
@@ -3835,7 +3835,7 @@
     "https://sites.google.com/view/assunnahmakassar/jadwal-kajian",
     "https://t.me/passunnahmks/4953"
    ],
-   "terakhir_terlihat": "2026-11-17",
+   "terakhir_terlihat": "2026-11-23",
    "confidence": "tinggi",
    "id": "kj_b21cd25c6c",
    "pertama_terlihat": "2026-09-18"
@@ -3928,9 +3928,10 @@
    "kategori": "Hadits",
    "deskripsi": "Kajian rutin Selasa ba'da Maghrib, kitab karya Muhammad bin Ismail Al-Bukhariy.",
    "sumber": [
-    "https://sites.google.com/view/assunnahmakassar/jadwal-kajian"
+    "https://sites.google.com/view/assunnahmakassar/jadwal-kajian",
+    "https://t.me/passunnahmks/4958"
    ],
-   "terakhir_terlihat": "2026-11-17",
+   "terakhir_terlihat": "2026-11-23",
    "confidence": "tinggi",
    "id": "kj_084bbe40ea",
    "pertama_terlihat": "2026-09-18"
@@ -4023,9 +4024,10 @@
    "kategori": "Fiqih",
    "deskripsi": "Kajian rutin Rabu ba'da Maghrib, kitab karya Syaikh Abdurrazzaq bin Abdul Muhsin Al-Badr.",
    "sumber": [
-    "https://sites.google.com/view/assunnahmakassar/jadwal-kajian"
+    "https://sites.google.com/view/assunnahmakassar/jadwal-kajian",
+    "https://t.me/passunnahmks/4963"
    ],
-   "terakhir_terlihat": "2026-11-17",
+   "terakhir_terlihat": "2026-11-23",
    "confidence": "tinggi",
    "id": "kj_fc17ef893a",
    "pertama_terlihat": "2026-09-18"
@@ -4812,11 +4814,12 @@
    "kategori": "Kajian Umum",
    "deskripsi": "Kajian rutin Senin pukul 17.00 WIB sampai menjelang maghrib, terbuka untuk umum, pemateri bergantian.",
    "sumber": [
+    "https://t.me/masjidpogungraya/8606",
     "https://t.me/masjidpogungraya/8591",
     "https://t.me/masjidpogungraya/8578",
     "https://t.me/masjidpogungraya/8563"
    ],
-   "terakhir_terlihat": "2026-11-15",
+   "terakhir_terlihat": "2026-11-22",
    "confidence": "tinggi",
    "id": "kj_c62d6bde78",
    "pertama_terlihat": "2026-11-17"
@@ -5052,17 +5055,18 @@
    "kategori": "Kajian Kitab",
    "deskripsi": "\"Ba'da Maghrib - selesai\", membahas kitab Sunanun Nabiyya wa Adzkaruhul Yaumiyyah karya Syaikh Abdullah bin Hamud Al Farih.",
    "sumber": [
+    "https://t.me/masjidpogungdalangan/12338",
     "https://t.me/masjidpogungdalangan/12290",
     "https://t.me/masjidpogungdalangan/12248"
    ],
-   "terakhir_terlihat": "2026-11-10",
+   "terakhir_terlihat": "2026-11-17",
    "confidence": "tinggi",
    "id": "kj_c5e3a6fcb1",
    "pertama_terlihat": "2026-11-17"
   },
   {
    "judul": "Kajian Rutin Rabu Petang MPR",
-   "pemateri": "Ustadz Afifi Abdul Wadud, B.A.",
+   "pemateri": "Ustadz Afifi Abdul Wadud, B.A. / Ustadz Sulaiman Rasyid, S.T. (bergantian tiap pekan)",
    "lokasi": "Masjid Pogung Raya",
    "alamat": "Pogung Kampung Hijrah, Yogyakarta",
    "kota": "Yogyakarta",
@@ -5072,11 +5076,12 @@
    "kategori": "Kajian Kitab",
    "deskripsi": "\"Ba'da Maghrib - selesai\", kitab Ad-Daa' wa Ad-Dawaa' karya Ibnul Qayyim; pada 4 November 2026 diisi Ustadz Sulaiman Rasyid.",
    "sumber": [
+    "https://t.me/masjidpogungraya/8594",
     "https://t.me/masjidpogungraya/8581",
     "https://t.me/masjidpogungraya/8566",
     "https://t.me/masjidpogungraya/8553"
    ],
-   "terakhir_terlihat": "2026-11-10",
+   "terakhir_terlihat": "2026-11-17",
    "confidence": "tinggi",
    "id": "kj_10204febe1",
    "pertama_terlihat": "2026-11-17"
@@ -5093,10 +5098,11 @@
    "kategori": "Kajian Muslimah",
    "deskripsi": "Majelis Taman Surga hari Kamis, kajian muslimah; diliburkan pada 12 November 2026.",
    "sumber": [
+    "https://t.me/masjidpogungdalangan/12348",
     "https://t.me/masjidpogungdalangan/12259",
     "https://t.me/masjidpogungdalangan/12300"
    ],
-   "terakhir_terlihat": "2026-11-11",
+   "terakhir_terlihat": "2026-11-19",
    "confidence": "tinggi",
    "id": "kj_f3de6ba18f",
    "pertama_terlihat": "2026-11-17"
@@ -5151,10 +5157,11 @@
    "kategori": "Kajian Umum",
    "deskripsi": "Kajian jelang buka puasa sunnah Kamis sampai menjelang Maghrib; pengumuman 12 Nov menulis 16.45, pengumuman 5 Nov menulis 16.30.",
    "sumber": [
+    "https://t.me/masjidpogungdalangan/12348",
     "https://t.me/masjidpogungdalangan/12300",
     "https://t.me/masjidpogungdalangan/12259"
    ],
-   "terakhir_terlihat": "2026-11-11",
+   "terakhir_terlihat": "2026-11-19",
    "confidence": "tinggi",
    "id": "kj_b86e803242",
    "pertama_terlihat": "2026-11-17"
@@ -5171,11 +5178,12 @@
    "kategori": "Kajian Umum",
    "deskripsi": "Kajian rutin Kamis pukul 17.00 sampai selesai, terbuka untuk umum, pemateri bergantian.",
    "sumber": [
+    "https://t.me/masjidpogungraya/8597",
     "https://t.me/masjidpogungraya/8583",
     "https://t.me/masjidpogungraya/8571",
     "https://t.me/masjidpogungraya/8556"
    ],
-   "terakhir_terlihat": "2026-11-11",
+   "terakhir_terlihat": "2026-11-18",
    "confidence": "tinggi",
    "id": "kj_5e9171f1ad",
    "pertama_terlihat": "2026-11-17"
@@ -5192,12 +5200,12 @@
    "kategori": "Kajian Kitab",
    "deskripsi": "Kajian rutin Kamis malam (Maghrib–Isya) untuk umum, kitab Riyadhus Shalihin dan Matan Taqrib, dengan tanya jawab.",
    "sumber": [
+    "https://t.me/masjidpogungdalangan/12348",
     "https://t.me/kajianjogja/23629",
     "https://t.me/masjidpogungdalangan/12300",
-    "https://t.me/kajianjogja/23608",
-    "https://t.me/s/kajianjogja"
+    "https://t.me/kajianjogja/23608"
    ],
-   "terakhir_terlihat": "2026-11-12",
+   "terakhir_terlihat": "2026-11-19",
    "confidence": "tinggi",
    "id": "kj_c9978a1fcc",
    "pertama_terlihat": "2026-11-11"
@@ -5233,17 +5241,18 @@
    "kategori": "Parenting",
    "deskripsi": "Kajian parenting hari Jumat \"Ba'da Maghrib - Isya\", pemateri bergantian; diliburkan pada 6 November 2026.",
    "sumber": [
+    "https://t.me/masjidpogungdalangan/12356",
     "https://t.me/masjidpogungdalangan/12308",
     "https://t.me/masjidpogungdalangan/12265"
    ],
-   "terakhir_terlihat": "2026-11-12",
+   "terakhir_terlihat": "2026-11-19",
    "confidence": "tinggi",
    "id": "kj_354d908b58",
    "pertama_terlihat": "2026-11-17"
   },
   {
    "judul": "Kajian Rutin Jum'at Petang MPR",
-   "pemateri": "Ustadz Rizki Amipon Dasa",
+   "pemateri": "Ustadz Abu Umair, B.A., M.Pd.",
    "lokasi": "Masjid Pogung Raya",
    "alamat": "Pogung Kampung Hijrah, Yogyakarta",
    "kota": "Yogyakarta",
@@ -5251,12 +5260,14 @@
    "mulai": "18:15",
    "selesai": "",
    "kategori": "Fiqih",
-   "deskripsi": "\"Ba'da Maghrib - selesai\", materi berseri Sunnah-Sunnah dalam Shalat.",
+   "deskripsi": "Ba'da Maghrib - selesai; pembahasan Kitab Arbaunal Qalbiyyah karya Syaikh Muhammad Shalih Al-Munajjid, terbuka untuk umum (putra dan putri).",
    "sumber": [
-    "https://t.me/masjidpogungraya/8560",
-    "https://t.me/masjidpogungraya/8543"
+    "https://t.me/masjidpogungraya/8601",
+    "https://t.me/masjidpogungraya/8587",
+    "https://t.me/masjidpogungraya/8574",
+    "https://t.me/masjidpogungraya/8560"
    ],
-   "terakhir_terlihat": "2026-10-30",
+   "terakhir_terlihat": "2026-11-19",
    "confidence": "tinggi",
    "id": "kj_c684357ffa",
    "pertama_terlihat": "2026-11-17"
@@ -5290,15 +5301,38 @@
    "mulai": "18:15",
    "selesai": "",
    "kategori": "Aqidah",
-   "deskripsi": "\"Ba'da Maghrib - selesai\", membahas kitab Ushulus Sunnah karya Imam Ahmad bin Hanbal.",
+   "deskripsi": "Kajian Sabtu malam ba'da Maghrib - selesai, membahas Kitab Ushulus Sunnah; pemateri bisa berganti (21 Nov 2026 diisi Ustadz Ristiyan Ragil, S.T., M.T.).",
    "sumber": [
+    "https://t.me/masjidpogungdalangan/12364",
     "https://t.me/masjidpogungdalangan/12316",
     "https://t.me/masjidpogungdalangan/12276"
    ],
-   "terakhir_terlihat": "2026-11-13",
+   "terakhir_terlihat": "2026-11-21",
    "confidence": "tinggi",
    "id": "kj_1a56aefca1",
    "pertama_terlihat": "2026-11-17"
+  },
+  {
+   "judul": "Ngaji Bareng Sabtu Malam MPR",
+   "pemateri": "",
+   "lokasi": "Masjid Pogung Raya",
+   "alamat": "Pogung Kampung Hijrah",
+   "kota": "Yogyakarta",
+   "hari": 6,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Umum",
+   "deskripsi": "\"Yuk Ngaji Bareng Sabtu Malam di Masjid Pogung Raya\", ba'da Maghrib - selesai, terbuka untuk umum; diumumkan tiap Sabtu (31 Okt, 7, 14, 21 Nov 2026) dengan pemateri berganti.",
+   "sumber": [
+    "https://t.me/masjidpogungraya/8604",
+    "https://t.me/masjidpogungraya/8589",
+    "https://t.me/masjidpogungraya/8576",
+    "https://t.me/masjidpogungraya/8562"
+   ],
+   "terakhir_terlihat": "2026-11-21",
+   "confidence": "sedang",
+   "id": "kj_2cae076d66",
+   "pertama_terlihat": "2026-11-23"
   },
   {
    "judul": "KARUMAH (Kajian Rutin Khusus Muslimah)",
@@ -5321,133 +5355,6 @@
   }
  ],
  "agenda": [
-  {
-   "judul": "Bekal Sebelum Pulang",
-   "pemateri": "Ustadz Ahmad Ubaidillah Nasiden, Lc.",
-   "lokasi": "Masjid Annuur Pramita",
-   "alamat": "Binong, Kab. Tangerang",
-   "kota": "Tangerang",
-   "tanggal": "2026-11-21",
-   "mulai": "05:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Rangkaian safari dakwah 20–23 November 2026; ba'da Subuh.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385658"
-   ],
-   "terakhir_terlihat": "2026-11-19",
-   "confidence": "sedang",
-   "id": "ag_2aa6d2648a",
-   "pertama_terlihat": "2026-11-20"
-  },
-  {
-   "judul": "Teman Duduk",
-   "pemateri": "Ustadz Ahmad Ubaidillah Nasiden, Lc.",
-   "lokasi": "Masjid Baiturrahman Legoso",
-   "alamat": "Legoso, Ciputat",
-   "kota": "Tangerang",
-   "tanggal": "2026-11-21",
-   "mulai": "09:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Rangkaian safari dakwah 20–23 November 2026.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385658"
-   ],
-   "terakhir_terlihat": "2026-11-19",
-   "confidence": "sedang",
-   "id": "ag_72f8eb06c3",
-   "pertama_terlihat": "2026-11-20"
-  },
-  {
-   "judul": "Kajian Sabtu Dhuha: 40 Karakteristik Mereka yang Dicintai Allah (Ahbabullah) — Karakteristik ke-15",
-   "pemateri": "Ustadz Yovin Abu Hammam",
-   "lokasi": "Masjid Al-Istiqomah",
-   "alamat": "Jl. Kelapa Sawit Raya, Kelapa Gading Timur, Jakarta Utara",
-   "kota": "Jakarta Utara",
-   "tanggal": "2026-11-21",
-   "mulai": "09:30",
-   "selesai": "11:00",
-   "kategori": "Kajian Kitab",
-   "deskripsi": "Tema: Orang yang Paling Bermanfaat bagi Manusia; terbuka untuk umum ikhwan dan akhwat.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385792",
-    "https://majlis.id/events/11f9ecce-2e1d-40e7-a21d-e938f2f723db"
-   ],
-   "terakhir_terlihat": "2026-11-20",
-   "confidence": "tinggi",
-   "id": "ag_84b30b786e",
-   "pertama_terlihat": "2026-11-21"
-  },
-  {
-   "judul": "Kajian Muslimah: Jangan Hiasi Lisanmu Dengan Dusta (Bab Kebohongan)",
-   "pemateri": "Ustadzah Elly Ummu Zulfa",
-   "lokasi": "Masjid Al-Barokah",
-   "alamat": "Perumahan Buah Batu Square, Bojongsoang (masuk kawasan Transmart Buah Batu)",
-   "kota": "Bandung",
-   "tanggal": "2026-11-21",
-   "mulai": "10:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian terbuka untuk umum, khusus muslimah (dari poster).",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385774"
-   ],
-   "terakhir_terlihat": "2026-11-20",
-   "confidence": "sedang",
-   "id": "ag_43af5774e1",
-   "pertama_terlihat": "2026-11-21"
-  },
-  {
-   "judul": "Cuplikan Kehidupan Abu Bakar",
-   "pemateri": "Ustadz Ahmad Ubaidillah Nasiden, Lc.",
-   "lokasi": "Masjid Utsman bin Affan",
-   "alamat": "Pd. Aren, Tangerang Selatan",
-   "kota": "Tangerang",
-   "tanggal": "2026-11-21",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Rangkaian safari dakwah 20–23 November 2026; ba'da Maghrib.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385658"
-   ],
-   "terakhir_terlihat": "2026-11-19",
-   "confidence": "sedang",
-   "id": "ag_d49777988d",
-   "pertama_terlihat": "2026-11-20"
-  },
-  {
-   "judul": "Kajian: Terburu-buru dalam Agama",
-   "pemateri": "Ustaz Isrun Abdurrahman Umar, Lc., M.A.",
-   "lokasi": "Masjid Assunnah Lembang",
-   "alamat": "",
-   "kota": "Bandung",
-   "tanggal": "2026-11-21",
-   "mulai": "18:20",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "\"Ba'da Maghrib 18.20 WIB - Selesai\"; disiarkan langsung di YouTube masjidassunnahlembang (dari poster).",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385764"
-   ],
-   "terakhir_terlihat": "2026-11-20",
-   "confidence": "sedang",
-   "id": "ag_751409730c",
-   "pertama_terlihat": "2026-11-21"
-  },
   {
    "judul": "10 Tips agar Sholat Khusyu",
    "pemateri": "Ustadz Ahmad Ubaidillah Nasiden, Lc.",
@@ -5618,6 +5525,28 @@
    "pertama_terlihat": "2026-11-20"
   },
   {
+   "judul": "Adakah Doa Biar Jadi Kaya? (Kajian Khusus Muslimah)",
+   "pemateri": "Ustadz Dr. Muhammad Abduh Tuasikal",
+   "lokasi": "Masjid Jenderal Sudirman Kolombo",
+   "alamat": "Demangan, Caturtunggal, Depok, Sleman",
+   "kota": "Yogyakarta",
+   "tanggal": "2026-11-23",
+   "mulai": "08:30",
+   "selesai": "10:00",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Khusus muslimah; gratis tetapi wajib mendaftar melalui WhatsApp 0823-2499-3563.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/kajianjogja/23656",
+    "https://t.me/s/kajianjogja"
+   ],
+   "terakhir_terlihat": "2026-11-22",
+   "confidence": "sedang",
+   "id": "ag_edeceaa637",
+   "pertama_terlihat": "2026-11-23"
+  },
+  {
    "judul": "Karakteristik Dosa",
    "pemateri": "Ustadz Ahmad Ubaidillah Nasiden, Lc.",
    "lokasi": "Masjid Al Ikhlas Karang Tengah Permai",
@@ -5639,6 +5568,94 @@
    "pertama_terlihat": "2026-11-20"
   },
   {
+   "judul": "Daurah Fikih Intensif Umdatul Ahkam: Hadis-Hadis Landasan Ahli Fikih",
+   "pemateri": "Ustadz Dzulqarnain M. Sunusi",
+   "lokasi": "Masjid As-Sunnah Makassar",
+   "alamat": "Jl. Baji Rupa No. 8 Makassar",
+   "kota": "Makassar",
+   "tanggal": "2026-11-25",
+   "mulai": "10:00",
+   "selesai": "21:00",
+   "kategori": "Dauroh",
+   "deskripsi": "Daurah 25-30 November 2026, 4 sesi tiap hari (WITA): 10.00-11.50, 12.20-13.20, 16.00-18.00, 19.00-21.00; gratis, terbuka untuk umum.",
+   "online": false,
+   "tautan": "https://markazdakwah.or.id/daftar-daurah-umdatulahkam",
+   "sumber": [
+    "https://t.me/passunnahmks/4972",
+    "https://t.me/radioannashihah/6761"
+   ],
+   "terakhir_terlihat": "2026-11-22",
+   "confidence": "tinggi",
+   "id": "ag_235b8f481e",
+   "pertama_terlihat": "2026-11-23"
+  },
+  {
+   "judul": "Daurah Fikih Intensif Umdatul Ahkam: Hadis-Hadis Landasan Ahli Fikih",
+   "pemateri": "Ustadz Dzulqarnain M. Sunusi",
+   "lokasi": "Masjid As-Sunnah Makassar",
+   "alamat": "Jl. Baji Rupa No. 8 Makassar",
+   "kota": "Makassar",
+   "tanggal": "2026-11-26",
+   "mulai": "10:00",
+   "selesai": "21:00",
+   "kategori": "Dauroh",
+   "deskripsi": "Daurah 25-30 November 2026, 4 sesi tiap hari (WITA): 10.00-11.50, 12.20-13.20, 16.00-18.00, 19.00-21.00; gratis, terbuka untuk umum.",
+   "online": false,
+   "tautan": "https://markazdakwah.or.id/daftar-daurah-umdatulahkam",
+   "sumber": [
+    "https://t.me/passunnahmks/4972",
+    "https://t.me/radioannashihah/6761"
+   ],
+   "terakhir_terlihat": "2026-11-22",
+   "confidence": "tinggi",
+   "id": "ag_9d30cbc58d",
+   "pertama_terlihat": "2026-11-23"
+  },
+  {
+   "judul": "Daurah Fikih Intensif Umdatul Ahkam: Hadis-Hadis Landasan Ahli Fikih",
+   "pemateri": "Ustadz Dzulqarnain M. Sunusi",
+   "lokasi": "Masjid As-Sunnah Makassar",
+   "alamat": "Jl. Baji Rupa No. 8 Makassar",
+   "kota": "Makassar",
+   "tanggal": "2026-11-27",
+   "mulai": "10:00",
+   "selesai": "21:00",
+   "kategori": "Dauroh",
+   "deskripsi": "Daurah 25-30 November 2026, 4 sesi tiap hari (WITA): 10.00-11.50, 12.20-13.20, 16.00-18.00, 19.00-21.00; gratis, terbuka untuk umum.",
+   "online": false,
+   "tautan": "https://markazdakwah.or.id/daftar-daurah-umdatulahkam",
+   "sumber": [
+    "https://t.me/passunnahmks/4972",
+    "https://t.me/radioannashihah/6761"
+   ],
+   "terakhir_terlihat": "2026-11-22",
+   "confidence": "tinggi",
+   "id": "ag_7de65132d0",
+   "pertama_terlihat": "2026-11-23"
+  },
+  {
+   "judul": "Daurah Fikih Intensif Umdatul Ahkam: Hadis-Hadis Landasan Ahli Fikih",
+   "pemateri": "Ustadz Dzulqarnain M. Sunusi",
+   "lokasi": "Masjid As-Sunnah Makassar",
+   "alamat": "Jl. Baji Rupa No. 8 Makassar",
+   "kota": "Makassar",
+   "tanggal": "2026-11-28",
+   "mulai": "10:00",
+   "selesai": "21:00",
+   "kategori": "Dauroh",
+   "deskripsi": "Daurah 25-30 November 2026, 4 sesi tiap hari (WITA): 10.00-11.50, 12.20-13.20, 16.00-18.00, 19.00-21.00; gratis, terbuka untuk umum.",
+   "online": false,
+   "tautan": "https://markazdakwah.or.id/daftar-daurah-umdatulahkam",
+   "sumber": [
+    "https://t.me/passunnahmks/4972",
+    "https://t.me/radioannashihah/6761"
+   ],
+   "terakhir_terlihat": "2026-11-22",
+   "confidence": "tinggi",
+   "id": "ag_e536eff213",
+   "pertama_terlihat": "2026-11-23"
+  },
+  {
    "judul": "SAM Day Art Space: Voices of Liberation - Into the Path of Al Aqsha",
    "pemateri": "Ustadzah Idzni Fitri",
    "lokasi": "Masjid Raya Al Muttaqin",
@@ -5658,6 +5675,92 @@
    "confidence": "sedang",
    "id": "ag_2d262a2543",
    "pertama_terlihat": "2026-11-19"
+  },
+  {
+   "judul": "BAMUS (Berkisah Anak Muslim) 2026: Seeds of Kindness",
+   "pemateri": "Kak Yogi Kusprayogi, M.Psi., Psikolog",
+   "lokasi": "Masjid Pogung Dalangan",
+   "alamat": "",
+   "kota": "Yogyakarta",
+   "tanggal": "2026-11-29",
+   "mulai": "08:00",
+   "selesai": "",
+   "kategori": "Kajian Anak",
+   "deskripsi": "Berkisah anak muslim, gratis dan terbuka untuk umum; diselenggarakan Pogung Islamic Fair & MPD Peduli.",
+   "online": false,
+   "tautan": "https://s.id/BAMUS2026",
+   "sumber": [
+    "https://t.me/masjidpogungdalangan/12352"
+   ],
+   "terakhir_terlihat": "2026-11-19",
+   "confidence": "tinggi",
+   "id": "ag_fc33ed02d1",
+   "pertama_terlihat": "2026-11-23"
+  },
+  {
+   "judul": "Daurah Fikih Intensif Umdatul Ahkam: Hadis-Hadis Landasan Ahli Fikih",
+   "pemateri": "Ustadz Dzulqarnain M. Sunusi",
+   "lokasi": "Masjid As-Sunnah Makassar",
+   "alamat": "Jl. Baji Rupa No. 8 Makassar",
+   "kota": "Makassar",
+   "tanggal": "2026-11-29",
+   "mulai": "10:00",
+   "selesai": "21:00",
+   "kategori": "Dauroh",
+   "deskripsi": "Daurah 25-30 November 2026, 4 sesi tiap hari (WITA): 10.00-11.50, 12.20-13.20, 16.00-18.00, 19.00-21.00; gratis, terbuka untuk umum.",
+   "online": false,
+   "tautan": "https://markazdakwah.or.id/daftar-daurah-umdatulahkam",
+   "sumber": [
+    "https://t.me/passunnahmks/4972",
+    "https://t.me/radioannashihah/6761"
+   ],
+   "terakhir_terlihat": "2026-11-22",
+   "confidence": "tinggi",
+   "id": "ag_0c27eb225e",
+   "pertama_terlihat": "2026-11-23"
+  },
+  {
+   "judul": "Daurah Fikih Intensif Umdatul Ahkam: Hadis-Hadis Landasan Ahli Fikih",
+   "pemateri": "Ustadz Dzulqarnain M. Sunusi",
+   "lokasi": "Masjid As-Sunnah Makassar",
+   "alamat": "Jl. Baji Rupa No. 8 Makassar",
+   "kota": "Makassar",
+   "tanggal": "2026-11-30",
+   "mulai": "10:00",
+   "selesai": "21:00",
+   "kategori": "Dauroh",
+   "deskripsi": "Daurah 25-30 November 2026, 4 sesi tiap hari (WITA): 10.00-11.50, 12.20-13.20, 16.00-18.00, 19.00-21.00; gratis, terbuka untuk umum.",
+   "online": false,
+   "tautan": "https://markazdakwah.or.id/daftar-daurah-umdatulahkam",
+   "sumber": [
+    "https://t.me/passunnahmks/4972",
+    "https://t.me/radioannashihah/6761"
+   ],
+   "terakhir_terlihat": "2026-11-22",
+   "confidence": "tinggi",
+   "id": "ag_9d7de5eca7",
+   "pertama_terlihat": "2026-11-23"
+  },
+  {
+   "judul": "Dauroh Tauhid: 4 Kaedah Penting Seputar Tauhid & Syirik (Kitab Qawaidul Arba')",
+   "pemateri": "Ustadz Muhammad Ihsan, S.Ud.",
+   "lokasi": "Masjid Pogung Dalangan",
+   "alamat": "",
+   "kota": "Yogyakarta",
+   "tanggal": "2026-12-12",
+   "mulai": "07:30",
+   "selesai": "14:30",
+   "kategori": "Dauroh",
+   "deskripsi": "Umum (ikhwan & akhawat), kuota 300 orang, offline di Masjid Pogung Dalangan atau online via Zoom; pendaftaran ditutup 10 Desember 2026.",
+   "online": false,
+   "tautan": "https://daftarsakinah.com",
+   "sumber": [
+    "https://t.me/masjidpogungdalangan/12366"
+   ],
+   "terakhir_terlihat": "2026-11-21",
+   "confidence": "tinggi",
+   "id": "ag_2d6077ec51",
+   "pertama_terlihat": "2026-11-23"
   }
  ]
 }
