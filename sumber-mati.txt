@@ -64,3 +64,5 @@ https://masjidjogokariyan.com — 523 (origin tidak terjangkau), dicoba 2x (2026
 https://t.me/s/masjidjogokariyan — hidup tapi post terakhir 2024-01-15, tidak ada jadwal baru (2026-11-23), tidak perlu dicek ulang sampai 2026-12-23
 https://masjidnurulashri.com — hidup, tapi hanya donasi/kelas tahsin, tanpa jadwal kajian berhari+jam (2026-11-23), tidak perlu dicek ulang sampai 2026-12-23
 https://muslimah.or.id/jadwal-kajian-rutin dan https://radiomuslim.com/hadirilah-kembali-kajian-rutin-pekanan/ — 403 Forbidden (crawler diblokir), entri terkait tidak bisa diverifikasi ulang (2026-11-23), jangan coba lagi sampai 2026-12-23
+https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square — hidup, tapi "Jadwal Kajian Pekanan" terbaru yang tampil bertanggal 12–18 Okt 2026 (jadwal satu pekan, berubah-ubah); tidak diambil sebagai rutin (2026-11-24), tidak perlu dicek ulang sampai 2026-12-24
+https://tarbiyahsunnah.com — koneksi putus (HTTP/2 PROTOCOL_ERROR) juga di beranda (2026-11-24); 4 entri Bandung dari sini (MIMBA TV, Al-Ukhuwwah) tidak terverifikasi ulang sejak 2026-11-06, jangan coba lagi sampai 2026-12-24
