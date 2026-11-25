@@ -1,6 +1,6 @@
 {
  "kota": "Bogor",
- "dicek": "2026-11-19",
+ "dicek": "2026-11-25",
  "kajian": [
   {
    "judul": "Kajian Rutin Ahad Malam - Kitab Firqotun Najiyah",
@@ -166,10 +166,12 @@
    "selesai": "11:00",
    "kategori": "Kajian Kitab",
    "sumber": [
+    "https://t.me/s/jadwalkajianID/386375",
+    "https://t.me/s/jadwalkajianID/386412",
     "https://t.me/s/jadwalkajianID/384394",
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-11-10",
+   "terakhir_terlihat": "2026-11-25",
    "confidence": "sedang",
    "judul": "Kajian Rutin Rabu Pagi - Fikih Asma'ul Husna",
    "lokasi": "Masjid Ad Daulah",
@@ -207,9 +209,10 @@
    "kategori": "Kajian Kitab",
    "deskripsi": "Kajian rutin Syarah Hadits Arbain An-Nawawi, Senin 08.00-09.30 WIB (belum pasti tiap pekan).",
    "sumber": [
+    "https://t.me/s/jadwalkajianID/386150",
     "https://t.me/s/jadwalkajianID/384201"
    ],
-   "terakhir_terlihat": "2026-11-08",
+   "terakhir_terlihat": "2026-11-22",
    "confidence": "rendah"
   },
   {
@@ -224,10 +227,11 @@
    "kategori": "Kajian Kitab",
    "deskripsi": "Kajian rutin untuk ikhwan & akhwat, Ahad 09.00 s/d selesai; terlihat dua pekan berturut-turut (8 & 15 Nov 2026).",
    "sumber": [
+    "https://t.me/s/jadwalkajianID/386001",
     "https://t.me/s/jadwalkajianID/385020",
     "https://t.me/s/jadwalkajianID/384044"
    ],
-   "terakhir_terlihat": "2026-11-14",
+   "terakhir_terlihat": "2026-11-21",
    "confidence": "sedang"
   },
   {
@@ -246,140 +250,153 @@
    ],
    "terakhir_terlihat": "2026-11-15",
    "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Rutin Rabu Malam - Kitab Ushul Tsalatsah",
+   "pemateri": "Ustadz Sidqi Kamal Zimah, Lc",
+   "lokasi": "Masjid Ibadurrahman (PonPes Aladzievie)",
+   "alamat": "Jl. Letkol Atang Sanjaya, Pasirgaok, Kec. Ranca Bungur, Kab. Bogor",
+   "kota": "Bogor",
+   "hari": 3,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Aqidah",
+   "deskripsi": "Ba'da Maghrib – selesai, tercantum 'setiap Rabu' di rekap harian.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID/386412"
+   ],
+   "terakhir_terlihat": "2026-11-25",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Rutin Senin Malam - Kitab Ushul as-Sunnah (Khusus Ikhwan)",
+   "pemateri": "Ustadz Abu Abdillah Kholidin, M.Pd",
+   "lokasi": "Masjid At Tauhid Cibinong",
+   "alamat": "Jl. Pajeleran Gunung, Kp. Kranji, Sukahati, Cibinong, Kab. Bogor",
+   "kota": "Bogor",
+   "hari": 1,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Aqidah",
+   "deskripsi": "Ba'da Maghrib – selesai, 'setiap Senin & Rabu', khusus ikhwan.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID/386413"
+   ],
+   "terakhir_terlihat": "2026-11-25",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Rutin Rabu Malam - Kitab Ushul as-Sunnah (Khusus Ikhwan)",
+   "pemateri": "Ustadz Abu Abdillah Kholidin, M.Pd",
+   "lokasi": "Masjid At Tauhid Cibinong",
+   "alamat": "Jl. Pajeleran Gunung, Kp. Kranji, Sukahati, Cibinong, Kab. Bogor",
+   "kota": "Bogor",
+   "hari": 3,
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Aqidah",
+   "deskripsi": "Ba'da Maghrib – selesai, 'setiap Senin & Rabu', khusus ikhwan.",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID/386413"
+   ],
+   "terakhir_terlihat": "2026-11-25",
+   "confidence": "sedang"
   }
  ],
  "agenda": [
   {
-   "judul": "Kajian Ilmiah Muslimah MT Al-Karimah - Dosa Besar dalam Hal Ibadah",
-   "pemateri": "Ustadz Sulam Mustareja",
-   "lokasi": "Masjid Mu'adz bin Jabal",
-   "alamat": "Jl. Kavling Bulog, Bojong Kulur, Gunung Putri, Kab. Bogor",
+   "judul": "Kajian Khusus Akhwat - Bagaimana Proses Kesedihan Merasuk Jiwa?",
+   "pemateri": "Ustadz Abdurrahman Dani",
+   "lokasi": "Musholla Al-Ikhlash Emerald Land Cibinong",
+   "alamat": "Emerald Land Cibinong, Jl. Tegar Beriman, Sukahati, Kec. Cibinong, Kab. Bogor",
    "kota": "Bogor",
-   "tanggal": "2026-11-19",
-   "mulai": "09:00",
-   "selesai": "11:00",
-   "kategori": "Kajian Muslimah",
-   "deskripsi": "Bimbingan Islam: Dosa Besar dalam Hal Ibadah.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID/385507"
-   ],
-   "terakhir_terlihat": "2026-11-18",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Panduan Keluarga Sakinah (Bab 6)",
-   "pemateri": "Ustadz Ali Hasan Bawazier",
-   "lokasi": "Masjid Al Furqon Vila Nusa Indah Blok Z",
-   "alamat": "Vila Nusa Indah Blok Z, Bojongkulur, Gunung Putri",
-   "kota": "Bogor",
-   "tanggal": "2026-11-19",
-   "mulai": "09:30",
-   "selesai": "",
-   "kategori": "Kajian Kitab",
-   "deskripsi": "Kajian ikhwan & akhwat untuk umum; Panduan Keluarga Sakinah Bab 6.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID/385509"
-   ],
-   "terakhir_terlihat": "2026-11-18",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Rutin Kamis ke-3 MT Lin-Nisaa - Tafsir Ayat-Ayat tentang Wanita",
-   "pemateri": "Ustadzah Ummu Ihsan Choiriyah",
-   "lokasi": "Baitul Qur'an Lin-Nisaa",
-   "alamat": "Nirwana Estate, Cikaret, Cibinong",
-   "kota": "Bogor",
-   "tanggal": "2026-11-19",
-   "mulai": "09:00",
-   "selesai": "10:45",
-   "kategori": "Kajian Muslimah",
-   "deskripsi": "Khusus muslimah; Surah An-Nisaa ayat 97-100 (wajibnya hijrah bagi mukminin dan mukminah).",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID/385513"
-   ],
-   "terakhir_terlihat": "2026-11-18",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Kamis Pagi Pekan Ketiga - Kitab Al Kabair",
-   "pemateri": "Ustadz Sofyan Chalid Ruray, Lc",
-   "lokasi": "Masjid Shafa Marwah",
-   "alamat": "Jl. Letda Nasir No.31, Nagrak, Kec. Gunung Putri, Kabupaten Bogor",
-   "kota": "Bogor",
-   "tanggal": "2026-11-19",
-   "mulai": "09:00",
-   "selesai": "11:00",
-   "kategori": "Kajian Kitab",
-   "deskripsi": "Kajian umum ikhwan & akhwat; Al Kabair bab 22-24.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID/385516"
-   ],
-   "terakhir_terlihat": "2026-11-18",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian Rutin MUNIIRA: Fiqih Wanita (Pertemuan ke-13)",
-   "pemateri": "Ustadzah Ummu Ihsan Choiriyah",
-   "lokasi": "MUNIIRA Office - Halal Destination",
-   "alamat": "Jl. Alternatif Cibubur, Cileungsi, Kabupaten Bogor 16820",
-   "kota": "Bogor",
-   "tanggal": "2026-11-19",
-   "mulai": "13:00",
-   "selesai": "",
-   "kategori": "Kajian Muslimah",
-   "deskripsi": "Kajian rutin serial Fiqih Wanita, khusus muslimah.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/s/jadwalkajianID/385515"
-   ],
-   "terakhir_terlihat": "2026-11-18",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Tadabbur (Ku Awali dengan Bismillah) - MT Taqwa Serenity",
-   "pemateri": "Ustadz Hisyam Mukhlas Arruyani",
-   "lokasi": "Masjid Alumni IPB",
-   "alamat": "Jl. Cidangiang, Baranangsiang, Kota Bogor",
-   "kota": "Bogor",
-   "tanggal": "2026-11-20",
-   "mulai": "07:00",
-   "selesai": "10:30",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian umum ikhwan & akhwat.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://majlis.id/events/2933d3fa-8a4e-41b5-b100-1b7b73388517"
-   ],
-   "terakhir_terlihat": "2026-11-19",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "SAM Day Art Space: Voices of Liberation - Into the Path of Al Aqsha",
-   "pemateri": "Ustadzah Idzni Fitri",
-   "lokasi": "Masjid Raya Al Muttaqin",
-   "alamat": "Jalan Achmad Adnawijaya 112, Tegal Gundil, Bogor Utara, Kota Bogor",
-   "kota": "Bogor",
-   "tanggal": "2026-11-29",
+   "tanggal": "2026-11-25",
    "mulai": "08:00",
-   "selesai": "18:00",
+   "selesai": "09:30",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Acara SAM Day Art Space, kajian umum ikhwan & akhwat.",
+   "deskripsi": "Khusus akhwat, 08.00–09.30 WIB.",
    "online": false,
-   "tautan": "https://bit.ly/SAMDAYArtSpace",
+   "tautan": "",
    "sumber": [
-    "https://majlis.id/events/c0dac8ab-7455-4591-b6e6-3287f17a18ce"
+    "https://t.me/s/jadwalkajianID/386412"
    ],
-   "terakhir_terlihat": "2026-11-19",
+   "terakhir_terlihat": "2026-11-25",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Keluarga Imran: Rahasia Melahirkan Generasi yang Dekat dengan Allah Ta'ala",
+   "pemateri": "Ustadz Ahmad Isrofiel Mardlatillah, M.A",
+   "lokasi": "Masjid Darussalam Kota Wisata",
+   "alamat": "",
+   "kota": "Bogor",
+   "tanggal": "2026-11-25",
+   "mulai": "09:00",
+   "selesai": "",
+   "kategori": "Kajian Muslimah",
+   "deskripsi": "Tercantum di majlis.id dengan label 'Kajian Muslimah Rabu'.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://majlis.id/events/03098051-ec8a-40ef-99ef-67b7ac91c9db"
+   ],
+   "terakhir_terlihat": "2026-11-25",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Tafsir Al-Qur'an QS An-Naba (Khusus Akhwat)",
+   "pemateri": "Ustadz Masykur Abu Mawaddah",
+   "lokasi": "Masjid Al Istiqomah Taman Yasmin",
+   "alamat": "Taman Yasmin Sektor 3, Jl. Seroja Raya No.10, Curugmekar, Kec. Bogor Barat, Kota Bogor",
+   "kota": "Bogor",
+   "tanggal": "2026-11-25",
+   "mulai": "09:30",
+   "selesai": "11:00",
+   "kategori": "Tafsir",
+   "deskripsi": "Khusus akhwat, 09.30–11.00 WIB.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID/386412"
+   ],
+   "terakhir_terlihat": "2026-11-25",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Kitab Tazkiyatun Nufus - Pembagian Hati",
+   "pemateri": "Ustadz Adnan Degel",
+   "lokasi": "Masjid Al Istiqomah Taman Yasmin",
+   "alamat": "Taman Yasmin Sektor 3, Jl. Seroja Raya No.10, Curugmekar, Kec. Bogor Barat, Kota Bogor",
+   "kota": "Bogor",
+   "tanggal": "2026-11-25",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Tazkiyatun Nufus",
+   "deskripsi": "Ba'da Maghrib – selesai.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID/386412"
+   ],
+   "terakhir_terlihat": "2026-11-25",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Kitab Al Hidayah Fii Aqidah",
+   "pemateri": "Ustadz Muhammad Alpen Hidayatullah, Lc",
+   "lokasi": "Masjid Al Ikhlas Puri Nirwana 2",
+   "alamat": "Perumahan Puri Nirwana 2, Harapan Jaya, Kec. Cibinong, Kab. Bogor",
+   "kota": "Bogor",
+   "tanggal": "2026-11-25",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Aqidah",
+   "deskripsi": "Ba'da Maghrib – selesai.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://t.me/s/jadwalkajianID/386412"
+   ],
+   "terakhir_terlihat": "2026-11-25",
    "confidence": "sedang"
   }
  ]
