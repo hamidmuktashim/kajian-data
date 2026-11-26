@@ -1,6 +1,6 @@
 {
  "kota": "Surabaya",
- "dicek": "2026-11-20",
+ "dicek": "2026-11-26",
  "kajian": [
   {
    "judul": "Kitab Bulughul Maram",
@@ -14,9 +14,10 @@
    "kategori": "Fiqih",
    "deskripsi": "Kajian rutin setiap Ahad ba'da Subuh, Kitab Bulughul Maram.",
    "sumber": [
+    "https://t.me/jadwalkajianID/385921",
     "https://t.me/s/surabayamengaji"
    ],
-   "terakhir_terlihat": "2026-10-27",
+   "terakhir_terlihat": "2026-11-21",
    "confidence": "sedang"
   },
   {
@@ -31,10 +32,11 @@
    "kategori": "Aqidah",
    "deskripsi": "Rutin setiap hari Selasa, ba'da Maghrib (pertemuan ke-64 pada 17 Nov 2026).",
    "sumber": [
+    "https://t.me/surabayamengaji/44987",
     "https://t.me/surabayamengaji/44857",
     "https://t.me/s/surabayamengaji"
    ],
-   "terakhir_terlihat": "2026-11-16",
+   "terakhir_terlihat": "2026-11-23",
    "confidence": "sedang"
   },
   {
@@ -49,31 +51,52 @@
    "kategori": "Kajian Muslimah",
    "deskripsi": "Rutin setiap Ahad sore khusus muslimah, diselenggarakan Surabaya Mengaji (hadits ke-48 pada 15 Nov 2026).",
    "sumber": [
+    "https://t.me/surabayamengaji/44949",
     "https://t.me/surabayamengaji/44836",
     "https://t.me/s/surabayamengaji"
    ],
-   "terakhir_terlihat": "2026-11-14",
+   "terakhir_terlihat": "2026-11-21",
    "confidence": "sedang"
   }
  ],
  "agenda": [
   {
-   "judul": "40 Hadits Tentang Tarbiyah & Manhaj (Pertemuan ke-12)",
-   "pemateri": "Ustadz Dr. Fadlan Fahamsyah, Lc., M.H.I.",
-   "lokasi": "Masjid al-Islamiyyah",
-   "alamat": "Jl. Petemon Sidomulyo IV No. 113 (Jl. Pacuan Kuda), Surabaya",
+   "judul": "Kaya Tapi Bodoh (Safari Dakwah Jawa Timur)",
+   "pemateri": "Ustadz Muflih Safitra, M.Sc.",
+   "lokasi": "Masjid Muhajirin, Royal Residence",
+   "alamat": "",
    "kota": "Surabaya",
-   "tanggal": "2026-11-22",
-   "mulai": "10:00",
+   "tanggal": "2026-11-28",
+   "mulai": "05:00",
    "selesai": "",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian rutin Surabaya Mengaji setiap Ahad ke-4, sampai menjelang Dhuhur; gratis, terbuka untuk umum muslim dan muslimah.",
+   "deskripsi": "Ba'da Subuh; bagian dari rangkaian Safari Dakwah Jawa Timur.",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/surabayamengaji/44902"
+    "https://t.me/jadwalkajianID/386428"
    ],
-   "terakhir_terlihat": "2026-11-18",
+   "terakhir_terlihat": "2026-11-25",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Anak: Anak-anak Shalih di Sekitar Nabi (Bag. 11) — Sa'id bin al Ash",
+   "pemateri": "Ustadz Zakariya Rizky, S.Ag., Lc.",
+   "lokasi": "Masjid Ibrahim Bin Muhammad",
+   "alamat": "Jl. Semolowaru Bahari II No. 9, Kompleks Rumdis TNI AL Semolowaru Bahari, Surabaya",
+   "kota": "Surabaya",
+   "tanggal": "2026-12-06",
+   "mulai": "08:00",
+   "selesai": "",
+   "kategori": "Kajian Anak",
+   "deskripsi": "Kajian anak rutin Ahad pertama (usia 4–10 tahun) oleh MT Yaa Bunayya bersama Surabaya Mengaji.",
+   "online": false,
+   "tautan": "https://ysmo.link/kajiananak67",
+   "sumber": [
+    "https://t.me/surabayamengaji/45043",
+    "https://t.me/s/surabayamengaji"
+   ],
+   "terakhir_terlihat": "2026-11-25",
    "confidence": "tinggi"
   }
  ]

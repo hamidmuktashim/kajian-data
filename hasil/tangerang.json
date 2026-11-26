@@ -1,6 +1,6 @@
 {
  "kota": "Tangerang",
- "dicek": "2026-11-20",
+ "dicek": "2026-11-26",
  "kajian": [
   {
    "judul": "Tanbihat 'ala Ahkamin Takhtashshu Bil Mu'minat",
@@ -82,10 +82,11 @@
    "kategori": "Fiqih",
    "deskripsi": "Kajian kitab fiqih setiap Selasa ba'da sholat Maghrib (diumumkan lagi untuk 17 Nov 2026).",
    "sumber": [
+    "https://t.me/jadwalkajianID/386238",
     "https://t.me/jadwalkajianID/385259",
     "https://t.me/s/jadwalkajianID"
    ],
-   "terakhir_terlihat": "2026-11-16",
+   "terakhir_terlihat": "2026-11-23",
    "confidence": "sedang"
   },
   {
@@ -134,12 +135,12 @@
    "mulai": "18:15",
    "selesai": "",
    "kategori": "Aqidah",
-   "deskripsi": "Kajian rutin untuk umum, Senin ba'da Maghrib (pertemuan ke-65 pada 16 Nov 2026).",
+   "deskripsi": "Ba'da Maghrib; perlu dicek ulang — rekap Senin 23 Nov 2026 mencantumkan pemateri dan kitab lain (Fikih Asmaul Husna) di slot ini.",
    "sumber": [
     "https://t.me/jadwalkajianID/385166"
    ],
    "terakhir_terlihat": "2026-11-15",
-   "confidence": "sedang"
+   "confidence": "rendah"
   },
   {
    "judul": "Hadits Arba'in an-Nawawi",
@@ -311,178 +312,253 @@
    ],
    "terakhir_terlihat": "2026-11-19",
    "confidence": "sedang"
+  },
+  {
+   "judul": "Kajian Rutin Kitab 25 Dosa Syirik",
+   "pemateri": "Ustadz Sofyan Chalid bin Idhan Ruray, Lc.",
+   "lokasi": "Masjid Jami' Utsman bin Affan",
+   "alamat": "Jl. Murjaya, Jurangmangu Barat, Pd. Aren, Tangerang Selatan",
+   "kota": "Tangerang",
+   "hari": 3,
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Diumumkan sebagai \"Info Kajian Rutin\" (pertemuan ke-4 pada Rabu 25 Nov 2026); frekuensi pekanan tidak disebut.",
+   "sumber": [
+    "https://t.me/jadwalkajianID/386355",
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-24",
+   "confidence": "rendah"
+  },
+  {
+   "judul": "Kajian Rutin Kitab Tafsir Al-Qur'an",
+   "pemateri": "Ustadz Abu Yahya Badrusalam, Lc.",
+   "lokasi": "Masjid Al-Barkah Sawah Baru",
+   "alamat": "Jl. Merpati II, Sawah Baru, Kec. Ciputat, Kota Tangerang Selatan",
+   "kota": "Tangerang",
+   "hari": 3,
+   "mulai": "09:00",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Diumumkan sebagai \"Kajian Rutin Kitab Tafsir Al-Qur'an\" (Rabu 25 Nov 2026, Surah Al-Muthaffifin ayat 18 dst.); frekuensi pekanan tidak disebut.",
+   "sumber": [
+    "https://t.me/jadwalkajianID/386357",
+    "https://t.me/s/jadwalkajianID"
+   ],
+   "terakhir_terlihat": "2026-11-24",
+   "confidence": "rendah"
+  },
+  {
+   "judul": "Ngaji Kitab Rutin: 1000 Amalan Sunnah Dalam Sehari Semalam",
+   "pemateri": "Ustadz Auzan Sulhi bin Seff, Lc",
+   "lokasi": "Studio Ammar Tour",
+   "alamat": "Paku Jaya, Serpong Utara, Tangerang Selatan",
+   "kota": "Tangerang",
+   "hari": 5,
+   "mulai": "09:30",
+   "selesai": "",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Diumumkan sebagai \"Ngaji Kitab Rutin\" (pertemuan kesembilan pada Jum'at 20 Nov 2026); frekuensi pekanan tidak disebut.",
+   "sumber": [
+    "https://t.me/jadwalkajianID/385676"
+   ],
+   "terakhir_terlihat": "2026-11-19",
+   "confidence": "rendah"
   }
  ],
  "agenda": [
   {
-   "judul": "Kenalilah Musuhmu Part 8",
-   "pemateri": "Ustadz Mufy Hanif Thalib, Lc.",
-   "lokasi": "Masjid Al-Ikhlas Karang Tengah Permai",
-   "alamat": "Komplek Karang Tengah Permai, Ciledug, Tangerang",
-   "kota": "Tangerang",
-   "tanggal": "2026-11-20",
-   "mulai": "18:15",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian rutin pekan ke-3, Jum'at ba'da Maghrib.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385679"
-   ],
-   "terakhir_terlihat": "2026-11-19",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kebiasaan Kecil Berdampak Besar",
-   "pemateri": "Ustadz Ahmad Ubaidillah Nasiden, Lc.",
-   "lokasi": "Masjid Al Muhajirin Bojongrenged",
+   "judul": "Cantik yang Tak Menua",
+   "pemateri": "Ustadz Abu Salma Muhammad",
+   "lokasi": "Masjid Saifillah, Cluster Sevilla, BSD",
    "alamat": "",
    "kota": "Tangerang",
-   "tanggal": "2026-11-20",
-   "mulai": "18:15",
-   "selesai": "",
+   "tanggal": "2026-11-26",
+   "mulai": "08:15",
+   "selesai": "10:00",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Rangkaian safari dakwah 20–23 November 2026; ba'da Maghrib.",
+   "deskripsi": "Kajian offline ummahat MT As Sakinah, terbuka untuk umum.",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/jadwalkajianID/385658"
+    "https://t.me/jadwalkajianID/386475",
+    "https://kajiansunnah.info/kajian/cantik-yang-tak-menua-merawat-keindahan-akhlak-lisan-dan-hati-saat-usia-mulai-bertambah-ustadz-abu-salma-muhammad/"
    ],
-   "terakhir_terlihat": "2026-11-19",
+   "terakhir_terlihat": "2026-11-26",
    "confidence": "sedang"
   },
   {
-   "judul": "Bekal Sebelum Pulang",
-   "pemateri": "Ustadz Ahmad Ubaidillah Nasiden, Lc.",
-   "lokasi": "Masjid Annuur Pramita",
-   "alamat": "Binong, Kab. Tangerang",
+   "judul": "Adab Terhadap Allah (Kajian Rutin Kitab Minhajul Muslim)",
+   "pemateri": "Ustadz DR. (Hon.) Fachrudin Nu'man, Lc., M.Pd.",
+   "lokasi": "Musholah Baiti Jannati",
+   "alamat": "Cluster Baiti Jannati - Islamic Village",
    "kota": "Tangerang",
-   "tanggal": "2026-11-21",
-   "mulai": "05:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Rangkaian safari dakwah 20–23 November 2026; ba'da Subuh.",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385658"
-   ],
-   "terakhir_terlihat": "2026-11-19",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Teman Duduk",
-   "pemateri": "Ustadz Ahmad Ubaidillah Nasiden, Lc.",
-   "lokasi": "Masjid Baiturrahman Legoso",
-   "alamat": "Legoso, Ciputat",
-   "kota": "Tangerang",
-   "tanggal": "2026-11-21",
+   "tanggal": "2026-11-26",
    "mulai": "09:00",
    "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Rangkaian safari dakwah 20–23 November 2026.",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Kajian rutin Kitab Minhajul Muslim, bab Adab Terhadap Allah.",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/jadwalkajianID/385658"
+    "https://t.me/jadwalkajianID/386476",
+    "https://kajiansunnah.info/kajian/adab-terhadap-allah-bab-2-adab-ustadz-fachrudin-numan/"
    ],
-   "terakhir_terlihat": "2026-11-19",
+   "terakhir_terlihat": "2026-11-26",
    "confidence": "sedang"
   },
   {
-   "judul": "Cuplikan Kehidupan Abu Bakar",
-   "pemateri": "Ustadz Ahmad Ubaidillah Nasiden, Lc.",
-   "lokasi": "Masjid Utsman bin Affan",
-   "alamat": "Pd. Aren, Tangerang Selatan",
+   "judul": "Muslim Berkelas Mulia di Mata Allah, Bukan di Mata Manusia",
+   "pemateri": "Ustadz Syahrul Fatwa, Lc., M.A.",
+   "lokasi": "Masjid Al Ukhuwah BSD",
+   "alamat": "Sampora, Cisauk",
    "kota": "Tangerang",
-   "tanggal": "2026-11-21",
+   "tanggal": "2026-11-26",
+   "mulai": "09:30",
+   "selesai": "11:00",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian Kamis Dhuha terbuka untuk ikhwan dan akhwat.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://kajiansunnah.info/kajian/muslim-berkelas-mulia-di-mata-allah-%ef%b7%bb-bukan-di-mata-manusia-ustadz-syahrul-fatwa-lc-m-a/",
+    "https://t.me/jadwalkajianID/386473"
+   ],
+   "terakhir_terlihat": "2026-11-26",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Penyembelihan Membawa Kepada Kesyirikan",
+   "pemateri": "Ustadz Mizan Qudsiyah",
+   "lokasi": "Masjid An Naba Graha Bintaro",
+   "alamat": "Sudimara Pinang, Kec. Pinang, Kota Tangerang",
+   "kota": "Tangerang",
+   "tanggal": "2026-11-26",
    "mulai": "18:15",
    "selesai": "",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Rangkaian safari dakwah 20–23 November 2026; ba'da Maghrib.",
+   "deskripsi": "Ba'da Maghrib – selesai.",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/jadwalkajianID/385658"
+    "https://kajiansunnah.info/kajian/penyembelihan-membawa-kepada-kesyirikan-ustadz-mizan-qudsiah-lc-ma/"
    ],
-   "terakhir_terlihat": "2026-11-19",
+   "terakhir_terlihat": "2026-11-26",
    "confidence": "sedang"
   },
   {
-   "judul": "10 Tips agar Sholat Khusyu",
-   "pemateri": "Ustadz Ahmad Ubaidillah Nasiden, Lc.",
-   "lokasi": "Masjid Ash Shaff Emerald",
-   "alamat": "Bintaro, Tangerang Selatan",
+   "judul": "Kitab Khulashah Ta'zhim Al-'Ilmi (Memuliakan Ilmu), Pertemuan ke-103",
+   "pemateri": "Ustadz Aldhi Ferdian",
+   "lokasi": "Masjid Al Jihad Paninggilin Utara",
+   "alamat": "",
    "kota": "Tangerang",
-   "tanggal": "2026-11-22",
-   "mulai": "05:00",
+   "tanggal": "2026-11-26",
+   "mulai": "18:15",
    "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Rangkaian safari dakwah 20–23 November 2026; ba'da Subuh.",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Ba'da Maghrib – selesai.",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/jadwalkajianID/385658"
+    "https://kajiansunnah.info/kajian/kitab-khulashah-tazhim-al-ilmi-memuliakan-ilmu-pertemuan-ke-103-ustadz-aldhi-ferdian-lc/"
    ],
-   "terakhir_terlihat": "2026-11-19",
+   "terakhir_terlihat": "2026-11-26",
    "confidence": "sedang"
   },
   {
-   "judul": "Cara Muslim Menyikapi Berita",
-   "pemateri": "Ustadz Ahmad Ubaidillah Nasiden, Lc.",
-   "lokasi": "Masjid Ash Sholihin",
-   "alamat": "Kutabumi, Kab. Tangerang",
+   "judul": "Suami Sejati & Kesalahan Suami",
+   "pemateri": "Ustadz Firanda Andirja",
+   "lokasi": "Masjid An Naba Graha Bintaro",
+   "alamat": "Sudimara Pinang, Kec. Pinang, Kota Tangerang",
    "kota": "Tangerang",
-   "tanggal": "2026-11-22",
-   "mulai": "09:00",
+   "tanggal": "2026-11-28",
+   "mulai": "13:00",
+   "selesai": "17:00",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Kajian Sabtu 13.00–17.00 WIB.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://kajiansunnah.info/kajian/suami-sejati-kesalahan-suami-ustadz-dr-firanda-andirja-m-a/"
+   ],
+   "terakhir_terlihat": "2026-11-26",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Al Fiqh Al Muyassar – Bab Mandi (lanjutan) dan Bab Tayamum",
+   "pemateri": "Ustadz Rosihan Anwardy",
+   "lokasi": "Masjid Ulul Albab",
+   "alamat": "Griya Loka, Rawabuntu",
+   "kota": "Tangerang",
+   "tanggal": "2026-11-28",
+   "mulai": "18:15",
    "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Rangkaian safari dakwah 20–23 November 2026.",
+   "kategori": "Kajian Kitab",
+   "deskripsi": "Ba'da Maghrib – selesai.",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/jadwalkajianID/385658"
+    "https://kajiansunnah.info/kajian/al-fiqh-al-muyassar-bab-mandi-lanjutan-dan-bab-tayamum-ustadz-rosihan-anwardy-lc/"
    ],
-   "terakhir_terlihat": "2026-11-19",
+   "terakhir_terlihat": "2026-11-26",
    "confidence": "sedang"
   },
   {
-   "judul": "Psikologi Uang",
-   "pemateri": "Ustadz Ahmad Ubaidillah Nasiden, Lc.",
-   "lokasi": "Masjid Abu Bakar Ash-Shiddiq",
-   "alamat": "Ciledug, Tangerang",
+   "judul": "Faedah-Faedah dari Hadits Nabi (Bag. 11): Al-Amru bil Ma'ruf wan Nahyu 'anil Munkar",
+   "pemateri": "Ustadz Ruslan Nuryadin",
+   "lokasi": "Masjid Al Hijrah Flamine",
+   "alamat": "Parigi, Pondok Aren",
    "kota": "Tangerang",
-   "tanggal": "2026-11-22",
+   "tanggal": "2026-11-29",
    "mulai": "18:15",
    "selesai": "",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Rangkaian safari dakwah 20–23 November 2026; ba'da Maghrib.",
+   "deskripsi": "Ba'da Maghrib – selesai.",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/jadwalkajianID/385658"
+    "https://kajiansunnah.info/kajian/faedah-faedah-dari-hadist-nabi-bag-11-al-amru-bil-maruuf-wannahyu-anil-munkar-ustadz-ruslan-nuryadin-lc/"
    ],
-   "terakhir_terlihat": "2026-11-19",
+   "terakhir_terlihat": "2026-11-26",
    "confidence": "sedang"
   },
   {
-   "judul": "Karakteristik Dosa",
-   "pemateri": "Ustadz Ahmad Ubaidillah Nasiden, Lc.",
-   "lokasi": "Masjid Al Ikhlas Karang Tengah Permai",
-   "alamat": "Ciledug, Tangerang",
+   "judul": "Mutiara Nasihat Untuk Wanita Muslimah #18",
+   "pemateri": "Ustadz Farhan Abu Furaihan",
+   "lokasi": "Masjid Ash Shaff Emerald Bintaro",
+   "alamat": "Parigi, Pondok Aren",
    "kota": "Tangerang",
-   "tanggal": "2026-11-23",
-   "mulai": "18:15",
+   "tanggal": "2026-11-30",
+   "mulai": "09:30",
    "selesai": "",
    "kategori": "Kajian Tematik",
-   "deskripsi": "Rangkaian safari dakwah 20–23 November 2026; ba'da Maghrib.",
+   "deskripsi": "Senin 09.30 – selesai.",
    "online": false,
    "tautan": "",
    "sumber": [
-    "https://t.me/jadwalkajianID/385658"
+    "https://kajiansunnah.info/kajian/mutiara-nasihat-untuk-wanita-muslimah-18-ustadz-farhan-abu-furaihan/"
    ],
-   "terakhir_terlihat": "2026-11-19",
+   "terakhir_terlihat": "2026-11-26",
+   "confidence": "sedang"
+  },
+  {
+   "judul": "Kedudukan Sunnah dalam Islam",
+   "pemateri": "Ustadz Muhammad Nur Syamsul Qamar",
+   "lokasi": "Masjid Al Barkah Sawah Baru",
+   "alamat": "Ciputat",
+   "kota": "Tangerang",
+   "tanggal": "2026-12-05",
+   "mulai": "18:15",
+   "selesai": "",
+   "kategori": "Kajian Tematik",
+   "deskripsi": "Ba'da Maghrib – selesai.",
+   "online": false,
+   "tautan": "",
+   "sumber": [
+    "https://kajiansunnah.info/kajian/kedudukan-sunnah-dalam-islam-ustadz-muhammad-nur-syamsul-qamar-lc/"
+   ],
+   "terakhir_terlihat": "2026-11-26",
    "confidence": "sedang"
   }
  ]

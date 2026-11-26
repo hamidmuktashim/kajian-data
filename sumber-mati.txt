@@ -68,3 +68,8 @@ https://majlis.id/organizers/masjid-nurul%20iman%20blok%20m%20square — hidup, 
 https://tarbiyahsunnah.com — koneksi putus (HTTP/2 PROTOCOL_ERROR) juga di beranda (2026-11-24); 4 entri Bandung dari sini (MIMBA TV, Al-Ukhuwwah) tidak terverifikasi ulang sejak 2026-11-06, jangan coba lagi sampai 2026-12-24
 https://t.me/s/jadwalkajianID — hidup, tapi riwayat lewat `?before=` terputus di post 385506 (18 Nov 2026) lalu melompat ke arsip Juni 2021; hanya ±1 pekan terakhir yang bisa dibaca (2026-11-25)
 https://majlis.id/events — hidup, hanya memuat acara bertanggal (halaman 1 dari 4), tanpa penanda rutin mingguan (2026-11-25)
+https://jadwalkajian.com/jadwal-kajian/tangerang/ dan /surabaya/ — masih 404, dicoba lagi (2026-11-26), jangan coba lagi sampai 2026-12-26
+https://masjidrayabintarojaya.org — halaman verifikasi bot (tidak dilewati) (2026-11-26), jangan coba lagi sampai 2026-12-26
+https://masjidalfalah.or.id — hidup, tapi hanya menyebut "kajian rutin ba'da sholat" tanpa hari/jam; agenda terbaru 6 Nov 2026 (2026-11-26), tidak perlu dicek ulang sampai 2026-12-26
+https://www.its.ac.id/masjid-manarul-ilmi/?p=631 — hidup, "Ngaji Rutin bakda Shubuh" tapi jadwal per hari hanya berupa gambar; tidak diambil (2026-11-26), tidak perlu dicek ulang sampai 2026-12-26
+https://kajiansunnah.info — kini bisa diakses (tanpa verifikasi bot); memuat kajian bertanggal per kota Jabodetabek (/kota/kota-tangerang/, /kota/kota-tangerang-selatan/), cocok untuk agenda; tidak ada halaman Surabaya (404) (2026-11-26)
