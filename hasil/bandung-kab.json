@@ -1,6 +1,6 @@
 {
  "kota": "Bandung",
- "dicek": "2026-11-21",
+ "dicek": "2026-11-27",
  "kajian": [
   {
    "judul": "Kajian Kitab Syama'il Muhammadiyah",
@@ -118,7 +118,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-21",
+   "terakhir_terlihat": "2026-11-27",
    "confidence": "tinggi"
   },
   {
@@ -135,7 +135,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-21",
+   "terakhir_terlihat": "2026-11-27",
    "confidence": "tinggi"
   },
   {
@@ -152,7 +152,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-21",
+   "terakhir_terlihat": "2026-11-27",
    "confidence": "tinggi"
   },
   {
@@ -169,7 +169,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-21",
+   "terakhir_terlihat": "2026-11-27",
    "confidence": "tinggi"
   },
   {
@@ -186,7 +186,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-21",
+   "terakhir_terlihat": "2026-11-27",
    "confidence": "tinggi"
   },
   {
@@ -203,7 +203,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-21",
+   "terakhir_terlihat": "2026-11-27",
    "confidence": "tinggi"
   },
   {
@@ -220,7 +220,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-21",
+   "terakhir_terlihat": "2026-11-27",
    "confidence": "tinggi"
   },
   {
@@ -237,7 +237,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-21",
+   "terakhir_terlihat": "2026-11-27",
    "confidence": "tinggi"
   },
   {
@@ -254,7 +254,7 @@
    "sumber": [
     "https://www.alhijrahbandung.com/p/jadwal-kajian.html"
    ],
-   "terakhir_terlihat": "2026-11-21",
+   "terakhir_terlihat": "2026-11-27",
    "confidence": "tinggi"
   },
   {
@@ -330,44 +330,5 @@
    "confidence": "sedang"
   }
  ],
- "agenda": [
-  {
-   "judul": "Kajian Muslimah: Jangan Hiasi Lisanmu Dengan Dusta (Bab Kebohongan)",
-   "pemateri": "Ustadzah Elly Ummu Zulfa",
-   "lokasi": "Masjid Al-Barokah",
-   "alamat": "Perumahan Buah Batu Square, Bojongsoang (masuk kawasan Transmart Buah Batu)",
-   "kota": "Bandung",
-   "tanggal": "2026-11-21",
-   "mulai": "10:00",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "Kajian terbuka untuk umum, khusus muslimah (dari poster).",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385774"
-   ],
-   "terakhir_terlihat": "2026-11-20",
-   "confidence": "sedang"
-  },
-  {
-   "judul": "Kajian: Terburu-buru dalam Agama",
-   "pemateri": "Ustaz Isrun Abdurrahman Umar, Lc., M.A.",
-   "lokasi": "Masjid Assunnah Lembang",
-   "alamat": "",
-   "kota": "Bandung",
-   "tanggal": "2026-11-21",
-   "mulai": "18:20",
-   "selesai": "",
-   "kategori": "Kajian Tematik",
-   "deskripsi": "\"Ba'da Maghrib 18.20 WIB - Selesai\"; disiarkan langsung di YouTube masjidassunnahlembang (dari poster).",
-   "online": false,
-   "tautan": "",
-   "sumber": [
-    "https://t.me/jadwalkajianID/385764"
-   ],
-   "terakhir_terlihat": "2026-11-20",
-   "confidence": "sedang"
-  }
- ]
+ "agenda": []
 }

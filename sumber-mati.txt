@@ -73,3 +73,5 @@ https://masjidrayabintarojaya.org — halaman verifikasi bot (tidak dilewati) (2
 https://masjidalfalah.or.id — hidup, tapi hanya menyebut "kajian rutin ba'da sholat" tanpa hari/jam; agenda terbaru 6 Nov 2026 (2026-11-26), tidak perlu dicek ulang sampai 2026-12-26
 https://www.its.ac.id/masjid-manarul-ilmi/?p=631 — hidup, "Ngaji Rutin bakda Shubuh" tapi jadwal per hari hanya berupa gambar; tidak diambil (2026-11-26), tidak perlu dicek ulang sampai 2026-12-26
 https://kajiansunnah.info — kini bisa diakses (tanpa verifikasi bot); memuat kajian bertanggal per kota Jabodetabek (/kota/kota-tangerang/, /kota/kota-tangerang-selatan/), cocok untuk agenda; tidak ada halaman Surabaya (404) (2026-11-26)
+https://kajiansunnah.info/kota/kota-jakarta-pusat/ , /kota/kota-jakarta-utara/ , /kota/kota-bandung/ — 404 (2026-11-27); slug yang benar /kota/jakarta-pusat/ (hidup); tidak ada halaman Jakarta Utara/Bandung/Cimahi
+https://t.me/s/jadwalkajianID — hidup; post Bandung & Pasar Senen pekan ini hanya poster tanpa teks (tidak diambil); 14 halaman `?before=` hanya menjangkau 24–26 Nov 2026 (2026-11-27)
